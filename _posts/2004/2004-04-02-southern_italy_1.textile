@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Southern Italy & Sicily &mdash; April 2004"
+permalink: /archives/2004/04/southern_italy_1.html
+commentfile: 2004-04-02-southern_italy_1
+category: travel
+date: 2004-04-02 12:37:00
+
+---
+
+h1=. Southern Italy & Sicily
+
+h2=. 1 - 14 April 2004
+
+<a href="/assets/images/travelitaly2004.jpg"><img src="/assets/images/travelitaly2004-thumb.jpg" width="150" height="112" alt="Positano" class="photo center" /></a>
+
+
+p=. London ~ Rome ~ Sorrento ~ Capri ~ Amalfi ~ Positano ~ Pompeii ~ Taormina ~ Siracusa ~ Casale ~ Celafu ~ Palermo ~ Naples ~ London
+
+p=. [ "day 1 - London to Rome":/assets/images/travel/2004italy/day1.html ]
+
+
+
+    
