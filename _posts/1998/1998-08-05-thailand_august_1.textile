@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Thailand -- August 1998"
+permalink: /archives/1998/08/thailand_august_1.html
+commentfile: 1998-08-05-thailand_august_1
+category: travel
+date: 1998-08-05 13:17:34
+
+---
+
+h1=. HONG KONG<br />&<br />THAILAND
+
+h2=. August 1998
+
+<img src="/assets/images/gold_chedi_grand_palace2.gif" width="150" height="225" alt="Grand Palace's Main Chedi" class="photo center">
+
+p=. Hong Kong ~ Bangkok<br />Chaing Mai ~ Mae Hong San ~ Pai<br />Sukothai ~ Koh Samui
+
+p=. [ "day 1 New York to Honkong":/assets/images/travel/thailand/hongkong.html ]
+
+
+
+    
