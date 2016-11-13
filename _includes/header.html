@@ -10,10 +10,10 @@
   <nav class="p-nav__nav">
     <ul class="p-nav__links">
       {% for category in site.categories %}<li>
-        <a class="p-nav__link" href="{{ site.baseurl }}/archives/{{ category[0] | downcase }}">{{ category[0] }}</a>
+        <a class="p-nav__link" href="{{ site.baseurl }}/archives/{{ category[0] | replace: ' ', '-' | downcase }}">{{ category[0] }}</a>
       </li>{% endfor %}
       <li>
-        <a class="p-nav__link" href="{{ site.baseurl }}/archives">Archives</a>
+        <a class="p-nav__link" href="{{ site.baseurl }}/archives">archives</a>
       </li>
     </ul>
   </nav>
