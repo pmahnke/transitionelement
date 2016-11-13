@@ -68,8 +68,9 @@ Here is some code...
 >>       Type    =>'multipart/related'
 >>       );
 >    $msg->attr("content-type.charset" => "UTF-8");
->>    
->    # parse the images in the HTML
+
+
+    # parse the images in the HTML
     my $html = &parseHTMLinlineImages($FORM{'html'});
     
     # convert to utf8, not a requirement for everyone....

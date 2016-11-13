@@ -104,14 +104,16 @@ But with XPath, it is completely different.  That whole set of code becomes (wit
 <pre><code>
 
     my $in = HTML::TreeBuilder::XPath->new_from_content($_[0]);
->>    
->    @urls        = $in->findvalues('//ul[@class="multiple_columns"]//a/@/assets/images/');
+
+
+    @urls        = $in->findvalues('//ul[@class="multiple_columns"]//a/@/assets/images/');
 >>    @imgs        = $in->findvalues('//ul[@class="multiple_columns"]//a/div/@style');
 >>    @titles      = $in->findvalues('//div[@class="resbox_title"]/span[@class="resbox_production"]');
 >>    @start_dates = $in->findvalues('//div[@class="resbox_dates"]/span[contains(@id,"StartDate")]');
 >>    @end_dates   = $in->findvalues('//div[@class="resbox_dates"]/span[contains(@id,"ExpireDate")]');
->>    
-></code></pre>
+
+
+</code></pre>
 
 That is 9 lines of code compared to 64 lines, that is 85% smaller!  It is also more readable as there is no logic.  Another thing not visible in these snippets is that I can use UTF8 and Encode to just accept the text as it is far more easily.
 
