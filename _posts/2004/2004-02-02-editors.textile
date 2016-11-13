@@ -1,0 +1,58 @@
+---
+layout: post
+title: "editors"
+permalink: /archives/2004/02/editors.html
+commentfile: 2004-02-02-editors
+category: on technology
+date: 2004-02-02 22:20:08
+
+---
+
+*What text editor do I use/prefer?*
+
+h3. Emacs
+
+p. By far my favorite.  Its installed on nearly all unix systems and my mac.  It has nearly everything I require:
+
+* Unlimited file size
+* Powerful Search and Replace
+* PERL Mode
+* 100% keyboard driven (unless you want to use X11)
+* keyboard macros
+* pretty strong with character sets, including UTF-8
+* available on nearly all Unix based systems
+
+p. Here are some key commands for the uninitiated:
+
+|Control-x Control-c|close/exit|
+|Control-x Control-s|save|
+|Control-s|search forward|
+|Control-r|search backward|
+|Escape-x replace-string|search & replace|
+|Control-x k|kill buffer|
+|Escape <|go to start of file|
+|Escape >|go to end of file|
+
+h3. Ultra-Edit 32
+
+p. For windows, its as close to Emacs as I have found that can use all the windows conversions.  I know you can use Emacs on windows, but moving around the filesystem stinks.  The things I like about Ultra-Edit:
+
+* FTP/SFTP built in... keeps me from having to learn VI on systems without Emacs
+* Regular Expressions for search & replace
+* Deduplicate sorting
+* Encoding conversions
+* HTML preview
+
+h3. BBEdit
+
+p. On my mac I use BBEdit.  It is pretty amazing, but it don't find it as intuitive as Emacs or Ultra-Edit.  It is also expensive to keep upgrading it.... which I hate...  I don't mind shelling out a lot once, but after that, keep me on the upgrade path for cheap...  Here is what I like:
+
+* Very good with HTML
+* Emacs keybindings
+* HTML preview on steroids
+* and the best.... tab to 4 spaces option... I love that!
+
+
+
+
+    

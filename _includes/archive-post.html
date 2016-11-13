@@ -1,0 +1,21 @@
+<div class="col-5">
+  {% for post in page.posts limit: 10 %}
+  {% if forloop.index == 5 %}
+</div>
+<div class="col-5">
+  {% endif %}
+  <!-- article {{forloop.index}} -->
+  <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    {{ post.excerpt | textilize }}
+    <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
+    {% endfor %}
+  </div>
+</div>
+<div class="col-5">
+  <h3>Older Articles</h3>
+  <ul>
+    {% for post in page.posts offset: 10 %}
+    <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
+    {% endfor %}
+  </ul>
+</div>

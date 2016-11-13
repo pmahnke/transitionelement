@@ -1,0 +1,29 @@
+---
+layout: post
+title: "8 Megapixels of Fun"
+permalink: /archives/2005/12/8_megapixels_of.html
+commentfile: 2005-12-21-8_megapixels_of
+category: on technology
+date: 2005-12-21 12:13:44
+
+---
+
+|<a href="/assets/images/bigRyan_stick_dirk.jpg"><img src="/assets/images/bigRyan_stick_dirk-thumb.jpg" width="150" height="112" alt="Ryan Large"  class="photo" /></a>|<a href="/assets/images/bigRyan_stick_dirk_inset.jpg"><img src="/assets/images/bigRyan_stick_dirk_inset-thumb.jpg" width="150" height="112" alt="Ryan Inset"  class="photo" /></a>|
+>>>| _full_ | _inset_ |
+
+I shouldn't be surprised, but I am.  This weekend I was walking around "Richmond Park":http://www.royalparks.gov.uk/parks/richmond_park/ with my family and good friends Dirk and Gulin.  Drik has recently gotten back into photography and just last year bought a film SLR and just last week got an eight megapixel SLR body.  We took it to the park to test it out. 
+
+First off, I should say, I don't really know much about his camera.  I think its a pretty low end Cannon by the feel of it, but still fine for any amature.   But I carry a two pound 1985 Ricoh around... so they all feel a little cheap to me.  However, its nice.  He has some good lenses and it has very nice aperature and auto-focus features that make shooting sophositcated and easy.  The fast memory made the camera quick too.  Very nice to handle.
+
+|<a href="/assets/images/bigOwen_dirk.jpg"><img src="/assets/images/bigOwen_dirk-thumb.jpg" width="150" height="112" alt="Owen Large" class="photo" /></a>|<a href="/assets/images/bigOwen_dirk_inset.jpg"><img src="/assets/images/bigOwen_dirk_inset-thumb.jpg" width="150" height="112" alt="Owen Inset" class="photo" /></a>|
+>>>| _full_ | _inset_ |
+
+What I couldn't believe was the quality of the images that came out.  Right away you can see the difference in the depth of field compared to my little point and shoot Panasonic.  Dirk couldn't even email me the full size images, so these examples are reduced 75% by him and then again by me to be a little more 'web-friendly'.  The 'inset' images are straight 800 by 600 pixel cuts from the 75% reduced images.  I only did a little 'light balancing' in Photoshop. 
+
+Pretty impressive.  The bottom image was taken at long range with a telephoto lens as well.  
+
+I think the question is really going to be about storage now.  If your images are averageing 8 megabytes and you can easily take 1 gigabyte a month, where will you store them all?  How will you upload them to get printed?  I know iPhoto and broadband can get you pretty far, but I think these high megapixel cameras are really going to lead to people upgrading hardware, potentially software and requiring bandwidth.  I know that designers and professional photographers have been dealing with this for years, but now average people will start buying these 'super-cameras' -- I think it will push the need for external storage, bandwidth and and better photo management software.
+
+
+
+    

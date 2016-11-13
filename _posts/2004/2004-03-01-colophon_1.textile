@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Colophon"
+permalink: /archives/2004/03/colophon_1.html
+commentfile: 2004-03-01-colophon_1
+category: about
+date: 2004-03-01 12:10:27
+
+---
+
+h3. Server Information
+
+p.  This site is run on a Linux box hosted by "Rackspace":http://www.rackspace.com.  We are running Apace 2.x and I am using "Moveable Type":http://www.moveabletype.com as a CMT with Brad Chote's  excellent "MT-Textile 2.x":http://www.bradchoate.com/mt-plugins/textile and John Gruber's excellent "SmartyPants":http://www.daringfireball.net/projects/smartypants/.
+
+p. For the "travel journals":/assets/images/archives/travel/index.html  and am using a home-built CMS that also uses MT-Textile and SmartyPants and is the back-bone of some well known "sites":http://europe.gartner.com ( _to name one_ ).
+
+p. All my scripts are written in Perl.
+
+h3. Desktop Software
+
+p.  I use iPhoto and Photoshop for images.  UltraEdit on a PC, BBedit on a Mac and Emacs on Linux for text editing.
+
+h3. Contact Me
+
+p.  You can email me at &#x6E;&#x6F;&#x70;&#101;&#64;&#x74;&#114;&#x61;&#x6E;&#x73;&#105;&#116;&#x69;&#x6F;&#110;&#x65;&#x6C;&#101;&#x6D;&#101;&#x6E;&#x74;&#46;&#x63;&#111;&#109;
+
+h2. License
+
+p. <a href="/assets/images/"><img alt="Creative Commons License" border="0" src="/assets/images/somerights" /></a><br />
+
+p. This weblog is licensed under a Creative Commons' "Attribution-NonCommercial-ShareAlike License":http://creativecommons.org/licenses/by-nc-sa/1.0/.
+
+h3. Personal
+
+p. I am an American living outside London.  I am married and have two young children.  I have been working on the web since 1995 doing everything from design to coding, but mostly as a Product Manager and/or Managing Editor.
+
+p. I am very interested in clean, simple, web-standard information design and try to bring that to every place I work.
+
+<a href="/assets/images/bw_self.jpg"><img src="/assets/images/peter_mirror-thumb.jpg" width="116" height="134" border="0" /></a>
+
+
+
+    
