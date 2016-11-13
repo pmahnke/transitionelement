@@ -1,12 +1,40 @@
+body,
+p,
+li {
+  font-family: helvetica, arial, serif;
+}
+p {
+  margin-bottom: 1.75rem;
+}
+
+h2,
+h3,
+h4 {
+  color: #333;
+  font-family: 'Oswald',helvetica,arial,serif;
+  font-weight: inherit;
+  line-height: 1.5em;
+}
+
+h2,
+h2 > a {
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: .072em;
+  line-height: 1.2;
+  text-decoration: none;
+  text-shadow: none;
+  text-transform: uppercase;
+  word-spacing: .048em;
+}
+
 a {
   border: 0;
 
-  &:link {
+  &:link,
+  &:visited {
     color: $color-brand;
-  }
-
-  &.p-navigation__link {
-    color: $color-x-light;
   }
 
   &:hover {
@@ -32,8 +60,8 @@ a {
 
   &.row-articles {
     img {
-      width: 300px;
       height: auto;
+      width: 300px;
     }
   }
 }
@@ -42,8 +70,23 @@ a {
   background-color: $color-mid-light;
   display: block;
   padding: 10px;
+  text-align: right;
+  text-transform: uppercase;
   width: 100%;
 }
+
+// nav
+.p-nav__nav {
+
+  li {
+    font-family: 'Oswald',helvetica,arial,serif;
+    text-align: right;
+  }
+
+  .p-nav__links {
+  }
+}
+
 
 //Search
 .p-search {
@@ -55,5 +98,23 @@ a {
   }
   input[type='submit'] {
     display: none;
+  }
+}
+
+//book
+.book_synopsis {
+  margin: 2em 0;
+}
+
+//comments
+.row-comments {
+  h3 {
+    color: $color-light;
+  }
+}
+
+.row-commentform {
+  h4{
+    color: $color-light;
   }
 }

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+<section class="row row-hero">
+  <div class="strip-inner-wrapper">
+    <div class="prefix-1 col-4 suffix-1">
+      {% include header.html %}
+    </div><!-- end pagenavigation -->
+
+    <div class="col-6">
+
+      <!-- content -->
+      {{ content | textilize }}
+
+    </div>
+  </div>
+</section>

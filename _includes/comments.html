@@ -1,10 +1,10 @@
 <notextile>
   <section class="p-strip row-comments">
     <div class="row">
-      <div class="col-4">
+      <div class="prefix-1 col-4 suffix-1">
         <h3>Comments</h3>
       </div>
-      <div class="col-8">
+      <div class="col-6">
         <ul>
           {% for comment in site.data.[include.commentfile] %}
           {% if comment.comment != null %}
@@ -23,10 +23,10 @@
 
   <section class="p-strip row-commentform">
     <div class="row">
-      <div class="col-4">
+      <div class="prefix-1 col-4 suffix-1">
         <h4>Add a comment</h4>
       </div>
-      <div class="col-8">
+      <div class="col-6">
         <form method="get" action="/cgi-bin/comments.cgi">
           <fieldset>
             <label for="name">Name</label>
