@@ -12,22 +12,21 @@ layout: default
       </p>
 
       <p>category:
-        {% for category in page.categories %}<a href="{{ site.baseurl }}/archives/{{ category | downcase }}">{{ category }}</a>{{ if page.next.categories }}, {{ endif }} {% endfor %}
+        {% for category in page.categories %}<a href="{{ site.baseurl }}/archives/{{ category | replace: ' ', '-' | downcase }}">{{ category }}</a>{{ if page.next.categories }}, {{ endif }} {% endfor %}
       </p>
 
       <div class="">
         {% if page.previous.url %}
-        <p class="prev"><a class="prev_link" href="/peter/{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a></p>
+        <p class="prev"><a class="prev_link" href="{{ site.baseurl }}/{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a></p>
         {% endif %}
         {% if page.next.url %}
-        <p class="next"><a class="next_link" href="/peter/{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a></p>
+        <p class="next"><a class="next_link" href="{{ site.baseurl }}/{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a></p>
         {% endif %}
       </div><!-- end pagenavigation -->
-    </header>
-  </div>
+    </div>
 
     <article class="post-content col-6">
-      <h1 class="post-title prefix-2 col-10">{{ page.title }}</h1>
+      <h2 class="post-title">{{ page.title }}</h2>
       {{ content }}
     </article>
 
