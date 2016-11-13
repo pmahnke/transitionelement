@@ -1,3 +1,6 @@
 [submodule "vanilla-framework"]
 	path = _sass/vanilla-framework
 	url = git@github.com:ubuntudesign/vanilla-framework.git
+[submodule "_sass/vanilla-framework"]
+	path = _sass/vanilla-framework
+	url = git@github.com:ubuntudesign/vanilla-framework.git
