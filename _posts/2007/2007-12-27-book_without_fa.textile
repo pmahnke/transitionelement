@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Without Fail"
+title: "Book - Without Fail"
 permalink: /archives/2007/12/book_without_fa.html
 commentfile: 2007-12-27-book_without_fa
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Bad Luck and Trouble"
+title: "Book - Bad Luck and Trouble"
 permalink: /archives/2008/01/book_bad_luck_a.html
 commentfile: 2008-01-24-book_bad_luck_a
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Suspicions of Mr. Whicher"
+title: "Book - The Suspicions of Mr. Whicher"
 permalink: /archives/2009/11/book_the_suspic.html
 commentfile: 2009-11-25-book_the_suspic
 category: culture

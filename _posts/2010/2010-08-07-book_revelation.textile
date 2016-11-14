@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Revelation"
+title: "Book - Revelation"
 permalink: /archives/2010/08/book_revelation.html
 commentfile: 2010-08-07-book_revelation
 category: culture

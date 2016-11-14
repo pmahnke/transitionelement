@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Brass Verdict"
+title: "Book - The Brass Verdict"
 permalink: /archives/2009/08/book_the_brass.html
 commentfile: 2009-08-20-book_the_brass
 category: culture

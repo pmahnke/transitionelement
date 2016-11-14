@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Over Sea, Under Stone"
+title: "Book - Over Sea, Under Stone"
 permalink: /archives/2010/06/book_over_sea_u.html
 commentfile: 2010-06-23-book_over_sea_u
 category: culture

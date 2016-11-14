@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Carry Me Down"
+title: "Book - Carry Me Down"
 permalink: /archives/2007/03/book_carry_me_d.html
 commentfile: 2007-03-17-book_carry_me_d
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Three Men in a Boat"
+title: "Book - Three Men in a Boat"
 permalink: /archives/2010/02/book_three_men.html
 commentfile: 2010-02-06-book_three_men
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Heart of a Dog"
+title: "Book - The Heart of a Dog"
 permalink: /archives/2008/04/book_the_heart.html
 commentfile: 2008-04-11-book_the_heart
 category: culture

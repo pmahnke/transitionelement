@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Angels Flight"
+title: "Book - Angels Flight"
 permalink: /archives/2008/02/book_angels_fli.html
 commentfile: 2008-02-28-book_angels_fli
 category: culture

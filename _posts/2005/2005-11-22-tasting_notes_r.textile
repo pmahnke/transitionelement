@@ -14,7 +14,7 @@ date: 2005-11-22 21:38:30
 *Red Admiral Ale*
 
 |Rating (out&nbsp;of&nbsp;5)|<strong>***&frac12;</strong>|
->>>|Brewer|"Fox Brewery":http://www.foxbrewery.co.uk/
+Brewer|"Fox Brewery":http://www.foxbrewery.co.uk/
 >>22,Station Road
 >Heacham
 Norfolk PE31 7EX|

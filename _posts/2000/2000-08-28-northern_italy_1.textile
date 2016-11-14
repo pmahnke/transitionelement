@@ -1,24 +1,18 @@
 ---
 layout: post
-title: "Northern Italy -- August 2000"
+title: "Northern Italy - August 2000"
 permalink: /archives/2000/08/northern_italy_1.html
 commentfile: 2000-08-28-northern_italy_1
 category: travel
 date: 2000-08-28 19:11:51
-
+excerpt: |
+    Read a brief travellogue of our trip to Northern Italy in the summer of 2000 with our first born baby, Owen.
 ---
 
-h1=. NORTHERN<br />ITALY
 
-h2=. 18 - 28 August 2000
-
-<img src="/assets/images/milan_duomo.gif" width="108" height="95" alt="Milan Duomo" class="photo center" />
+<img src="/assets/images/travel/italy/milan_duomo.jpg" width="400" alt="Milan Duomo" class="photo center" />
 
 p=. Milan ~ Bergamo ~ Padova<br />Venice ~ Chianti (Panzano)<br />Sienna ~ Florence ~ Parma ~ Milan
 
 
-p=. [ "day 1 New York to Milan":/assets/images/travel/italy/day1.html ]
-
-
-
-    
+p=. [ "day 1 New York to Milan":/travel/italy/day1.html ]

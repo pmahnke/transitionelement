@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; A Darkling Plain"
+title: "Book - A Darkling Plain"
 permalink: /archives/2009/04/book_a_darkling.html
 commentfile: 2009-04-24-book_a_darkling
 category: culture

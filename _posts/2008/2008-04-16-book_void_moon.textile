@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Void Moon"
+title: "Book - Void Moon"
 permalink: /archives/2008/04/book_void_moon.html
 commentfile: 2008-04-16-book_void_moon
 category: culture

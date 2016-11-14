@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Closers"
+title: "Book - The Closers"
 permalink: /archives/2008/08/book_the_closer.html
 commentfile: 2008-08-26-book_the_closer
 category: culture

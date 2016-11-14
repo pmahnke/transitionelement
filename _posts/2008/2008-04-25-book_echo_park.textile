@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Echo Park"
+title: "Book - Echo Park"
 permalink: /archives/2008/04/book_echo_park.html
 commentfile: 2008-04-25-book_echo_park
 category: culture

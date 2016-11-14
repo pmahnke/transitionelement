@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Infernal Devices"
+title: "Book - Infernal Devices"
 permalink: /archives/2009/04/book_infernal_d.html
 commentfile: 2009-04-14-book_infernal_d
 category: culture

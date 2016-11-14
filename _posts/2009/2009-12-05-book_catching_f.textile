@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Catching Fire"
+title: "Book - Catching Fire"
 permalink: /archives/2009/12/book_catching_f.html
 commentfile: 2009-12-05-book_catching_f
 category: culture

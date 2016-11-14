@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Books &mdash; The Last Days of Haute Cuisine"
+title: "Books - The Last Days of Haute Cuisine"
 permalink: /archives/2004/12/books_the_last_1.html
 commentfile: 2004-12-01-books_the_last_1
 category: culture

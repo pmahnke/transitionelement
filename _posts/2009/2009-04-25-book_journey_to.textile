@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Journey to the End of the Night"
+title: "Book - Journey to the End of the Night"
 permalink: /archives/2009/04/book_journey_to.html
 commentfile: 2009-04-25-book_journey_to
 category: culture

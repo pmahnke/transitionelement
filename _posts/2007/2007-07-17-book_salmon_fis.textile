@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Salmon Fishing in the Yemen"
+title: "Book - Salmon Fishing in the Yemen"
 permalink: /archives/2007/07/book_salmon_fis.html
 commentfile: 2007-07-17-book_salmon_fis
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Play &mdash; A Raisin in the Sun"
+title: "Play - A Raisin in the Sun"
 permalink: /archives/2005/02/a_raisin_in_the.html
 commentfile: 2005-02-24-a_raisin_in_the
 category: culture

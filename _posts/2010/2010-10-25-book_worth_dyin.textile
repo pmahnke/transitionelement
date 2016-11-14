@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Worth Dying For"
+title: "Book - Worth Dying For"
 permalink: /archives/2010/10/book_worth_dyin.html
 commentfile: 2010-10-25-book_worth_dyin
 category: culture

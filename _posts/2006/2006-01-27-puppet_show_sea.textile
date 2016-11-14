@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puppet Show &mdash; Seas of Organillo"
+title: "Puppet Show - Seas of Organillo"
 permalink: /archives/2006/01/puppet_show_sea.html
 commentfile: 2006-01-27-puppet_show_sea
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Girl Who Kicked the Hornets' Nest"
+title: "Book - The Girl Who Kicked the Hornets' Nest"
 permalink: /archives/2010/04/book_the_girl_w_2.html
 commentfile: 2010-04-14-book_the_girl_w_2
 category: culture

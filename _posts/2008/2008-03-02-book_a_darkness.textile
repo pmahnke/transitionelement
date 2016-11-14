@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; A Darkness More Than Night"
+title: "Book - A Darkness More Than Night"
 permalink: /archives/2008/03/book_a_darkness.html
 commentfile: 2008-03-02-book_a_darkness
 category: culture

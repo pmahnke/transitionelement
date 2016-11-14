@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Book of Joe"
+title: "Book - Book of Joe"
 permalink: /archives/2008/10/book_book_of_jo.html
 commentfile: 2008-10-06-book_book_of_jo
 category: culture

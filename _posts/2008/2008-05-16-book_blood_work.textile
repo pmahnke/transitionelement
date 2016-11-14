@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Blood Work"
+title: "Book - Blood Work"
 permalink: /archives/2008/05/book_blood_work.html
 commentfile: 2008-05-16-book_blood_work
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Defensive Design for the Web"
+title: "Book - Defensive Design for the Web"
 permalink: /archives/2004/12/books_defensive.html
 commentfile: 2004-12-01-books_defensive
 category: culture

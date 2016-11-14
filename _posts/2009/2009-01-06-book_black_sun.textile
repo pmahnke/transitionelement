@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Black Sun Rising"
+title: "Book - Black Sun Rising"
 permalink: /archives/2009/01/book_black_sun.html
 commentfile: 2009-01-06-book_black_sun
 category: culture

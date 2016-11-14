@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concert &mdash; Ezio"
+title: "Concert - Ezio"
 permalink: /archives/2005/11/concert_ezio.html
 commentfile: 2005-11-16-concert_ezio
 category: culture

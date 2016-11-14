@@ -12,15 +12,15 @@ layout: default
       </p>
 
       <p>category:
-        {% for category in page.categories %}<a href="{{ site.baseurl }}/archives/{{ category | replace: ' ', '-' | downcase }}">{{ category }}</a>{{ if page.next.categories }}, {{ endif }} {% endfor %}
+        {% for category in page.categories %}<a href="{{ site.baseurl }}/archives/{{ category | replace: ' ', '-' | replace: '&-', ''  | downcase }}">{{ category }}</a>{{ if page.next.categories }}, {{ endif }} {% endfor %}
       </p>
 
       <div class="">
         {% if page.previous.url %}
-        <p class="prev"><a class="prev_link" href="{{ site.baseurl }}/{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a></p>
+        <p class="prev"><a class="prev_link" href="{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a></p>
         {% endif %}
         {% if page.next.url %}
-        <p class="next"><a class="next_link" href="{{ site.baseurl }}/{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a></p>
+        <p class="next"><a class="next_link" href="{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a></p>
         {% endif %}
       </div><!-- end pagenavigation -->
     </div>

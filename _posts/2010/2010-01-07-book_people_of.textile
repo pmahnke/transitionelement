@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; People of the Book"
+title: "Book - People of the Book"
 permalink: /archives/2010/01/book_people_of.html
 commentfile: 2010-01-07-book_people_of
 category: culture

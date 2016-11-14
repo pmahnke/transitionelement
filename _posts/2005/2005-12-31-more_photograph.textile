@@ -21,9 +21,9 @@ I have picked three photos which show the differences between the high-end Canno
 |_Canon|_Panasonic|
 |*Short Distance Test*|
 |<a href="/assets/images/blue%20fish.jpg"><img src="/assets/images/blue%20fish-thumb.jpg" width="150" height="112" alt="Blue Fish at Kew" title=="Blue Fish at Kew" class="photo" /></a>|<a href="/assets/images/blue-fish_peters.jpg"><img src="/assets/images/blue-fish_peters-thumb.jpg" width="150" height="112" alt="Blue Fish Panasonic" title="Blue Fish Panasonic" class="photo" /></a>|
->>>|*Medium Distance Test*|
+*Medium Distance Test*|
 >>|<a href="/assets/images/redChihuli12x8.jpg"><img src="/assets/images/redChihuli12x8-thumb.jpg" width="150" height="100" alt="Chihuli Chandilier at Kew" title="Chihuli Chandilier at Kew" class="photo" /></a>|<a href="/assets/images/redChihuliPeter.jpg"><img src="/assets/images/redChihuliPeter-thumb.jpg" width="150" height="112" alt="Blue Fish from Panasonic" title="Blue Fish from Panasonic" class="photo" /></a>|
->>>|*Long Distance Test*|
+*Long Distance Test*|
 >>|<a href="/assets/images/lilyChihuli12x8.jpg"><img src="/assets/images/lilyChihuli12x8-thumb.jpg" width="150" height="100" alt="Lily Pads by Chihuli at Kew" title="Lily Pads by Chihuli at Kew" class="photo" /></a>|<a href="/assets/images/lilyChihulipeter.jpg"><img src="/assets/images/lilyChihulipeter-thumb.jpg" width="150" height="112" title="Lily Pads Panasonic" alt="Lily Pads Panasonic" class="photo" /></a>|
 
 

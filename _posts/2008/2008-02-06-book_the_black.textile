@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Black Ice"
+title: "Book - The Black Ice"
 permalink: /archives/2008/02/book_the_black.html
 commentfile: 2008-02-06-book_the_black
 category: culture

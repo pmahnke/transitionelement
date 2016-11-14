@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Girl Who Played with Fire"
+title: "Book - The Girl Who Played with Fire"
 permalink: /archives/2010/03/book_the_girl_w_1.html
 commentfile: 2010-03-17-book_the_girl_w_1
 category: culture

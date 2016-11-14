@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Striker"
+title: "Book - Striker"
 permalink: /archives/2011/09/book_striker.html
 commentfile: 2011-09-07-book_striker
 category: culture
