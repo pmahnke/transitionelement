@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Wolf Hall"
+title: "Book - Wolf Hall"
 permalink: /archives/2010/08/book_wolf_hall.html
 commentfile: 2010-08-28-book_wolf_hall
 category: culture

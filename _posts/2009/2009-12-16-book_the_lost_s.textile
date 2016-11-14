@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Lost Symbol"
+title: "Book - The Lost Symbol"
 permalink: /archives/2009/12/book_the_lost_s.html
 commentfile: 2009-12-16-book_the_lost_s
 category: culture

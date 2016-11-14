@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Books &mdash; The Subtle Knife"
+title: "Books - The Subtle Knife"
 permalink: /archives/2007/01/books_the_subtl.html
 commentfile: 2007-01-07-books_the_subtl
 category: culture

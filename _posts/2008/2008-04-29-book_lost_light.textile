@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Lost Light"
+title: "Book - Lost Light"
 permalink: /archives/2008/04/book_lost_light.html
 commentfile: 2008-04-29-book_lost_light
 category: culture

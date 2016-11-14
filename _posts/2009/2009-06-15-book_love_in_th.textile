@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Love in the Time of Cholera"
+title: "Book - Love in the Time of Cholera"
 permalink: /archives/2009/06/book_love_in_th.html
 commentfile: 2009-06-15-book_love_in_th
 category: culture

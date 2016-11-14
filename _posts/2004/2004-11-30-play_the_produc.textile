@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Play &mdash; The Producers"
+title: "Play - The Producers"
 permalink: /archives/2004/11/play_the_produc.html
 commentfile: 2004-11-30-play_the_produc
 category: culture

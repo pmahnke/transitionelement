@@ -30,10 +30,10 @@ date: 2010-11-16 15:12:15
 <p>Now there is an explosion of library users with modern e-book devices.  The entire e-book world (buying, connecting, formats, DRM) is very confusing, he showed the wikipedia image on e-books to explain.  Libraries are asked to help, they often cannot.</p>
 
 <p>
->>><img alt="wikipedia.png" src="/assets/images/wikipedia.png" width="844" height="416" style="margin-left: -200px;"  alt="from wikipedia"/>
->>><br />
->>><em><a href="/assets/images/Comparison_of_e-book_readers">wikipedia's page on e-readers</a></em>
->>></p>
+<img alt="wikipedia.png" src="/assets/images/wikipedia.png" width="844" height="416" style="margin-left: -200px;"  alt="from wikipedia"/>
+<br />
+<em><a href="/assets/images/Comparison_of_e-book_readers">wikipedia's page on e-readers</a></em>
+</p>
 
 <p>However, clearly people want to get e-books from libraries and libraries want to be able to provide them.</p>
 
@@ -42,9 +42,9 @@ date: 2010-11-16 15:12:15
 <p>There are two main models for libraries:</p>
 
 <ul>
->>><li>streaming/subscription (e.g. ebrary)</li>
->>><li>download (e.g. Overdrive)</li>
->>></ul>
+<li>streaming/subscription (e.g. ebrary)</li>
+<li>download (e.g. Overdrive)</li>
+</ul>
 
 <p>There are lots and lots of aggregators and business models and the field keeps moving around.  Seems like subscription model requires people use a computer to read only, no devices.  Users never get full book, only a page at a time.  Download is usually Adobe DRM based, so e-books readers, like Sony can use them.</p>
 
@@ -70,11 +70,11 @@ date: 2010-11-16 15:12:15
 <p>Very nervous about libraries offering e-books, specially few little restrictions.  He knows this hurts booksellers, but also thinks it will hurt libraries in the long run.  He recommends:</p>
 
 <ul>
->>><li>libraries only loan to registered users who can verify their address (in their region)</li>
->>><li>provide exceptions for housebound and disabled</li>
->>><li>stick to the one book/one load model</li>
->>><li>make borrowers pay</li>
->>></ul>
+<li>libraries only loan to registered users who can verify their address (in their region)</li>
+<li>provide exceptions for housebound and disabled</li>
+<li>stick to the one book/one load model</li>
+<li>make borrowers pay</li>
+</ul>
 
 <p>Then went on to say, we must all support libraries, socially important role.  Councils must give more money to libraries to buy books.</p>
 
@@ -85,11 +85,11 @@ date: 2010-11-16 15:12:15
 <p>Key points are:</p>
 
 <ul>
->>><li>system works because <strong>all users are authenticated</strong> - vpn and either shibboleth or athens - no &#39;chinese hackers&#39;</li>
->>><li>DRM on top of that, so no downloads, just streaming.</li>
->>><li>Have user selected titles, where if up to X people try to get a book, the system does buy the book and charges the university</li>
->>><li>system allows for inter-library loans (<em>PRM my GOD how messed up is that!</em>)</li>
->>></ul>
+<li>system works because <strong>all users are authenticated</strong> - vpn and either shibboleth or athens - no &#39;chinese hackers&#39;</li>
+<li>DRM on top of that, so no downloads, just streaming.</li>
+<li>Have user selected titles, where if up to X people try to get a book, the system does buy the book and charges the university</li>
+<li>system allows for inter-library loans (<em>PRM my GOD how messed up is that!</em>)</li>
+</ul>
 
 <!--p><img src="/assets/images/1157.jpg"  alt="" /></p-->
 
@@ -100,9 +100,9 @@ date: 2010-11-16 15:12:15
 <p>Also raised the dual issues of:</p>
 
 <ul>
->>><li>libraries need to make things simple</li>
->>><li>all consumer models are highly dangerous if you make them simple.</li>
->>></ul>
+<li>libraries need to make things simple</li>
+<li>all consumer models are highly dangerous if you make them simple.</li>
+</ul>
 
 <p><img src="/assets/images/the_brads_drm-548x1024.png"  style="margin-left: -100px;" alt="" /></p>
 
@@ -111,18 +111,18 @@ date: 2010-11-16 15:12:15
 <p><em>My personal take-aways and opinions only.</em></p>
 
 <ol>
->>><li>libraries want to please their users, they want to loan trade e-books</li>
->>><li>booksellers want any lending of e-books to be very, very restricted</li>
->>><li>e-book devices are popular now</li>
->>><li>getting e-books onto e-book devices is <em>very</em> confusing for users</li>
->>><li>the academic models do not work for libraries<ul>
->>><li>not a closed audience</li>
->>><li>complex authentication too hard to use and manage</li>
->>><li>streaming doesn&#39;t get to the e-book devices that library users want</li>
->>></ul>
->>></li>
->>><li>licensing seems complex and budgets too open ended for libraries with little money</li>
->>></ol>
+<li>libraries want to please their users, they want to loan trade e-books</li>
+<li>booksellers want any lending of e-books to be very, very restricted</li>
+<li>e-book devices are popular now</li>
+<li>getting e-books onto e-book devices is <em>very</em> confusing for users</li>
+<li>the academic models do not work for libraries<ul>
+<li>not a closed audience</li>
+<li>complex authentication too hard to use and manage</li>
+<li>streaming doesn&#39;t get to the e-book devices that library users want</li>
+</ul>
+</li>
+<li>licensing seems complex and budgets too open ended for libraries with little money</li>
+</ol>
 
 
 <h4>My recommendation</h4>
@@ -130,10 +130,10 @@ date: 2010-11-16 15:12:15
 <p>Libraries should create a e-book rental model like <a href="/assets/images/">www.lovefilm.com</a> where users can download up to X e-books, they must return them before getting a new one.  They will <em>charge</em> their readers &#163;4 a month with concessions.</p>
 
 <ul>
->>><li>The formats will be ePub only</li>
->>><li>No DRM, but Watermark the books</li>
->>><li>Up-sell the full book and profit</li>
->>></ul>
+<li>The formats will be ePub only</li>
+<li>No DRM, but Watermark the books</li>
+<li>Up-sell the full book and profit</li>
+</ul>
 
 <p>If they don&#39;t do this, someone else will (probably with DRM)!</p>
 

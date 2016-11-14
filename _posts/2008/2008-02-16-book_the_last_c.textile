@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Last Coyote"
+title: "Book - The Last Coyote"
 permalink: /archives/2008/02/book_the_last_c.html
 commentfile: 2008-02-16-book_the_last_c
 category: culture

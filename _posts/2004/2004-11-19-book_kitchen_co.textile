@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Kitchen Confidential "
+title: "Book - Kitchen Confidential "
 permalink: /archives/2004/11/book_kitchen_co.html
 commentfile: 2004-11-19-book_kitchen_co
 category: culture

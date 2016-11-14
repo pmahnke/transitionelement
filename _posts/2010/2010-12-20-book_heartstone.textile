@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Heartstone"
+title: "Book - Heartstone"
 permalink: /archives/2010/12/book_heartstone.html
 commentfile: 2010-12-20-book_heartstone
 category: culture

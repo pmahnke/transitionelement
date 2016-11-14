@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Opera &mdash;  Die Fledermaus"
+title: "Opera -  Die Fledermaus"
 permalink: /archives/2004/07/holland_park_op.html
 commentfile: 2004-07-02-holland_park_op
 category: culture

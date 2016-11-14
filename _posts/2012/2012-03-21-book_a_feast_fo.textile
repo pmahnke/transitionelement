@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; A Feast for Crows (Song of Ice and Fire)"
+title: "Book - A Feast for Crows (Song of Ice and Fire)"
 permalink: /archives/2012/03/book_a_feast_fo.html
 commentfile: 2012-03-21-book_a_feast_fo
 category: culture

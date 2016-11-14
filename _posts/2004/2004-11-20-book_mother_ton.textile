@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Mother Tongue&#58; The English Language"
+title: "Book - Mother Tongue&#58; The English Language"
 permalink: /archives/2004/11/book_mother_ton.html
 commentfile: 2004-11-20-book_mother_ton
 category: culture

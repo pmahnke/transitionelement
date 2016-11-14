@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Moving Pictures"
+title: "Book - Moving Pictures"
 permalink: /archives/2009/09/book_moving_pic.html
 commentfile: 2009-09-16-book_moving_pic
 category: culture

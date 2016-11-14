@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concert &mdash; Beastie Boys at Wembley"
+title: "Concert - Beastie Boys at Wembley"
 permalink: /archives/2004/12/beastie_boys_co.html
 commentfile: 2004-12-07-beastie_boys_co
 category: culture

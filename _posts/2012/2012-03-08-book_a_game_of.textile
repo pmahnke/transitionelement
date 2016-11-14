@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; A Game of Thrones HBO Tie-In Edition "
+title: "Book - A Game of Thrones HBO Tie-In Edition "
 permalink: /archives/2012/03/book_a_game_of.html
 commentfile: 2012-03-08-book_a_game_of
 category: culture

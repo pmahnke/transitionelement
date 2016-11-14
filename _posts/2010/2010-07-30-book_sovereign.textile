@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Sovereign"
+title: "Book - Sovereign"
 permalink: /archives/2010/07/book_sovereign.html
 commentfile: 2010-07-30-book_sovereign
 category: culture

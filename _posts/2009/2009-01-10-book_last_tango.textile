@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Last Tango in Aberystwyth"
+title: "Book - Last Tango in Aberystwyth"
 permalink: /archives/2009/01/book_last_tango.html
 commentfile: 2009-01-10-book_last_tango
 category: culture

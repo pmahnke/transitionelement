@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Dark is Rising"
+title: "Book - The Dark is Rising"
 permalink: /archives/2010/05/book_the_dark_i.html
 commentfile: 2010-05-15-book_the_dark_i
 category: culture

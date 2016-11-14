@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Lincoln Lawyer"
+title: "Book - The Lincoln Lawyer"
 permalink: /archives/2008/11/book_the_lincol.html
 commentfile: 2008-11-17-book_the_lincol
 category: culture

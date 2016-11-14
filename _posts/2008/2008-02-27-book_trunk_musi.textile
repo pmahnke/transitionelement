@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Trunk Music"
+title: "Book - Trunk Music"
 permalink: /archives/2008/02/book_trunk_musi.html
 commentfile: 2008-02-27-book_trunk_musi
 category: culture

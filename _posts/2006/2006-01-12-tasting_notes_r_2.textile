@@ -13,7 +13,7 @@ date: 2006-01-12 15:30:10
 *Nelson's Revenge*
 
 |Rating (out&nbsp;of&nbsp;5)|<strong>****</strong>|
->>>|Brewer|"Woodforde's Norfolk Ales":http://www.woodfordes.co.uk/
+Brewer|"Woodforde's Norfolk Ales":http://www.woodfordes.co.uk/
 >>Broadland Brewery
 >Woodbastwick
 Norwich

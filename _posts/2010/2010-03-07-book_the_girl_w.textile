@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Girl with the Dragon Tattoo"
+title: "Book - The Girl with the Dragon Tattoo"
 permalink: /archives/2010/03/book_the_girl_w.html
 commentfile: 2010-03-07-book_the_girl_w
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Black Echo"
+title: "Book - The Black Echo"
 permalink: /archives/2008/01/book_the_black_1.html
 commentfile: 2008-01-24-book_the_black_1
 category: culture

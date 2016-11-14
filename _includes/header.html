@@ -1,7 +1,7 @@
 <header>
   <div class="p-logo">
     <h1>
-      <a href="{{ site.baseurl }}" accesskey="1">
+      <a href="/" accesskey="1">
         <img src="/assets/images/transitionelement_logo_whit.gif" width="150" height="150" alt="transitionelement" />
       </a>
     </h1>
@@ -10,7 +10,7 @@
   <nav class="p-nav__nav">
     <ul class="p-nav__links">
       {% for category in site.categories %}<li>
-        <a class="p-nav__link" href="{{ site.baseurl }}/archives/{{ category[0] | replace: ' ', '-' | downcase }}">{{ category[0] }}</a>
+        <a class="p-nav__link" href="{{ site.baseurl }}/archives/{{ category[0] | replace: ' ', '-' | replace: '&-', '' | downcase }}">{{ category[0] }}</a>
       </li>{% endfor %}
       <li>
         <a class="p-nav__link" href="{{ site.baseurl }}/archives">archives</a>

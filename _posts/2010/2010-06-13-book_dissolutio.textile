@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Dissolution"
+title: "Book - Dissolution"
 permalink: /archives/2010/06/book_dissolutio.html
 commentfile: 2010-06-13-book_dissolutio
 category: culture

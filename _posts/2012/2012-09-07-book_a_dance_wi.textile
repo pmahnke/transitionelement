@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; A Dance with Dragons (Song of Ice and Fire)"
+title: "Book - A Dance with Dragons (Song of Ice and Fire)"
 permalink: /archives/2012/09/book_a_dance_wi.html
 commentfile: 2012-09-07-book_a_dance_wi
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; A Storm of Swords"
+title: "Book - A Storm of Swords"
 permalink: /archives/2012/03/book_a_storm_of.html
 commentfile: 2012-03-21-book_a_storm_of
 category: culture

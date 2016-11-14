@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Nothing to Lose"
+title: "Book - Nothing to Lose"
 permalink: /archives/2008/11/book_nothing_to.html
 commentfile: 2008-11-03-book_nothing_to
 category: culture

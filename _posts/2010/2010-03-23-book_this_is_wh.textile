@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; This Is Where I Leave You"
+title: "Book - This Is Where I Leave You"
 permalink: /archives/2010/03/book_this_is_wh.html
 commentfile: 2010-03-23-book_this_is_wh
 category: culture

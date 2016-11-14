@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash;  Notes from a Small Island"
+title: "Book -  Notes from a Small Island"
 permalink: /archives/2004/09/books_notes_fro_1.html
 commentfile: 2004-09-07-books_notes_fro_1
 category: culture
