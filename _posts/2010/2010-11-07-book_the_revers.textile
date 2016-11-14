@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Reversal"
+title: "Book - The Reversal"
 permalink: /archives/2010/11/book_the_revers.html
 commentfile: 2010-11-07-book_the_revers
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Play &mdash; Endgame"
+title: "Play - Endgame"
 permalink: /archives/2004/04/play_endgame.html
 commentfile: 2004-04-22-play_endgame
 category: culture

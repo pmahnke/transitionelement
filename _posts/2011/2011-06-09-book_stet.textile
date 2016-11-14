@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Stet"
+title: "Book - Stet"
 permalink: /archives/2011/06/book_stet.html
 commentfile: 2011-06-09-book_stet
 category: culture

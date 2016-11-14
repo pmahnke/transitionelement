@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concert &mdash; Kings of Leon"
+title: "Concert - Kings of Leon"
 permalink: /archives/2005/06/concert_kings_o_1.html
 commentfile: 2005-06-19-concert_kings_o_1
 category: culture

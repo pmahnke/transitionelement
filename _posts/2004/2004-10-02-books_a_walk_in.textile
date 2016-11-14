@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; A Walk in the Woods"
+title: "Book - A Walk in the Woods"
 permalink: /archives/2004/10/books_a_walk_in.html
 commentfile: 2004-10-02-books_a_walk_in
 category: culture

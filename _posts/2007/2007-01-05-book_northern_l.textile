@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Northern Lights"
+title: "Book - Northern Lights"
 permalink: /archives/2007/01/book_northern_l.html
 commentfile: 2007-01-05-book_northern_l
 category: culture

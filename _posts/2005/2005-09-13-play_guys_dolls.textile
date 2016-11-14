@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Play &mdash; Guys & Dolls"
+title: "Play - Guys & Dolls"
 permalink: /archives/2005/09/play_guys_dolls.html
 commentfile: 2005-09-13-play_guys_dolls
 category: culture

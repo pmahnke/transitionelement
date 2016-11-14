@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Unlikely Pilgrimage of Harold Fry"
+title: "Book - The Unlikely Pilgrimage of Harold Fry"
 permalink: /archives/2012/05/book_the_unlike.html
 commentfile: 2012-05-15-book_the_unlike
 category: culture

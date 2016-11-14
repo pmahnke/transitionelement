@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Back to the Garden"
+title: "Book - Back to the Garden"
 permalink: /archives/2004/12/books_back_to_t.html
 commentfile: 2004-12-15-books_back_to_t
 category: culture

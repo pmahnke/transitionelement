@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Darwin's Radio"
+title: "Book - Darwin's Radio"
 permalink: /archives/2004/07/books_darwins_r.html
 commentfile: 2004-07-20-books_darwins_r
 category: culture

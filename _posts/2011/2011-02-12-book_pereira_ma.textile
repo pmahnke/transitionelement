@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Pereira Maintains"
+title: "Book - Pereira Maintains"
 permalink: /archives/2011/02/book_pereira_ma.html
 commentfile: 2011-02-12-book_pereira_ma
 category: culture

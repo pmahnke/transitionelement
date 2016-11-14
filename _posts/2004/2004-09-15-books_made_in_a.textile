@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Made in America"
+title: "Book - Made in America"
 permalink: /archives/2004/09/books_made_in_a.html
 commentfile: 2004-09-15-books_made_in_a
 category: culture

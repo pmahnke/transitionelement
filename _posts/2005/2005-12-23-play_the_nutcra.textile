@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Play &mdash; The Nutcracker"
+title: "Play - The Nutcracker"
 permalink: /archives/2005/12/play_the_nutcra.html
 commentfile: 2005-12-23-play_the_nutcra
 category: culture

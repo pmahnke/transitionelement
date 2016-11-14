@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Books &mdash; Dublin"
+title: "Books - Dublin"
 permalink: /archives/2006/05/books_dublin.html
 commentfile: 2006-05-14-books_dublin
 category: culture

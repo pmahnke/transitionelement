@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; In Praise of Slow"
+title: "Book - In Praise of Slow"
 permalink: /archives/2005/03/book_in_praise.html
 commentfile: 2005-03-09-book_in_praise
 category: culture

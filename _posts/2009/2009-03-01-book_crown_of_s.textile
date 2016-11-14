@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Crown of Shadows"
+title: "Book - Crown of Shadows"
 permalink: /archives/2009/03/book_crown_of_s.html
 commentfile: 2009-03-01-book_crown_of_s
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Narrows"
+title: "Book - The Narrows"
 permalink: /archives/2008/08/book_the_narrow.html
 commentfile: 2008-08-14-book_the_narrow
 category: culture

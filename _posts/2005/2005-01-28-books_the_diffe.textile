@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Difference Engine"
+title: "Book - The Difference Engine"
 permalink: /archives/2005/01/books_the_diffe.html
 commentfile: 2005-01-28-books_the_diffe
 category: culture

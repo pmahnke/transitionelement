@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; A Clash of Kings HBO Tie-In Edition "
+title: "Book - A Clash of Kings HBO Tie-In Edition "
 permalink: /archives/2012/03/book_a_clash_of.html
 commentfile: 2012-03-14-book_a_clash_of
 category: culture

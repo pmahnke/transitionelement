@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Chronicle of a Blood Merchant"
+title: "Book - Chronicle of a Blood Merchant"
 permalink: /archives/2011/07/book_chronicle.html
 commentfile: 2011-07-26-book_chronicle
 category: culture

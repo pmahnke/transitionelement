@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Five People You Meet in Heaven"
+title: "Book - The Five People You Meet in Heaven"
 permalink: /archives/2005/02/books_the_five.html
 commentfile: 2005-02-23-books_the_five
 category: culture

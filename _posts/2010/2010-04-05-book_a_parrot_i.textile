@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; A Parrot in the Pepper Tree"
+title: "Book - A Parrot in the Pepper Tree"
 permalink: /archives/2010/04/book_a_parrot_i.html
 commentfile: 2010-04-05-book_a_parrot_i
 category: culture

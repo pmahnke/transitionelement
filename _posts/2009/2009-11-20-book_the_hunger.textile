@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Hunger Games"
+title: "Book - The Hunger Games"
 permalink: /archives/2009/11/book_the_hunger.html
 commentfile: 2009-11-20-book_the_hunger
 category: culture

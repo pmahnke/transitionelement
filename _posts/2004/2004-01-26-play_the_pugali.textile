@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Play &mdash; The Pugalist Specialist"
+title: "Play - The Pugalist Specialist"
 permalink: /archives/2004/01/play_the_pugali.html
 commentfile: 2004-01-26-play_the_pugali
 category: culture

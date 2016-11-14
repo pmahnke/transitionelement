@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; At the Edge of Honor"
+title: "Book - At the Edge of Honor"
 permalink: /archives/2005/04/book_at_the_edg.html
 commentfile: 2005-04-09-book_at_the_edg
 category: culture

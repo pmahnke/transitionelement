@@ -18,8 +18,8 @@ This morning we drove to both places, they are only about 300 meters apart, and 
 
 h4. Appearance
 
-|<a href="/assets/images/" title="Selection from Hansel &amp; Pretzel by Peter M, on Flickr"><img src="/assets/images/5192599114_8280e8d2bf_m.jpg" width="240" height="180" class="photo" alt="Selection from Hansel &amp; Pretzel" /></a>|<a href="/assets/images/" title="Selection from _Back Haus_e by Peter M, on Flickr"><img src="/assets/images/5192605096_810dae8840_m.jpg" width="240" height="180" class="photo" alt="Selection from _Back Haus_e" /></a>|
->>>|Hansel & Pretzel|Back Haus|
+|<img src="/assets/images/5192599114_8280e8d2bf_m.jpg" width="240" height="180" class="photo" alt="Selection from Hansel &amp; Pretzel" />|<img src="/assets/images/5192605096_810dae8840_m.jpg" width="240" height="180" class="photo" alt="Selection from _Back Haus_e" />|
+|Hansel & Pretzel|Back Haus|
 
 Well, _Hansel & Pretzel_ really wins hands down.  I will say, _Back Haus_ was having an _off day_ overall, everything was a little less than perfect, but they do have those days.
 
@@ -31,8 +31,8 @@ h4. Results
 
 _The overall winner:_ *Back Haus*
 
-|<a href="/assets/images/" title="Ryan's vote by Peter M, on Flickr"><img src="/assets/images/5192012507_ef378b5960_m.jpg" width="200" class="photo" alt="Ryan's vote" /></a>|<a href="/assets/images/" title="Owen's vote by Peter M, on Flickr"><img src="/assets/images/5192016313_d4dc09d034_m.jpg" width="200" class="photo" alt="Owen's vote" /></a>|
->>>|<a href="/assets/images/" title="Angela's Vote by Peter M, on Flickr"><img src="/assets/images/5192641244_fac6bca0b5_m.jpg" width="200" class="photo" alt="Angela's Vote" /></a>|<a href="/assets/images/" title="Peter's vote by Peter M, on Flickr"><img src="/assets/images/5192048247_94911950f0_m.jpg" width="200" class="photo" alt="Peter's vote" /></a>|
+|<img src="/assets/images/5192012507_ef378b5960_m.jpg" width="200" class="photo" alt="Ryan's vote" />|<img src="/assets/images/5192016313_d4dc09d034_m.jpg" width="200" class="photo" alt="Owen's vote" />|
+|<img src="/assets/images/5192641244_fac6bca0b5_m.jpg" width="200" class="photo" alt="Angela's Vote" />|<img src="/assets/images/5192048247_94911950f0_m.jpg" width="200" class="photo" alt="Peter's vote" />|
 
 Even on an off day, the _Back Haus_ won 3 votes to 1.
 
@@ -48,7 +48,4 @@ h4. Conclusion
 
 Well, it was pretty close really.  Closer than the voting might suggest.  On item not mentioned was the _Kaiser roll_.  Yes, the elusive Kaiser roll is available at _Hansel & Pretzel_ and is very, very good.  You can't get them at _Back Haus_ at all.
 
-I think we will probably take turns going to one and then the other, or perhaps two _Back Haus_ to one _Hansel & Pretzel_ visit.  
-
-
-    
+I think we will probably take turns going to one and then the other, or perhaps two _Back Haus_ to one _Hansel & Pretzel_ visit.

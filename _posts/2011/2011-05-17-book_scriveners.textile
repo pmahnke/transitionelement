@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Scrivener's Moon"
+title: "Book - Scrivener's Moon"
 permalink: /archives/2011/05/book_scriveners.html
 commentfile: 2011-05-17-book_scriveners
 category: culture

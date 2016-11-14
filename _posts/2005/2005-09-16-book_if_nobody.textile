@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; If Nobody Speaks of Remarkable Things"
+title: "Book - If Nobody Speaks of Remarkable Things"
 permalink: /archives/2005/09/book_if_nobody.html
 commentfile: 2005-09-16-book_if_nobody
 category: culture

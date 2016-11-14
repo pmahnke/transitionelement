@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Enemy"
+title: "Book - The Enemy"
 permalink: /archives/2008/01/book_the_enemy.html
 commentfile: 2008-01-14-book_the_enemy
 category: culture

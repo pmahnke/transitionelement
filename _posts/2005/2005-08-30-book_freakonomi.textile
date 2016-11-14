@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Freakonomics"
+title: "Book - Freakonomics"
 permalink: /archives/2005/08/book_freakonomi.html
 commentfile: 2005-08-30-book_freakonomi
 category: culture

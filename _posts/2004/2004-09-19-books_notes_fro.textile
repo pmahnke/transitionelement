@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Notes from a Big Country"
+title: "Book - Notes from a Big Country"
 permalink: /archives/2004/09/books_notes_fro.html
 commentfile: 2004-09-19-books_notes_fro
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exhibition &mdash; China&#58; The Three Emperors"
+title: "Exhibition - China&#58; The Three Emperors"
 permalink: /archives/2006/01/exhibition_chin.html
 commentfile: 2006-01-05-exhibition_chin
 category: culture

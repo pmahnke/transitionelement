@@ -54,6 +54,3 @@ The link with the '+' at the end will show you how many hits there have been.
 h3. Conclusion
 
 So far, the only flaw I have seen is that you can't title the pinboard action.  Not so bad.  I think the guys building "ifttt.com":http://ifttt.com are on to something big.  Granted, the audience will be fairly tech savvy people, but that is a pretty big audience.  And the range of tasks could be more personally useful than for running a website.  For example, I have one that emails me when my sister-in-law posts an article on her blog and one that posts a webpage into Evernote if I tag it in pinboard with the tag 'recipe'.
-
-
-    

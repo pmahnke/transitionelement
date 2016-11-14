@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Poet"
+title: "Book - The Poet"
 permalink: /archives/2008/08/book_the_poet.html
 commentfile: 2008-08-07-book_the_poet
 category: culture

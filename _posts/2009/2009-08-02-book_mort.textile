@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Mort"
+title: "Book - Mort"
 permalink: /archives/2009/08/book_mort.html
 commentfile: 2009-08-02-book_mort
 category: culture

@@ -15,7 +15,7 @@ I love "Google Chrome":http://www.google.com/chrome/intl/en-GB/more/features.htm
 For example, I was trying to go to "www4.scholastic.co.uk/warehousesale":http://www4.scholastic.co.uk/warehousesale and happened to be tailing the error log and found this:
 
 <pre><code>
->>>[Wed Jun 22 12:41:47 2011] [error] File does not exist: /var/www/html/warehousesal
+[Wed Jun 22 12:41:47 2011] [error] File does not exist: /var/www/html/warehousesal
 >>[Wed Jun 22 12:41:48 2011] [error] File does not exist: /var/www/html/warehou
 >[Wed Jun 22 12:41:48 2011] [error] File does not exist: /var/www/html/wareho
 [Wed Jun 22 12:41:48 2011] [error] File does not exist: /var/www/html/wa

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Predator's Gold"
+title: "Book - Predator's Gold"
 permalink: /archives/2009/04/book_predators.html
 commentfile: 2009-04-18-book_predators
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Leviathan"
+title: "Book - Leviathan"
 permalink: /archives/2010/12/book_leviathan.html
 commentfile: 2010-12-20-book_leviathan
 category: culture

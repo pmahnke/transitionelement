@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Books &mdash; Doctored Evidence"
+title: "Books - Doctored Evidence"
 permalink: /archives/2006/06/books_doctored.html
 commentfile: 2006-06-19-books_doctored
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Fever Crumb"
+title: "Book - Fever Crumb"
 permalink: /archives/2009/05/book_fever_crum.html
 commentfile: 2009-05-05-book_fever_crum
 category: culture

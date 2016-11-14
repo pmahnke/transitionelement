@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Gone Tomorrow"
+title: "Book - Gone Tomorrow"
 permalink: /archives/2010/02/book_gone_tomor.html
 commentfile: 2010-02-16-book_gone_tomor
 category: culture

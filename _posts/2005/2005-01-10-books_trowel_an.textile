@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Trowel and Error"
+title: "Book - Trowel and Error"
 permalink: /archives/2005/01/books_trowel_an.html
 commentfile: 2005-01-10-books_trowel_an
 category: culture

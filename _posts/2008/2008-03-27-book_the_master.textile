@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Master and Margarita"
+title: "Book - The Master and Margarita"
 permalink: /archives/2008/03/book_the_master.html
 commentfile: 2008-03-27-book_the_master
 category: culture

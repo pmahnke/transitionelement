@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Amber Spyglass"
+title: "Book - The Amber Spyglass"
 permalink: /archives/2007/01/book_the_amber.html
 commentfile: 2007-01-14-book_the_amber
 category: culture

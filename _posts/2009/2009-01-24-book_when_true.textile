@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; When True Night Falls"
+title: "Book - When True Night Falls"
 permalink: /archives/2009/01/book_when_true.html
 commentfile: 2009-01-24-book_when_true
 category: culture

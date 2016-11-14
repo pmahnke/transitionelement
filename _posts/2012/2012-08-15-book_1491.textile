@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; 1491"
+title: "Book - 1491"
 permalink: /archives/2012/08/book_1491.html
 commentfile: 2012-08-15-book_1491
 category: culture

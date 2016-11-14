@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Mortal Engines"
+title: "Book - Mortal Engines"
 permalink: /archives/2009/04/book_mortal_eng.html
 commentfile: 2009-04-08-book_mortal_eng
 category: culture

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Persuader"
+title: "Book - Persuader"
 permalink: /archives/2008/01/book_persuader.html
 commentfile: 2008-01-07-book_persuader
 category: culture

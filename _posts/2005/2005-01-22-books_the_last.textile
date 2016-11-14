@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Last Lighthouse Keeper"
+title: "Book - The Last Lighthouse Keeper"
 permalink: /archives/2005/01/books_the_last.html
 commentfile: 2005-01-22-books_the_last
 category: culture

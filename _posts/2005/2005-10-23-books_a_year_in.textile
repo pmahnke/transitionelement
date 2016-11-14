@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Books &mdash; A Year in Provence "
+title: "Books - A Year in Provence "
 permalink: /archives/2005/10/books_a_year_in.html
 commentfile: 2005-10-23-books_a_year_in
 category: culture

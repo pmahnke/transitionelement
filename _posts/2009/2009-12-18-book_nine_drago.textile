@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Nine Dragons"
+title: "Book - Nine Dragons"
 permalink: /archives/2009/12/book_nine_drago.html
 commentfile: 2009-12-18-book_nine_drago
 category: culture

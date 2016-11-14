@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Dark Fire"
+title: "Book - Dark Fire"
 permalink: /archives/2010/07/book_dark_fire.html
 commentfile: 2010-07-22-book_dark_fire
 category: culture

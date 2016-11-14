@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Faithful Spy"
+title: "Book - The Faithful Spy"
 permalink: /archives/2008/11/book_the_faithf.html
 commentfile: 2008-11-23-book_the_faithf
 category: culture

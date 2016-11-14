@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; Bon Appetit!&#58; Travels Through France with Knife, Fork and Corkscrew"
+title: "Book - Bon Appetit!&#58; Travels Through France with Knife, Fork and Corkscrew"
 permalink: /archives/2005/11/book_bon_appeti.html
 commentfile: 2005-11-07-book_bon_appeti
 category: culture

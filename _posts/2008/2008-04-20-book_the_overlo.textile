@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book &mdash; The Overlook"
+title: "Book - The Overlook"
 permalink: /archives/2008/04/book_the_overlo.html
 commentfile: 2008-04-20-book_the_overlo
 category: culture
