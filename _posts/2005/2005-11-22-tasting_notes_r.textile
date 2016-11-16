@@ -15,14 +15,10 @@ date: 2005-11-22 21:38:30
 
 |Rating (out&nbsp;of&nbsp;5)|<strong>***&frac12;</strong>|
 Brewer|"Fox Brewery":http://www.foxbrewery.co.uk/
->>22,Station Road
->Heacham
+22,Station Road
+Heacham
 Norfolk PE31 7EX|
 |Region|East Anglia|
 |ABV|4.2%|
 |Type|Ale|
 |Tasting notes|Red and smooth.  Lovely hoppy finish.  Sweet, but not too much.|
-
-
-
-    
