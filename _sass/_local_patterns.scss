@@ -53,18 +53,6 @@ a {
 .section {
   padding-bottom: 2rem;
   padding-top: 2rem;
-
-  img {
-    display: block;
-    margin: auto;
-  }
-
-  &.row-articles {
-    img {
-      height: auto;
-      width: 300px;
-    }
-  }
 }
 
 .posted {
@@ -118,4 +106,8 @@ a {
   h4{
     color: $color-light;
   }
+}
+
+.inline-image {
+  display: inline;
 }
