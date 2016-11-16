@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<a href="/assets/images/olympic_finn.jpg"><img src="/assets/images/olympic_finn-thumb.jpg" width="200" height="149" border="0" alt="Finn Sailing, Race 5, final windward leg at the Althens Olympics" class="img_plain"/></a>
+<a href="/assets/images/olympic_finn.jpg"><img src="/assets/images/olympic_finn.jpg" width="500"alt="Finn Sailing, Race 5, final windward leg at the Althens Olympics" class="img_plain"/></a>
 
 Wow, what a difference in Olympic coverage, BBC compared to any US Network.
 
