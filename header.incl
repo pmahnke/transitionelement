@@ -1,0 +1,15 @@
+---
+---
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+<section class="row">
+  <div class="strip-inner-wrapper">
+    <div class="prefix-1 col-4 suffix-1">
+{% include header.html %}
+    </div>
+
+    <div class="post-content col-6">
