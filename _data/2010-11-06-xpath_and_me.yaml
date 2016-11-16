@@ -1,0 +1,10 @@
+
+- author: Ed Randall
+  date:   2013-06-05 23:45:53
+  comment: |
+    <p>Hi Peter,</p>  <p>on the topic of scraping, this site might interest you: <a href="http://www.scraperwiki.com">www.scraperwiki.com</a></p>  <p>(my personal scrape attempts are here: <a href="https://scraperwiki.com/profiles/edrandall/">scraperwiki.com/profiles/edrandall/</a> )</p>
+
+- author: Ed Randall
+  date:   2013-06-05 23:52:53
+  comment: |
+    <p>A while back I found Java library called JTidy (also named HTMLTidy maybe) which cleans badly-formed HTML into a DOM which can then be selected using XPath.  Possibly there is a Perl equivalent. I used it to scrape a daily cartoon strip image from the publishers graphics-laden website onto a personal intranet page ;)</p>
