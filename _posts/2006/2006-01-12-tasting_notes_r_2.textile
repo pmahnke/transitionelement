@@ -14,8 +14,8 @@ date: 2006-01-12 15:30:10
 
 |Rating (out&nbsp;of&nbsp;5)|<strong>****</strong>|
 Brewer|"Woodforde's Norfolk Ales":http://www.woodfordes.co.uk/
->>Broadland Brewery
->Woodbastwick
+Broadland Brewery
+Woodbastwick
 Norwich
 Norfolk
 NR13 6SW|
@@ -24,7 +24,3 @@ NR13 6SW|
 |ABV|4.5%|
 |Type|Ale|
 |Tasting notes|A nearly perfect bitter.  Lots of fruit, great finish.|
-
-
-
-    

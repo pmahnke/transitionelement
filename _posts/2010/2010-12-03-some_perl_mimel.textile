@@ -54,36 +54,36 @@ Here is some code...
 
 <pre><code>
 ################################################################################
->>sub email {
->
+sub email {
+
     # Create the multipart "container":
 
     MIME::Lite->send("sendmail", "/usr/sbin/sendmail -t -oi -oem >& /dev/null");
->>    $msg = MIME::Lite->new(
->>       From    =>$FORM{'from'},
->>       Cc      =>$FORM{'cc'},
->>       Bcc     =>$FORM{'bcc'},
->>       Subject =>$FORM{'subject'},
->>       Disposition => 'inline',
->>       Type    =>'multipart/related'
->>       );
->    $msg->attr("content-type.charset" => "UTF-8");
+    $msg = MIME::Lite->new(
+       From    =>$FORM{'from'},
+       Cc      =>$FORM{'cc'},
+       Bcc     =>$FORM{'bcc'},
+       Subject =>$FORM{'subject'},
+       Disposition => 'inline',
+       Type    =>'multipart/related'
+       );
+    $msg->attr("content-type.charset" => "UTF-8");
 
 
     # parse the images in the HTML
     my $html = &parseHTMLinlineImages($FORM{'html'});
-    
+
     # convert to utf8, not a requirement for everyone....
-    $html = encode("utf8", $html); 
-    
+    $html = encode("utf8", $html);
+
     # Add the html itself:
     $msg->attach(
->>       Type     =>'text/html',
->>       Data     => $html,
->>       );
->
+       Type     =>'text/html',
+       Data     => $html,
+       );
+
     $msg->scrub(['content-disposition', 'content-length']);
->>    $msg->send;
+    $msg->send;
 
     return();
 }
@@ -95,23 +95,23 @@ sub parseHTMLinlineImages {
 
     my ($in, $out);
     my @lines = split (/\n/, $_[0]);
-    
+
     foreach (@lines) {
-    
+
         if (/<img/) {
-        
+
             # in image tag
             if (/src="(.[^"]*)"/i) {
-    
+
       # deal with the image itself
       my $img = &prepAttachImg($1);
-      
-      # change the html to reference the attached image 
+
+      # change the html to reference the attached image
       # e.g. <img src="cid: ... " .../>
->>      s/$1/cid:$img/g;
->            }
-        }    
-        $out .= "$_\n";        
+      s/$1/cid:$img/g;
+            }
+        }
+        $out .= "$_\n";
     }
     return($out);
 }
@@ -120,58 +120,56 @@ sub parseHTMLinlineImages {
 sub prepAttachImg {
 
     # deal with physical images and make them into MIME::Lite attachments
-    
+
     my $/assets/images/ = $_[0];
     my ($filename, $fileloc) = "";
 
     $filename = basename($/assets/images/); # using File::Basename to get the file name only
-    
+
     # see if local or not
     if ($/assets/images/ =~ /http/) {
-        
+
         # not local, so wget the file, etc...
         $fileloc = "/tmp/".$filename; # where to save the file
 
         # test to see if we already have it
         if (!-e "$fileloc") {
-        
-            # no it isn't already in tmp, so wget it    
+
+            # no it isn't already in tmp, so wget it
             `/usr/bin/wget --quiet --output-document=$fileloc $/assets/images/`;
-            
-        } 
-        
+
+        }
+
     } else {
-        
+
         # test if it is actually where we think it should be on the server
         if (!-e "$/assets/images/") {
-        
+
             # file not found
             $mesg .= qq |file not found<br />$/assets/images/ $filename|;
->>            &printERROR();
->            exit;
-        
+            &printERROR();
+            exit;
+
         } else {
-            
+
             # is it on the srever where it says, so don't even move it...
             $fileloc = $/assets/images/;
 
         }
     }
-    
+
     # set the mime type for MIME::Lite
     my $mimetype = $1 if ($/assets/images/ =~ /\.(gif|jpg|png)/);
     $mimetype = "jpeg" if ($mimetype =~ /jpg/i);
-    
+
     # attach it to the already open $msg
     $msg->attach(
->>        Type => 'image/'.$mimetype, 
->>        Id   => $filename, 
->>        Path => $fileloc,
->>    );
->    
+        Type => 'image/'.$mimetype,
+        Id   => $filename,
+        Path => $fileloc,
+    );
+
     return($filename); # return the pathless filename
 
 }
 </code></pre>
-
-    
