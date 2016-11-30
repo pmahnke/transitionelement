@@ -16,7 +16,7 @@ date: 2011-07-07 22:23:57
 
 Each channel can be a *this* (something to be watched for an event) and a *that* (something to receive data), each channel provides slightly different data to play with and each channel has different set of 'triggers' (e.g. search, search by tag, new, etc...)  Currently there are 33 channels, ranging from Flickr to Weather to Instapaper to Gmail.  You put together these into 'tasks'.
 
-I was going to share how I am using "ifttt.com":http://ifttt.com for the "St Margarets Community Website":http://www.stmgrts.org.uk a hyperlocal site I run.
+I was going to share how I am using "ifttt.com":http://ifttt.com for the "St Margarets Community Website":https://stmargarets.london a hyperlocal site I run.
 
 h3. Weather Tweets
 

@@ -29,7 +29,7 @@ When we first moved to the UK, I used to think it must be me.  That I didn't ful
 
 <a href="/assets/images/www.stmgrts.co.uk"><img alt="stmgrts.co.uk weather icon" src="/assets/images/stmgrt-weather-thumb.jpg" width="194" height="159" class="photo right"/></a>
 >
-When I was building the "St Margarets Community Website":http://www.stmgrts.org.uk, I found "Met Check":http://www.metcheck.co.uk and thought they looked a little better; however, over time, I feel they are really just the same as the Met/BBC.  (_Eventually, I ended up parsing the METAR aviation files for the current weather and linking to Met Check.)
+When I was building the "St Margarets Community Website":https://stmargarets.london, I found "Met Check":http://www.metcheck.co.uk and thought they looked a little better; however, over time, I feel they are really just the same as the Met/BBC.  (_Eventually, I ended up parsing the METAR aviation files for the current weather and linking to Met Check.)
 
 
 When you compare the UK weather forecasts to the United States, you can see what I mean.  Now, to be fair, the US seems almost a little weather crazy.  The weather portion of the news in the US has grown incredibly.  It has taken up larger and larger portions of news shows.  There is even a cable television channel that is exclusively about weather, ironically called "The Weather Channel":http://www.weather.com/.  However, if you look at a typical forecast, it contains so much more detail, more detail and so many more radar images that it is perhaps too much for most people.
