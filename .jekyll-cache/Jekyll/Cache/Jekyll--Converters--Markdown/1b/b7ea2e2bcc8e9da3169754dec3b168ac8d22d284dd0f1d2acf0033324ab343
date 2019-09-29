@@ -1,0 +1,46 @@
+I"K<p><a href="/assets/images/iftt-logo.jpg" title="See larger version of - ifttt logo"><img src="/assets/images/iftt-logo_thumb.jpg" width="296" height="167" alt="ifttt logo" class=" center" /></a></p>
+
+<p><a href="http://ifttt.com"><em>if <strong>this</strong> then <strong>that</strong></em></a> is a new service whose aim is to connect various web apps together via their APIs. The concept is very simple, each site is a <em>channel</em> and you can create tasks between any of them, for example:</p>
+
+<p><strong>If</strong> <em>there is a new post on an RSS feed</em> <strong>then</strong> <em>email me on gmail</em></p>
+
+<p>Each channel can be a <strong>this</strong> (something to be watched for an event) and a <strong>that</strong> (something to receive data), each channel provides slightly different data to play with and each channel has different set of ‘triggers’ (e.g. search, search by tag, new, etc…) Currently there are 33 channels, ranging from Flickr to Weather to Instapaper to Gmail. You put together these into ‘tasks’.</p>
+
+<p>I was going to share how I am using <a href="http://ifttt.com">ifttt.com</a> for the <a href="https://stmargarets.london">St Margarets Community Website</a> a hyperlocal site I run.</p>
+
+<h3 id="weather-tweets">Weather Tweets</h3>
+
+<p><a href="/assets/images/ifttt_weather.jpg" title="See larger version of - IFTT weather task"><img src="/assets/images/ifttt_weather_thumb.jpg" width="470" height="156" alt="IFTT weather task" class=" center" /></a></p>
+
+<p>I just started tweeting on the St Margarets Community Website. I am aiming for around three tweets a day. One obvious one was the weather and since we live in England, the rain is what I was interested in. <a href="http://ifttt.com">ifttt.com</a> provides seven triggers for weather. I choose <strong>Tomorrow’s forecast calls for…</strong> and the condition <em>rain</em>. Then I simply have to pick the action <em>post a new tweet</em> and format the text the way I want it to appear.</p>
+
+<p><a href="/assets/images/iftt_tweet_weather.jpg" title="See larger version of - weather tweet"><img src="/assets/images/iftt_tweet_weather_thumb.jpg" width="307" height="60" alt="weather tweet" class=" center" /></a></p>
+
+<p>Sadly, this has been tweeted nearly 50% of the days it has been running.</p>
+
+<h3 id="tweeting-new-posts">Tweeting New Posts</h3>
+
+<p><a href="/assets/images/ifttt_task_rss.jpg" title="See larger version of - ifttt rss task"><img src="/assets/images/ifttt_task_rss_thumb.jpg" width="470" height="162" alt="ifttt rss task" class=" center" /></a></p>
+
+<p>This task watches my <em>rss feed</em> and triggers when there is a new item. It then simply tweets the post title with a <a href="http://bit.ly">bit.ly</a> url.</p>
+
+<p><a href="/assets/images/ifttt_tweet_post.jpg" title="See larger version of - new post tweet"><img src="/assets/images/ifttt_tweet_post_thumb.jpg" width="307" height="56" alt="new post tweet" class=" center" /></a></p>
+
+<p>You might notice a hash-tag <em>#new</em> on the tweet. I use this for the next task.</p>
+
+<h3 id="saving-new-tweets-to-pinboard">Saving #new Tweets to Pinboard</h3>
+
+<p><a href="/assets/images/ifttt_pinboard.jpg" title="See larger version of - ifttt pinboard task"><img src="/assets/images/ifttt_pinboard_thumb.jpg" width="470" height="167" alt="ifttt pinboard task" class=" center" /></a></p>
+
+<p>So, the previous tasks are very useful and save me a fair bit of time. However, this task is where you can see some of the real power of <a href="http://ifttt.com">ifttt.com</a>.</p>
+
+<p>The previous task posted a tweet with a specific hash-tag. This task looks for tweets on my account with that hash-tag and then posts them to “pinboard:http://pinboard.in. Not only that, it allows me to add them with the <a href="http://bit.ly">bit.ly</a> link for more information. So now, every new post tweet saves the <a href="http://bit.ly">bit.ly</a> short url in <a href="http://pinboard.in">pinboard</a> and allows me to see how many people click on the links.</p>
+
+<p><a href="/assets/images/ifttt_pinboard_link.jpg" title="See larger version of - pinboard"><img src="/assets/images/ifttt_pinboard_link_thumb.jpg" width="470" height="78" alt="pinboard" class=" center" /></a></p>
+
+<p>The link with the ‘+’ at the end will show you how many hits there have been.</p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>So far, the only flaw I have seen is that you can’t title the pinboard action. Not so bad. I think the guys building <a href="http://ifttt.com">ifttt.com</a> are on to something big. Granted, the audience will be fairly tech savvy people, but that is a pretty big audience. And the range of tasks could be more personally useful than for running a website. For example, I have one that emails me when my sister-in-law posts an article on her blog and one that posts a webpage into Evernote if I tag it in pinboard with the tag ‘recipe’.</p>
+:ET
