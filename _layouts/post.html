@@ -12,7 +12,7 @@ layout: default
       </p>
 
       <p>category:
-        {% for category in page.categories %}<a href="{{ site.baseurl }}/archives/{{ category | replace: ' ', '-' | replace: '&-', ''  | downcase }}">{{ category }}</a>{{ if page.next.categories }}, {{ endif }} {% endfor %}
+        {% for category in page.categories %}<a href="{{ site.baseurl }}/archives/{{ category | replace: ' ', '-' | replace: '&-', ''  | downcase }}">{{ category }}</a>{% if page.next.categories %}, {% endif %} {% endfor %}
       </p>
 
       <div class="">
