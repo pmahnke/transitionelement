@@ -19,7 +19,7 @@ exclude:
     - node_modules
 
 # gems
-gems:
+plugins:
   - jekyll-archives
   - jekyll-textile-converter
 
