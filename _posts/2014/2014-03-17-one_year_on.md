@@ -5,10 +5,8 @@ permalink: /archives/2014/03/one_year_on.html
 commentfile: 2014-03-17-one_year_on
 category: life in the UK
 date: 2014-03-17 19:37:41
-
 ---
-
-<a href="/assets/images/" title="Bob in the den by Peter M, on Flickr"><img src="/assets/images/8647994283_6fe46df021.jpg" width="500" height="338" alt="Bob in the den"></a>
+<a href="/assets/images/8647994283_6fe46df021.jpg" title="Bob in the den by Peter M, on Flickr"><img src="/assets/images/8647994283_6fe46df021.jpg" width="500" height="338" alt="Bob in the den"></a>
 
 It has been a year since my father died.
 
