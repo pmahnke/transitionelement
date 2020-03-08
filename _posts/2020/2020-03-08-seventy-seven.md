@@ -6,6 +6,7 @@ commentfile: 2020-03-08-seventy-seven
 category: life in the UK
 date: 2020-03-08 15:47:16
 ---
+
 <a href="/assets/images/2020/bob_at_wright-street.jpg" title="Click for a larger image"><img src="/assets/images/2020/bob_at_wright-street-thumb.jpg" width="500" alt="Image - bob_at_wright-street" /></a>
 
 Today would have been my father's seventy seventh birthday.  I still think about him every day and often wonder what he would think about things.  I figure that he would support Trump just to upset my mom and confuse everyone that though of him as an intellectual.
