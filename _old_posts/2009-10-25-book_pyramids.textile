@@ -18,7 +18,7 @@ h4. Pyramids (Discworld Novels)
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>It's bad enough being new on the job, but Teppic hasn't a clue as to what a pharaoh is supposed to do. After all, he's been trained at Ankh-Morpork's famed assassins' school, across the sea from the Kingdom of the Sun.First, there's the monumental task of building a suitable resting place for Dad -- a pyramid to end all pyramids. Then there are the myriad administrative duties, such as dealing with mad priests, sacred crocodiles, and marching mummies. And to top it all off, the adolescent pharaoh discovers deceit, betrayal -- not to mention a headstrong handmaiden -- at the heart of his realm.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>It's bad enough being new on the job, but Teppic hasn't a clue as to what a pharaoh is supposed to do. After all, he's been trained at Ankh-Morpork's famed assassins' school, across the sea from the Kingdom of the Sun.First, there's the monumental task of building a suitable resting place for Dad -- a pyramid to end all pyramids. Then there are the myriad administrative duties, such as dealing with mad priests, sacred crocodiles, and marching mummies. And to top it all off, the adolescent pharaoh discovers deceit, betrayal -- not to mention a headstrong handmaiden -- at the heart of his realm.</em></div>
 
 Pratchett back on form in this one.  I love the camel! 
 

@@ -18,7 +18,7 @@ h4. A Darkling Plain
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9733;
 
-<div class="book_synopsis">Synopsis: <em>The once-great traction city of London is now just a radioactive wreck, a ruin haunted by electrical discharges and the dashed hopes of the people who once called it home—people like Tom Natsworthy. Twenty years after he fled, intending never to return, he discovers that something stirs in the remains of the old city.
+<div class="book_synopsis" markdown="1">Synopsis: <em>The once-great traction city of London is now just a radioactive wreck, a ruin haunted by electrical discharges and the dashed hopes of the people who once called it home—people like Tom Natsworthy. Twenty years after he fled, intending never to return, he discovers that something stirs in the remains of the old city.
 
 Tom and his daughter, Wren, aren't the only people interested in London. The desperate armies of the Traction Cities and the Green Storm are also closing in, certain that whatever is taking shape within the city holds the key to victory in their never-ending war.
 

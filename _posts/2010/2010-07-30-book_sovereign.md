@@ -5,7 +5,6 @@ permalink: /archives/2010/07/book_sovereign.html
 commentfile: 2010-07-30-book_sovereign
 category: culture
 date: 2010-07-30 15:43:14
-
 ---
 
 <img class="photo right" src="/assets/images/0330436082.jpg" width="250" alt="Sovereign (Shardlake) cover" />
@@ -18,7 +17,7 @@ date: 2010-07-30 15:43:14
 
 Rating: ★★★★★
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>Autumn, 1541. King Henry VIII has set out on a spectacular Progress to the North to attend an extravagant submission of his rebellious subjects in York.
 
 Already in the city are lawyer Matthew Shardlake and his assistant Jack Barak. As well as assisting with legal work processing petitions to the King, Shardlake has reluctantly undertaken a special mission – to ensure the welfare of an important but dangerous conspirator being returned to London for interrogation.

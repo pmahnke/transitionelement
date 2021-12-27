@@ -18,7 +18,7 @@ h4. Pereira Maintains
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9733;
 
-<div class="book_synopsis">Synopsis: <em>In the sweltering summer of 1938 in Portugal, a country under the fascist shadow of Spain, a mysterious young man arrives at the doorstep of Dr Pereira. So begins an unlikely alliance that will result in a devastating act of rebellion. This is Pereira's testimony.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>In the sweltering summer of 1938 in Portugal, a country under the fascist shadow of Spain, a mysterious young man arrives at the doorstep of Dr Pereira. So begins an unlikely alliance that will result in a devastating act of rebellion. This is Pereira's testimony.</em></div>
 
 Just the most amazing book.
 

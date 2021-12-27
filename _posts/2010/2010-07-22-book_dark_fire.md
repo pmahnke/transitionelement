@@ -5,7 +5,6 @@ permalink: /archives/2010/07/book_dark_fire.html
 commentfile: 2010-07-22-book_dark_fire
 category: culture
 date: 2010-07-22 15:37:17
-
 ---
 
 <img class="photo right" src="/assets/images/0330450786.jpg" width="250" alt="Dark Fire (Shardlake) cover" />
@@ -18,7 +17,7 @@ date: 2010-07-22 15:37:17
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>It is 1540 and the hottest summer of the sixteenth century. Matthew Shardlake, believing himself out of favour with Thomas Cromwell, is busy trying to maintain his legal practice and keep a low profile. But his involvement with a murder case, defending a girl accused of brutally murdering her young cousin, brings him once again into contact with the king’s chief minister – and a new assignment ...
 
 The secret of Greek Fire, the legendary substance with which the Byzantines destroyed the Arab navies, has been lost for centuries. Now an official of the Court of Augmentations has discovered the formula in the library of a dissolved London monastery. When Shardlake is sent to recover it, he finds the official and his alchemist brother brutally murdered – the formula has disappeared.

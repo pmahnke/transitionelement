@@ -21,7 +21,7 @@ h4. The Ghost Map
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">Synopsis: <em>The Ghost Map takes place in the summer of 1854. A devastating cholera outbreak seizes London just as it is emerging as a modern city: more than 2 million people packed into a ten-mile circumference, a hub of travel and commerce, teeming with people from all over the world, continually pushing the limits of infrastructure that's outdated as soon as it's updated. Dr. John Snow--whose ideas about contagion had been dismissed by the scientific community--is spurred to intense action when the people in his neighborhood begin dying.
+<div class="book_synopsis" markdown="1">Synopsis: <em>The Ghost Map takes place in the summer of 1854. A devastating cholera outbreak seizes London just as it is emerging as a modern city: more than 2 million people packed into a ten-mile circumference, a hub of travel and commerce, teeming with people from all over the world, continually pushing the limits of infrastructure that's outdated as soon as it's updated. Dr. John Snow--whose ideas about contagion had been dismissed by the scientific community--is spurred to intense action when the people in his neighborhood begin dying.
 With enthralling suspense, Johnson chronicles Snow's day-by-day efforts, as he risks his own life to prove how the epidemic is being spread.
 >><br/><br/>
 When he creates the map that traces the pattern of outbreak back to its source, Dr. Snow didn't just solve the most pressing medical riddle of his time. He ultimately established a precedent for the way modern city-dwellers, city planners, physicians, and public officials think about the spread of disease and the development of the modern urban environment.</em></div>

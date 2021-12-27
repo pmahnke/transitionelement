@@ -5,7 +5,6 @@ permalink: /archives/2010/06/book_over_sea_u.html
 commentfile: 2010-06-23-book_over_sea_u
 category: culture
 date: 2010-06-23 15:25:05
-
 ---
 
 <img class="photo right" src="/assets/images/0140303626.jpg" width="250" alt="Over Sea, Under Stone (Puffin Books) cover" />
@@ -18,14 +17,14 @@ date: 2010-06-23 15:25:05
 
 Rating: ★★★☆☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em> This is the first of the five books which form Susan Cooper's The Dark Is Rising sequence. Three children, on holiday in Cornwall, discover an ancient map which leads them into a search for a buried grail. </em>
 
 </div>
 While I found this more suspenseful than *Dark is Rising*, I felt that this was:
 
--   too English
--   too Enid Blyton
--   too childish
+- too English
+- too Enid Blyton
+- too childish
 
 However, if you are reading the whole \_Dark is Rising sequence then I guess you should read it.

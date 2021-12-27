@@ -18,7 +18,7 @@ h4. Nothing to Lose
 
 Rating: &#9733;&#9733;&#9733;&frac12;
 
-<div class="book_synopsis">Synopsis: <em>Two small towns in Colorado: Hope and Despair. Between them, nothing but twelve miles of empty road. Jack Reacher can't find a ride, so he walks. All he wants is a cup of coffee. What he gets are four redneck deputies who want to run him out of town. Mistake. They're picking on the wrong guy. Jack Reacher is a big man, and he's in shape. No job, no address, no baggage. Nothing, except bloody-minded curiosity. What is the secret the locals seem so keen to hide? A hard man is good to find. Ex-military cop Reacher is today's most addictive hero. Now he pulls on a tiny loose thread, to unravel conspiracies that expose the most shocking truths. Because, after all, Jack Reacher has nothing to lose.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>Two small towns in Colorado: Hope and Despair. Between them, nothing but twelve miles of empty road. Jack Reacher can't find a ride, so he walks. All he wants is a cup of coffee. What he gets are four redneck deputies who want to run him out of town. Mistake. They're picking on the wrong guy. Jack Reacher is a big man, and he's in shape. No job, no address, no baggage. Nothing, except bloody-minded curiosity. What is the secret the locals seem so keen to hide? A hard man is good to find. Ex-military cop Reacher is today's most addictive hero. Now he pulls on a tiny loose thread, to unravel conspiracies that expose the most shocking truths. Because, after all, Jack Reacher has nothing to lose.</em></div>
 
 Same Jack Reacher, but amazingly the story was told differently, with a slight distance.  It works, but not sure if I like the new narrative tone.
 

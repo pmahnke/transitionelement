@@ -5,7 +5,6 @@ permalink: /archives/2008/02/book_the_black.html
 commentfile: 2008-02-06-book_the_black
 category: culture
 date: 2008-02-06 21:44:14
-
 ---
 
 <img class="photo right" src="/assets/images/0446613444.jpg" width="250" alt="The Black Ice (Harry Bosch) cover" />
@@ -18,7 +17,7 @@ date: 2008-02-06 21:44:14
 
 Rating: ★★★☆☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>When a body is found in a hotel room, the press soon pick up on the case: it appears to be the body of a missing LAPD narcotics officer, apparently gone to the bad. The rumours were that he had been selling a new drug called Black Ice that had been infiltrating Los Angeles from Mexico. The LAPD are quick to declare the death as a suicide, but Harry Bosch is not so sure. There are odd, unexplained details from the crime scene which just don't add up. Fighting an attraction to the cop's widow, Bosh starts his own maverick investigation, which soon leads him over the borders, and into a dangerous world of shifting identities and deadly corruption...</em>
 
 </div>

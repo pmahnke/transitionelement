@@ -5,7 +5,6 @@ permalink: /archives/2011/02/book_pereira_ma.html
 commentfile: 2011-02-12-book_pereira_ma
 category: culture
 date: 2011-02-12 09:16:44
-
 ---
 
 <img class="photo right" src="/assets/images/1847679366.jpg" width="250" alt="Pereira Maintains cover" />
@@ -18,7 +17,7 @@ date: 2011-02-12 09:16:44
 
 Rating: ★★★★★
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>In the sweltering summer of 1938 in Portugal, a country under the fascist shadow of Spain, a mysterious young man arrives at the doorstep of Dr Pereira. So begins an unlikely alliance that will result in a devastating act of rebellion. This is Pereira's testimony.</em>
 
 </div>

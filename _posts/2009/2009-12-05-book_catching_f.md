@@ -5,7 +5,6 @@ permalink: /archives/2009/12/book_catching_f.html
 commentfile: 2009-12-05-book_catching_f
 category: culture
 date: 2009-12-05 21:45:54
-
 ---
 
 <img class="photo right" src="/assets/images/1407109367.jpg" width="250" alt="Catching Fire (Hunger Games, Book 2) cover" />
@@ -18,7 +17,7 @@ date: 2009-12-05 21:45:54
 
 Rating: ★★★½☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em> After winning the brutal Hunger Games, Katniss Everdeen returns to her district, hoping for a peaceful future. But Katniss starts to hear rumours of a deadly rebellion against the Capitol. A rebellion that she and Peeta have helped to create. As Katniss and Peeta are forced to visit the districts on the Capitol's </em>
 
 </div>
