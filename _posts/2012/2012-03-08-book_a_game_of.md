@@ -1,14 +1,11 @@
 ---
 layout: post
-title: "Book - A Game of Thrones HBO Tie-In Edition "
+title: "Book - A Game of Thrones"
 permalink: /archives/2012/03/book_a_game_of.html
 commentfile: 2012-03-08-book_a_game_of
 category: culture
 date: 2012-03-08 20:58:29
 excerpt: |
-
-
-
 ---
 
 <img class="photo right" src="/assets/images/0553386794.jpg" width="250" alt="A Game of Thrones HBO Tie-In Edition  cover" />
@@ -21,7 +18,7 @@ excerpt: |
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>Long ago, in a time long forgotten, a mysterious event threw the seasons of the world out of balance. Now the kingdom is blessed by golden summers that go on for years, and cursed by cruel winters that can last a generation. In the cool north of this kingdom is a castle, and a royal family ruled by Eddard Stark.
 
 "For as Ned Stark's kingdom is assailed from the south by the poisonous plots of the rival house of the Lannisters, an even greater danger threatens his northern border: the un-earthly demons of legend, the Neverborn. And across the sea, the barbarian hordes are amassing. Dark times undoubtedly lie ahead. . . ."

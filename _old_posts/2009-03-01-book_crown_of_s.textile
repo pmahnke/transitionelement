@@ -18,7 +18,7 @@ h4. Crown of Shadows (Coldfire Trilogy)
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>Despite opposition by his Patriarch, warrior priest Damien Vryce again seeks the assistance of the immortal sorcerer Gerald Tarrant. While racing against time to prevent the enslavement of their world, the two men find themselves trapped between justice and retribution. Betrayal and loyalty assume ironic forms in this conclusion to Friedman's complex and compelling Cold Fire Trilogy. The richly detailed setting and strong supporting characters give substance to a tale that explores the consequences of embracing evil in the hope of achieving its redemption.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>Despite opposition by his Patriarch, warrior priest Damien Vryce again seeks the assistance of the immortal sorcerer Gerald Tarrant. While racing against time to prevent the enslavement of their world, the two men find themselves trapped between justice and retribution. Betrayal and loyalty assume ironic forms in this conclusion to Friedman's complex and compelling Cold Fire Trilogy. The richly detailed setting and strong supporting characters give substance to a tale that explores the consequences of embracing evil in the hope of achieving its redemption.</em></div>
 
 Good book, but I felt like it was rushing to resolve itself.  It introduced a lot of new complexity on the planet that I am not sure was required.  The end was slightly confusing for no reason I could discern.
 

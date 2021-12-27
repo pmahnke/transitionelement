@@ -18,7 +18,7 @@ h4. The Narrows (Harry Bosch)
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>Former FBI agent Rachel Walling is in Italy when she gets the call she's been dreading for four years. The Poet is back. And he has not forgotten Rachel. He has a special present for her. Harry Bosch is adjusting to life in Las Vegas as a private investigator and a new father. He gets a call, too - from the widow of a friend who died recently. Previously in his FBI career, the friend worked on the famous case tracking the killer known as The Poet. That fact makes some of the elements of his death doubly suspicious. This novel places Michael Connelly's much loved hero, Harry Bosch, square in the path of the most ruthless and inventive murderer he has ever encountered.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>Former FBI agent Rachel Walling is in Italy when she gets the call she's been dreading for four years. The Poet is back. And he has not forgotten Rachel. He has a special present for her. Harry Bosch is adjusting to life in Las Vegas as a private investigator and a new father. He gets a call, too - from the widow of a friend who died recently. Previously in his FBI career, the friend worked on the famous case tracking the killer known as The Poet. That fact makes some of the elements of his death doubly suspicious. This novel places Michael Connelly's much loved hero, Harry Bosch, square in the path of the most ruthless and inventive murderer he has ever encountered.</em></div>
 
         
 

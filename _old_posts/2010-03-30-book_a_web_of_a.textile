@@ -18,7 +18,7 @@ h4. A Web of Air (Mortal Engines)
 
 Rating: &#9733;&#9733;&#9733;&#9734;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>  Two years ago, Fever Crumb escaped the war-torn city of London in a travelling theatre. Now she arrives in the extraordinary craer city of Mayda, where buildings ascend the cliffs on funicular rails, and a mysterious recluse is building a machine that can fly. Fever is the engineer he needs - but ruthless enemies will kill to possess their secrets. The fabulous sixth book in the Mortal Engines series, from the brilliant  </em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>  Two years ago, Fever Crumb escaped the war-torn city of London in a travelling theatre. Now she arrives in the extraordinary craer city of Mayda, where buildings ascend the cliffs on funicular rails, and a mysterious recluse is building a machine that can fly. Fever is the engineer he needs - but ruthless enemies will kill to possess their secrets. The fabulous sixth book in the Mortal Engines series, from the brilliant  </em></div>
 
 I have read the whole of the "Mortal Engines Quartet":https://www.mahnke.net/peter/MT/mt-search.cgi?IncludeBlogs=5&search=reeve and _Fever Crumb_ but this was my least favorite.  I think it just progressed the characters the least far really.  Still clever and worth reading -- just not 'amazing'.
 

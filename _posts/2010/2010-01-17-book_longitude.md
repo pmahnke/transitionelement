@@ -5,7 +5,6 @@ permalink: /archives/2010/01/book_longitude.html
 commentfile: 2010-01-17-book_longitude
 category: culture
 date: 2010-01-17 12:16:18
-
 ---
 
 <img class="photo right" src="/assets/images/0007214227.jpg" width="250" alt="Longitude cover" />
@@ -18,7 +17,7 @@ date: 2010-01-17 12:16:18
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em> The thorniest scientific problem of the eighteenth century was how to determine longitude. Many thousands of lives had been lost at sea over the centuries due to the inability to determine an east-west position. This is the engrossing story of the clockmaker, John "Longitude" Harrison, who solved the problem that Newton and Galileo had failed to conquer, yet claimed only half the promised rich reward.</em>
 
 </div>

@@ -18,7 +18,7 @@ h4. The Almond Blossom Appreciation Society
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>The Good Life goes on at El Valero. Find yourself laughing out loud as Chris is instructed by his daughter on local teenage mores; bluffs his way in art history to millionaire Bostonians; is rescued off a snowy peak by the Guardia Civil; and joins an Almond Blossom Appreciation Society. You'll cringe with Chris as he tries his hand at office work in an immigrants' advice centre in Granada, spurred into action by the arrival of four destitute young Moroccans at El Valero. And you'll never see olive oil in quite the same way again... In this sequel to 'Lemons' and 'Parrot', Chris Stewart's optimism and zest for life is as infectious as ever.
+<div class="book_synopsis" markdown="1">Synopsis: <em>The Good Life goes on at El Valero. Find yourself laughing out loud as Chris is instructed by his daughter on local teenage mores; bluffs his way in art history to millionaire Bostonians; is rescued off a snowy peak by the Guardia Civil; and joins an Almond Blossom Appreciation Society. You'll cringe with Chris as he tries his hand at office work in an immigrants' advice centre in Granada, spurred into action by the arrival of four destitute young Moroccans at El Valero. And you'll never see olive oil in quite the same way again... In this sequel to 'Lemons' and 'Parrot', Chris Stewart's optimism and zest for life is as infectious as ever.
 </em></div>
 
 Again, honest, light and good.

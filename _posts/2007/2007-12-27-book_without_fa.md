@@ -5,7 +5,6 @@ permalink: /archives/2007/12/book_without_fa.html
 commentfile: 2007-12-27-book_without_fa
 category: culture
 date: 2007-12-27 22:23:27
-
 ---
 
 <img class="photo right" src="/assets/images/0515144312.jpg" width="250" alt="Without Fail (Jack Reacher Novels) cover" />
@@ -18,7 +17,7 @@ date: 2007-12-27 22:23:27
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>The secretive, closed organization that invites Jack Reacher in is the Secret Service, the organization that protects the Presidency. Someone who was once close to Reacher's brother, needs help in her new job. Her new job? Saving the Vice President of the United States from being assassinated.</em>
 
 </div>

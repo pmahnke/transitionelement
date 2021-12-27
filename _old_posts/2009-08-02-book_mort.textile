@@ -18,7 +18,7 @@ h4. Mort (A Discworld Novel)
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>Death comes to us all. When he came to Mort, he offered him a job. After being assured that being dead was not compulsory, Mort accepted. However, he soon found that romantic longings did not mix easily with the responsibilities of being Death's apprentice.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>Death comes to us all. When he came to Mort, he offered him a job. After being assured that being dead was not compulsory, Mort accepted. However, he soon found that romantic longings did not mix easily with the responsibilities of being Death's apprentice.</em></div>
 
 OK
 

@@ -18,7 +18,7 @@ h4. Mortal Engines
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9733;
 
-<div class="book_synopsis">Synopsis: <em>Tom and Hester have been thrown together. Truly-thrown out of a city on wheels that's left them stranded and starving in the middle of nowhere while it hares off after its prey. Hester is desperate for revenge, and Tom is only desperate to get back on board his beloved London. This is a stunning literary debut from Philip Reeve. A novel that defies easy categorisation, it is a gripping adventure story set in an inspired fantasy world, where moving cities trawl the globe. Peopled with convincing and utterly likeable characters, this story is a magical and unique read.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>Tom and Hester have been thrown together. Truly-thrown out of a city on wheels that's left them stranded and starving in the middle of nowhere while it hares off after its prey. Hester is desperate for revenge, and Tom is only desperate to get back on board his beloved London. This is a stunning literary debut from Philip Reeve. A novel that defies easy categorisation, it is a gripping adventure story set in an inspired fantasy world, where moving cities trawl the globe. Peopled with convincing and utterly likeable characters, this story is a magical and unique read.</em></div>
 
 My company publishes this book and I felt almost obligated to read it; however, I am really glad I did. It is wonderful! The characters are very human and the plot so well conceived.
 

@@ -21,7 +21,7 @@ h4. A Game of Thrones HBO Tie-In Edition
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>Long ago, in a time long forgotten, a mysterious event threw the seasons of the world out of balance. Now the kingdom is blessed by golden summers that go on for years, and cursed by cruel winters that can last a generation. In the cool north of this kingdom is a castle, and a royal family ruled by Eddard Stark.
+<div class="book_synopsis" markdown="1">Synopsis: <em>Long ago, in a time long forgotten, a mysterious event threw the seasons of the world out of balance. Now the kingdom is blessed by golden summers that go on for years, and cursed by cruel winters that can last a generation. In the cool north of this kingdom is a castle, and a royal family ruled by Eddard Stark.
 
 "For as Ned Stark's kingdom is assailed from the south by the poisonous plots of the rival house of the Lannisters, an even greater danger threatens his northern border: the un-earthly demons of legend, the Neverborn. And across the sea, the barbarian hordes are amassing. Dark times undoubtedly lie ahead. . . ."
 

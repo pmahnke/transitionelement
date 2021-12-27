@@ -5,7 +5,6 @@ permalink: /archives/2008/04/book_the_heart.html
 commentfile: 2008-04-11-book_the_heart
 category: culture
 date: 2008-04-11 21:21:00
-
 ---
 
 <img class="photo right" src="/assets/images/0099479338.jpg" width="250" alt="The Heart of a Dog (Vintage Classics) cover" />
@@ -18,7 +17,7 @@ date: 2008-04-11 21:21:00
 
 Rating: ★★★★½
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>A rich, successful Moscow professor befriends a stray dog and attempts a scientific first by transplanting into it the testicles and pituitary gland of a recently deceased man. A distinctly worryingly human animal is now on the loose, and the professor's hitherto respectable life becomes a nightmare beyond endurance. An absurd and superbly comic story, this classic novel can also be read as a fierce parable of the Russian Revolution.</em>
 
 </div>

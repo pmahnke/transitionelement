@@ -18,7 +18,7 @@ h4. One Shot
 
 Rating: &#9733;&#9733;&#9733;&frac12;
 
-<div class="book_synopsis">Synopsis: <em>With six shots, five people were dead and one heartland city is thrown into terror. But within hours, the cops have it solved. It is a slam-dunk case, except for one thing -- the accused man claims: "You got the wrong guy". After that, all he'll say is: "Get Reacher for me." Jack Reacher lives off the grid. He is a lone righter of wrongs and is irresistible to women. What could connect the ex-military cop to this obvious psychopath?</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>With six shots, five people were dead and one heartland city is thrown into terror. But within hours, the cops have it solved. It is a slam-dunk case, except for one thing -- the accused man claims: "You got the wrong guy". After that, all he'll say is: "Get Reacher for me." Jack Reacher lives off the grid. He is a lone righter of wrongs and is irresistible to women. What could connect the ex-military cop to this obvious psychopath?</em></div>
 
 Really good, hard to predict.
         
