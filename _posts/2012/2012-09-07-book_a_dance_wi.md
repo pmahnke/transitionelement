@@ -7,8 +7,7 @@ category: culture
 date: 2012-09-07 20:29:57
 excerpt: |
 
-    I can't recall my previous reviews, but this was everything I love and hate about Martin.  Love the characters and atmosphere, but he utterly fails to follow a plot, understand how to make people love a hero or underdog, resolve conflicts.  And, he kills off one of the last heroes left at the end... so, I guess I say... 'fuck you George' and I will NOT BE READING ANOTHER WORD FROM THIS MAN.
-
+  I can't recall my previous reviews, but this was everything I love and hate about Martin.  Love the characters and atmosphere, but he utterly fails to follow a plot, understand how to make people love a hero or underdog, resolve conflicts.  And, he kills off one of the last heroes left at the end... so, I guess I say... 'fuck you George' and I will NOT BE READING ANOTHER WORD FROM THIS MAN.
 ---
 
 <img class="photo right" src="/assets/images/0553801473.jpg" width="250" alt="A Dance with Dragons (Song of Ice and Fire) cover"/>
@@ -21,7 +20,7 @@ excerpt: |
 
 Rating: ★★★☆☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>In the aftermath of a colossal battle, the future of the Seven Kingdoms hangs in the balance once again--beset by newly emerging threats from every direction. In the east, Daenerys Targaryen, the last scion of House Targaryen, rules with her three dragons as queen of a city built on dust and death. But Daenerys has three times three thousand enemies, and many have set out to find her. Yet, as they gather, one young man embarks upon his own quest for the queen, with an entirely different goal in mind.
 
 To the north lies the mammoth Wall of ice and stone--a structure only as strong as those guarding it. There, Jon Snow, 998th Lord Commander of the Night's Watch, will face his greatest challenge yet. For he has powerful foes not only within the Watch but also beyond, in the land of the creatures of ice.

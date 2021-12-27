@@ -18,7 +18,7 @@ h4. The Overlook (Harry Bosch)
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>The pulse-quickening new thriller from master of suspense Michael Connelly sees Harry Bosch plunged into the dangerous world of international terrorism. When a physicist is murdered in LA it seems the killer has no fear of publicity, leaving the body on The Overlook, a site with a stunning view over the city. And when it's discovered that the victim turned over a quantity of a lethal chemical to his killer before he died, Harry knows he has more than just a single death to worry about. Alongside the forces of Homeland Security, Harry realizes he must solve the murder or face unimaginable consequences.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>The pulse-quickening new thriller from master of suspense Michael Connelly sees Harry Bosch plunged into the dangerous world of international terrorism. When a physicist is murdered in LA it seems the killer has no fear of publicity, leaving the body on The Overlook, a site with a stunning view over the city. And when it's discovered that the victim turned over a quantity of a lethal chemical to his killer before he died, Harry knows he has more than just a single death to worry about. Alongside the forces of Homeland Security, Harry realizes he must solve the murder or face unimaginable consequences.</em></div>
 
 
 

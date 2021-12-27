@@ -2,23 +2,24 @@
 layout: default-empty
 ---
 
-  <section class="row row-hero">
-    <div class="strip-inner-wrapper">
-      <div class="prefix-1 col-4 suffix-1">
+  <section class="p-strip">
+    <div class="row">
+      <div class="col-4 col-start-large-1">
         {% include header.html %}
       </div><!-- end pagenavigation -->
-      <div class="col-6">
+      <div class="col-6 col-start-large-6">
 
         <!-- latest story - big -->
         {% for post in site.posts limit: 1 %}
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {% if post.image %}<p><img src="{{ post.image }}" width="536" alt="" /></p>{% endif %}
         {{ post.excerpt | textilize }}
         <p class="post-link"><a href="{{ post.url }}">Continue reading &#8230;</a></p>
         <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} | <a href="{{ site.baseurl }}/archives/{{ post.categories[0] | downcase }}">{{ post.categories[0] }}</a></p>
         {% endfor %}
 
-        <!-- next 4 stories - smaller -->
-        {% for post in site.posts limit: 4 offset: 1 %}
+        <!-- next stories - big -->
+        {% for post in site.posts limit: 3 offset: 2 %}
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         {{ post.excerpt | textilize }}
         <p class="post-link"><a href="{{ post.url }}">Continue reading &#8230;</a></p>

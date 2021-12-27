@@ -58,3 +58,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+sass:
+  implementation: sass-embedded
+  style: compressed
+  sass_dir: _sass

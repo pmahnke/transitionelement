@@ -18,7 +18,7 @@ h4. Over Sea, Under Stone
 
 Rating: &#9733;&#9733;&#9733;&#9734;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>  This is the first of the five books which form Susan Cooper's The Dark Is Rising sequence. Three children, on holiday in Cornwall, discover an ancient map which leads them into a search for a buried grail.  </em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>  This is the first of the five books which form Susan Cooper's The Dark Is Rising sequence. Three children, on holiday in Cornwall, discover an ancient map which leads them into a search for a buried grail.  </em></div>
 
 While I found this more suspenseful than _Dark is Rising_, I felt that this was:
 

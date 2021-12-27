@@ -5,7 +5,6 @@ permalink: /archives/2011/07/book_chronicle.html
 commentfile: 2011-07-26-book_chronicle
 category: culture
 date: 2011-07-26 16:43:25
-
 ---
 
 <img class="photo right" src="/assets/images/1400031850.jpg" width="250" alt="Chronicle of a Blood Merchant cover" />
@@ -18,7 +17,7 @@ date: 2011-07-26 16:43:25
 
 Rating: ★★★★★
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>A cart-pusher in a silk mill, Xu Sanguan augments his meager salary with regular visits to the local blood chief. His visits become lethally frequent as he struggles to provide for his wife and three sons at the height of the Cultural Revolution. Shattered to discover that his favorite son was actually born of a liaison between his wife and a neighbor, he suffers his greatest indignity, while his wife is publicly scorned as a prostitute. Although the poverty and betrayals of Mao's regime have drained him, Xu Sanguan ultimately finds strength in the blood ties of his family. With rare emotional intensity, grippingly raw descriptions of place and time, and clear-eyed compassion, Yu Hua gives us a stunning tapestry of human life in the grave particulars of one man's days. </em>
 
 </div>

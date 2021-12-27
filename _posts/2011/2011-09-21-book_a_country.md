@@ -6,9 +6,6 @@ commentfile: 2011-09-21-book_a_country
 category: culture
 date: 2011-09-21 21:02:55
 excerpt: |
-    
-
-
 ---
 
 <img class="photo right" src="/assets/images/0099529564.jpg" width="250" alt="A Country Doctor's Notebook (Vintage Classics) cover"/>
@@ -21,7 +18,7 @@ excerpt: |
 &gt;
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>These straighforward yet extraordinary sketches gain their strength from also being the account of a young man's growth. One begins to see that he became a novelist not because he had material but because he was storing up passion and temperament."</em>
 
 </div>

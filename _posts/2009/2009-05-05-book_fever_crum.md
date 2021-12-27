@@ -5,7 +5,6 @@ permalink: /archives/2009/05/book_fever_crum.html
 commentfile: 2009-05-05-book_fever_crum
 category: culture
 date: 2009-05-05 15:15:02
-
 ---
 
 <img class="photo right" src="/assets/images/1407102427.jpg" width="250" alt="Fever Crumb (Mortal Engines Quartet Prequel) cover" />
@@ -18,7 +17,7 @@ date: 2009-05-05 15:15:02
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>Fever Crumb is set many generations before the events of Mortal Engines, in whose dazzling world huge, predatory cities chase and devour each other. Armoured fortresses are advancing towards London. Buried deep in the city’s past is a terrible secret that may save it from destruction. Only one key can unlock it – an odd-looking orphan named Fever Crumb</em>
 
 </div>

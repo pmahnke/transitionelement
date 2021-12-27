@@ -5,7 +5,6 @@ permalink: /archives/2010/03/book_this_is_wh.html
 commentfile: 2010-03-23-book_this_is_wh
 category: culture
 date: 2010-03-23 12:34:01
-
 ---
 
 <img class="photo right" src="/assets/images/0752885847.jpg" width="250" alt="This Is Where I Leave You cover" />
@@ -18,7 +17,7 @@ date: 2010-03-23 12:34:01
 
 Rating: ★★★☆☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>Poor Judd Foxman returns home early to find his wife in bed with his boss - in the act. He now faces the twin threats of both divorce and unemployment. His misery is compounded further with the sudden death of his father. He is then asked to come and 'sit Shiva' for his newly deceased parent with his angry, screwed up and somewhat estranged brothers and sisters in his childhood home. It is there he must confront who he really is and - more importantly - who he can become. Funny, moving, powerful and poignant.</em>
 
 </div>

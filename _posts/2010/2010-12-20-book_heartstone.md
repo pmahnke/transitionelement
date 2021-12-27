@@ -5,7 +5,6 @@ permalink: /archives/2010/12/book_heartstone.html
 commentfile: 2010-12-20-book_heartstone
 category: culture
 date: 2010-12-20 11:42:50
-
 ---
 
 <img class="photo right" src="/assets/images/023074415X.jpg" width="250" alt="Heartstone cover" />
@@ -18,7 +17,7 @@ date: 2010-12-20 11:42:50
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>Summer, 1545. England is at war. Henry VIII's invasion of France has gone badly wrong, and a massive French fleet is preparing to sail across the Channel. As the English fleet gathers at Portsmouth, the country raises the largest militia army it has ever seen. The King has debased the currency to pay for the war, and England is in the grip of soaring inflation and economic crisis.
 
 Meanwhile Matthew Shardlake is given an intriguing legal case by an old servant of Queen Catherine Parr. Asked to investigate claims of "monstrous wrongs" committed against a young ward of the court, which have already involved one mysterious death, Shardlake and his assistant Barak journey to Portsmouth.

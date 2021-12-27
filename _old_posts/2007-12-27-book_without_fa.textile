@@ -18,7 +18,7 @@ h4. Without Fail (Jack Reacher Novels)
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>The secretive, closed organization that invites Jack Reacher in is the Secret Service, the organization that protects the Presidency. Someone who was once close to Reacher's brother, needs help in her new job. Her new job? Saving the Vice President of the United States from being assassinated.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>The secretive, closed organization that invites Jack Reacher in is the Secret Service, the organization that protects the Presidency. Someone who was once close to Reacher's brother, needs help in her new job. Her new job? Saving the Vice President of the United States from being assassinated.</em></div>
 
 One of the best Reacher books.
         
