@@ -2,31 +2,33 @@
 layout: default-empty
 ---
 
-  <section class="row row-hero">
-    <div class="strip-inner-wrapper">
-      <div class="prefix-1 col-4 suffix-1">
+  <section class="p-strip">
+    <div class="row">
+      <div class="col-4 col-start-large-1">
         {% include header.html %}
       </div><!-- end pagenavigation -->
 
-      <div class="col-6">
+      <div class="col-6 col-start-large-6">
         <h2>Archive of {{ page.title }}</h2>
-        {% for post in page.posts limit: 10 %}
+        {% for post in page.posts limit: 1 %}
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          {% if post.image %}<p><img src="{{ post.image }}" width="536" alt="" /></p>{% endif %}
+          {{ post.excerpt | textilize }}
+          <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }}</p>
+        {% endfor %}
+        {% for post in page.posts limit: 9 offset: 1%}
           <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
           {{ post.excerpt | textilize }}
           <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }}</p>
         {% endfor %}
-      </div>
-    </div>
-  </section>
-  <section class="row">
-    <div class="strip-inner-wrapper">
-      <div class="prefix-4 cols-10">
+        {% if pages.posts.size > 10 %}
         <h3>Older Articles</h3>
         <ul>
           {% for post in page.posts offset: 10 %}
           <li><a href="{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }}</li>
           {% endfor %}
         </ul>
+        {% endif %}
       </div>
     </div>
   </section>

@@ -5,7 +5,9 @@ permalink: /archives/2013/07/my_speech_at_th.html
 commentfile: 2013-07-23-my_speech_at_th
 category: of interest
 date: 2013-07-23 20:39:38
-
+image: /assets/images/mahnke_memorial.png
+excerpt: |
+  We recently had a memorial for my father at the Milwaukee Yacht Club. I reluctantly spoke for the family. It was pretty difficult to do. The four speakers that preceded me, Randy, Terry, Marv and Ted, said such lovely things, and my boys both read, the start of the Hobbit and The Road Less Travelled by Frost, that I was pretty emotional. For two of the items, I had my brother come read them.
 ---
 
 <a href="/assets/images/mahnke_memorial.png"><img alt="mahnke_memorial.png" src="/assets/images/mahnke_memorial-thumb.png" width="150" height="214" class="right" /></a>
@@ -18,8 +20,7 @@ For those of you who do not know me, I am Bob's son, Peter. I have been living i
 
 I want to thank you all for coming here today, it means a lot to the family to have you here to celebrate Bob's life. I specially want to thank Marv and Uncle Ted for speaking, Owen for his reading, Ryan for the poem and specially to Randy and Terry who both spoke and helped organise this event.
 
-things I learned from my father
--------------------------------
+## things I learned from my father
 
 I have two lists... first,
 

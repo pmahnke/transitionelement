@@ -18,7 +18,7 @@ h4. The Passage
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9733;
 
-<div class="book_synopsis">Synopsis: <em>Amy Harper Bellafonte is six years old and her mother thinks she's the most important person in the whole world. She is. Anthony Carter doesn't think he could ever be in a worse place than Death Row. He's wrong. FBI agent Brad Wolgast thinks something beyond imagination is coming. It is.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>Amy Harper Bellafonte is six years old and her mother thinks she's the most important person in the whole world. She is. Anthony Carter doesn't think he could ever be in a worse place than Death Row. He's wrong. FBI agent Brad Wolgast thinks something beyond imagination is coming. It is.</em></div>
 
 Ann and Paul loaned me their Kindle to read this.  It didn't sound like the kind of thing I was really interested in, but was I wrong. This book was amazing.  I couldn't put it down.  Really well conceived, beautifully written and dark, so very, very dark.
 

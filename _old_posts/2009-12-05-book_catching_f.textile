@@ -18,7 +18,7 @@ h4. Catching Fire (Hunger Games, Book 2)
 
 Rating: &#9733;&#9733;&#9733;&frac12;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>  After winning the brutal Hunger Games, Katniss Everdeen returns to her district, hoping for a peaceful future. But Katniss starts to hear rumours of a deadly rebellion against the Capitol. A rebellion that she and Peeta have helped to create. As Katniss and Peeta are forced to visit the districts on the Capitol's  </em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>  After winning the brutal Hunger Games, Katniss Everdeen returns to her district, hoping for a peaceful future. But Katniss starts to hear rumours of a deadly rebellion against the Capitol. A rebellion that she and Peeta have helped to create. As Katniss and Peeta are forced to visit the districts on the Capitol's  </em></div>
 
 Not as good as _The Hunger Games_ but still great... can't wait for book three.
 

@@ -5,7 +5,6 @@ permalink: /archives/2010/08/book_revelation.html
 commentfile: 2010-08-07-book_revelation
 category: culture
 date: 2010-08-07 15:49:37
-
 ---
 
 <img class="photo right" src="/assets/images/0330447106.jpg" width="250" alt="Revelation (Shardlake) cover" />
@@ -18,7 +17,7 @@ date: 2010-08-07 15:49:37
 
 Rating: ★★★★★
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>Spring, 1543. King Henry VIII is wooing Lady Catherine Parr, whom he wants for his sixth wife. Archbishop Cranmer and the embattled Protestant faction at court are watching keenly, for Lady Catherine is known to have reformist sympathies.
 
 Matthew Shardlake, meanwhile, is working on the case of a teenage boy who has been placed in the Bedlam insane asylum, before his terrifying religious mania leads to him being burned as a heretic.

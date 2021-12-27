@@ -18,7 +18,7 @@ h4. Dissolution (Shardlake)
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9733;
 
-<div class="book_synopsis">Synopsis: <em>Henry VIII has proclaimed himself Supreme Head of the Church and the country is waking up to savage new laws, rigged trials and the greatest network of informers ever seen. Under the order of Thomas Cromwell, a team of commissioners is sent through the country to investigate the monasteries. There can only be one outcome: the monasteries are to be dissolved.
+<div class="book_synopsis" markdown="1">Synopsis: <em>Henry VIII has proclaimed himself Supreme Head of the Church and the country is waking up to savage new laws, rigged trials and the greatest network of informers ever seen. Under the order of Thomas Cromwell, a team of commissioners is sent through the country to investigate the monasteries. There can only be one outcome: the monasteries are to be dissolved.
 
 But on the Sussex coast, at the monastery of Scarnsea, events have spiralled out of control. Cromwell's Commissioner Robin Singleton, has been found dead, his head severed from his body. His horrific murder is accompanied by equally sinister acts of sacrilege – a black cockerel sacrificed on the alter, and the disappearance of Scarnsea's Great Relic.
 
