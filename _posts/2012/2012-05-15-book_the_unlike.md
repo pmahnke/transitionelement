@@ -6,9 +6,7 @@ commentfile: 2012-05-15-book_the_unlike
 category: culture
 date: 2012-05-15 20:36:25
 excerpt: |
-    Loved this book... Angela read it and passed it over... when she does this, I know it is good.  It was funny, uplifting and interesting.  I don't know why I hadn't heard of it, but I recommend it.        
-            
-
+  Loved this book... Angela read it and passed it over... when she does this, I know it is good.  It was funny, uplifting and interesting.  I don't know why I hadn't heard of it, but I recommend it.
 ---
 
 <img class="photo right" src="/assets/images/0812993292.jpg" width="250" alt="The Unlikely Pilgrimage of Harold Fry cover"/>
@@ -21,7 +19,7 @@ excerpt: |
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>Meet Harold Fry, recently retired. He lives in a small English village with his wife, Maureen, who seems irritated by almost everything he does, even down to how he butters his toast. Little differentiates one day from the next. Then one morning the mail arrives, and within the stack of quotidian minutiae is a letter addressed to Harold in a shaky scrawl from a woman he hasn't seen or heard from in twenty years. Queenie Hennessy is in hospice and is writing to say goodbye.
 &gt;
 

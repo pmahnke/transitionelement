@@ -5,7 +5,6 @@ permalink: /archives/2008/07/book_supercrunc.html
 commentfile: 2008-07-14-book_supercrunc
 category: culture
 date: 2008-07-14 14:50:26
-
 ---
 
 <img class="photo right" src="/assets/images/0719564654.jpg" width="250" alt="Supercrunchers cover" />
@@ -18,7 +17,7 @@ date: 2008-07-14 14:50:26
 
 Rating: ★★★½
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>When would a casino stop a gambler from playing his next hand? How could a company use statistical analysis to blackball you from the job you want? Why should you worry when customer services pay attention to your needs?
 <br /><br />
 Beginning with examples of the mathematician who out-predicted wine buffs in determining the best vintages, and the sports scouts who now use statistics rather than intuition to pick winners, Super Crunchers exposes the hidden patterns all around us. No businessperson, academic, student, or consumer (statistically that’s everyone) should make another move without getting to grips with thinking-by-numbers – the new way to be smart, savvy and statistically superior.</em>

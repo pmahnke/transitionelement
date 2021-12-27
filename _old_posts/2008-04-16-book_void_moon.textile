@@ -18,7 +18,7 @@ h4. Void Moon
 
 Rating: &#9733;&#9733;&#9733;&frac12;
 
-<div class="book_synopsis">Synopsis: <em>Cassie Black is lured back to a profession she'd left behind - robbing casino gamblers of their winnings - by a set up that looks too good to ignore. Her work goes as planned, except that the mark has too much money, so much that someone very powerful must be very angry. Cassie soon finds herself running from a stone cold killer who somehow knows her every move in advance. He also appears to be closing in on Cassie's most closely guarded secret, the one thing that could have caused her to return to crime - and the one thing she will do anything to protect.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>Cassie Black is lured back to a profession she'd left behind - robbing casino gamblers of their winnings - by a set up that looks too good to ignore. Her work goes as planned, except that the mark has too much money, so much that someone very powerful must be very angry. Cassie soon finds herself running from a stone cold killer who somehow knows her every move in advance. He also appears to be closing in on Cassie's most closely guarded secret, the one thing that could have caused her to return to crime - and the one thing she will do anything to protect.</em></div>
 
 Not Bosch, but still good.
 

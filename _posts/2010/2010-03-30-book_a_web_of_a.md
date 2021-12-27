@@ -5,7 +5,6 @@ permalink: /archives/2010/03/book_a_web_of_a.html
 commentfile: 2010-03-30-book_a_web_of_a
 category: culture
 date: 2010-03-30 13:03:54
-
 ---
 
 <img class="photo right" src="/assets/images/1407115170.jpg" width="250" alt="A Web of Air (Mortal Engines) cover" />
@@ -18,7 +17,7 @@ date: 2010-03-30 13:03:54
 
 Rating: ★★★☆☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em> Two years ago, Fever Crumb escaped the war-torn city of London in a travelling theatre. Now she arrives in the extraordinary craer city of Mayda, where buildings ascend the cliffs on funicular rails, and a mysterious recluse is building a machine that can fly. Fever is the engineer he needs - but ruthless enemies will kill to possess their secrets. The fabulous sixth book in the Mortal Engines series, from the brilliant </em>
 
 </div>

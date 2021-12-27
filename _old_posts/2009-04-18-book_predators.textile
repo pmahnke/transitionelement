@@ -18,7 +18,7 @@ h4. Predator's Gold
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9733;
 
-<div class="book_synopsis">Synopsis: <em>Fleeing from an Anti-Tractionist sect, the Green Storm, Tom and Hester are left drifting in the frozen Ice Wastes, slowly dying of cold after the Jenny Haniver's engines have failed. They are saved at the last minute, finding Anchorage, a once-beautiful ice city that has fallen on hard times. Crippled by plague, there are barely fifty souls on Anchorage now, and the teenage margravine has made a desperate choice. They are heading for America, the Dead Continent...</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>Fleeing from an Anti-Tractionist sect, the Green Storm, Tom and Hester are left drifting in the frozen Ice Wastes, slowly dying of cold after the Jenny Haniver's engines have failed. They are saved at the last minute, finding Anchorage, a once-beautiful ice city that has fallen on hard times. Crippled by plague, there are barely fifty souls on Anchorage now, and the teenage margravine has made a desperate choice. They are heading for America, the Dead Continent...</em></div>
 
 I still don't know what makes this a "children's book", perhaps it is in the omission of descriptive sex and violence?  This book is quite simply genius - for children or adults.
 

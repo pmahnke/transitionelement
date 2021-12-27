@@ -6,9 +6,6 @@ commentfile: 2011-09-07-book_striker
 category: culture
 date: 2011-09-07 15:20:25
 excerpt: |
-
-    
-
 ---
 
 <img class="photo right" src="/assets/images/0233977929.jpg" width="250" alt="Striker cover"/>
@@ -21,7 +18,7 @@ excerpt: |
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em/>About a fictional football striker in the 70's Britain.
 
 </div>

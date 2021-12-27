@@ -5,7 +5,6 @@ permalink: /archives/2009/04/book_a_darkling.html
 commentfile: 2009-04-24-book_a_darkling
 category: culture
 date: 2009-04-24 14:50:52
-
 ---
 
 <img class="photo right" src="/assets/images/006089055X.jpg" width="250" alt="A Darkling Plain (Hungry City Chronicles) cover" />
@@ -18,7 +17,7 @@ date: 2009-04-24 14:50:52
 
 Rating: ★★★★★
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>The once-great traction city of London is now just a radioactive wreck, a ruin haunted by electrical discharges and the dashed hopes of the people who once called it home—people like Tom Natsworthy. Twenty years after he fled, intending never to return, he discovers that something stirs in the remains of the old city.
 
 Tom and his daughter, Wren, aren't the only people interested in London. The desperate armies of the Traction Cities and the Green Storm are also closing in, certain that whatever is taking shape within the city holds the key to victory in their never-ending war.

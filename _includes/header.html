@@ -9,11 +9,14 @@
 
   <nav class="p-nav__nav">
     <ul class="p-nav__links">
-      {% for category in site.categories %}<li>
+      {% for category in site.categories %}{% unless category[0] == 'about' %}<li>
         <a class="p-nav__link" href="{{ site.baseurl }}/archives/{{ category[0] | replace: ' ', '-' | replace: '&-', '' | downcase }}">{{ category[0] }}</a>
-      </li>{% endfor %}
+      </li>{% endunless %}{% endfor %}
       <li>
         <a class="p-nav__link" href="{{ site.baseurl }}/archives">archives</a>
+      </li>
+      <li>
+        <a class="p-nav__link" href="/info/colophon.html">about</a>
       </li>
     </ul>
   </nav>

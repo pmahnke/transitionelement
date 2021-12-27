@@ -5,11 +5,20 @@
 
 <body>
 
+  <section class="p-strip">
+    <div class="row">
+      <div class="col-4 col-start-large-1">
+        {% include header.html %}
+      </div><!-- end pagenavigation -->
+      <div class="col-6 col-start-large-6">
+        <h2>{{ page.title }}</h2>
   <!-- content -->
   {{ content }}
-
-  <!-- comments -->
-  {% include comments.html commentfile=page.commentfile%}
+  <!-- end content -->
+  
+      </div>
+    </div>
+  </section>
 
   <!-- footer -->
   {% include footer.html %}

@@ -18,7 +18,7 @@ h4. The Dark is Rising
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
 
-<div class="book_synopsis">Synopsis: <em>  Before Harry Potter, there was Susan Cooper's The Dark is Rising.The original classic series comes to life with this action-packed feature-length movie. It's midwinter and Will Stanton, the seventh son of a seventh son, discovers his destiny on the eve of his birthday. Will must learn to harness the powers of the Old Ones and embark on an incredible battle against the terrifying Dark, an evil entity that threatens the world's very existence.</em></div>
+<div class="book_synopsis" markdown="1">Synopsis: <em>  Before Harry Potter, there was Susan Cooper's The Dark is Rising.The original classic series comes to life with this action-packed feature-length movie. It's midwinter and Will Stanton, the seventh son of a seventh son, discovers his destiny on the eve of his birthday. Will must learn to harness the powers of the Old Ones and embark on an incredible battle against the terrifying Dark, an evil entity that threatens the world's very existence.</em></div>
 
 Considering its age and the context, this is a very good children't book.  Lots of suspense, not too many things explained and deep British history.
         

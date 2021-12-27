@@ -5,7 +5,6 @@ permalink: /archives/2009/01/book_last_tango.html
 commentfile: 2009-01-10-book_last_tango
 category: culture
 date: 2009-01-10 22:06:55
-
 ---
 
 <img class="photo right" src="/assets/images/0747566763.jpg" width="250" alt="Last Tango in Aberystwyth cover" />
@@ -18,7 +17,7 @@ date: 2009-01-10 22:06:55
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>To the girls who came to make it big in the town's 'What the Butler Saw' movie industry, Aberystwyth was the town of broken dreams. To Dean Morgan who taught at the Faculty of Undertaking, it was just a place to get course materials. But both worlds collide when the Dean checks into the notorious bed and breakfast ghetto and mistakenly receives a suitcase intended for a ruthless druid assassin. Soon he is running for his life, lost in a dark labyrinth of druid speakeasies and toffee apple dens, where every spinning wheel tells the story of a broken heart, and where the Dean's own heart is hopelessly in thrall to a porn star known as Judy Juice.</em>
 
 </div>

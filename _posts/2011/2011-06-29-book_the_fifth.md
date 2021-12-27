@@ -5,7 +5,6 @@ permalink: /archives/2011/06/book_the_fifth.html
 commentfile: 2011-06-29-book_the_fifth
 category: culture
 date: 2011-06-29 16:35:28
-
 ---
 
 <img class="photo right" src="/assets/images/1409118339.jpg" width="250" alt="The Fifth Witness cover" />
@@ -18,7 +17,7 @@ date: 2011-06-29 16:35:28
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em> In tough times, crime is one of the few things that still pays, but even criminals are having to make cut-backs. So for defence lawyer Mickey Haller, most of his new business is not about keeping people out of jail; it's about keeping a roof over their heads as the foreclosure business is booming. Lisa Trammel has been a client of Mickey's for eight months, and so far he's stopped the bank from taking her house. But now the bank's CEO has been found beaten to death - and Lisa is about to be indicted for murder...</em>
 
 </div>

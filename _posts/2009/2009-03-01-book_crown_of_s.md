@@ -5,7 +5,6 @@ permalink: /archives/2009/03/book_crown_of_s.html
 commentfile: 2009-03-01-book_crown_of_s
 category: culture
 date: 2009-03-01 20:57:23
-
 ---
 
 <img class="photo right" src="/assets/images/1841495433.jpg" width="250" alt="Crown of Shadows (Coldfire Trilogy) cover" />
@@ -18,7 +17,7 @@ date: 2009-03-01 20:57:23
 
 Rating: ★★★★☆
 
-<div class="book_synopsis">
+<div class="book_synopsis" markdown="1">
 Synopsis: <em>Despite opposition by his Patriarch, warrior priest Damien Vryce again seeks the assistance of the immortal sorcerer Gerald Tarrant. While racing against time to prevent the enslavement of their world, the two men find themselves trapped between justice and retribution. Betrayal and loyalty assume ironic forms in this conclusion to Friedman's complex and compelling Cold Fire Trilogy. The richly detailed setting and strong supporting characters give substance to a tale that explores the consequences of embracing evil in the hope of achieving its redemption.</em>
 
 </div>
