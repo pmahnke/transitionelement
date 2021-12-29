@@ -10,7 +10,7 @@ excerpt: |
 
 ### Server Information
 
-This site is run on an Ubuntu Linux box hosted by [Digital Ocean](https://www.digitalocean.com/). It is a static site, built with [Jekyll](https://jekyllrb.com/) and a custom comment script.
+This site is run on an Ubuntu Linux box hosted by [Digital Ocean](https://www.digitalocean.com/). It is a static site, built with [Jekyll](https://jekyllrb.com/) and a custom comment script. The CSS framework is the most excellent [Vanilla Framework](https://vanillaframework.io/).
 
 ### Desktop Software
 
