@@ -31,22 +31,22 @@ else
   OLDDIR=_old_posts
 fi
 
-echo "looking for .textile files in $POSTSDIR moving them to $OLDDIR"
+echo "looking for .html files in $POSTSDIR moving them to $OLDDIR"
 mkdir -p -v $OLDDIR
 
 # find all the textile files
-find $POSTSDIR -name \*.textile | sed 's/\.textile$//' >tomd_files.txt
+find $POSTSDIR -name \*.html | sed 's/\.html$//' >tomd_files.txt
 
 while read foo; do
 
   # save YAML header
-  sed -n '1,/^---/ p' $foo.textile >tomd_head.txt
+  sed -n '1,/^---/ p' $foo.html >tomd_head.txt
 
   # textile (minus header) | tomd_pre | pandoc | tomd_post
-  sed '1,/^---/ d' $foo.textile | awk -f $DIR/tomd_pre.awk | pandoc -B tomd_head.txt -f textile -t markdown_github | awk -f $DIR/tomd_post.awk >$foo.md
+  sed '1,/^---/ d' $foo.html | awk -f $DIR/tomd_pre.awk | pandoc -B tomd_head.txt -f textile -t markdown_github | awk -f $DIR/tomd_post.awk >$foo.md
 
   # archive
-  mv $foo.textile $OLDDIR
+  mv $foo.html $OLDDIR
 
 done <tomd_files.txt
 
