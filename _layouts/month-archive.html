@@ -12,8 +12,8 @@ layout: default-empty
         <h2>Archive of posts from {{ page.date | date: "%B %Y" }}</h2>
         {% for post in page.posts limit: 10 %}
           <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          {{ post.excerpt | textilize }}
-          <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | replace: ' ', '-' | join: ', ' }}</p>
+          {{ post.excerpt }}
+          <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
         {% endfor %}
       </div>
     </div>
@@ -24,7 +24,9 @@ layout: default-empty
         <h3>Older Articles</h3>
         <ul>
           {% for post in page.posts offset: 10 %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | replace: ' ', '-' | join: ', ' }}</li>
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories |  join: ', ' }}
+          </li>
           {% endfor %}
         </ul>
       </div>
