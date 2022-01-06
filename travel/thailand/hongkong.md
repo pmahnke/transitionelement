@@ -3,13 +3,11 @@ layout: travel
 title: "Thailand : Hong Kong ~ 3 Days"
 ---
 
-Hong Kong
-=========
+# Hong Kong
 
-Hong Kong \~ 3 Days
--------------------
+## Hong Kong \~ 3 Days
 
-*HOT HOT 95F 100% HUMIDITY and RAIN*
+_HOT HOT 95F 100% HUMIDITY and RAIN_
 
 We spent the first 3 days in Hong Kong, which would have been wonderful,
 except the typhoon like downpours. Literally, the stock exchange was
@@ -31,4 +29,4 @@ Hong Kong food) and drank mucho beer…
 
 The third day we flew to Bangkok.
 
-\[ [Thailand - Bangkok - Day 1](/travel/thailand/day1.html])
+\[ [Thailand - Bangkok - Day 1](/travel/thailand/day1.html) \]
