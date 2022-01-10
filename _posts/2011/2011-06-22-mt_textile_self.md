@@ -5,24 +5,21 @@ permalink: /archives/2011/06/mt_textile_self.html
 commentfile: 2011-06-22-mt_textile_self
 category: on technology
 date: 2011-06-22 22:49:21
-
 ---
 
-Today I did some general CPAN update. Everything went fine, I thought, but when I attempted to publish a post to this blog with Movable Type 3.38, I kept getting this error:
+Today I did some general CPAN updates. Everything went fine, I thought, but when I attempted to publish a post to this blog with Movable Type 3.38, I kept getting this error:
 
-
-&lt;pre&gt;&lt;code&gt;
+```
 An error occurred:
 Global symbol "$nested" requires explicit package name at (re\_eval 34) line 2, &lt;DATA&gt; line 1.
 Compilation failed in regexp at /usr/lib/perl5/5.8.8/SelfLoader.pm line 112, &lt;DATA&gt; line 1.
-&lt;/code&gt;&lt;/pre&gt;
+```
 
 After a minor amount of digging, I found it was either SelfLoader.pm or Textile2.
 
-
-&lt;pre&gt;&lt;code&gt;
+```
 perl -MSelfLoader -e 'print 1'
-&lt;/code&gt;&lt;/pre&gt;
+```
 
 returned '1'
 
@@ -30,10 +27,9 @@ I attempted to upgrade to the MT 4.X versions of textile2, but MT 3 didn't recog
 
 So, I just added ...
 
-
-&lt;pre&gt;&lt;code&gt;
+```
 my $nested = "";
-&lt;/code&gt;&lt;/pre&gt;
+```
 
 ... to SelfLoader.pm and it works.
 
