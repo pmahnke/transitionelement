@@ -10,9 +10,9 @@ excerpt: |
   Fantastic book.  John Snow was absolutely an amazing man -- finding a theory, using statistics to prove it, convincing the government to act, then helping rid the modern world of one of the most deadly diseases -- awesome.  Steven Johnson does a great job of telling this story, with a bit of history, a bit of back story, a bit of science and great pacing.  Worth a read.
 ---
 
-<img class="photo right" src="/assets/images/1594489254.jpg" width="250" alt="The Ghost Map cover"/>
+<img class="photo right" src="/assets/images/1594489254.jpg" height="250" alt="The Ghost Map cover"/>
 
-\[ [US](http://www.amazon.com/o/asin/1594489254) | [UK](http://www.amazon.co.uk/o/asin/1594489254) \]
+\[ [US](http://www.amazon.com/o/asin/1594489254) \| [UK](http://www.amazon.co.uk/o/asin/1594489254) \]
 
 #### The Ghost Map
 
