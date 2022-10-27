@@ -27,7 +27,7 @@ permalink: /archives/index.html
       <h3>Monthly archives</h3>
 
       <ul>
-  {% for post in site.posts | strip_newlines %}
+  {% for post in site.posts  %}
     {% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}
     {% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}
     {% if currentyearmonth != lastyearmonth %}
