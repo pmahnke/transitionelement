@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Goning travelling"
-permalink: /archives/2022/10/goning-travelling.html
-commentfile: 2022-10-27-goning-travelling
+title: "Going travelling"
+permalink: /archives/2022/06/going-travelling.html
+commentfile: 2022-06-27-going-travelling
 category: travel
-date: 2022-10-27 10:59:23
+date: 2022-06-27 10:59:23
 image: "/assets/images/2022/-home-peter-Downloads-A5B2136F-95D5-4FE3-871F-BA64F2F86B43-thumb.jpg"
 excerpt: |
   When we decided to retire, we wanted to go travelling right away and then figure out the rest of our life later on. Before our last day even came, we had planned a nearly four month trip to the US that included a lot of national parks, a long, long hike, a family wedding, several visits with friends and family, and a road trip.
