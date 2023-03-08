@@ -11,7 +11,7 @@ email: peter@transitionelement.com
 description: > # this means to ignore newlines until "baseurl:"
   Peter Mahnke presents interesting observations about his life in England, designing with web standards, culture, food and more...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.transitionelement.com" # the base hostname & protocol for your site
+url: "https://transitionelement.com" # the base hostname & protocol for your site
 twitter_username: pmahnke
 github_username:  pmahnke
 
