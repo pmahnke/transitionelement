@@ -10,8 +10,6 @@ excerpt: |
   After a short and rather one-sided battle with esophageal cancer, Robert Mahnke died on March 17, 2013. He is survived by his mother Florence, sister Suzanne, wife Pamela, sons Peter and John and grandsons Owen and Ryan.
 ---
 
-<a href="/assets/images/robert_mahnke_boat.jpg"><img alt="robert_mahnke_boat.jpg" src="/assets/images/robert_mahnke_boat-thumb.jpg" width="500" height="375" /></a>
-
 _March 8, 1943 - March 17, 2013 - Milwaukee, Wisconsin_
 
 After a short and rather one-sided battle with esophageal cancer, Robert Mahnke died on March 17, 2013. He is survived by his mother Florence, sister Suzanne, wife Pamela, sons Peter and John and grandsons Owen and Ryan.

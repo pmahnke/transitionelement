@@ -10,8 +10,6 @@ excerpt: |
   After sixteen years of running the St Margarets Community Website, I decided to close it down. I often thought about what I wanted to do with the site, how I would pass it along or how I would turn it off.  In the end, it was a fairly easy decision, I just had to write the final posts, add a message and make a plan on how to turn off the bits that will not age well.
 ---
 
-<img src="/assets/images/2021/Closing-down-the-St-Margarets-Community-Website-thumb.jpg" width="500" alt="Image - Closing-down-the-St-Margarets-Community-Website" />
-
 After sixteen years of running the St Margarets Community Website, I decided to close it down. I had often thought about how my involvement with the site would end; would pass it along or how I would turn it off. In the end, it was a fairly easy decision, I just had to write the final posts, add a message and make a plan on how to turn off the bits that will not age well.
 
 [You can read my goodbye message](https://stmargarets.london/archives/2021/12/closing-down-the-st-margarets-community-website.html) if you are interested. I thought I would add a few things to that post here.
