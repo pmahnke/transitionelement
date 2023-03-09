@@ -10,8 +10,6 @@ excerpt: |
   When we decided to retire, we wanted to go traveling right away and then figure out the rest of our life later on. Before our last day even came, we had planned a nearly four month trip to the US that included a lot of national parks, a long, long hike, a family wedding, several visits with friends and family, and a road trip.
 ---
 
-<a href="/assets/images/2022/-home-peter-Downloads-A5B2136F-95D5-4FE3-871F-BA64F2F86B43.jpg" title="Click for a larger image"><img src="/assets/images/2022/-home-peter-Downloads-A5B2136F-95D5-4FE3-871F-BA64F2F86B43-thumb.jpg" width="500" alt="Image - -home-peter-Downloads-A5B2136F-95D5-4FE3-871F-BA64F2F86B43" /></a>
-
 When we decided to retire, we wanted to go traveling right away and then figure out the rest of our life later on. Before our last day even came, we had planned a nearly four month trip to the US that included a lot of national parks, a long, long hike, a family wedding, several visits with friends and family, and a road trip.
 
 After my last day of work, I only had a week to help prepare the house for the boys and pull together everything we would need on this long trip. It was a bit tricky to think it all through, so I relied heavily on Google Tasks to keep it all moving along. The other thing we decided was to minimise the amount of things we would change for our hike as we wouldn't have time to really test any new equipment. This made things a lot easier as I didn't have to think about a new backpack, sleeping pad or anything major. However, since we were doing so many different things, we had to pack for three different modes; car camping, a long distance hike, and being with friends in families with restaurants and civilisation.

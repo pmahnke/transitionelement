@@ -12,8 +12,6 @@ excerpt: |
   There isn't a day that goes by that I don't think about him in some way. I mostly worry about my mother and hope that she is doing ok generally or with some seasonal chore that my father used to do. Mostly she is fine and things have been getting better and better for her.
 ---
 
-<a href="/assets/images/8647994283_6fe46df021.jpg" title="Bob in the den by Peter M, on Flickr"><img src="/assets/images/8647994283_6fe46df021.jpg" width="500" height="338" alt="Bob in the den"></a>
-
 It has been a year since my father died.
 
 There isn't a day that goes by that I don't think about him in some way. I mostly worry about my mother and hope that she is doing ok generally or with some seasonal chore that my father used to do. Mostly she is fine and things have been getting better and better for her.
