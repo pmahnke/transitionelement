@@ -10,8 +10,6 @@ excerpt: |
   We recently had a memorial for my father at the Milwaukee Yacht Club. I reluctantly spoke for the family. It was pretty difficult to do. The four speakers that preceded me, Randy, Terry, Marv and Ted, said such lovely things, and my boys both read, the start of the Hobbit and The Road Less Travelled by Frost, that I was pretty emotional. For two of the items, I had my brother come read them.
 ---
 
-<a href="/assets/images/mahnke_memorial.png"><img alt="mahnke_memorial.png" src="/assets/images/mahnke_memorial-thumb.png" width="150" height="214" class="right" /></a>
-
 <em>We recently had a memorial for my father at the Milwaukee Yacht Club. I reluctantly spoke for the family. It was pretty difficult to do. The four speakers that preceded me, Randy, Terry, Marv and Ted, said such lovely things, and my boys both read, the start of the Hobbit and The Road Less Travelled by Frost, that I was pretty emotional. For two of the items, I had my brother come read them.</em>
 
 <em>I have posted this here because I know how much reading my dear friend [John Oxton's speech](http://mrandmrsok.com/blog/eulogy-for-my-dad) helped me write mine. I would go so far to say that I couldn't have written mine without his. Perhaps this, intentionally light hearted speech, will help someone write theirs.</em>
