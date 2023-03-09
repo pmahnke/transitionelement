@@ -5,6 +5,7 @@ permalink: /archives/2023/03/bobs_eighty.html
 commentfile: 2023-03-08-bobs_eighty
 category: life in the UK
 date: 2023-03-08 18:00:56
+image: "/assets/images/2023/-home-peter-Downloads-Bob_with_Peter_and_baby_John.jpg"
 excerpt: |
   Today would have been my father's eightieth birthday; in a few days, on 17 March 2023, it will also be ten years since he died.
 ---
