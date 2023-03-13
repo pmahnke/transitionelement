@@ -10,8 +10,6 @@ excerpt: |
   Today would have been my father's eightieth birthday; in a few days, on 17 March 2023, it will also be ten years since he died.
 ---
 
-<a href="/assets/images/2023/-home-peter-Downloads-Bob_with_Peter_and_baby_John.jpg" title="Click for a larger image"><img src="/assets/images/2023/-home-peter-Downloads-Bob_with_Peter_and_baby_John-thumb.jpg" width="500" alt="Image - -home-peter-Downloads-Bob_with_Peter_and_baby_John" /></a>
-
 Today would have been my father's eightieth birthday; in a few days, on 17 March 2023, it will also be ten years since he died.
 
 I have written about him before [here](/archives/2020/03/seventy-seven.html) and [here](/archives/2014/03/one_year_on.html), and not a lot has changed. I do still think about him every day. I give him more and more credit for handling people, his hobbies, maintaining the house, and interacting with my friends and me, especially as I am challenged by these things more and more.
