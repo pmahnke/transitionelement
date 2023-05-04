@@ -21,7 +21,7 @@ layout: default-empty
           {{ post.excerpt | textilize }}
           <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }}</p>
         {% endfor %}
-        {% if pages.posts.size > 10 %}
+        {% if page.posts.size > 10 %}
         <h3>Older Articles</h3>
         <ul>
           {% for post in page.posts offset: 10 %}

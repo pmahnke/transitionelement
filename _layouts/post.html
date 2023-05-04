@@ -22,7 +22,9 @@ layout: default-empty
     <article class="post-content col-6 col-start-large-6">
       <h2 class="post-title">{{ page.title }}</h2>
       {% if page.image %}
-      <img  src="{% if page.image contains 'googleusercontent' %}{% else %}{{ site.url }}{% endif %}{{ page.image  | remove:'-thumb' | remove:'_thumb' | escape }}" width="605" alt="" />
+      <a href="{% if page.image contains 'googleusercontent' %}{% else %}{{ site.url }}{% endif %}{{ page.image  | remove:'-thumb' | remove:'_thumb' | escape }}">
+        <img  src="{% if page.image contains 'googleusercontent' %}{% else %}{{ site.url }}{% endif %}{{ page.image  | remove:'-thumb' | remove:'_thumb' | escape }}" width="605" alt="" />
+      </a>
       {% endif %}
       {{ content }}
     </article>
