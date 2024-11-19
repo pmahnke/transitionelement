@@ -11,11 +11,11 @@ excerpt: |
 ---
 
 |            |          |
-| ---------- | -------- | -------------------------------- |
-| **Stayed** | Lima     | Wyndham at the Airport           |
-| **Ate**    | _Lunch_  | Airport food court - Burger King |
-|            | _Dinner_ | Airport food court - Papa Johns  |
-| **Travel** | _Flying_ | Chachapoyas to Lima              |
+| ---------- | -------- | ---------------------------------------------------------------------------------------- |
+| **Stayed** | Lima     | [Hotel Costa del Sol Wyndham Lima Aeropuerto](https://maps.app.goo.gl/hbkRMc32p7eESr58A) |
+| **Ate**    | _Lunch_  | Airport food court - Burger King                                                         |
+|            | _Dinner_ | Airport food court - Papa Johns                                                          |
+| **Travel** | _Flying_ | Chachapoyas to Lima                                                                      |
 
 Our last night. Due to plane timetables, we are spending one last night at an airport hotel in Lima and leaving very early in the monrning.
 

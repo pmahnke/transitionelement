@@ -10,16 +10,16 @@ excerpt: |
   Today was just a nine hour bus ride to the coastal town of Trujillo. Descending the Andes was a test of our stomachs.
 ---
 
-|            |              |
-| ---------- | ------------ | ------- |
-| **Stayed** | Quechuanndes |
-| **Ate**    | _Lunch_      | Bus     |
-|            | _Dinner_     | Bus     |
-| **Travel** | _Bus_        | 9 hours |
+|            |                                                                  |
+| ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Stayed** | [Saint Germain Hotel](https://maps.app.goo.gl/4iU5fRxb39RAQYjW6) |
+| **Ate**    | _Lunch_                                                          | Bus                                                                                                                              |
+|            | _Dinner_                                                         | [Jano's Centro](https://maps.app.goo.gl/pV89PXKVLRmDiSiHA) & [DulciNelly](https://maps.app.goo.gl/GgMqWYeyxz84H9QQ6) for dessert |
+| **Travel** | _Bus_                                                            | 9 hours                                                                                                                          |
 
 Today we said goodbye to our hiking friends at breakfast.
 
-Then a nine hour bus ride to the coastal town of Trujillo.
+Then a nine hour bus ride to the coastal town of Trujillo. The city is buzzing with people walking around.
 
 Descending the Andes was a test of our stomachs.
 
@@ -44,8 +44,7 @@ Descending the Andes was a test of our stomachs.
       <label for="img-3" class="next">&#x203a;</label>
     </div>
     </li>
-    
-    <input type="radio" name="radio-btn" id="img-3" />
+      <input type="radio" name="radio-btn" id="img-3" />
     <li class="slide-container">
         <div class="slide">
           <a href="/assets/images/insta/462436323_18467846080047535_269690748147125138_n_18022111733222856.jpg"><img src="/assets/images/insta/462436323_18467846080047535_269690748147125138_n_18022111733222856.jpg" /></a>
@@ -55,12 +54,9 @@ Descending the Andes was a test of our stomachs.
       <label for="img-1" class="next">&#x203a;</label>
     </div>
     </li>
-			
-<li class="nav-dots">
+		<li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
-
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
-
-</li>
+  </li>
 </ul>

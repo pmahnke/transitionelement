@@ -1,27 +1,35 @@
 ---
 layout: post
-title: "Peru - Inka Trail &amp; Machu Picchu -  Day 4"
-permalink: /archives/2024/09/2024-09-20-peru_inka_trail_machu_picchu_day_4.html
-commentfile: 2024-09-20-peru_inka_trail_machu_picchu_day_4
+title: "Peru - Inka Trail &amp; Machu Picchu - Day 4"
+permalink: /archives/2024/09/2024-09-19-peru_inka_trail_machu_picchu_day_4.html
+commentfile: 2024-09-19-peru_inka_trail_machu_picchu_day_4
 category: travel
-date: 2024-09-20 12:57:00
+date: 2024-09-19 12:57:00
 image: "/assets/images/insta/460967525_18464367442047535_74717477071560361_n_18329291038144387.jpg"
 excerpt: |
-  Wiñay Wayna to Machu Picchu - Today was a very early wake up, 3am, to allow the porters to get down to a train. We basically waited until 5:30am to start the last 2 hours to hike into the Sun Gate and walk down to Machu Picchu.  On the way you have to scale the ‘monkey steps’, but then you are there. You climb down to the terraces and take the classic photos and the. You get two hours to walk through the town. We were lucky to get the classic photos as it began to pour for our tour. Ten minutes later and we would have seen nothing. The tour was wet, but fine. We say the royal residence, the sun temple, the temple of the condor, the virgin’s rooms and more. Then we went down to the town that is for the non- hikers to access and had lunch, then took a train and bus back to Cusco. Bucket list item ✔️
+  Today was a very early wake up, 3am, to allow the porters to get down to a train. We basically waited until 5:30am to start the last 2 hours to hike into the Sun Gate and walk down to Machu Picchu.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |           |
+| ---------- | --------- | --------------------------------------------------------------------------- |
+| **Stayed** | Cusco     | [Casa Mirador Guesthouse](https://maps.app.goo.gl/rorZtUdeFKDXqFkg8)        |
+| **Ate**    | _Lunch_   | [Ponchos Machupicchu Restaurant](https://maps.app.goo.gl/AKgTbLvf4BW1Z9PF7) |
+|            | _Dinner_  | [Casalino Foccaceria](https://maps.app.goo.gl/aa82osPVzFL9R5AC8)            |
+| **Travel** | _Walking_ | 6.72 km, 3:43 hours, 184 meters up, 447 meters down                         |
 
+Wiñay Wayna to Machu Picchu
 
-Wiñay Wayna to Machu Picchu - Today was a very early wake up, 3am, to allow the porters to get down to a train. We basically waited until 5:30am to start the last 2 hours to hike into the Sun Gate and walk down to Machu Picchu.  On the way you have to scale the ‘monkey steps’, but then you are there. You climb down to the terraces and take the classic photos and the. You get two hours to walk through the town. We were lucky to get the classic photos as it began to pour for our tour. Ten minutes later and we would have seen nothing. The tour was wet, but fine. We say the royal residence, the sun temple, the temple of the condor, the virgin’s rooms and more. Then we went down to the town that is for the non- hikers to access and had lunch, then took a train and bus back to Cusco. Bucket list item ✔️
+Today was a very early wake up at 3am, to allow the porters to get down to Aguas Calientes to a train.
 
+We basically waited until 5:30am to get through the gate to start the last two hour hike into the Sun Gate. From there you have to walk down to Machu Picchu. On the way you have to scale the ‘monkey steps’, but then you are there.
+
+You climb down to the terraces and take the classic photos of the site from above. Then you have to exit and re-enter to enter the main ruins. It was cloudy until this point. Then it was just a solid multi-hour downpour.
+
+You get two hours to walk through the town. We were lucky to get the classic photos first as the rain and cloud would have ruined it. Ten minutes later and we would have seen nothing. The tour was wet, but fine. We saw the royal residence, the sun temple, the temple of the condor, the virgin’s rooms and more.
+
+After our two hours, we took a bus down to the Aguas Calientes had lunch, then we took a train and bus back to Cusco.
+
+Bucket list item ✔️
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -30,7 +38,7 @@ Wiñay Wayna to Machu Picchu - Today was a very early wake up, 3am, to allow the
           <a href="/assets/images/insta/460652416_18464367454047535_6906622233371367269_n_18045388510956613.jpg"><img src="/assets/images/insta/460652416_18464367454047535_6906622233371367269_n_18045388510956613.jpg" /></a>
         </div>
     <div class="nav">
-      <label for="img-11" class="prev">&#x2039;</label>
+      <label for="img-12" class="prev">&#x2039;</label>
       <label for="img-2" class="next">&#x203a;</label>
     </div>
     </li>
@@ -124,14 +132,24 @@ Wiñay Wayna to Machu Picchu - Today was a very early wake up, 3am, to allow the
       <label for="img-11" class="next">&#x203a;</label>
     </div>
     </li>
-    
-    <input type="radio" name="radio-btn" id="img-11" />
+    <li>
+      <input type="radio" name="radio-btn" id="img-11" />
+    <li class="slide-container">
+        <div class="slide">
+          <a href="/assets/images/insta/459843416_18464417653047535_8280042178834094343_n_18061944898659675.jpg"><img src="/assets/images/insta/459843416_18464417653047535_8280042178834094343_n_18061944898659675.jpg" /></a>
+        </div>
+    <div class="nav">
+      <label for="img-10" class="prev">&#x2039;</label>
+      <label for="img-12" class="next">&#x203a;</label>
+    </div>
+    </li>    
+    <input type="radio" name="radio-btn" id="img-12" />
     <li class="slide-container">
         <div class="slide">
           <a href="/assets/images/insta/460967525_18464367442047535_74717477071560361_n_18329291038144387.jpg"><img src="/assets/images/insta/460967525_18464367442047535_74717477071560361_n_18329291038144387.jpg" /></a>
         </div>
     <div class="nav">
-      <label for="img-10" class="prev">&#x2039;</label>
+      <label for="img-11" class="prev">&#x2039;</label>
       <label for="img-1" class="next">&#x203a;</label>
     </div>
     </li>
@@ -151,7 +169,4 @@ Wiñay Wayna to Machu Picchu - Today was a very early wake up, 3am, to allow the
       <label for="img-11" class="nav-dot" id="img-dot-11"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

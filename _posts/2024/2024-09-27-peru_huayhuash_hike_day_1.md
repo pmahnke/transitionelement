@@ -13,7 +13,7 @@ excerpt: |
 |            |                     |
 | ---------- | ------------------- | -------------------- |
 | **Stayed** | Campsite Matacancha |
-| **Ate**    | _Lunch_             | Bag lunch            |
+| **Ate**    | _Lunch_             | Pack lunch           |
 |            | _Dinner_            | Camp                 |
 | **Travel** | _Bus_               | Huaraz to Matacancha |
 
