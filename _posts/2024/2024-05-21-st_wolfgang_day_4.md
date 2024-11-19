@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "St Wolfgang  Day 4"
+title: "St Wolfgang - Day 4"
 permalink: /archives/2024/05/2024-05-21-st_wolfgang_day_4.html
 commentfile: 2024-05-21-st_wolfgang_day_4
 category: travel
 date: 2024-05-21 12:09:00
 image: "/assets/images/insta/445493890_424381550352601_5815830541806136089_n_18020959181184704.jpg"
 excerpt: |
-  today we went to Hallstatt and toured the oldest salt mine in the world. Then walked through the old town and had lunch by the lake. Lovely day.
+  Today we went to Hallstatt and toured the oldest salt mine in the world.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we went to Hallstatt and toured the oldest salt mine in the world. Then walked through the old town and had lunch by the lake.
 
-
-today we went to Hallstatt and toured the oldest salt mine in the world. Then walked through the old town and had lunch by the lake. Lovely day.
-
+Lovely day.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -107,7 +98,4 @@ today we went to Hallstatt and toured the oldest salt mine in the world. Then wa
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
