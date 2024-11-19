@@ -1,0 +1,69 @@
+---
+layout: post
+title: "California - Lone Pine -  Day 39"
+permalink: /archives/2022/08/2022-08-10-california_lone_pine_day_39.html
+commentfile: 2022-08-10-california_lone_pine_day_39
+category: travel
+date: 2022-08-10 12:34:00
+image: "/assets/images/insta/298277922_3207265739496074_2349487775596651806_n_18043262218327049.jpg"
+excerpt: |
+  So the road to the trailhead is open. We start tomorrow. Today was all about storing luggage, dropping another resupply box, returning our rental car and getting to Lone Pine for our ride tomorrow. The weather looks scary for the first two days. Lots of rain and thunderstorms and wind. Wish us luck.
+---
+
+|            |                                                              |
+| ---------- | ------------------------------------------------------------ | ----------------------------- |
+| **Stayed** |  |
+| **Ate**    | _Lunch_                                                      |          |
+|            | _Dinner_                                                     |          |
+| **Travel** | _Flying_                                                     |          |
+|            | _Train_                                                      |          |
+|            | _Walking_                                                    |          |
+
+
+So the road to the trailhead is open. We start tomorrow. Today was all about storing luggage, dropping another resupply box, returning our rental car and getting to Lone Pine for our ride tomorrow. The weather looks scary for the first two days. Lots of rain and thunderstorms and wind. Wish us luck.
+
+
+<ul class="slides">
+    <input type="radio" name="radio-btn" id="img-1" checked="checked" />
+    <li class="slide-container">
+        <div class="slide">
+          <a href="/assets/images/insta/298380331_742729836810005_3104464356063274557_n_17942214599231104.jpg"><img src="/assets/images/insta/298380331_742729836810005_3104464356063274557_n_17942214599231104.jpg" /></a>
+        </div>
+    <div class="nav">
+      <label for="img-3" class="prev">&#x2039;</label>
+      <label for="img-2" class="next">&#x203a;</label>
+    </div>
+    </li>
+        <input type="radio" name="radio-btn" id="img-2"  />
+    <li class="slide-container">
+        <div class="slide">
+          <a href="/assets/images/insta/298523271_423420169587182_1242632129565430623_n_17951095058043114.jpg"><img src="/assets/images/insta/298523271_423420169587182_1242632129565430623_n_17951095058043114.jpg" /></a>
+        </div>
+    <div class="nav">
+      <label for="img-1" class="prev">&#x2039;</label>
+      <label for="img-3" class="next">&#x203a;</label>
+    </div>
+    </li>
+    
+    <input type="radio" name="radio-btn" id="img-3" />
+    <li class="slide-container">
+        <div class="slide">
+          <a href="/assets/images/insta/298277922_3207265739496074_2349487775596651806_n_18043262218327049.jpg"><img src="/assets/images/insta/298277922_3207265739496074_2349487775596651806_n_18043262218327049.jpg" /></a>
+        </div>
+    <div class="nav">
+      <label for="img-2" class="prev">&#x2039;</label>
+      <label for="img-1" class="next">&#x203a;</label>
+    </div>
+    </li>
+			
+<li class="nav-dots">
+      <label for="img-1" class="nav-dot" id="img-dot-1"></label>
+      <label for="img-2" class="nav-dot" id="img-dot-2"></label>
+
+      <label for="img-3" class="nav-dot" id="img-dot-3"></label>
+
+</li>
+</ul>        
+             
+
+		
