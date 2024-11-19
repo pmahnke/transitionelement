@@ -1,27 +1,16 @@
 ---
 layout: post
-title: "St Wolfgang  Day 3"
+title: "St Wolfgang - Day 3"
 permalink: /archives/2024/05/2024-05-20-st_wolfgang_day_3.html
 commentfile: 2024-05-20-st_wolfgang_day_3
 category: travel
 date: 2024-05-20 12:56:00
 image: "/assets/images/insta/445364536_438810228883799_6402352844816953203_n_18023083736485442.jpg"
 excerpt: |
-  today we took a cog train to Schafberg and admired the views. Then a walk along the lake in St Wolfgang.
+  Today we took a cog train to Schafberg and admired the views.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
-today we took a cog train to Schafberg and admired the views. Then a walk along the lake in St Wolfgang.
-
+Today we took a cog train to Schafberg and admired the views. Then we went for a walk along the lake in St Wolfgang.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -74,7 +63,4 @@ today we took a cog train to Schafberg and admired the views. Then a walk along 
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

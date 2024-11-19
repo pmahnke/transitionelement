@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "St Wolfgang  Day 5"
+title: "St Wolfgang - Day 5"
 permalink: /archives/2024/05/2024-05-23-st_wolfgang_day_5.html
 commentfile: 2024-05-23-st_wolfgang_day_5
 category: travel
 date: 2024-05-23 06:00:00
 image: "/assets/images/insta/445539188_383576134054997_6896443317240614248_n_18266698771213050.jpg"
 excerpt: |
-  Today we got a late start and just took a ferry to St Gilgen. As soon as we landed, it started raining. And as soon as we got back on the ferry, it stopped.
+  Today we got a late start and took a ferry to St Gilgen.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we got a late start. We took a ferry to St Gilgen. As soon as we landed, it started raining. And as soon as we got back on the ferry, it stopped.
 
-
-Today we got a late start and just took a ferry to St Gilgen. As soon as we landed, it started raining. And as soon as we got back on the ferry, it stopped.
-
+The town was very quiet, but cute.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +76,4 @@ Today we got a late start and just took a ferry to St Gilgen. As soon as we land
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

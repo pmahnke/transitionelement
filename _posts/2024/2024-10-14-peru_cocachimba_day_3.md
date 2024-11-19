@@ -10,11 +10,11 @@ excerpt: |
   Epic rains fell all night, but cleared to let us walk 13 km and up and down nearly 700 meters to Gocta Falls.
 ---
 
-|            |                |
-| ---------- | -------------- | ------------------------------------------------- |
-| **Stayed** | Gocta Miradors |
-| **Ate**    | _Dinner_       | La Tushpa de Gocta                                |
-| **Travel** | _Walking_      | 13 km, 3:48 hours, 672 meters up, 637 meters down |
+|            |                                                             |
+| ---------- | ----------------------------------------------------------- | --------------------------------------------------------------- |
+| **Stayed** | [Gocta Miradors](https://maps.app.goo.gl/3NdxaMh3kR4f277UA) |
+| **Ate**    | _Dinner_                                                    | [La Tushpa de Gocta](https://maps.app.goo.gl/MG5H36MLattiwvvk6) |
+| **Travel** | _Walking_                                                   | 13 km, 3:48 hours, 672 meters up, 637 meters down               |
 
 Epic rains fell all night, but cleared to let us walk the 13 km and up and down nearly 700 meters to Gocta Falls. It is one of the tallest waterfalls in the world with a 770 meter drop.
 
