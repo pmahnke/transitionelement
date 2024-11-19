@@ -10,15 +10,23 @@ excerpt: |
   Today we toured the nearby ruins. First was the Moche, the earliest culture here, then Chan Chan, a UNESCO World heritage site, where the Chimu, who were eventually conquered by the Inca, build an amazing set of cities.
 ---
 
-|            |                     |
-| ---------- | ------------------- |
-| **Stayed** | Saint Germain Hotel |
+|            |                         |
+| ---------- | ----------------------- | ---------------------------------------------------------- |
+| **Stayed** | On the bus to Cajamarca |
+| **Ate**    | _Lunch_                 |                                                            |
+|            | _Dinner_                | [Amaretto Cafe](https://maps.app.goo.gl/L37PpGfZBkDoNye86) |
+| **Travel** | _Walking_               | 9.7 km                                                     |
+|            | _Bus_                   | 6:40 hours                                                 |
 
-Today we toured the nearby ruins, El Brujo and Chan Chan. We went on a tour with an English guide who was just for us. He was a retired English teacher and pretty odd, but very nice.
+Today we toured the nearby ruins, El Brujo and Chan Chan.
 
-The first, [El Brujo](https://en.wikipedia.org/wiki/El_Brujo), was built by the Moche, the earliest culture in the area.
+We went on a tour with an English guide who was just for us. He was a retired English teacher and pretty odd, but very nice.
 
-Afterwards, we went to [Chan Chan](https://en.wikipedia.org/wiki/Chan_Chan), a UNESCO World heritage site, where the Chimu, who were eventually conquered by the Inca, build an amazing set of 11 cities.
+The first, [El Brujo](https://en.wikipedia.org/wiki/El_Brujo), which was built by the Moche, the earliest culture in the area.
+
+Afterwards, we went to [Chan Chan](https://en.wikipedia.org/wiki/Chan_Chan), a UNESCO World heritage site, where the Chimu, who were eventually conquered by the Inca, build an amazing set of 11 palaces.
+
+In the evening, we took an overnight bus to Cajamarca.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />

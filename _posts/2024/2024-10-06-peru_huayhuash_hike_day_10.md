@@ -10,10 +10,12 @@ excerpt: |
   We hiked two last passes around Mount Rondoy and finished the hike.
 ---
 
-|            |                                |
-| ---------- | ------------------------------ | --------------------------------------------------- |
-| **Stayed** | Back in Huaraz at Quechuanndes |
-| **Travel** | _Walking_                      | 10.7 km, 4:51 hours, 777 meters up, 819 meters down |
+|            |           |
+| ---------- | --------- | --------------------------------------------------------- |
+| **Stayed** | Huaraz    | [Quechuanndes](https://maps.app.goo.gl/eHyhHHd92UUFVath9) |
+| **Ate**    | _Lunch_   | Pack lunch                                                |
+|            | _Dinner_  | [Pasaje150](https://maps.app.goo.gl/ruYuZcSGkTqx1HXF6)    |
+| **Travel** | _Walking_ | 10.7 km, 4:51 hours, 777 meters up, 819 meters down       |
 
 Today we hiked two last passes around Mount Rondoy and finished the hike.
 
@@ -24,6 +26,8 @@ The hike was tougher than most, but really because of the altitude. The elevatio
 We were blessed with a great group of fellow trekkers, guide and for the most part, good morning weather.
 
 What an experience.
+
+When we got back to Huaraz, almost all of us went to dinner together, pizza.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />

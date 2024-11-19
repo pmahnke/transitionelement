@@ -10,16 +10,16 @@ excerpt: |
   Today we toured Cumbe Mayo, a pre Inca (1500BC) site with petroglyphs and a very long (500 km) carved aqueduct among karst stone towers.
 ---
 
-|            |            |
-| ---------- | ---------- | ---------------------------------------------- |
-| **Stayed** | Casa Wayra |
-| **Ate**    | _Lunch_    | Restaurant Salas                               |
-|            | _Dinner_   | On the bus                                     |
-| **Travel** | _Bus_      | To Cumbe Mayo and then 13 hours to Chachapoyas |
+|            |                                                         |
+| ---------- | ------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Stayed** | [Casa Wayra](https://maps.app.goo.gl/a4jwCWtV3W8NY92Y9) |
+| **Ate**    | _Lunch_                                                 | [Restaurant Salas II](https://maps.app.goo.gl/23DuAT7kr251rqNK8) |
+|            | _Dinner_                                                | On the bus                                                       |
+| **Travel** | _Bus_                                                   | 13 hours                                                         |
 
-Today we toured the Cumbe Mayo ruins, a pre Inca (1500 BC) site with petroglyphs and a very long, 500 km, carved aqueduct among karst stone towers. It was impressive except for the childlike septagenerians in our group.
+Today we toured the [Cumbe Mayo](https://maps.app.goo.gl/64nskeoQt5yyMmF57) ruins, a pre Inca (1500 BC) site with petroglyphs and a very long, 500 km, carved aqueduct among karst stone towers. It was impressive except for the childlike septagenerians in our group.
 
-Afterwards we wandered Cajamarca until out night bus to Chachapoyas on the most twisted road yet. 13 hours!
+Afterwards we wandered Cajamarca until our night bus to Chachapoyas on the most twisted road yet. 13 hours!
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />

@@ -1,27 +1,37 @@
 ---
 layout: post
-title: "Peru - Inka Trail -  Day 3"
-permalink: /archives/2024/09/2024-09-20-peru_inka_trail_day_3.html
-commentfile: 2024-09-20-peru_inka_trail_day_3
+title: "Peru - Inka Trail - Day 3"
+permalink: /archives/2024/09/2024-09-18-peru_inka_trail_day_3.html
+commentfile: 2024-09-18-peru_inka_trail_day_3
 category: travel
-date: 2024-09-20 12:46:00
+date: 2024-09-18 12:46:00
 image: "/assets/images/insta/460881356_18464366026047535_8547019466874907501_n_18082512181513829.jpg"
 excerpt: |
-  Pacaymayo to Wiñay Wayna - Today started with another pass and then a very long and very painful down. However, we passed through many interesting Inka sites and had an excellent lunch. It was especially impressive to watch the porters run down the stone steps with a 25kg load. The trail moved from the drier Andean climate to the Amazon cloud forest side with treats and moss.
+  Pacaymayo to Wiñay Wayna - Today started with another pass and then a very long and very painful down.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |             |
+| ---------- | ----------- | --------------------------------------------------- |
+| **Stayed** | Wiñay Wayna |
+| **Ate**    | _Lunch_     | At Phuyupatamarka Camp                              |
+|            | _Dinner_    | At camp                                             |
+| **Travel** | _Walking_   | 13.34 km, 10 hours, 630 meters up, 1495 meters down |
 
+Pacaymayo to Wiñay Wayna
 
-Pacaymayo to Wiñay Wayna - Today started with another pass and then a very long and very painful down. However, we passed through many interesting Inka sites and had an excellent lunch. It was especially impressive to watch the porters run down the stone steps with a 25kg load. The trail moved from the drier Andean climate to the Amazon cloud forest side with treats and moss.
+Today started with another pass and then a very long and very painful down hill.
 
+The good thing was that we passed through many interesting Inka sites and had an excellent lunch above one of them.
+
+- [Runqurakay](https://maps.app.goo.gl/SKMvXumnC1eqHkiw5)
+- [Sayacmarka](https://maps.app.goo.gl/ou3GqttrYA38w3yp6)
+- [Phuyupatamarka](https://maps.app.goo.gl/JUhFam2fTkggrJYJ8)
+- [Intipata](https://maps.app.goo.gl/Ea6hgYbbmpD9ffKy7)
+- [Wiñay Wayna](https://maps.app.goo.gl/b7SSDJJyDz3BdX4x9)
+
+It was especially impressive to watch the porters run down the stone steps with a 25kg load. It is also odd to see the 500 other people doing the Inka trail on your day all stop for meals and campsites in the same locations.
+
+The trail crossed from the drier Andean climate to the Amazon cloud forest side with treats and moss that was all in flower.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -173,7 +183,4 @@ Pacaymayo to Wiñay Wayna - Today started with another pass and then a very long
       <label for="img-13" class="nav-dot" id="img-dot-13"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
