@@ -1,27 +1,16 @@
 ---
 layout: post
-title: "St Wolfgang  Day 2"
+title: "St Wolfgang - Day 2"
 permalink: /archives/2024/05/2024-05-19-st_wolfgang_day_2.html
 commentfile: 2024-05-19-st_wolfgang_day_2
 category: travel
 date: 2024-05-19 12:38:00
 image: "/assets/images/insta/445745658_1136686474245983_3275319418570091409_n_17956089665655382.jpg"
 excerpt: |
-  today there was a festival across the street with brass bands, beer, wine and food!  We spent a good few hours there, then explored the town a bit. We saw the church and Ryan and Kayla went for a cold swim.
+  Today there was a festival across the street with brass bands, beer, wine and food!
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
-today there was a festival across the street with brass bands, beer, wine and food!  We spent a good few hours there, then explored the town a bit. We saw the church and Ryan and Kayla went for a cold swim.
-
+Today there was a festival across the street with brass bands, beer, wine and food! We spent a good few hours there, then explored the town a bit. We saw the church and Ryan and Kayla went for a cold swim.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -118,7 +107,4 @@ today there was a festival across the street with brass bands, beer, wine and fo
       <label for="img-8" class="nav-dot" id="img-dot-8"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

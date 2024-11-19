@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "València  Day 29"
+title: "València - Day 29"
 permalink: /archives/2024/04/2024-04-16-valencia_day_29.html
 commentfile: 2024-04-16-valencia_day_29
 category: travel
@@ -10,18 +10,16 @@ excerpt: |
   Our last day.  We spend the morning packing up and cleaning.  We left our bags at a bike shop that doubles as a luggage store.  We then checked out Ruzafa’s market, very nice and much less crowded than the main market.  On the way we saw another saint’s celebration.  Lunch was at our favourite sandwich shop (Quiosc La Pérgola) and then we headed to the airport and home.  We had a great time and really love the city — I am sure we will be back.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
-
-Our last day.  We spend the morning packing up and cleaning.  We left our bags at a bike shop that doubles as a luggage store.  We then checked out Ruzafa’s market, very nice and much less crowded than the main market.  On the way we saw another saint’s celebration.  Lunch was at our favourite sandwich shop (Quiosc La Pérgola) and then we headed to the airport and home.  We had a great time and really love the city — I am sure we will be back.
-
+Our last day. We spend the morning packing up and cleaning. We left our bags at a bike shop that doubles as a luggage store. We then checked out Ruzafa’s market, very nice and much less crowded than the main market. On the way we saw another saint’s celebration. Lunch was at our favourite sandwich shop (Quiosc La Pérgola) and then we headed to the airport and home. We had a great time and really love the city — I am sure we will be back.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -129,7 +127,4 @@ Our last day.  We spend the morning packing up and cleaning.  We left our bags a
       <label for="img-9" class="nav-dot" id="img-dot-9"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
