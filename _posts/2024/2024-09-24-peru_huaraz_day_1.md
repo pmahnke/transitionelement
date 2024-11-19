@@ -10,38 +10,14 @@ excerpt: |
   We flew up to Huaraz from Lima this morning. We spent the rest of the day just walking around. It’s a very lively place and a lot of little restaurants.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |                                                           |
+| ---------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| **Stayed** | [Quechuanndes](https://maps.app.goo.gl/eHyhHHd92UUFVath9) |
+| **Ate**    | _Lunch_                                                   | [Cafeteria Tahua](https://maps.app.goo.gl/Cmb93GQgzpUE4K5w6) |
+|            | _Dinner_                                                  | [Pasaje150](https://maps.app.goo.gl/ruYuZcSGkTqx1HXF6)       |
+| **Travel** | _Flying_                                                  | 1:26 hours                                                   |
+|            | _Walking_                                                 | 14.8 km                                                      |
 
+We flew up to Huaraz from Lima this morning.
 
-We flew up to Huaraz from Lima this morning. We spent the rest of the day just walking around. It’s a very lively place and a lot of little restaurants.
-
-
-<ul class="slides">
-
-    <input type="radio" name="radio-btn" id="img-1" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/461329093_18465176665047535_6750194535292144653_n_18015986591554241.jpg"><img src="/assets/images/insta/461329093_18465176665047535_6750194535292144653_n_18015986591554241.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-0" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
-<li class="nav-dots">
-
-      <label for="img-1" class="nav-dot" id="img-dot-1"></label>
-
-</li>
-</ul>        
-             
-
-		
+We spent the rest of the day just walking around. It’s a very lively place and a lot of little restaurants. We went to a lovely pizza place for dinner as well.

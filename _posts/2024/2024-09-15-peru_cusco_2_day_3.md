@@ -21,7 +21,7 @@ Today we went on a tour of the Sacred Valley. It was pretty amazing to see all t
 
 1. **[Chinchero](https://maps.app.goo.gl/LwZ88Gu2V6Y1i8B59)** - once was the royal estate of Túpac Inca Yupanqui now it is a church with terraces
 2. **[Moray](https://maps.app.goo.gl/ET6UM46BzYfxjo8o7)** - terrace circles to test growing different foods
-3. **[Salineras de Maras salt pans](https://maps.app.goo.gl/2tFQ8Lvcd3Ck3En89)** - water is salty from the spring. The pans are just dry it. Each family has 8 to 10 pans.
+3. **[Salineras de Maras](https://maps.app.goo.gl/2tFQ8Lvcd3Ck3En89)** - salt pans, the water enters the pans already salty from the spring. The pans are just dry it. Each family has 8 to 10 pans.
 4. **[Ollantaytambo](https://maps.app.goo.gl/VquZF7BiKyQ9Jsbh8)** - a massive Inca fortress where two valleys meet again with farm terraces
 5. **[Pisac](https://maps.app.goo.gl/1H5u5egMtUq7wZp39)** - small town with loads of grave niches, again a genetic lab of terraces
 

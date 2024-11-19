@@ -7,21 +7,26 @@ category: travel
 date: 2024-09-25 12:45:00
 image: "/assets/images/insta/461277716_18465373225047535_4170362204234843608_n_18057953824783601.jpg"
 excerpt: |
-  today, as prep for our big hike, we did a six hour hike up to over 15k feet at Laguna 69. I sure hope it helps.
+  As prep for our big hike, we did a six hour hike up to over 15k feet at Laguna 69. I sure hope it helps.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |                                                           |
+| ---------- | --------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Stayed** | [Quechuanndes](https://maps.app.goo.gl/eHyhHHd92UUFVath9) |
+| **Ate**    | _Lunch_                                                   | Pack lunch                                                        |
+|            | _Dinner_                                                  | [390 Station Shawarma](https://maps.app.goo.gl/S3dYyyDHLw4uTocy8) |
+| **Travel** | _Bus_                                                     | 6 hours (3 each way)                                              |
+|            | _Walking_                                                 | 13.81 km, 5:44 hours, 801 meters up & down                        |
 
+As prep for our big hike, we did a six hour hike up to over 15k feet at [Laguna 69](https://maps.app.goo.gl/mcPbvVceGYM7ArQ87).
 
-today, as prep for our big hike, we did a six hour hike up to over 15k feet at Laguna 69. I sure hope it helps.
+It was really lovely, and the mountains in the area where some of the highest in Peru; including:
 
+- Huascarán at 6,768 meters (22,197 feet) is the highest in Peru
+- Chopicalqui at 6,388 meters (21,017 feet)
+- Huandoy, behind Laguna 69 at 6,395 meters (21,010 feet)
+
+Well, I sure hope the hike helps for our Hauyhaush hike.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +90,4 @@ today, as prep for our big hike, we did a six hour hike up to over 15k feet at L
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

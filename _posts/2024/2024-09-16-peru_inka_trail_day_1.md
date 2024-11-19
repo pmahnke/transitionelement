@@ -1,27 +1,29 @@
 ---
 layout: post
-title: "Peru - Inka Trail -  Day 1"
-permalink: /archives/2024/09/2024-09-20-peru_inka_trail_day_1.html
-commentfile: 2024-09-20-peru_inka_trail_day_1
+title: "Peru - Inka Trail - Day 1"
+permalink: /archives/2024/09/2024-09-16-peru_inka_trail_day_1.html
+commentfile: 2024-09-16-peru_inka_trail_day_1
 category: travel
-date: 2024-09-20 12:22:00
+date: 2024-09-16 12:22:00
 image: "/assets/images/insta/460717723_18464363047047535_2961568907722746878_n_18464077351061196.jpg"
 excerpt: |
   Today we started the four day Inka Trail from Piscacucho to Huayllabamba. The first day is fairly easy at 13.4 km and 472 m elevation. There was an Inka ruin to explore and great views. We got to know the other couple in our group a bit and our guide, cook and porters.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |              |
+| ---------- | ------------ | ---------------------------------------------------- |
+| **Stayed** | Huayllabamba |
+| **Ate**    | _Lunch_      | En route                                             |
+|            | _Dinner_     | At camp                                              |
+| **Travel** | _Walking_    | 13.52 km, 5:21 hours, 472 meters up, 294 meters down |
 
+Today we started the four day Inka Trail from Piscacucho to Huayllabamba. It is an early start and a long drive. We had to go to Pisac to collect the other two hikers on our trip. They were a couple from NYC, living very close to John and Dee.
 
-Today we started the four day Inka Trail from Piscacucho to Huayllabamba. The first day is fairly easy at 13.4 km and 472 m elevation. There was an Inka ruin to explore and great views. We got to know the other couple in our group a bit and our guide, cook and porters.
+The first day is fairly easy as you start a bit later. It is only 13 km with 472 meters of elevation.
 
+There was one Inka ruin to explore and great views.
+
+We got to know the other couple in our group a bit and our guide, cook and porters. Also experience what it is like to have all your food, clothing, tents, etc, hauled by porters up the mountains. And have a guide to lead you along a very obvious trail. A strange feeling.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +98,4 @@ Today we started the four day Inka Trail from Piscacucho to Huayllabamba. The fi
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

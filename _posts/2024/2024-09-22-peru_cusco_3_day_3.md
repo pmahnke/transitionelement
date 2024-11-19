@@ -1,27 +1,28 @@
 ---
 layout: post
-title: "Peru - Cusco 3 -  Day 3"
+title: "Peru - Cusco 3 - Day 3"
 permalink: /archives/2024/09/2024-09-22-peru_cusco_3_day_3.html
 commentfile: 2024-09-22-peru_cusco_3_day_3
 category: travel
 date: 2024-09-22 12:36:00
 image: "/assets/images/insta/461085745_18464787289047535_3658032631222986201_n_18458832073044392.jpg"
 excerpt: |
-  today we drove 3.5 hours ( each way ) to hike at 15k feet at the Ausangate 7 lakes walk. It was tough, but do able. And it took the entire day to get there and back.
+  Today we drove 7 hours to hike at 15k feet at the Ausangate seven lakes walk.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |           |
+| ---------- | --------- | -------------------------------------------------------------------------------- |
+| **Stayed** | Cusco     | [Casa Mirador Guesthouse](https://maps.app.goo.gl/rorZtUdeFKDXqFkg8)             |
+| **Ate**    | _Lunch_   | [RestauranteEl Rincón Que No Conoces](https://maps.app.goo.gl/p8a4bAs8fXD1Higi6) |
+|            | _Dinner_  | [Dr Beer & Miss Potato](https://maps.app.goo.gl/sit4e4iUcmqFYEK46)               |
+| **Travel** | _Bus_     | 7 hours                                                                          |
+|            | _Walking_ | 13.12 km, 5:20 hours, 432 meters up, 435 meters down                             |
 
+To attempted to get a bit more aclimated to even higher altitude before our big hike, we booked a tour and drove 3.5 hours (each way) to hike at 15,000 feet on the Ausangate Seven lakes walk.
 
-today we drove 3.5 hours ( each way ) to hike at 15k feet at the Ausangate 7 lakes walk. It was tough, but do able. And it took the entire day to get there and back.
+It was tough at first, but doable. The lakes were pretty, but the snow covered mountains the real star.
 
+Too bad it took the entire day to get there and back.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -140,7 +141,4 @@ today we drove 3.5 hours ( each way ) to hike at 15k feet at the Ausangate 7 lak
       <label for="img-10" class="nav-dot" id="img-dot-10"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

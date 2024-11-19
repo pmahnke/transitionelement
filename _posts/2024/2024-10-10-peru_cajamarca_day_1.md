@@ -10,11 +10,11 @@ excerpt: |
   We mostly walked around the town, visiting churches, the mirador and the ‘ransom room’ where the Spanish killed the last Inca king.
 ---
 
-|            |            |
-| ---------- | ---------- | ------------- |
-| **Stayed** | Casa Wayra |
-| **Ate**    | _Lunch_    | Chifa Central |
-|            | _Dinner_   | ?             |
+|            |                                                         |
+| ---------- | ------------------------------------------------------- | ---------------------------------------------------------- |
+| **Stayed** | [Casa Wayra](https://maps.app.goo.gl/a4jwCWtV3W8NY92Y9) |
+| **Ate**    | _Lunch_                                                 | [Chifa Central](https://maps.app.goo.gl/i6WX4NMrUVtAfvvM7) |
+|            | _Dinner_                                                | ?                                                          |
 
 As we arrived very late in the evening, today we mostly walked around the town, visiting churches, the Mirador Santa Apolonia, and the Cuarto del Rescate (‘ransom room’) where the Spanish killed the last Inca king, Atahualpa.
 

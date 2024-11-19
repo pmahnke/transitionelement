@@ -10,11 +10,11 @@ excerpt: |
   After a painful overnight 13 hour bus ride to Chachapoyas and another hour taxi to Cocachimba, we took a long nap.
 ---
 
-|            |                |
-| ---------- | -------------- | ---------------------- |
-| **Stayed** | Gocta Miradors |
-| **Ate**    | _Dinner_       | La Tushpa de Gocta     |
-| **Travel** | _Bus_          | 13 hours + 1 hour taxi |
+|            |                                                             |
+| ---------- | ----------------------------------------------------------- | --------------------------------------------------------------- |
+| **Stayed** | [Gocta Miradors](https://maps.app.goo.gl/3NdxaMh3kR4f277UA) |
+| **Ate**    | _Dinner_                                                    | [La Tushpa de Gocta](https://maps.app.goo.gl/MG5H36MLattiwvvk6) |
+| **Travel** | _Bus_                                                       | 13 hours + 1 hour taxi                                          |
 
 After a painful overnight 13 hour bus ride from Cajamarca to Chachapoyas and another hour taxi ride to Cocachimba, we took a long nap.
 

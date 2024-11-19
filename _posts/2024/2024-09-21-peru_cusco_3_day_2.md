@@ -1,27 +1,24 @@
 ---
 layout: post
-title: "Peru - Cusco 3 -  Day 2"
-permalink: /archives/2024/09/2024-09-22-peru_cusco_3_day_2.html
-commentfile: 2024-09-22-peru_cusco_3_day_2
+title: "Peru - Cusco 3 - Day 2"
+permalink: /archives/2024/09/2024-09-21-peru_cusco_3_day_2.html
+commentfile: 2024-09-21-peru_cusco_3_day_2
 category: travel
-date: 2024-09-22 12:36:00
+date: 2024-09-21 12:36:00
 image: "/assets/images/insta/461097273_18464764006047535_1788168143709857316_n_18019880831578024.jpg"
 excerpt: |
-  Today we walked up the hills above Cusco to see two Inca sites; Saqsaywaman and Q’enco. Again some errands and then the football derby between Deportivo Garcilaso and Cienciano. It was pretty good and a great atmosphere.
+  Today we walked up the hills above Cusco to see two Inca sites; Saqsaywaman and Q’enco.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |           |
+| ---------- | --------- | -------------------------------------------------------------------- |
+| **Stayed** | Cusco     | [Casa Mirador Guesthouse](https://maps.app.goo.gl/rorZtUdeFKDXqFkg8) |
+| **Ate**    | _Lunch_   | [Dr Beer & Miss Potato](https://maps.app.goo.gl/sit4e4iUcmqFYEK46)   |
+| **Travel** | _Walking_ | 14.1 km                                                              |
 
+Today we walked up the hills above Cusco to see two Inca sites; [Saqsaywaman](https://maps.app.goo.gl/ZFLpjJk79AcD3gzJ6) and [Q’enco](https://maps.app.goo.gl/J9asT48MSK9B4b69A). Saqsaywaman is enormous and a big part of the Inka's Cusco. The stones are massive and the position overlooking the town is incredible. Q’enco is much smaller and much older, but still worth a visit.
 
-Today we walked up the hills above Cusco to see two Inca sites; Saqsaywaman and Q’enco. Again some errands and then the football derby between Deportivo Garcilaso and Cienciano. It was pretty good and a great atmosphere.
-
+Afterwards, we still had some errands to run. Then we went to the far more exciting local football derby between Deportivo Garcilaso and Cienciano. It was a pretty good match and a great atmosphere.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -107,7 +104,4 @@ Today we walked up the hills above Cusco to see two Inca sites; Saqsaywaman and 
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

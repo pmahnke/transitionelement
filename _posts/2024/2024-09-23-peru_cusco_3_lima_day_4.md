@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peru - Cusco 3 / Lima -  Day 4"
+title: "Peru - Cusco to Lima - Day 4"
 permalink: /archives/2024/09/2024-09-23-peru_cusco_3_lima_day_4.html
 commentfile: 2024-09-23-peru_cusco_3_lima_day_4
 category: travel
@@ -10,16 +10,22 @@ excerpt: |
   Today we flew from Cusco to Lima. It’s the only way to get to Huaraz, our next location in the north. We loved Cusco, but were ready to move on.
 ---
 
-|            |           |
-| ---------- | --------- | -------------------------------------------------------------------- |
-| **Stayed** | Cusco     | [Casa Mirador Guesthouse](https://maps.app.goo.gl/rorZtUdeFKDXqFkg8) |
-| **Ate**    | _Lunch_   | [SUMAQCHA RESTAURANT](https://maps.app.goo.gl/Xj6t2yXPGeuNABYBA)     |
-|            | _Dinner_  |                                                                      |
-| **Travel** | _Flying_  |                                                                      |
-|            | _Train_   |                                                                      |
-|            | _Walking_ |                                                                      |
+|            |          |
+| ---------- | -------- | ---------------------------------------------------------------------------------------- |
+| **Stayed** | Lima     | [Hotel Costa del Sol Wyndham Lima Aeropuerto](https://maps.app.goo.gl/hbkRMc32p7eESr58A) |
+| **Ate**    | _Lunch_  | [SUMAQCHA RESTAURANT](https://maps.app.goo.gl/Xj6t2yXPGeuNABYBA)                         |
+|            | _Dinner_ | At the hotel                                                                             |
+| **Travel** | _Flying_ | 1:34 hours                                                                               |
 
-Today we flew from Cusco to Lima. It’s the only way to get to Huaraz, our next location in the north. We loved Cusco, but were ready to move on.
+Today we flew from Cusco to Lima.
+
+It’s the only way to get to Huaraz, our next location in the north.
+
+We spent the day just walking around, trying shops and an artisanal market and trying to get a few gifts. I got a jumper/sweater. Angela tried and tries, but found nothing.
+
+In Lima, we just stayed at the airport hotel.
+
+We loved Cusco, but were ready to move on.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />

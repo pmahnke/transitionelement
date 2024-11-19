@@ -10,12 +10,14 @@ excerpt: |
   Today we visited the Fortaleza de Kuelap, a ruin of a city, high on a mountain.
 ---
 
-|            |                |
-| ---------- | -------------- | ---------------- |
-| **Stayed** | Gocta Miradors |
-| **Ate**    | _Dinner_       | Gocta Lounge Bar |
+|            |                                                             |
+| ---------- | ----------------------------------------------------------- | ------------------------------------------------------------- |
+| **Stayed** | [Gocta Miradors](https://maps.app.goo.gl/3NdxaMh3kR4f277UA) |
+| **Ate**    | _Dinner_                                                    | [Gocta Lounge Bar](https://maps.app.goo.gl/Xkhuw3j9VudxnbqC8) |
 
-Today we visited the Fortaleza de Kuelap, a ruin of a city, high on a mountain. Home to 4,000 Chachapoyian from 500 AD to 1500 AD or so, after they were captured by the Incas. The walls were 65 feet tall, the homes round and they were thought to be mostly farmers. The were only conquered by the Inca for 60 years before the Spanish and then forgotten until the 1950s. Amazing.
+Today we visited the Fortaleza de Kuelap, a ruin of a city, high on a mountain. Home to 4,000 Chachapoyian from 500 AD to 1500 AD or so
+
+The walls were 65 feet tall, the homes round and they were thought to be mostly farmers. The were only conquered by the Inca for 60 years before the Spanish and then forgotten until the 1950s. Amazing.
 
 Tonight we watched the town football match with middle aged men. We had to wait for the match to end to be able to eat dinner, as the entire town was watching the match.
 

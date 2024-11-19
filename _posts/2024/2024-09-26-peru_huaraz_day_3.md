@@ -10,30 +10,11 @@ excerpt: |
   Today we took a rest day and just mooched around. We bought a few snacks for our hike and that’s about it.
 ---
 
-|            |              |
-| ---------- | ------------ | --- |
-| **Stayed** | Quechuanndes |
-| **Ate**    | _Lunch_      |     |
-|            | _Dinner_     |     |
+|            |                                                           |
+| ---------- | --------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Stayed** | [Quechuanndes](https://maps.app.goo.gl/eHyhHHd92UUFVath9) |
+| **Ate**    | _Dinner_                                                  | [Manka Fusión Artesanal](https://maps.app.goo.gl/QJkgA9QYeghfqsfx6) |
 
-Today we took a rest day and just mooched around Huaraz. We bought a few snacks for our hike and that’s about it.
+Today we took a rest day and just mooched around Huaraz.
 
-<ul class="slides">
-
-    <input type="radio" name="radio-btn" id="img-1" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/461482699_18465642529047535_47321280669099924_n_18037723232169199.jpg"><img src="/assets/images/insta/461482699_18465642529047535_47321280669099924_n_18037723232169199.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-0" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-
-<li class="nav-dots">
-
-      <label for="img-1" class="nav-dot" id="img-dot-1"></label>
-
-</li>
-</ul>
+We bought a few snacks for our hike and that’s about it.
