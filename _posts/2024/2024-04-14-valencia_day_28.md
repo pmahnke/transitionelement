@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "València  Day 28"
+title: "València - Day 28"
 permalink: /archives/2024/04/2024-04-14-valencia_day_28.html
 commentfile: 2024-04-14-valencia_day_28
 category: travel
 date: 2024-04-14 12:20:00
 image: "/assets/images/insta/438669367_397934423033749_7192737374102053752_n_18104614348378476.jpg"
 excerpt: |
-  Today is really lovely weatherwise.  We started by walking up the Turia Park to the Palau de la Música for a free organ concert.  Then we walked around our El Carmen neighbourhood for the afternoon.
+  We started by walking up the Turia Park to the Palau de la Música for a free organ concert.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today is really lovely weatherwise. We started by walking up the Turia Park to the [Palau de la Música](https://maps.app.goo.gl/GtuLSHGkETPkbWZe9) for a free organ concert. It was very impressive, the organ and the musician.
 
-
-Today is really lovely weatherwise.  We started by walking up the Turia Park to the Palau de la Música for a free organ concert.  Then we walked around our El Carmen neighbourhood for the afternoon.
-
+Then we walked around our [El Carmen neighbourhood](https://maps.app.goo.gl/G74irLYoomDyPw647) for the afternoon.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +76,4 @@ Today is really lovely weatherwise.  We started by walking up the Turia Park to 
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

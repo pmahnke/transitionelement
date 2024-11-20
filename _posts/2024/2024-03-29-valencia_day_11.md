@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "València  Day 11"
+title: "València - Day 11"
 permalink: /archives/2024/03/2024-03-29-valencia_day_11.html
 commentfile: 2024-03-29-valencia_day_11
 category: travel
 date: 2024-03-29 12:28:00
 image: "/assets/images/insta/434845387_951705396498912_6261948564048747699_n_17867863902092911.jpg"
 excerpt: |
-  Today was the last day of Spanish class for Angela. I tried to find another running shoe, but no one had wide sizes. I did walk around 7 miles trying to find one and saw loads of cool buildings.
+  Today was the last day of Spanish classes for Angela.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today was the last day of Spanish classes for Angela.
 
-
-Today was the last day of Spanish class for Angela. I tried to find another running shoe, but no one had wide sizes. I did walk around 7 miles trying to find one and saw loads of cool buildings.
-
+I tried to find another pair of running shoes, but no one had wide sizes. But I did walk around seven miles trying to find one and saw loads of cool buildings.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -63,7 +54,4 @@ Today was the last day of Spanish class for Angela. I tried to find another runn
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

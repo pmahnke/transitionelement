@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "Valencia  Day 24"
-permalink: /archives/2024/04/2024-04-10-valencia_day_24.html
-commentfile: 2024-04-10-valencia_day_24
+title: "València - Day 23"
+permalink: /archives/2024/04/2024-04-10-valencia_day_23.html
+commentfile: 2024-04-10-valencia_day_23
 category: travel
 date: 2024-04-10 12:12:00
 image: "/assets/images/insta/436730730_1797870697360711_815596838642321595_n_18042717907705436.jpg"
 excerpt: |
-  Today we went to the aquarium. It’s big and impressive. But show me jellyfish and I can watch that all day. We also walked by Saint Vincent’s home covered in flowers.
+  Today we went to the aquarium. It’s big and impressive.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we went to the aquarium. It’s big and impressive. But show me jellyfish and I can watch that all day.
 
-
-Today we went to the aquarium. It’s big and impressive. But show me jellyfish and I can watch that all day. We also walked by Saint Vincent’s home covered in flowers.
-
+We also walked by Saint Vincent Ferrer’s home covered in flowers from his festival day..
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -74,7 +65,4 @@ Today we went to the aquarium. It’s big and impressive. But show me jellyfish 
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

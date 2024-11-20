@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "València  Day 9"
+title: "València - Day 9"
 permalink: /archives/2024/03/2024-03-27-valencia_day_9.html
 commentfile: 2024-03-27-valencia_day_9
 category: travel
 date: 2024-03-27 12:03:00
 image: "/assets/images/insta/434393936_1158742332240521_4550222662276387383_n_18039327121810478.jpg"
 excerpt: |
-  Angela had class in the afternoon. So in the morning, I swam and then we walked to a flamenco shop. Angela found a potential dress, but there are more shops to check first. In the evenging we went to a local tapas bar and had dinner at home.
+  Angela had class in the afternoon. So in the morning, I swam and then we walked to a flamenco shop.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Angela had class in the afternoon.
 
+So in the morning, I swam and then we walked to a flamenco shop. Angela found a potential dress, but there are more shops to check first.
 
-Angela had class in the afternoon. So in the morning, I swam and then we walked to a flamenco shop. Angela found a potential dress, but there are more shops to check first. In the evenging we went to a local tapas bar and had dinner at home.
-
+In the evening we went to a local tapas bar and had dinner at home.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -74,7 +67,4 @@ Angela had class in the afternoon. So in the morning, I swam and then we walked 
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

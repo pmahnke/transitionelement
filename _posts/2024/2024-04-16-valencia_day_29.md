@@ -7,19 +7,16 @@ category: travel
 date: 2024-04-16 03:50:00
 image: "/assets/images/insta/438952323_439231911848309_4601341124123247095_n_17971241369701026.jpg"
 excerpt: |
-  Our last day.  We spend the morning packing up and cleaning.  We left our bags at a bike shop that doubles as a luggage store.  We then checked out Ruzafa’s market, very nice and much less crowded than the main market.  On the way we saw another saint’s celebration.  Lunch was at our favourite sandwich shop (Quiosc La Pérgola) and then we headed to the airport and home.  We had a great time and really love the city — I am sure we will be back.
+  Our last day. We had a great time and really love the city — I am sure we will be back.
 ---
 
-|            |           |
-| ---------- | --------- | --- |
-| **Stayed** |           |
-| **Ate**    | _Lunch_   |     |
-|            | _Dinner_  |     |
-| **Travel** | _Flying_  |     |
-|            | _Train_   |     |
-|            | _Walking_ |     |
+Our last day. We spend the morning packing up and cleaning.
 
-Our last day. We spend the morning packing up and cleaning. We left our bags at a bike shop that doubles as a luggage store. We then checked out Ruzafa’s market, very nice and much less crowded than the main market. On the way we saw another saint’s celebration. Lunch was at our favourite sandwich shop (Quiosc La Pérgola) and then we headed to the airport and home. We had a great time and really love the city — I am sure we will be back.
+We left our bags at a bike shop that doubles as a luggage store. We then checked out , [Mercat de Russafa](https://maps.app.goo.gl/iXKxTbQMK6G52kzW7), very nice and much less crowded than the main market.
+
+On the way we saw another saint’s celebration. Lunch was at our favourite sandwich shop, [Quiosc La Pérgola](https://maps.app.goo.gl/MLKEPFSQ7GVfUkXk7) and then we headed to the airport and home.
+
+We had a great time and really love the city — I am sure we will be back.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />

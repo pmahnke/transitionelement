@@ -1,27 +1,22 @@
 ---
 layout: post
-title: "València  Day 20"
-permalink: /archives/2024/04/2024-04-06-valencia_day_20.html
-commentfile: 2024-04-06-valencia_day_20
+title: "València - Day 19"
+permalink: /archives/2024/04/2024-04-06-valencia_day_19.html
+commentfile: 2024-04-06-valencia_day_19
 category: travel
 date: 2024-04-06 12:53:00
 image: "/assets/images/insta/435805318_1123520472416659_2614677391695050818_n_17996913233611307.jpg"
 excerpt: |
-  &#064;airveiss suggested we try the Valencia wine festival. So we went along yesterday. It was a lovely sunny afternoon and was great. 20 or so bodegas and 10 or so artisanal food stalls. We tried a good number of wines and ate some great cheeses and sausages. Afterwords we went to Mòlt bakery for an Easter speciality, Torrija, which is like a chilled French toast with a brûléed top. Very decadent and delicious.
+  Aaron Weiss suggested we try the Valencia wine festival. So we went along yesterday.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Good friends Aaron and Pamela Weiss suggested we try the Valencia wine festival. So we went along yesterday.
 
+It was a lovely sunny afternoon and the festival was great. There were around 20 or so bodegas and 10 artisanal food stalls. We tried a good number of wines and vermouths and ate some great cheeses and sausages.
 
-&#064;airveiss suggested we try the Valencia wine festival. So we went along yesterday. It was a lovely sunny afternoon and was great. 20 or so bodegas and 10 or so artisanal food stalls. We tried a good number of wines and ate some great cheeses and sausages. Afterwords we went to Mòlt bakery for an Easter speciality, Torrija, which is like a chilled French toast with a brûléed top. Very decadent and delicious.
+Afterwords we went to [Mòlt bakery](https://maps.app.goo.gl/guwsd6CXD8hxiGn8A) for an Easter specialty, Torrija, which is like a chilled French toast with a brûléed top.
 
+Very decadent and delicious.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -63,7 +58,4 @@ excerpt: |
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

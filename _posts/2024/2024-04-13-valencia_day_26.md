@@ -1,27 +1,22 @@
 ---
 layout: post
-title: "Valencia  Day 27"
-permalink: /archives/2024/04/2024-04-13-valencia_day_27.html
-commentfile: 2024-04-13-valencia_day_27
+title: "València - Day 26"
+permalink: /archives/2024/04/2024-04-13-valencia_day_26.html
+commentfile: 2024-04-13-valencia_day_26
 category: travel
 date: 2024-04-13 12:24:00
 image: "/assets/images/insta/436420413_3031366363667202_309557418078176631_n_18132236209335362.jpg"
 excerpt: |
-  Today I realised the pool I have been swimming in is 25, not 20 meters, phew, I thought I lost it. For lunch we took a packed bus to the Alburfera area, which has a man made lake (from the Moorish times) and is the rice growing region. The town of El Palmar is in the middle of rice fields. The town has dozens of paella restaurants and not much else. We walked around, had lunch and then a boat ride on the lake. Nice day out.
+  Today I realised the pool I have been swimming in is 25, not 20 meters, phew, I thought I lost it.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today I realised the pool I have been swimming in is 25, not 20 meters, phew, I thought I lost it.
 
+For lunch we took a packed bus to the [Alburfera area](https://maps.app.goo.gl/RkpLE3eKpFUaQtVw8), which has a man made lake from the Moorish times. It is also the main rice growing area for the famous Valencian paella rice.
 
-Today I realised the pool I have been swimming in is 25, not 20 meters, phew, I thought I lost it. For lunch we took a packed bus to the Alburfera area, which has a man made lake (from the Moorish times) and is the rice growing region. The town of El Palmar is in the middle of rice fields. The town has dozens of paella restaurants and not much else. We walked around, had lunch and then a boat ride on the lake. Nice day out.
+The town of [El Palmar](https://maps.app.goo.gl/VmZTCmWmAvm9mLrcA) is in the middle of rice fields. The town has dozens of paella restaurants and not much else. We walked around, had lunch at [Restaurant Bon Aire](https://maps.app.goo.gl/8rczz36kLAHHE4B79) and then a boat ride on the lake.
 
+Nice day out.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +91,4 @@ Today I realised the pool I have been swimming in is 25, not 20 meters, phew, I 
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
