@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "Valencia  Day 17"
-permalink: /archives/2024/04/2024-04-03-valencia_day_17.html
-commentfile: 2024-04-03-valencia_day_17
+title: "València - Day 16"
+permalink: /archives/2024/04/2024-04-03-valencia_day_16.html
+commentfile: 2024-04-03-valencia_day_16
 category: travel
 date: 2024-04-03 01:52:00
 image: "/assets/images/insta/435293738_1472764236970445_2428871592752537969_n_18422233000058842.jpg"
 excerpt: |
-  Today we went back to a really good sandwich shop for lunch, then explored two gardens, Jardins de Monfort and Jardins del Real, which has a track with a set of streets, bridges and traffic lights to teach children how to cycle and scooter around. What a great idea. The afternoon was spent reading in the Turia Park.
+  Today we went back to a really good sandwich shop for lunch, then explored two gardens, Jardins de Monfort and Jardins del Real, which has a track with a set of streets, bridges and traffic lights to teach children how to cycle and scooter around.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we went back to a that good sandwich shop for lunch, then explored two gardens, [Jardins de Monfort](Jardins de Monfort) and [Jardins del Real](https://maps.app.goo.gl/paUTdPqbW3zpyrxM7), which has a track with a set of streets, bridges and traffic lights to teach children how to cycle and scooter around. What a great idea.
 
-
-Today we went back to a really good sandwich shop for lunch, then explored two gardens, Jardins de Monfort and Jardins del Real, which has a track with a set of streets, bridges and traffic lights to teach children how to cycle and scooter around. What a great idea. The afternoon was spent reading in the Turia Park.
-
+We spent the afternoon reading in the Turia Park.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +87,4 @@ Today we went back to a really good sandwich shop for lunch, then explored two g
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

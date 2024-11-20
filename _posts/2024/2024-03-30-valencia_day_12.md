@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "València  Day 12"
+title: "València - Day 12"
 permalink: /archives/2024/03/2024-03-30-valencia_day_12.html
 commentfile: 2024-03-30-valencia_day_12
 category: travel
@@ -10,18 +10,11 @@ excerpt: |
   Today we walked up the Turia park and ended up in Decathlon of all places. We had lunch in a park and then headed to the port area for the Good Friday parade. It was impressive, long and very sad feeling. Then home for a drink and tapas.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we walked up the [Turia park](https://maps.app.goo.gl/xNepERC2M2H91L159) and ended up in Decathlon of all places.
 
+We had lunch in a park and then headed to the port area for the Good Friday parade. It was impressive, long and very sad feeling.
 
-Today we walked up the Turia park and ended up in Decathlon of all places. We had lunch in a park and then headed to the port area for the Good Friday parade. It was impressive, long and very sad feeling. Then home for a drink and tapas.
-
+Then home for a drink and tapas.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +89,4 @@ Today we walked up the Turia park and ended up in Decathlon of all places. We ha
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

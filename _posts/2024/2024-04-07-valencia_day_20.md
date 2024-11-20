@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "Valencia  Day 21"
-permalink: /archives/2024/04/2024-04-07-valencia_day_21.html
-commentfile: 2024-04-07-valencia_day_21
+title: "València - Day 20"
+permalink: /archives/2024/04/2024-04-07-valencia_day_20.html
+commentfile: 2024-04-07-valencia_day_20
 category: travel
 date: 2024-04-07 12:19:00
 image: "/assets/images/insta/435942346_3715096195445001_1714873625372490913_n_17850879684142465.jpg"
 excerpt: |
-  Today we had lunch with Lidia and Junye at a really nice modern restaurant run by a husband and wife team who make everything from scratch. It was really nice. Then we wandered around and saw the stages and church services starting to celebrate the town’s saint’s day.
+  Today we had lunch with Lidia and Junye at a really nice modern restaurant run by a husband and wife team who make everything from scratch.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we had lunch with Lidia and Junye at [Mundua](https://maps.app.goo.gl/YZXYGEVofz3N2pCY7) a really nice modern restaurant run by a husband and wife team who make everything from scratch. It was really nice.
 
-
-Today we had lunch with Lidia and Junye at a really nice modern restaurant run by a husband and wife team who make everything from scratch. It was really nice. Then we wandered around and saw the stages and church services starting to celebrate the town’s saint’s day.
-
+Then we wandered around and saw the stages and church services starting to celebrate the town’s saint’s day.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +76,4 @@ Today we had lunch with Lidia and Junye at a really nice modern restaurant run b
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

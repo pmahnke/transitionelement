@@ -1,27 +1,22 @@
 ---
 layout: post
-title: "Valencia  Day 23"
-permalink: /archives/2024/04/2024-04-09-valencia_day_23.html
-commentfile: 2024-04-09-valencia_day_23
+title: "València - Day 22"
+permalink: /archives/2024/04/2024-04-09-valencia_day_22.html
+commentfile: 2024-04-09-valencia_day_22
 category: travel
 date: 2024-04-09 09:06:00
 image: "/assets/images/insta/436619753_1368852171182894_6876539263729112146_n_18028059595953296.jpg"
 excerpt: |
-  Today is the Festival of San Vicente Ferrer. All weekend children have been reenacting his miracles on stages setup outside major churches. We watched a few, but they are in Valencian, not Spanish. We also saw another Mascletà, a pyrotechnic sound display that is bone shaking (the video is nothing). And had some vermut and tinto de verano in a classic old bar. Nice day.
+  Today is the Festival of San Vicente Ferrer. All weekend children have been reenacting his miracles on stages setup outside major churches.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today is the [Festival of San Vicente Ferrer](https://www.visitvalencia.com/en/events-valencia/festivities/sant-vicente-ferrer-festival).
 
+All weekend children have been reenacting his miracles on stages setup outside major churches. We watched a few, but they are in Valencian, not Spanish.
 
-Today is the Festival of San Vicente Ferrer. All weekend children have been reenacting his miracles on stages setup outside major churches. We watched a few, but they are in Valencian, not Spanish. We also saw another Mascletà, a pyrotechnic sound display that is bone shaking (the video is nothing). And had some vermut and tinto de verano in a classic old bar. Nice day.
+We also saw another [Mascletà](https://en.wikipedia.org/wiki/Masclet%C3%A0), a pyrotechnic sound display that is bone shaking (the video is nothing). And had some vermut and tinto de verano in a classic old bar.
 
+Nice day.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +80,4 @@ Today is the Festival of San Vicente Ferrer. All weekend children have been reen
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
