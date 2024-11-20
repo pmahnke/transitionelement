@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "València  Day 1"
+title: "València - Day 1"
 permalink: /archives/2024/03/2024-03-18-valencia_day_1.html
 commentfile: 2024-03-18-valencia_day_1
 category: travel
@@ -10,18 +10,13 @@ excerpt: |
   The Fallas are in full swing in Valencia. What a fun tradition. We are here for a month, but I already worry these two days of the festival might make the rest of the trip feel quiet.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+The Fallas are in full swing in Valencia. Every few blocks there are giant papier-mâché statues in the middle of an intersection. Each one has, often subtle, political messages. There are almost always a much smaller, children's one as well. Some you can even pay to get closer and take more photos.
 
+Some areas they even decorate the streets with lights and food carts.
 
-The Fallas are in full swing in Valencia. What a fun tradition. We are here for a month, but I already worry these two days of the festival might make the rest of the trip feel quiet.
+What a fun tradition.
 
+We are here for a month, but I already worry these two days of the festival might make the rest of the trip feel quiet.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -107,7 +102,4 @@ The Fallas are in full swing in Valencia. What a fun tradition. We are here for 
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

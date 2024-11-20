@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "València  Day 7"
+title: "València - Day 7"
 permalink: /archives/2024/03/2024-03-25-valencia_day_7.html
 commentfile: 2024-03-25-valencia_day_7
 category: travel
 date: 2024-03-25 12:45:00
 image: "/assets/images/insta/434362513_959038032326086_9149120192106785332_n_18009327050360721.jpg"
 excerpt: |
-  Today we went to the beach. It was windy. But we watched two ultimate frisbee matched. Then a Palm Sunday procession. Then some tapas and a walk through the neighbourhood.
+  Today we went to the beach. It was windy. But we watched two ultimate frisbee matched. Then a Palm Sunday procession.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we went to the beach. It was windy. But we watched two ultimate frisbee matches.
 
+Then a Palm Sunday procession with full on costumes and a band.
 
-Today we went to the beach. It was windy. But we watched two ultimate frisbee matched. Then a Palm Sunday procession. Then some tapas and a walk through the neighbourhood.
-
+We also had some tapas at [El Ultramarinos](https://maps.app.goo.gl/e2s9vkQdu14hD4Vr8) and a walk through the neighbourhood by the beach.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -74,7 +67,4 @@ Today we went to the beach. It was windy. But we watched two ultimate frisbee ma
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

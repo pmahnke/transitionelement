@@ -1,27 +1,24 @@
 ---
 layout: post
-title: "València  Day 5"
+title: "València - Day 5"
 permalink: /archives/2024/03/2024-03-23-valencia_day_5.html
 commentfile: 2024-03-23-valencia_day_5
 category: travel
 date: 2024-03-23 01:16:00
 image: "/assets/images/insta/434356886_379428324980306_5429834934747233896_n_17860879290107158.jpg"
 excerpt: |
-  Today we walked around the shopping areas for Angela, who found nothing. Then to the opera house to get tickets to a show only to find out that you have to do it online. Then to a home store for a few kitchen items to make the next month easier. We had dinner at home and went out late for drinks, as you do. Still enjoying exploring.
+  Today we walked around the shopping areas for Angela, who found nothing. Then to the opera house to get tickets to a show only to find out that you have to do it online.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we walked around the shopping areas for Angela, who found nothing.
 
+Then to the opera house to get tickets to a show only to find out that you have to do it online.
 
-Today we walked around the shopping areas for Angela, who found nothing. Then to the opera house to get tickets to a show only to find out that you have to do it online. Then to a home store for a few kitchen items to make the next month easier. We had dinner at home and went out late for drinks, as you do. Still enjoying exploring.
+Then to a home store for a few kitchen items to make the next month easier.
 
+We had dinner at home and went out late for drinks, as you do.
+
+We are still enjoying exploring.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +82,4 @@ Today we walked around the shopping areas for Angela, who found nothing. Then to
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

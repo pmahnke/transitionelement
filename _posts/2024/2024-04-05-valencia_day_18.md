@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "València  Day 19"
-permalink: /archives/2024/04/2024-04-05-valencia_day_19.html
-commentfile: 2024-04-05-valencia_day_19
+title: "València - Day 18"
+permalink: /archives/2024/04/2024-04-05-valencia_day_18.html
+commentfile: 2024-04-05-valencia_day_18
 category: travel
 date: 2024-04-05 12:54:00
 image: "/assets/images/insta/435871007_413931704669336_5055061974322361114_n_18025633223049914.jpg"
 excerpt: |
-  We woke up early and walked miles to a car rental place. Then drove 45 minutes to Chulilla to walk their 12km canyon trail. You walk up a river to a reservoir and then back over a pass and through another ravine. Lots of up and down. We then drive to a town famous for pottery, but didn’t find anything.
+  We drove 45 minutes to Chulilla to walk their 12km canyon trail.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+We woke up early and walked miles to a car rental place.
 
+Then we drove 45 minutes to [Chulilla](https://maps.app.goo.gl/kRTXPtonzxfKFrpy5) to walk their [12 km canyon trail](https://www.alltrails.com/en-gb/trail/spain/valencia/cv-394-puente-colgante-mirador-el-fandarin). You walk up a river to a reservoir and then back over a pass and through another ravine. Lots of up and down.
 
-We woke up early and walked miles to a car rental place. Then drove 45 minutes to Chulilla to walk their 12km canyon trail. You walk up a river to a reservoir and then back over a pass and through another ravine. Lots of up and down. We then drive to a town famous for pottery, but didn’t find anything.
-
+We then drove to [Manises](https://maps.app.goo.gl/96bh3FML4EDJnUCh8), a town famous for pottery, but didn’t find anything, but there was a lot of lovely stuff.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -107,7 +100,4 @@ We woke up early and walked miles to a car rental place. Then drove 45 minutes t
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

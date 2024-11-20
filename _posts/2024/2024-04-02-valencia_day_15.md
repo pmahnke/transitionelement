@@ -1,29 +1,22 @@
 ---
 layout: post
-title: "Valencia  Day 15"
+title: "València - Day 15"
 permalink: /archives/2024/04/2024-04-02-valencia_day_15.html
 commentfile: 2024-04-02-valencia_day_15
 category: travel
 date: 2024-04-02 01:34:00
 image: "/assets/images/insta/434889441_381048621479970_3855975085985968839_n_18342455425128248.jpg"
 excerpt: |
-  Today we got up a bit later and had a small breakfast and made a plum cake. Then we walked slowly through quiet streets ( it’s a holiday) to Lidia and Junye’s for an amazing paella and crème brûlée lunch. We wandered back through the Turia park and found ALL the people enjoying the sunny weather.
+  We walked slowly through quiet streets ( it’s a holiday) to Lidia and Junye’s for an amazing paella and crème brûlée lunch.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we got up a bit later and had a small breakfast and made a [plum cake](https://www.mahnke.net/recipe/index.cgi?page=open&key=76) to bring to Lidia and Junye's.
 
+Then we walked slowly through quiet streets (it’s a holiday) to Lidia and Junye’s for an amazing paella and crème brûlée lunch.
 
-Today we got up a bit later and had a small breakfast and made a plum cake. Then we walked slowly through quiet streets ( it’s a holiday) to Lidia and Junye’s for an amazing paella and crème brûlée lunch. We wandered back through the Turia park and found ALL the people enjoying the sunny weather.
+We wandered back through the Turia park and found that seeming all the people from town were here, enjoying the sunny weather.
 
-
-<ul class="slides">
+<ul class="slides"> 
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
@@ -38,7 +31,7 @@ Today we got up a bit later and had a small breakfast and made a plum cake. Then
     <li class="slide-container">
         <div class="slide">
           <a href="/assets/images/insta/434879665_797869305542391_2534531267223772239_n_18015244430333200.jpg"><img src="/assets/images/insta/434879665_797869305542391_2534531267223772239_n_18015244430333200.jpg" /></a>
-        </div>
+        </div> 
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
       <label for="img-3" class="next">&#x203a;</label>
@@ -85,7 +78,4 @@ Today we got up a bit later and had a small breakfast and made a plum cake. Then
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -1,24 +1,26 @@
 ---
 layout: post
-title: "València - Day 3"
-permalink: /archives/2024/03/2024-03-21-valencia_day_3.html
-commentfile: 2024-03-21-valencia_day_3
+title: "València -  Day 4"
+permalink: /archives/2024/03/2024-03-22-valencia_day_4.html
+commentfile: 2024-03-22-valencia_day_4
 category: travel
-date: 2024-03-21 01:16:00
-image: "/assets/images/insta/434069420_1400749023897642_495679824969596413_n_17993426726554286.jpg"
+date: 2024-03-22 01:06:00
+image: "/assets/images/insta/434157013_1667494707410178_6991799134007984393_n_18002896148429768.jpg"
 excerpt: |
-  After two days of festivals, we decided it was time to figure our food markets and shops, find the pool and where Angela’s language school is for her week of Spanish classes.
+  Yesterday we walked to Calatrava’s city of arts and sciences complex.
 ---
 
-After two days of festivals, we decided it was time to figure our food markets and shops, find the pool for me and where Angela’s language school is for her week of Spanish classes.
+Yesterday we walked to Calatrava’s city of arts and sciences complex. It was as impressive as the photos. We walked back via [Mercat de Colón](https://maps.app.goo.gl/XNM7x3HcW54rr9Kb6), which isn’t really a market anymore. More of a restaurant and bar mall. But nice enough.
 
-The central market is huge, pretty and close to us. We definitely plan to use it. The pool is also fairly close, in an old power plant. It is small, but looks fine.
+We also visited the [Museu Faller de València](https://maps.app.goo.gl/VPWKvPvJouwPkWPM6), Fallas museum that explains how they are made and has a huge collection of the children's winning statue from each year.
+
+I also went for a swim first thing.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/434126639_429361926158083_5239149268414408930_n_18026962288975698.jpg"><img src="/assets/images/insta/434126639_429361926158083_5239149268414408930_n_18026962288975698.jpg" /></a>
+          <a href="/assets/images/insta/434061581_429733656393264_1950183223029816939_n_17857818027117684.jpg"><img src="/assets/images/insta/434061581_429733656393264_1950183223029816939_n_17857818027117684.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -28,7 +30,7 @@ The central market is huge, pretty and close to us. We definitely plan to use it
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/434146330_1584221352355885_3883369732062912840_n_18027900910815599.jpg"><img src="/assets/images/insta/434146330_1584221352355885_3883369732062912840_n_18027900910815599.jpg" /></a>
+          <a href="/assets/images/insta/434146808_2029542094083607_6549275602322462980_n_18013624277205866.jpg"><img src="/assets/images/insta/434146808_2029542094083607_6549275602322462980_n_18013624277205866.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -38,7 +40,7 @@ The central market is huge, pretty and close to us. We definitely plan to use it
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/433387016_1386170002064214_467387691417499806_n_18028716451800052.jpg"><img src="/assets/images/insta/433387016_1386170002064214_467387691417499806_n_18028716451800052.jpg" /></a>
+          <a href="/assets/images/insta/434146815_1433684610597733_1871352374797169515_n_18012930428193077.jpg"><img src="/assets/images/insta/434146815_1433684610597733_1871352374797169515_n_18012930428193077.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -48,7 +50,7 @@ The central market is huge, pretty and close to us. We definitely plan to use it
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/434137709_821233679821773_4086672432644012910_n_17880036468040881.jpg"><img src="/assets/images/insta/434137709_821233679821773_4086672432644012910_n_17880036468040881.jpg" /></a>
+          <a href="/assets/images/insta/434232055_778497510465907_3647535055451007773_n_18217549399287318.jpg"><img src="/assets/images/insta/434232055_778497510465907_3647535055451007773_n_18217549399287318.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -58,7 +60,7 @@ The central market is huge, pretty and close to us. We definitely plan to use it
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/434128296_775875017459703_1570563533252461791_n_18024475610068197.jpg"><img src="/assets/images/insta/434128296_775875017459703_1570563533252461791_n_18024475610068197.jpg" /></a>
+          <a href="/assets/images/insta/434100298_938207647882592_3419831957313389352_n_17989753562626432.jpg"><img src="/assets/images/insta/434100298_938207647882592_3419831957313389352_n_17989753562626432.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -68,7 +70,7 @@ The central market is huge, pretty and close to us. We definitely plan to use it
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/434076043_1367845550551021_9055733825819590594_n_17961917774721587.jpg"><img src="/assets/images/insta/434076043_1367845550551021_9055733825819590594_n_17961917774721587.jpg" /></a>
+          <a href="/assets/images/insta/434129769_814971180478098_3249256256720586974_n_18292403671083466.jpg"><img src="/assets/images/insta/434129769_814971180478098_3249256256720586974_n_18292403671083466.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -79,7 +81,7 @@ The central market is huge, pretty and close to us. We definitely plan to use it
     <input type="radio" name="radio-btn" id="img-7" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/434069420_1400749023897642_495679824969596413_n_17993426726554286.jpg"><img src="/assets/images/insta/434069420_1400749023897642_495679824969596413_n_17993426726554286.jpg" /></a>
+          <a href="/assets/images/insta/434157013_1667494707410178_6991799134007984393_n_18002896148429768.jpg"><img src="/assets/images/insta/434157013_1667494707410178_6991799134007984393_n_18002896148429768.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>

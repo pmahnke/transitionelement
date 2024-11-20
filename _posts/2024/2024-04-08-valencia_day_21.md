@@ -1,27 +1,28 @@
 ---
 layout: post
-title: "Valencia  Day 22"
-permalink: /archives/2024/04/2024-04-08-valencia_day_22.html
-commentfile: 2024-04-08-valencia_day_22
+title: "València - Day 21"
+permalink: /archives/2024/04/2024-04-08-valencia_day_21.html
+commentfile: 2024-04-08-valencia_day_21
 category: travel
 date: 2024-04-08 12:56:00
 image: "/assets/images/insta/436509917_952935859839882_7668364065685854791_n_18429877807053328.jpg"
 excerpt: |
-  As museums are free on Sundays, we visited a few yesterday. We first climbed the Serranos Tower on our road (photos later) then went to the Museu Nacional de Ceràmica, whose building is as impressive as the contents. Then the Silk exchange (La Llotja de la Seda) which is lovely, a cathedral of capitalism. And finally the La Almoina Archaeological Museum (hat tip Rosemary). Which is built on the foundations of Roman and moorish buildings, right by the cathedral. In the evening we caught the end of a miracle play for Valencia‘a saints day celebrations. And ended with fireworks in the Plaça de la Reina. Busy day.
+  As museums are free on Sundays, we visited a few yesterday.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+As museums are free on Sundays, we visited a few yesterday.
 
+We first climbed the [Serranos Tower](https://maps.app.goo.gl/neB3kV4PcD5oaZau5) on our road. It is one of the last remaining entrances to the old walled town.
 
-As museums are free on Sundays, we visited a few yesterday. We first climbed the Serranos Tower on our road (photos later) then went to the Museu Nacional de Ceràmica, whose building is as impressive as the contents. Then the Silk exchange (La Llotja de la Seda) which is lovely, a cathedral of capitalism. And finally the La Almoina Archaeological Museum (hat tip Rosemary). Which is built on the foundations of Roman and moorish buildings, right by the cathedral. In the evening we caught the end of a miracle play for Valencia‘a saints day celebrations. And ended with fireworks in the Plaça de la Reina. Busy day.
+Then went to the [Museu Nacional de Ceràmica](https://maps.app.goo.gl/sbTEoM4SEsEbtSCi8), whose building is as impressive as the contents.
 
+Then the Silk exchange ([La Llotja de la Seda](https://maps.app.goo.gl/q7Am54TCG3AMZyu28)) which is lovely, a cathedral of capitalism.
+
+And finally, on the recommendation of Simon and Rosemary, the [La Almoina Archaeological Museum](https://maps.app.goo.gl/pCjWs3p15sxLNYZJ7), which is built on the foundations of Roman and moorish buildings, right by the cathedral.
+
+In the evening we caught the end of a miracle play for Valencia‘a saints day celebrations. And ended with fireworks in the [Plaza de la Reina](https://maps.app.goo.gl/cnnj6SEciEchrePq6).
+
+Busy day.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -107,7 +108,4 @@ As museums are free on Sundays, we visited a few yesterday. We first climbed the
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

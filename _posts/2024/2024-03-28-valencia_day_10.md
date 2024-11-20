@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "València  Day 10"
+title: "València - Day 10"
 permalink: /archives/2024/03/2024-03-28-valencia_day_10.html
 commentfile: 2024-03-28-valencia_day_10
 category: travel
 date: 2024-03-28 06:55:00
 image: "/assets/images/insta/434576914_758044376453483_1765595940381416191_n_17883043224003882.jpg"
 excerpt: |
-  Today Angela’s class was in the morning, so I swam and waited for her for lunch. We picked up some fish and lettuce at the main market and then walked south to an area called Russafa. We looked in shops and had a beer. Then out for some tapas and home.
+  Today Angela’s class was in the morning, so I swam and waited for her for lunch.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today Angela’s class was in the morning, so I swam and waited for her for lunch.
 
+We picked up some fish and lettuce at the [main market](https://maps.app.goo.gl/fWHPWUoUPXHwaD1XA) and then walked south to an area called [Russafa](https://maps.app.goo.gl/wKVov9onYbuPJJPn8).
 
-Today Angela’s class was in the morning, so I swam and waited for her for lunch. We picked up some fish and lettuce at the main market and then walked south to an area called Russafa. We looked in shops and had a beer. Then out for some tapas and home.
-
+We looked in shops and had a beer. Then out for some tapas at [Arandinos Tapas Valencia](https://maps.app.goo.gl/MdksTiD7JeujRFDYA) and home.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -140,7 +133,4 @@ Today Angela’s class was in the morning, so I swam and waited for her for lunc
       <label for="img-10" class="nav-dot" id="img-dot-10"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "València  Day 27"
+title: "València - Day 27"
 permalink: /archives/2024/04/2024-04-14-valencia_day_27.html
 commentfile: 2024-04-14-valencia_day_27
 category: travel
 date: 2024-04-14 05:20:00
 image: "/assets/images/insta/438349079_1873322126429267_8637667843202352611_n_17938367882816536.jpg"
 excerpt: |
-   Today we walked around the old town buying a few little things to take back.  I bought a fish print to take back and Angela some more clothes.  We watched most of a three hour street dance contest that was a mix of fairly normal dancing and some very scantily clad people.  It was a bit odd, but fun too.  For dinner we went to a more upscale place in our neighborhood.
+  Today we walked around the old town buying a few little things to take back.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we walked around the old town buying a few little things to take back. I bought a fish print to take back and Angela some more clothes.
 
+Then we stumbled on, and watched most of a three hour street dance contest that was a mix of fairly normal dancing and some very scantily clad people. It was a bit odd, but fun too.
 
- Today we walked around the old town buying a few little things to take back.  I bought a fish print to take back and Angela some more clothes.  We watched most of a three hour street dance contest that was a mix of fairly normal dancing and some very scantily clad people.  It was a bit odd, but fun too.  For dinner we went to a more upscale place in our neighborhood.
-
+For dinner we went to [Blanqueries](https://maps.app.goo.gl/aKGi2AaPS9GR4qjP7) a more upscale place in our neighborhood.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +78,4 @@ excerpt: |
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
