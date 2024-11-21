@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "Havasupai to Supai -  Day 56"
-permalink: /archives/2023/07/2023-07-29-havasupai_to_supai_day_56.html
-commentfile: 2023-07-29-havasupai_to_supai_day_56
-category: travel
-date: 2023-07-29 12:45:00
+title: "USA - Havasupai to Supai - Day 56"
+permalink: /archives/2023/07/2023-07-26-havasupai_to_supai_day_56.html
+commentfile: 2023-07-26-havasupai_to_supai_day_56
+category: [travel, hiking]
+date: 2023-07-26 12:45:00
 image: "/assets/images/insta/363808740_756537726482079_4990444881343128373_n_17979769655376512.jpg"
 excerpt: |
-   Because of the 105F temps, we got up early to head to the start of out hike into Supai, a Native American town, through a ten mile canyon. Once there, we set up camp and spent the afternoon to Havasupai Falls. The water was very blue (lime) and around 75F; perfect to keep cool.
+  Because of the 105F temps, we got up early to head to the start of our hike into Supai, a Native American town, through a ten mile canyon.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+So we finally made it to Havasu Falls! We applied and got a permit several years ago, but because of Covid, the local tribe keep the area closed. It finally opened up and we planned this entire trip to the USA just to come here.
 
+Because of the 105 F temps, we got up early to head to the start of out hike into [Supai](https://maps.app.goo.gl/mtyvsLRgqn4qJQKc9), a Native American town, through a ten mile canyon.
 
- Because of the 105F temps, we got up early to head to the start of out hike into Supai, a Native American town, through a ten mile canyon. Once there, we set up camp and spent the afternoon to Havasupai Falls. The water was very blue (lime) and around 75F; perfect to keep cool.
-
+Once there, we set up camp by the river and spent the afternoon swimming in [Havasupai Falls](https://maps.app.goo.gl/FnHrBmdxEzgd1r6S8). The water was very blue (lime) and around 75F; perfect to keep cool.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -74,7 +67,4 @@ excerpt: |
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

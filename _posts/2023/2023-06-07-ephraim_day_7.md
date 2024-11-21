@@ -1,27 +1,25 @@
 ---
 layout: post
-title: "Ephraim -  Day 7"
+title: "USA - Ephraim -  Day 7"
 permalink: /archives/2023/06/2023-06-07-ephraim_day_7.html
 commentfile: 2023-06-07-ephraim_day_7
 category: travel
 date: 2023-06-07 06:12:00
 image: "/assets/images/insta/351799337_975842633555734_7974382283978220384_n_18293907832104087.jpg"
 excerpt: |
-   Today we went for Swedish pancakes at Al Johnson’s. And drinks later with the cousins and a fun sunset cruise.
+  Today we went for Swedish pancakes at Al Johnson’s. And drinks later with the cousins and a fun sunset cruise.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
-
- Today we went for Swedish pancakes at Al Johnson’s. And drinks later with the cousins and a fun sunset cruise.
-
+Today we went for Swedish pancakes at [Al Johnson’s](https://maps.app.goo.gl/a1YkTnPmYayy4jMHA). And drinks later with the cousins and a fun [sunset cruise](https://maps.app.goo.gl/SW394XBjitd6EFkh8) in Sister Bay.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -63,7 +61,4 @@ excerpt: |
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

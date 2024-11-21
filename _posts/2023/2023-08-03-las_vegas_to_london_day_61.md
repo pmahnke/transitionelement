@@ -1,47 +1,15 @@
 ---
 layout: post
-title: "Las Vegas to London -  Day 61"
+title: "USA - Las Vegas to London - Day 61"
 permalink: /archives/2023/08/2023-08-03-las_vegas_to_london_day_61.html
 commentfile: 2023-08-03-las_vegas_to_london_day_61
 category: travel
-date: 2023-08-03 08:17:00
-image: "/assets/images/insta/364327495_1983187538712081_604237042769288962_n_17985272687081258.jpg"
+date: 2023-08-03 09:15:00
+image: "/assets/images/insta/433392522_1401539663812987_8245022591162849830_n_17991706943386114.jpg"
 excerpt: |
-   Well, we made it home. After a lot of waiting around Vegas and the airport, we finally got going 21 hours later. It’s good to be back. Now to clean the mess the boys have made.
+  Well, we made it home. After a lot of waiting around Vegas and the airport, we finally got going 21 hours later. It’s good to be back. Now to clean the mess the boys have made.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Well, we made it home. After a lot of waiting around Vegas and the airport, we finally got going 21 hours later. It’s good to be back.
 
-
- Well, we made it home. After a lot of waiting around Vegas and the airport, we finally got going 21 hours later. It’s good to be back. Now to clean the mess the boys have made.
-
-
-<ul class="slides">
-
-    <input type="radio" name="radio-btn" id="img-1" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/364327495_1983187538712081_604237042769288962_n_17985272687081258.jpg"><img src="/assets/images/insta/364327495_1983187538712081_604237042769288962_n_17985272687081258.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-0" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
-<li class="nav-dots">
-
-      <label for="img-1" class="nav-dot" id="img-dot-1"></label>
-
-</li>
-</ul>        
-             
-
-		
+Now to clean the mess the boys have made.

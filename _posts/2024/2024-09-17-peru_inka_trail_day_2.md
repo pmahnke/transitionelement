@@ -3,7 +3,7 @@ layout: post
 title: "Peru - Inka Trail - Day 2"
 permalink: /archives/2024/09/2024-09-17-peru_inka_trail_day_2.html
 commentfile: 2024-09-17-peru_inka_trail_day_2
-category: travel
+category: [travel, hiking]
 date: 2024-09-17 12:35:00
 image: "/assets/images/insta/460833199_18464364316047535_7800296991076791219_n_18015230249567216.jpg"
 excerpt: |

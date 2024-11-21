@@ -3,7 +3,7 @@ layout: post
 title: "Rätikon Hike - To Lindauer Hütte - Day 5"
 permalink: /archives/2024/07/2024-07-05-ratikon_day_5.html
 commentfile: 2024-07-05-ratikon_day_5
-category: travel
+category: [travel, hiking]
 date: 2024-07-05 06:28:00
 image: "/assets/images/insta/449935961_18449553229047535_8399070752317701108_n_18040416547931376.jpg"
 excerpt: |
