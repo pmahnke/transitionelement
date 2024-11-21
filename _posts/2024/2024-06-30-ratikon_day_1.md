@@ -3,7 +3,7 @@ layout: post
 title: "Rätikon Hike - To Carschina Hütte - Day 1"
 permalink: /archives/2024/06/2024-06-30-ratikon_day_1.html
 commentfile: 2024-06-30-ratikon_day_1
-category: travel
+category: [travel, hiking]
 date: 2024-06-30 07:44:00
 image: "/assets/images/insta/449684271_18448609237047535_1858458972254111007_n_18228322114285837.jpg"
 excerpt: |

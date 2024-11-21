@@ -1,27 +1,16 @@
 ---
 layout: post
-title: "Ephraim -  Day 5"
+title: "USA - Ephraim - Day 5"
 permalink: /archives/2023/06/2023-06-04-ephraim_day_5.html
 commentfile: 2023-06-04-ephraim_day_5
 category: travel
 date: 2023-06-04 12:39:00
 image: "/assets/images/insta/352193912_641852334670903_3549713673227526158_n_17987894708102945.jpg"
 excerpt: |
-   today was mostly hanging out with cousins talking about our hero, Ed Valentine, who would have been 100.
+  today was mostly hanging out with cousins talking about our hero, Ed Valentine, who would have been 100.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
- today was mostly hanging out with cousins talking about our hero, Ed Valentine, who would have been 100.
-
+Today was mostly hanging out with cousins talking about our hero and uncle, Ed Valentine, who would have been 100.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -54,7 +43,6 @@ excerpt: |
       <label for="img-4" class="next">&#x203a;</label>
     </div>
     </li>
-    
     <input type="radio" name="radio-btn" id="img-4" />
     <li class="slide-container">
         <div class="slide">
@@ -65,16 +53,10 @@ excerpt: |
       <label for="img-1" class="next">&#x203a;</label>
     </div>
     </li>
-			
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
-
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
-
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -3,7 +3,7 @@ layout: post
 title: "Peru - Huayhuash hike -  Day 1"
 permalink: /archives/2024/09/2024-09-27-peru_huayhuash_hike_day_1.html
 commentfile: 2024-09-27-peru_huayhuash_hike_day_1
-category: travel
+category: [travel, hiking]
 date: 2024-09-27 04:23:00
 image: "/assets/images/insta/462347525_18467633401047535_3934875167003098699_n_17948479133848778.jpg"
 excerpt: |

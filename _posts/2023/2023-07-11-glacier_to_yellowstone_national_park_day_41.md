@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "Glacier to Yellowstone National Park -  Day 41"
+title: "USA - Glacier to Yellowstone National Park - Day 41"
 permalink: /archives/2023/07/2023-07-11-glacier_to_yellowstone_national_park_day_41.html
 commentfile: 2023-07-11-glacier_to_yellowstone_national_park_day_41
 category: travel
 date: 2023-07-11 12:18:00
 image: "/assets/images/insta/359737385_1961426357583622_2476892676052602521_n_18003736486867715.jpg"
 excerpt: |
-   of course we had a big thunderstorm at 6am making packing up a pain. We were on the road by 8:30am and had nearly 8 hours to get to Yellowstone. The park is huge and super crowded, unlike any park we have been too. Tonight we are just relaxing. We will have to get up early to beat the crowds.
+  We were on the road by 8:30am and had nearly 8 hours to get to Yellowstone.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Of course we had a big thunderstorm at 6 AM making packing up a pain.
 
+We were on the road by 8:30am and had nearly 8 hours to get to Yellowstone.
 
- of course we had a big thunderstorm at 6am making packing up a pain. We were on the road by 8:30am and had nearly 8 hours to get to Yellowstone. The park is huge and super crowded, unlike any park we have been too. Tonight we are just relaxing. We will have to get up early to beat the crowds.
-
+The park is huge and super crowded, unlike any park we have been too. Tonight we are just relaxing. We will have to get up early to beat the crowds.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +78,4 @@ excerpt: |
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

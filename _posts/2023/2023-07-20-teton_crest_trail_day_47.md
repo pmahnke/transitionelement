@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "Teton Crest Trail -  Day 47"
+title: "USA - Teton Crest Trail - Day 47"
 permalink: /archives/2023/07/2023-07-20-teton_crest_trail_day_47.html
 commentfile: 2023-07-20-teton_crest_trail_day_47
-category: travel
+category: [travel, hiking]
 date: 2023-07-20 12:12:00
 image: "/assets/images/insta/362403489_795498538723733_5099985568428974664_n_18275603962183858.jpg"
 excerpt: |
-   We started this hike entering the Tetons via the scarily named Death Canyon. It was really very pretty, but the last climb up Fox Creek Pass was tough. We camped on Death Canyon Shelf in the worst campsite ever. All night we fended off a giant porcupine after salt, two pine martens after cork handles (one ate the wrist strap off Angela’s pole) and several marmots.
+  We started this hike entering the Tetons via the scarily named Death Canyon.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+We started this hike entering the Tetons via the scarily named Death Canyon. It was really very pretty, although the last climb up Fox Creek Pass was tough.
 
-
- We started this hike entering the Tetons via the scarily named Death Canyon. It was really very pretty, but the last climb up Fox Creek Pass was tough. We camped on Death Canyon Shelf in the worst campsite ever. All night we fended off a giant porcupine after salt, two pine martens after cork handles (one ate the wrist strap off Angela’s pole) and several marmots.
-
+We camped on [Death Canyon Shelf](https://maps.app.goo.gl/LRXLhtyawhNmWQEV8) in the worst campsite ever. All night we fended off a giant porcupine after salt, two pine martens after cork handles (one ate the wrist strap off Angela’s pole) and several marmots.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +87,4 @@ excerpt: |
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

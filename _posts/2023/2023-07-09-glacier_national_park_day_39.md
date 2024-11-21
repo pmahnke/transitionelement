@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "Glacier National Park -  Day 39"
+title: "USA - Glacier National Park - Day 39"
 permalink: /archives/2023/07/2023-07-09-glacier_national_park_day_39.html
 commentfile: 2023-07-09-glacier_national_park_day_39
 category: travel
 date: 2023-07-09 12:06:00
 image: "/assets/images/insta/358602129_238854312308900_6046872827451173010_n_17977862027166448.jpg"
 excerpt: |
-   Today we got up very early to get a parking spot at Logan Pass. We eat breakfast in the car and then walked the Highline Trail. This connects to the Garden Wall Trail that overlooks Grinnel Glacier. Then we walked to Glacier Chalet and down to the Loop Train. It was over 15 miles and very warm in the afternoon. Nice, but the end wasn’t fun. We had a nice dinner or  tortellini, salad and peaches. Now a nice fire.
+  Today we got up very early to get a parking spot at Logan Pass.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we got up very early to get a parking spot at [Logan Pass](https://maps.app.goo.gl/FDpAMQKA7qkH26UaA).
 
+We ate breakfast in the car and then walked the [Highline Trail](https://www.alltrails.com/en-gb/trail/us/montana/highline-trail-logan-pass-to-the-loop-trailhead). This connects to the Garden Wall Trail that overlooks Grinnel Glacier.
 
- Today we got up very early to get a parking spot at Logan Pass. We eat breakfast in the car and then walked the Highline Trail. This connects to the Garden Wall Trail that overlooks Grinnel Glacier. Then we walked to Glacier Chalet and down to the Loop Train. It was over 15 miles and very warm in the afternoon. Nice, but the end wasn’t fun. We had a nice dinner or  tortellini, salad and peaches. Now a nice fire.
-
+Then we walked to Glacier Chalet and down to the Loop Train. It was over 15 miles and very warm in the afternoon. Nice, but the end wasn’t fun. We had a nice dinner or tortellini, salad and peaches. Now a nice fire.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -129,7 +122,4 @@ excerpt: |
       <label for="img-9" class="nav-dot" id="img-dot-9"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "California - Lone Pine -  Day 39"
+title: "California - Independance -  Day 39"
 permalink: /archives/2022/08/2022-08-03-california_lone_pine_day_39.html
 commentfile: 2022-08-03-california_lone_pine_day_39
 category: travel
@@ -10,18 +10,16 @@ excerpt: |
   So the road to the trailhead is open. We start tomorrow. Today was all about storing luggage, dropping another resupply box, returning our rental car and getting to Lone Pine for our ride tomorrow. The weather looks scary for the first two days. Lots of rain and thunderstorms and wind. Wish us luck.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
 So the road to the trailhead is open. We start tomorrow. Today was all about storing luggage, dropping another resupply box, returning our rental car and getting to Lone Pine for our ride tomorrow. The weather looks scary for the first two days. Lots of rain and thunderstorms and wind. Wish us luck.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +83,4 @@ So the road to the trailhead is open. We start tomorrow. Today was all about sto
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

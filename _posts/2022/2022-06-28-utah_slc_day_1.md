@@ -10,18 +10,16 @@ excerpt: |
   After a crazy few day where our boiler died (sorry Owen who has to deal with it), our plane to Salt Lake City from Chicago was cancelled, and  hotel in SLC went out of business. We made it after nearly 20 hours. Time to relax.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
-
-After a crazy few day where our boiler died (sorry Owen who has to deal with it), our plane to Salt Lake City from Chicago was cancelled, and  hotel in SLC went out of business. We made it after nearly 20 hours. Time to relax.
-
+After a crazy few day where our boiler died (sorry Owen who has to deal with it), our plane to Salt Lake City from Chicago was cancelled, and hotel in SLC went out of business. We made it after nearly 20 hours. Time to relax.
 
 <ul class="slides">
 
@@ -35,13 +33,11 @@ After a crazy few day where our boiler died (sorry Owen who has to deal with it)
       <label for="img-1" class="next">&#x203a;</label>
     </div>
     </li>
-			
+
+
 <li class="nav-dots">
 
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

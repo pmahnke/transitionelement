@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "Yellowstone -  Day 44"
+title: "USA - Yellowstone - Day 44"
 permalink: /archives/2023/07/2023-07-14-yellowstone_day_44.html
 commentfile: 2023-07-14-yellowstone_day_44
 category: travel
 date: 2023-07-14 12:33:00
 image: "/assets/images/insta/359982702_960807558469905_8623333935571308836_n_17973695588406953.jpg"
 excerpt: |
-   Today we headed up to the Mammoth Hot Springs area. On the way we say the Roaring Mountain. Then all the springs around Mammoth. Then the lodge itself. We headed back to our Canyons area for lunch, laundry and a shower. Tomorrow we head to Jackson Hole.
+  Today we headed up to the Mammoth Hot Springs area.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we headed up to the [Mammoth Hot Springs](https://maps.app.goo.gl/VLUTMW7xAD7BhQKf8) area. On the way we saw the [Roaring Mountain](https://maps.app.goo.gl/PczvsVtDwVxdEW9SA). Then all the springs around Mammoth and the lodge itself.
 
+We headed back to our Canyons area for lunch, laundry and a shower.
 
- Today we headed up to the Mammoth Hot Springs area. On the way we say the Roaring Mountain. Then all the springs around Mammoth. Then the lodge itself. We headed back to our Canyons area for lunch, laundry and a shower. Tomorrow we head to Jackson Hole.
-
+Tomorrow we head to Jackson Hole.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -107,7 +100,4 @@ excerpt: |
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

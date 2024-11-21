@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "California - Mammouth -  Day 36"
+title: "USA - California - Mammouth - Day 36 - Devil’s Postpile Trail"
 permalink: /archives/2022/08/2022-08-01-california_mammouth_day_36.html
 commentfile: 2022-08-01-california_mammouth_day_36
 category: travel
@@ -10,18 +10,16 @@ excerpt: |
   Well, today has been interesting. We had a big storm yesterday that has put all our JMT plans in jeopardy. A storm has shut down the road we need to use to start, and the park might cancel our permits even if the road is ok. We are waiting and plotting alternatives. Annoying. Before we knew all this, we dropped a resupply box at Red’s Meadow and hiked to Devil’s Postpile and upper and lower Rainbow Falls.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
+|            |           |
+| ---------- | --------- | -------------------------------------------------------- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |                                                          |
+|            | _Dinner_  |                                                          |
+| **Travel** | _Flying_  |                                                          |
+|            | _Train_   |                                                          |
+|            | _Walking_ | 11.02 km, 3:07 hours, 330.2 meters up, 347.2 meters down |
 
 Well, today has been interesting. We had a big storm yesterday that has put all our JMT plans in jeopardy. A storm has shut down the road we need to use to start, and the park might cancel our permits even if the road is ok. We are waiting and plotting alternatives. Annoying. Before we knew all this, we dropped a resupply box at Red’s Meadow and hiked to Devil’s Postpile and upper and lower Rainbow Falls.
-
 
 <ul class="slides">
 
@@ -35,13 +33,11 @@ Well, today has been interesting. We had a big storm yesterday that has put all 
       <label for="img-1" class="next">&#x203a;</label>
     </div>
     </li>
-			
+
+
 <li class="nav-dots">
 
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

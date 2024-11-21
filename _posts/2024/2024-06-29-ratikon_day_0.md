@@ -3,7 +3,7 @@ layout: post
 title: "Pre Rätikon Hike - Zurich to Sankt Antönien - Day 3"
 permalink: /archives/2024/06/2024-06-29-ratikon_day_0.html
 commentfile: 2024-06-29-ratikon_day_0
-category: travel
+category: [travel, hiking]
 date: 2024-06-29 12:17:00
 image: "/assets/images/insta/449386642_18448445755047535_599042698066096214_n_17909171105891963.jpg"
 excerpt: |

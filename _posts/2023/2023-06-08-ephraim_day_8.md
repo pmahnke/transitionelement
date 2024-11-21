@@ -1,27 +1,16 @@
 ---
 layout: post
-title: "Ephraim -  Day 8"
+title: "USA - Ephraim - Day 8"
 permalink: /archives/2023/06/2023-06-08-ephraim_day_8.html
 commentfile: 2023-06-08-ephraim_day_8
 category: travel
 date: 2023-06-08 05:52:00
 image: "/assets/images/insta/352243980_1875928912787994_104603049752525681_n_18011980603632830.jpg"
 excerpt: |
-   Another amazing  sunset and dinner with the cousins. We spent the day poking around gift shops and going to the food store a few times too many.
+  Another amazing  sunset and dinner with the cousins. We spent the day poking around gift shops and going to the food store a few times too many.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
- Another amazing  sunset and dinner with the cousins. We spent the day poking around gift shops and going to the food store a few times too many.
-
+Another amazing sunset and dinner with the cousins. We spent the day poking around gift shops and going to the food store a few times too many.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +85,4 @@ excerpt: |
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

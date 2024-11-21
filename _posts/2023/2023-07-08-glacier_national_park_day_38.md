@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "Glacier National Park -  Day 38"
+title: "USA - Glacier National Park - Day 38"
 permalink: /archives/2023/07/2023-07-08-glacier_national_park_day_38.html
 commentfile: 2023-07-08-glacier_national_park_day_38
 category: travel
 date: 2023-07-08 12:58:00
 image: "/assets/images/insta/358539027_1263812551005527_644573826468334575_n_18006221884721484.jpg"
 excerpt: |
-   Today we had a reservation to drive into Many Glaciers. We decided to do the Iceberg Lake Trail. It was really pretty with wildflowers everywhere. The only issue was a big grizzly on our return. It held up around 25 people for around 30 minutes. It just didn’t care. Then we went to the Mary Glacier Hotel and had lunch on their amazing porch. Great day.
+  Today we had a reservation to drive into Many Glaciers. We decided to do the Iceberg Lake Trail.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we had a reservation to drive into [Many Glaciers](https://www.nps.gov/glac/planyourvisit/permitsandreservations.htm). We decided to do the [Iceberg Lake Trail](https://www.alltrails.com/en-gb/trail/us/montana/iceberg-lake-trail--3). It was really pretty with wildflowers everywhere. The only issue was a big grizzly on our return. It held up around 25 people for around 30 minutes. It just didn’t care.
 
-
- Today we had a reservation to drive into Many Glaciers. We decided to do the Iceberg Lake Trail. It was really pretty with wildflowers everywhere. The only issue was a big grizzly on our return. It held up around 25 people for around 30 minutes. It just didn’t care. Then we went to the Mary Glacier Hotel and had lunch on their amazing porch. Great day.
-
+Then we went to the Mary Glacier Hotel and had lunch on their amazing porch. Great day.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +87,4 @@ excerpt: |
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

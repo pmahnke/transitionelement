@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "Yellowstone -  Day 43"
+title: "USA - Yellowstone - Day 43"
 permalink: /archives/2023/07/2023-07-13-yellowstone_day_43.html
 commentfile: 2023-07-13-yellowstone_day_43
 category: travel
 date: 2023-07-13 12:48:00
 image: "/assets/images/insta/360023133_664781285500824_892605926602301480_n_18091743706348985.jpg"
 excerpt: |
-   We got going a bit later today as we wanted to explore the canyon and waterfalls by our campgrounds. It was pretty impressive and the colours amazing. Then we drove to Lamar Valley to see all the bison 🦬 and we even saw a wolf as well. Today we made jiffy pop popcorn for dessert. Another pretty good day.
+  We got going a bit later today as we wanted to explore the canyon and waterfalls by our campgrounds.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+We got going a bit later today as we wanted to explore the canyon and waterfalls by our campgrounds.
 
+It was pretty impressive and the colours amazing. Then we drove to [Lamar Valley](https://maps.app.goo.gl/q9PXQJiChxyMR1pP9) to see all the bison.
 
- We got going a bit later today as we wanted to explore the canyon and waterfalls by our campgrounds. It was pretty impressive and the colours amazing. Then we drove to Lamar Valley to see all the bison 🦬 and we even saw a wolf as well. Today we made jiffy pop popcorn for dessert. Another pretty good day.
-
+At night we made jiffy pop popcorn for dessert. Another pretty good day.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -107,7 +100,4 @@ excerpt: |
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

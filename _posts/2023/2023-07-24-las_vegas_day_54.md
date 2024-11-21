@@ -1,27 +1,28 @@
 ---
 layout: post
-title: "Las Vegas -  Day 54"
+title: "USA - Las Vegas - Day 54"
 permalink: /archives/2023/07/2023-07-24-las_vegas_day_54.html
 commentfile: 2023-07-24-las_vegas_day_54
 category: travel
 date: 2023-07-24 12:59:00
 image: "/assets/images/insta/362618794_834475284849028_6795588706577226382_n_18026820214574830.jpg"
 excerpt: |
-   We did very little today. Slept in. Ate lunch at David Chang’s Bang Bar. Napped. Swam. Read. Ate dinner.
+  We did very little today. Slept in. Ate lunch at David Chang’s Bang Bar. Napped. Swam. Read. Ate dinner.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+We did very little today.
 
+Slept in.
 
- We did very little today. Slept in. Ate lunch at David Chang’s Bang Bar. Napped. Swam. Read. Ate dinner.
+Ate lunch at David Chang’s Bang Bar.
 
+Napped.
+
+Swam.
+
+Read.
+
+Ate dinner.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +86,4 @@ excerpt: |
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "Telluride -  Day 30"
-permalink: /archives/2023/06/2023-06-30-telluride_day_30.html
+title: "USA - Telluride - Day 30"
+permalink: /archives/2023/07/2023-06-30-telluride_day_31.html
 commentfile: 2023-06-30-telluride_day_30
 category: travel
 date: 2023-06-30 12:00:00
 image: "/assets/images/insta/357658922_591147689577729_8759276518853561237_n_18148290319291870.jpg"
 excerpt: |
-   It was a long drive from Las Vegas to Telluride, but pretty the whole time. We arrived in Telluride around 5:30, set up camp ( yes we are camping for most of the next month) and headed into town for Detroit pizza.  Happy to be here.
+  We hiked the See Forever Trail today.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+We hiked the [See Forever Trail](https://www.alltrails.com/en-gb/trail/us/colorado/see-forever-trail) today. A medium distance hike with a lot of elevation, starting at 10,000 feet. It was tough.
 
+We also checked out an alternate campsite for the next two days.
 
- It was a long drive from Las Vegas to Telluride, but pretty the whole time. We arrived in Telluride around 5:30, set up camp ( yes we are camping for most of the next month) and headed into town for Detroit pizza.  Happy to be here.
-
+In the evening, we had an amazing [Thai](https://maps.app.goo.gl/WsKjrvSFUa3Jgwnf6) dinner, followed by rain and thunderstorms.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -74,7 +67,4 @@ excerpt: |
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -3,7 +3,7 @@ layout: post
 title: "Rätikon Hike - To Schesaplana Hütte - Day 2"
 permalink: /archives/2024/07/2024-07-01-ratikon_day_2.html
 commentfile: 2024-07-01-ratikon_day_2
-category: travel
+category: [travel, hiking]
 date: 2024-07-01 11:15:00
 image: "/assets/images/insta/449766430_18448841116047535_6398785801920912303_n_17859439911191862.jpg"
 excerpt: |

@@ -3,7 +3,7 @@ layout: post
 title: "Rätikon Hike - To Heinrich Hueter Hütte - Day 4"
 permalink: /archives/2024/07/2024-07-03-ratikon_day_4.html
 commentfile: 2024-07-03-ratikon_day_4
-category: travel
+category: [travel, hiking]
 date: 2024-07-03 07:16:00
 image: "/assets/images/insta/449692251_18449175217047535_3741353461957282803_n_17853770124181506.jpg"
 excerpt: |
