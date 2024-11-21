@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "Ephraim -  Day 9"
+title: "USA - Ephraim - Day 9"
 permalink: /archives/2023/06/2023-06-09-ephraim_day_9.html
 commentfile: 2023-06-09-ephraim_day_9
 category: travel
 date: 2023-06-09 06:11:00
 image: "/assets/images/insta/352202562_208012635005517_8248473559181605201_n_17979116573250595.jpg"
 excerpt: |
-   A bit cooler, but we mini-golfed, swam in Green Bay , ate at Wilson’s, drank at Pearl’s and had a BBQ. Another fun day.
+  A bit cooler, but we mini-golfed, swam in Green Bay , ate at Wilson’s, drank at Pearl’s and had a BBQ. Another fun day.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+A bit cooler, but we [mini-golfed](https://maps.app.goo.gl/SP1bv4r1CcqCdoyy9), swam in Green Bay, ate at [Wilson’s](https://maps.app.goo.gl/CgARWbBge5bP67eF8), drank at [Pearl’s](https://maps.app.goo.gl/GSEeF2T18Hdu8r5HA) and had a BBQ.
 
-
- A bit cooler, but we mini-golfed, swam in Green Bay , ate at Wilson’s, drank at Pearl’s and had a BBQ. Another fun day.
-
+Another fun day.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -74,7 +65,4 @@ excerpt: |
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

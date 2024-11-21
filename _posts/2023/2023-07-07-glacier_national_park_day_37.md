@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "Glacier National Park -  Day 37"
+title: "USA - Glacier National Park - Day 37"
 permalink: /archives/2023/07/2023-07-07-glacier_national_park_day_37.html
 commentfile: 2023-07-07-glacier_national_park_day_37
 category: travel
 date: 2023-07-07 12:15:00
 image: "/assets/images/insta/358200668_294957039679378_6727350233808250342_n_18001971565749297.jpg"
 excerpt: |
-   we made it to Glacier in time for some rain and thunderstorms. We we just took a shuttle bus to see the sites and hung out in the visitor centre until it all blew over. Tonight we went to a ranger talk and toasted marshmallows by our fire. Not bad.
+  We made it to Glacier in time for some rain and thunderstorms.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+We made it to Glacier in time for some rain and thunderstorms. We just took a shuttle bus to see the sites and hung out in the visitor centre until it all blew over.
 
-
- we made it to Glacier in time for some rain and thunderstorms. We we just took a shuttle bus to see the sites and hung out in the visitor centre until it all blew over. Tonight we went to a ranger talk and toasted marshmallows by our fire. Not bad.
-
+In the evening we went to a ranger talk and toasted marshmallows by our fire. Not bad.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -74,7 +65,4 @@ excerpt: |
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

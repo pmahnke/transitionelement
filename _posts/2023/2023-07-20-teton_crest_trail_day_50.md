@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "Teton Crest Trail -  Day 50"
+title: "USA - Teton Crest Trail - Day 50"
 permalink: /archives/2023/07/2023-07-20-teton_crest_trail_day_50.html
 commentfile: 2023-07-20-teton_crest_trail_day_50
-category: travel
+category: [travel, hiking]
 date: 2023-07-20 12:34:00
 image: "/assets/images/insta/361698020_1080272726288228_8984082481703286965_n_17994838448074047.jpg"
 excerpt: |
-   Today we walked out of the Tetons via Cascade Canyon. It was very busy with day hikers. However, we tried to make it interesting by mistakenly walking through a section closed for bear activity. Luckily, bears seem to hate my singing of ‘I, Huckleberry, Me’. Overall a great smaller hike.
+  Today we walked out of the Tetons via Cascade Canyon.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we walked out of the Tetons via Cascade Canyon. It was very busy with day hikers. However, we tried to make it interesting by mistakenly walking through a section closed for bear activity.
 
+Luckily, bears seem to hate my singing of ‘I, Huckleberry, Me’.
 
- Today we walked out of the Tetons via Cascade Canyon. It was very busy with day hikers. However, we tried to make it interesting by mistakenly walking through a section closed for bear activity. Luckily, bears seem to hate my singing of ‘I, Huckleberry, Me’. Overall a great smaller hike.
-
+Overall a great smaller hike.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +78,4 @@ excerpt: |
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

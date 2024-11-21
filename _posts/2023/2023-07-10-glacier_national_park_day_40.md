@@ -1,27 +1,18 @@
 ---
 layout: post
-title: "Glacier National Park -  Day 40"
+title: "USA - Glacier National Park - Day 40"
 permalink: /archives/2023/07/2023-07-10-glacier_national_park_day_40.html
 commentfile: 2023-07-10-glacier_national_park_day_40
 category: travel
 date: 2023-07-10 12:43:00
 image: "/assets/images/insta/358943522_1617389955439322_4298546556070620834_n_18228644014225546.jpg"
 excerpt: |
-   We slept in a bit today. Walked to a shuttle (that took an age) up to Logan Pass and did the Hidden Lake Trail. On the way we saw long horn sheep and mountain goats. It was all very pretty. The afternoon was a lot of on and off showers. We came to Kip’s to get out of the rain and have a pizza. A good call. Tomorrow… Yellowstone.
+  We did the Hidden Lake Trail.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+We slept in a bit today. Walked to a shuttle (that took an age) up to Logan Pass and did the [Hidden Lake Trail](https://www.alltrails.com/en-gb/trail/us/montana/hidden-lake-trail). On the way we saw long horn sheep and mountain goats. It was all very pretty.
 
-
- We slept in a bit today. Walked to a shuttle (that took an age) up to Logan Pass and did the Hidden Lake Trail. On the way we saw long horn sheep and mountain goats. It was all very pretty. The afternoon was a lot of on and off showers. We came to Kip’s to get out of the rain and have a pizza. A good call. Tomorrow… Yellowstone.
-
+In the afternoon were a lot of on and off showers. We left the park to go to [Kip’s](https://maps.app.goo.gl/hCr7v5HpUMT8DNaf9) to get out of the rain and have a pizza. A good call. Tomorrow… Yellowstone.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +76,4 @@ excerpt: |
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -3,7 +3,7 @@ layout: post
 title: "Peru - Inka Trail &amp; Machu Picchu - Day 4"
 permalink: /archives/2024/09/2024-09-19-peru_inka_trail_machu_picchu_day_4.html
 commentfile: 2024-09-19-peru_inka_trail_machu_picchu_day_4
-category: travel
+category: [travel, hiking]
 date: 2024-09-19 12:57:00
 image: "/assets/images/insta/460967525_18464367442047535_74717477071560361_n_18329291038144387.jpg"
 excerpt: |

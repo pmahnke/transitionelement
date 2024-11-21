@@ -3,7 +3,7 @@ layout: post
 title: "Rätikon Hike - To Sankt Antönien - Day 7"
 permalink: /archives/2024/07/2024-07-06-ratikon_day_7.html
 commentfile: 2024-07-06-ratikon_day_7
-category: travel
+category: [travel, hiking]
 date: 2024-07-06 05:38:00
 image: "/assets/images/insta/449954029_18449739328047535_8746676055016498715_n_18111505228388484.jpg"
 excerpt: |

@@ -3,7 +3,7 @@ layout: post
 title: "Rätikon Hike - To Tilisuna Hütte - Day 6"
 permalink: /archives/2024/07/2024-07-05-ratikon_day_6.html
 commentfile: 2024-07-05-ratikon_day_6
-category: travel
+category: [travel, hiking]
 date: 2024-07-05 06:55:00
 image: "/assets/images/insta/449963071_18449558479047535_1918885060217894773_n_18001785416396856.jpg"
 excerpt: |

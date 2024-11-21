@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "Yellowstone -  Day 42"
+title: "USA - Yellowstone - Day 42"
 permalink: /archives/2023/07/2023-07-12-yellowstone_day_42.html
 commentfile: 2023-07-12-yellowstone_day_42
 category: travel
 date: 2023-07-12 12:13:00
 image: "/assets/images/insta/359779445_282249477823552_5007319048113336658_n_17868316271951779.jpg"
 excerpt: |
-   We woke up early and drove to Old Faithful to beat the crowds. We saw it erupt twice. Walked around the basic there with less faithful geysers. Then we took a tour of the inn, which was super interesting. Then we drove back via the prismatic pools, artist’s paint pots and Norris basin. Pretty impressive geology and we saw a few bison as well.
+  We woke up early and drove to Old Faithful to beat the crowds.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+We woke up early and drove to Old Faithful to beat the crowds. We saw it erupt twice. Then we walked around the basin there with less faithful geysers.
 
+While we were there, we took a tour of the [Old Faithful Inn](https://maps.app.goo.gl/9PRe8N2FPACWN9Jh6), which was super interesting.
 
- We woke up early and drove to Old Faithful to beat the crowds. We saw it erupt twice. Walked around the basic there with less faithful geysers. Then we took a tour of the inn, which was super interesting. Then we drove back via the prismatic pools, artist’s paint pots and Norris basin. Pretty impressive geology and we saw a few bison as well.
-
+Then we drove back via the prismatic pools, artist’s paint pots and Norris basin. Pretty impressive geology and we saw a few bison as well.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +78,4 @@ excerpt: |
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

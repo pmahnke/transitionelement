@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "Yellowstone to Jackson Hole -  Day 45"
+title: "USA - Yellowstone to Jackson Hole - Day 45"
 permalink: /archives/2023/07/2023-07-15-yellowstone_to_jackson_hole_day_45.html
 commentfile: 2023-07-15-yellowstone_to_jackson_hole_day_45
 category: travel
 date: 2023-07-15 12:40:00
 image: "/assets/images/insta/360180236_285054554197847_6840121159790124685_n_17984954627071887.jpg"
 excerpt: |
-   We drove south to the Grand Tetons via a few amazing sites in Yellowstone. We picked up our permits and bear boxes for our hike and bought our final food. Tonight we ate polish food and listened to country music. Good day.
+  We drove south to the Grand Tetons.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+We drove south to the [Grand Teton National Park](https://maps.app.goo.gl/HDZQF4ZQuio5MX2fA). On the way we stoppedat a few amazing sites in Yellowstone.
 
+In the Tetons park, we picked up our permits and bear boxes for our hike and bought our final food for the hike.
 
- We drove south to the Grand Tetons via a few amazing sites in Yellowstone. We picked up our permits and bear boxes for our hike and bought our final food. Tonight we ate polish food and listened to country music. Good day.
-
+Tonight we ate polish food at [Miazga's](https://maps.app.goo.gl/VULNzD6aJgGrgimS8) in Jackson Hole and listened to country music. Good day.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +89,4 @@ excerpt: |
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

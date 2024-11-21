@@ -3,7 +3,7 @@ layout: post
 title: "Rätikon Hike - To Totalp Hütte - Day 3"
 permalink: /archives/2024/07/2024-07-02-ratikon_day_3.html
 commentfile: 2024-07-02-ratikon_day_3
-category: travel
+category: [travel, hiking]
 date: 2024-07-02 05:59:00
 image: "/assets/images/insta/449691367_18448982068047535_5012027799214799406_n_17926655792912080.jpg"
 excerpt: |

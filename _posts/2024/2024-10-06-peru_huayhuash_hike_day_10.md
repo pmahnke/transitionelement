@@ -3,7 +3,7 @@ layout: post
 title: "Peru - Huayhuash hike - Day 10"
 permalink: /archives/2024/10/2024-10-06-peru_huayhuash_hike_day_10.html
 commentfile: 2024-10-06-peru_huayhuash_hike_day_10
-category: travel
+category: [travel, hiking]
 date: 2024-10-06 06:52:00
 image: "/assets/images/insta/462151891_18467845162047535_949868255707527702_n_18046839778989013.jpg"
 excerpt: |
