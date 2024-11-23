@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Utah - SLC -  Day 3"
-permalink: /archives/2022/06/2022-06-30-utah_slc_day_3.html
-commentfile: 2022-06-30-utah_slc_day_3
+title: "Wales - Snowdonia -  Day 3"
+permalink: /archives/2021/11/2021-11-16-wales_snowdonia_day_3.html
+commentfile: 2021-11-16-wales_snowdonia_day_3
 category: travel
-date: 2022-06-30 12:28:00
-image: "/assets/images/insta/290817241_158023136748744_3759107668595840791_n_17925619811514269.jpg"
+date: 2021-11-16 08:24:00
+image: "/assets/images/insta/256088310_1091561154929589_6186523314007463330_n_17889197189429140.jpg"
 excerpt: |
-  Visited Wendover Airfield. Very interesting WWII history and an interesting restoration project.
+  A hike by South and North Stack lighthouses at Holyhead
 ---
 
 |            |                                                              |
@@ -20,14 +20,14 @@ excerpt: |
 |            | _Walking_                                                    |          |
 
 
-Visited Wendover Airfield. Very interesting WWII history and an interesting restoration project.
+A hike by South and North Stack lighthouses at Holyhead
 
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/290901464_1720092491685092_7451920520859986702_n_18216385108147999.jpg"><img src="/assets/images/insta/290901464_1720092491685092_7451920520859986702_n_18216385108147999.jpg" /></a>
+          <a href="/assets/images/insta/258328483_249099373801324_5217317193190959681_n_17901470735494438.jpg"><img src="/assets/images/insta/258328483_249099373801324_5217317193190959681_n_17901470735494438.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -37,7 +37,7 @@ Visited Wendover Airfield. Very interesting WWII history and an interesting rest
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/291611290_1721715004830442_3626753761701386937_n_17910862337558339.jpg"><img src="/assets/images/insta/291611290_1721715004830442_3626753761701386937_n_17910862337558339.jpg" /></a>
+          <a href="/assets/images/insta/257477019_4376993502410390_4820333495104244107_n_17932064389731135.jpg"><img src="/assets/images/insta/257477019_4376993502410390_4820333495104244107_n_17932064389731135.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -47,7 +47,7 @@ Visited Wendover Airfield. Very interesting WWII history and an interesting rest
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/291065248_1066632490943630_6377057203302190472_n_17852924768784474.jpg"><img src="/assets/images/insta/291065248_1066632490943630_6377057203302190472_n_17852924768784474.jpg" /></a>
+          <a href="/assets/images/insta/257304458_593456165245815_8828679412501151096_n_17919462530050837.jpg"><img src="/assets/images/insta/257304458_593456165245815_8828679412501151096_n_17919462530050837.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -58,7 +58,7 @@ Visited Wendover Airfield. Very interesting WWII history and an interesting rest
     <input type="radio" name="radio-btn" id="img-4" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/290817241_158023136748744_3759107668595840791_n_17925619811514269.jpg"><img src="/assets/images/insta/290817241_158023136748744_3759107668595840791_n_17925619811514269.jpg" /></a>
+          <a href="/assets/images/insta/256088310_1091561154929589_6186523314007463330_n_17889197189429140.jpg"><img src="/assets/images/insta/256088310_1091561154929589_6186523314007463330_n_17889197189429140.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>

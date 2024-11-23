@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Pennine Way -  Day 3"
-permalink: /archives/2021/05/2021-05-17-pennine_way_day_3.html
-commentfile: 2021-05-17-pennine_way_day_3
+title: "Pennine Way -  Day 11"
+permalink: /archives/2021/05/2021-05-26-pennine_way_day_11.html
+commentfile: 2021-05-26-pennine_way_day_11
 category: travel
-date: 2021-05-17 08:04:00
-image: "/assets/images/insta/186778272_294596075663033_1315058507690043960_n_17931666619558534.jpg"
+date: 2021-05-26 07:47:00
+image: "/assets/images/insta/192594732_910068286250323_8375130463600178983_n_18147703249167627.jpg"
 excerpt: |
-  More rain, some sun. Great views. 17 miles.
+  14 miles. Took an easier alternative trail, the South Tyne Line. The Pennine Way was meant to be a bog and stile filled pain fest. Nearly every person we know walking the trail did the same.
 ---
 
 |            |                                                              |
@@ -20,24 +20,24 @@ excerpt: |
 |            | _Walking_                                                    |          |
 
 
-More rain, some sun. Great views. 17 miles.
+14 miles. Took an easier alternative trail, the South Tyne Line. The Pennine Way was meant to be a bog and stile filled pain fest. Nearly every person we know walking the trail did the same.
 
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/186609206_1178895905878706_1581589726693249925_n_18111789805234902.jpg"><img src="/assets/images/insta/186609206_1178895905878706_1581589726693249925_n_18111789805234902.jpg" /></a>
+          <a href="/assets/images/insta/191271692_307447930912869_3664724614652604793_n_17899213877003520.jpg"><img src="/assets/images/insta/191271692_307447930912869_3664724614652604793_n_17899213877003520.jpg" /></a>
         </div>
     <div class="nav">
-      <label for="img-8" class="prev">&#x2039;</label>
+      <label for="img-7" class="prev">&#x2039;</label>
       <label for="img-2" class="next">&#x203a;</label>
     </div>
     </li>
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/186955812_505576780596571_6343705553565700438_n_17918291230679090.jpg"><img src="/assets/images/insta/186955812_505576780596571_6343705553565700438_n_17918291230679090.jpg" /></a>
+          <a href="/assets/images/insta/191169386_320401892866681_5679271638010815291_n_17874513200497333.jpg"><img src="/assets/images/insta/191169386_320401892866681_5679271638010815291_n_17874513200497333.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -47,7 +47,7 @@ More rain, some sun. Great views. 17 miles.
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/186341443_286469106540778_357601527864986986_n_17842478051604416.jpg"><img src="/assets/images/insta/186341443_286469106540778_357601527864986986_n_17842478051604416.jpg" /></a>
+          <a href="/assets/images/insta/191968522_303572444822781_9090298039158081773_n_17899525028007772.jpg"><img src="/assets/images/insta/191968522_303572444822781_9090298039158081773_n_17899525028007772.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -57,7 +57,7 @@ More rain, some sun. Great views. 17 miles.
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/186546406_174036191284697_426738575503470245_n_17915963599691682.jpg"><img src="/assets/images/insta/186546406_174036191284697_426738575503470245_n_17915963599691682.jpg" /></a>
+          <a href="/assets/images/insta/191692170_118924770259692_6086791868129398069_n_17886905282206253.jpg"><img src="/assets/images/insta/191692170_118924770259692_6086791868129398069_n_17886905282206253.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -67,7 +67,7 @@ More rain, some sun. Great views. 17 miles.
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/187600889_158355469497430_564666105081533205_n_17915599720731923.jpg"><img src="/assets/images/insta/187600889_158355469497430_564666105081533205_n_17915599720731923.jpg" /></a>
+          <a href="/assets/images/insta/191165646_4066911610067562_10850012784763416_n_18077479786275832.jpg"><img src="/assets/images/insta/191165646_4066911610067562_10850012784763416_n_18077479786275832.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -77,31 +77,21 @@ More rain, some sun. Great views. 17 miles.
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/186302329_472128170516988_8434307552773597422_n_17879473754269524.jpg"><img src="/assets/images/insta/186302329_472128170516988_8434307552773597422_n_17879473754269524.jpg" /></a>
+          <a href="/assets/images/insta/190921252_904366773741707_2503891171354178365_n_18107185708244529.jpg"><img src="/assets/images/insta/190921252_904366773741707_2503891171354178365_n_18107185708244529.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
       <label for="img-7" class="next">&#x203a;</label>
     </div>
     </li>
-        <input type="radio" name="radio-btn" id="img-7"  />
+    
+    <input type="radio" name="radio-btn" id="img-7" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/187222643_289857572788732_3326419101520318728_n_17875545806381983.jpg"><img src="/assets/images/insta/187222643_289857572788732_3326419101520318728_n_17875545806381983.jpg" /></a>
+          <a href="/assets/images/insta/192594732_910068286250323_8375130463600178983_n_18147703249167627.jpg"><img src="/assets/images/insta/192594732_910068286250323_8375130463600178983_n_18147703249167627.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
-      <label for="img-8" class="next">&#x203a;</label>
-    </div>
-    </li>
-    
-    <input type="radio" name="radio-btn" id="img-8" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/186778272_294596075663033_1315058507690043960_n_17931666619558534.jpg"><img src="/assets/images/insta/186778272_294596075663033_1315058507690043960_n_17931666619558534.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-7" class="prev">&#x2039;</label>
       <label for="img-1" class="next">&#x203a;</label>
     </div>
     </li>
@@ -113,9 +103,8 @@ More rain, some sun. Great views. 17 miles.
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
-      <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
-      <label for="img-8" class="nav-dot" id="img-dot-8"></label>
+      <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
 </ul>        

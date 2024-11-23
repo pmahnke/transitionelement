@@ -10,18 +10,7 @@ excerpt: |
   Went on a lovely ride through Boulder today with Angela and Lisa. Also visited a farmers market and Nepalese place for lunch. Very nice town.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
 Went on a lovely ride through Boulder today with Angela and Lisa. Also visited a farmers market and Nepalese place for lunch. Very nice town.
-
 
 <ul class="slides">
 
@@ -35,13 +24,11 @@ Went on a lovely ride through Boulder today with Angela and Lisa. Also visited a
       <label for="img-1" class="next">&#x203a;</label>
     </div>
     </li>
-			
+
+
 <li class="nav-dots">
 
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

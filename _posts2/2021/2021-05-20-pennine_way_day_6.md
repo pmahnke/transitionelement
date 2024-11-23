@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Utah - SLC -  Day 3"
-permalink: /archives/2022/06/2022-06-30-utah_slc_day_3.html
-commentfile: 2022-06-30-utah_slc_day_3
+title: "Pennine Way -  Day 6"
+permalink: /archives/2021/05/2021-05-20-pennine_way_day_6.html
+commentfile: 2021-05-20-pennine_way_day_6
 category: travel
-date: 2022-06-30 12:28:00
-image: "/assets/images/insta/290817241_158023136748744_3759107668595840791_n_17925619811514269.jpg"
+date: 2021-05-20 08:40:00
+image: "/assets/images/insta/188671126_302006874895395_2225657077721620455_n_17885799107281706.jpg"
 excerpt: |
-  Visited Wendover Airfield. Very interesting WWII history and an interesting restoration project.
+  Started in Malham and got up early to beat a storm to Pen-y-ghent. It arrived as we started down. Now in a pub room drying everything out. 18 or so miles.
 ---
 
 |            |                                                              |
@@ -20,14 +20,14 @@ excerpt: |
 |            | _Walking_                                                    |          |
 
 
-Visited Wendover Airfield. Very interesting WWII history and an interesting restoration project.
+Started in Malham and got up early to beat a storm to Pen-y-ghent. It arrived as we started down. Now in a pub room drying everything out. 18 or so miles.
 
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/290901464_1720092491685092_7451920520859986702_n_18216385108147999.jpg"><img src="/assets/images/insta/290901464_1720092491685092_7451920520859986702_n_18216385108147999.jpg" /></a>
+          <a href="/assets/images/insta/190200105_330365211818245_6770599356302824761_n_18113409580227379.jpg"><img src="/assets/images/insta/190200105_330365211818245_6770599356302824761_n_18113409580227379.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -37,7 +37,7 @@ Visited Wendover Airfield. Very interesting WWII history and an interesting rest
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/291611290_1721715004830442_3626753761701386937_n_17910862337558339.jpg"><img src="/assets/images/insta/291611290_1721715004830442_3626753761701386937_n_17910862337558339.jpg" /></a>
+          <a href="/assets/images/insta/188047734_297988451929266_7819254388774800042_n_17903463406860037.jpg"><img src="/assets/images/insta/188047734_297988451929266_7819254388774800042_n_17903463406860037.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -47,7 +47,7 @@ Visited Wendover Airfield. Very interesting WWII history and an interesting rest
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/291065248_1066632490943630_6377057203302190472_n_17852924768784474.jpg"><img src="/assets/images/insta/291065248_1066632490943630_6377057203302190472_n_17852924768784474.jpg" /></a>
+          <a href="/assets/images/insta/188065137_1397094083987447_8424284545537353802_n_17877567893304197.jpg"><img src="/assets/images/insta/188065137_1397094083987447_8424284545537353802_n_17877567893304197.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -58,7 +58,7 @@ Visited Wendover Airfield. Very interesting WWII history and an interesting rest
     <input type="radio" name="radio-btn" id="img-4" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/290817241_158023136748744_3759107668595840791_n_17925619811514269.jpg"><img src="/assets/images/insta/290817241_158023136748744_3759107668595840791_n_17925619811514269.jpg" /></a>
+          <a href="/assets/images/insta/188671126_302006874895395_2225657077721620455_n_17885799107281706.jpg"><img src="/assets/images/insta/188671126_302006874895395_2225657077721620455_n_17885799107281706.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
