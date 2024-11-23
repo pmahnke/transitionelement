@@ -1,31 +1,24 @@
 ---
 layout: post
-title: "USA - Utah - Arches -  Day 5"
-permalink: /archives/2022/07/2022-07-02-utah_arches_day_5.html
-commentfile: 2022-07-02-utah_arches_day_5
+title: "USA - Colorado - Breckinridge - Day 77"
+permalink: /archives/2022/09/2022-09-13-colorado_breckinridge_day_77.html
+commentfile: 2022-09-13-colorado_breckinridge_day_77
 category: travel
-date: 2022-07-02 12:55:00
-image: "/assets/images/insta/291959282_120886053816809_2608389043816352728_n_17911029437576466.jpg"
+date: 2022-09-13 12:23:00
+image: "/assets/images/insta/307110700_1738123153216953_3133284392790465596_n_17916880700509749.jpg"
 excerpt: |
-  Arches - today we did the Fiery Furnace trail and the went to a few more arches.
+  Hiked some of the Boreas Pass Trail with Toby, Almut and Angela. Great views of Breckinridge and the valley.
 ---
 
-Today we did the [Fiery Furnace Trail](https://www.alltrails.com/en-gb/trail/us/utah/fiery-furnace-and-surprise-arch) and the went to a few more arches:
+Hiked some of the [Boreas Pass Trail](https://www.alltrails.com/trail/us/colorado/forest-road-50-trail-and-boreas-pass-4x4-trail) with Toby, Almut, and Angela.
 
-- North and South Windows
-- Turret Arch
-- Double Arches
-- Balanced Rock.
-
-Then we had a giant and very localised thunderstorm.
-
-Great first day.
+Great views of Breckinridge and the valley.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/291177565_575568534014651_6433001273145661772_n_17872644116718348.jpg"><img src="/assets/images/insta/291177565_575568534014651_6433001273145661772_n_17872644116718348.jpg" /></a>
+          <a href="/assets/images/insta/306384242_1112118346070452_6026011870358262866_n_17968471441865146.jpg"><img src="/assets/images/insta/306384242_1112118346070452_6026011870358262866_n_17968471441865146.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -35,7 +28,7 @@ Great first day.
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/291511091_572399901075975_1964720108867569854_n_17998479085461715.jpg"><img src="/assets/images/insta/291511091_572399901075975_1964720108867569854_n_17998479085461715.jpg" /></a>
+          <a href="/assets/images/insta/307194244_1082426769075651_5263142820657480499_n_17947320110071704.jpg"><img src="/assets/images/insta/307194244_1082426769075651_5263142820657480499_n_17947320110071704.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -45,7 +38,7 @@ Great first day.
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/291022681_630440487944858_1730685599617647818_n_17904757667513619.jpg"><img src="/assets/images/insta/291022681_630440487944858_1730685599617647818_n_17904757667513619.jpg" /></a>
+          <a href="/assets/images/insta/306379510_187430100429833_1865542270674897373_n_18152800210268956.jpg"><img src="/assets/images/insta/306379510_187430100429833_1865542270674897373_n_18152800210268956.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -56,7 +49,7 @@ Great first day.
     <input type="radio" name="radio-btn" id="img-4" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/291959282_120886053816809_2608389043816352728_n_17911029437576466.jpg"><img src="/assets/images/insta/291959282_120886053816809_2608389043816352728_n_17911029437576466.jpg" /></a>
+          <a href="/assets/images/insta/307110700_1738123153216953_3133284392790465596_n_17916880700509749.jpg"><img src="/assets/images/insta/307110700_1738123153216953_3133284392790465596_n_17916880700509749.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>

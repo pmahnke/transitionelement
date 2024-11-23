@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Utah - Arches -  Day 4"
+title: "USA - Utah - Arches - Day 4"
 permalink: /archives/2022/07/2022-07-01-utah_arches_day_4.html
 commentfile: 2022-07-01-utah_arches_day_4
 category: travel
@@ -10,18 +10,11 @@ excerpt: |
   Made it to Arches and Devil’s Garden Campsite. Not a bad view.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Made it to [Arches National Park](https://maps.app.goo.gl/umWbctksWn47yHuw6) and [Devil’s Garden Campsite](https://maps.app.goo.gl/AB9PaV4jt3PuSwPv5).
 
+Not a bad view.
 
-Made it to Arches and Devil’s Garden Campsite. Not a bad view.
-
+We are camping here for the next six days. Hopefully the heat will be ok.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -44,7 +37,6 @@ Made it to Arches and Devil’s Garden Campsite. Not a bad view.
       <label for="img-3" class="next">&#x203a;</label>
     </div>
     </li>
-    
     <input type="radio" name="radio-btn" id="img-3" />
     <li class="slide-container">
         <div class="slide">
@@ -63,7 +55,4 @@ Made it to Arches and Devil’s Garden Campsite. Not a bad view.
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
