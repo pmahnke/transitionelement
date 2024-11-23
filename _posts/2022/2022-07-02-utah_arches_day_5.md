@@ -1,27 +1,25 @@
 ---
 layout: post
-title: "Utah - Arches -  Day 5"
+title: "USA - Utah - Arches -  Day 5"
 permalink: /archives/2022/07/2022-07-02-utah_arches_day_5.html
 commentfile: 2022-07-02-utah_arches_day_5
 category: travel
 date: 2022-07-02 12:55:00
 image: "/assets/images/insta/291959282_120886053816809_2608389043816352728_n_17911029437576466.jpg"
 excerpt: |
-  Arches - today we did the Fiery Furnace train and the went to a few more arches - North and South Windows, Turret, and Double arches. Then Balanced Rock. Now a giant very localised thunderstorm. Great first day.
+  Arches - today we did the Fiery Furnace trail and the went to a few more arches.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we did the [Fiery Furnace Trail](https://www.alltrails.com/en-gb/trail/us/utah/fiery-furnace-and-surprise-arch) and the went to a few more arches:
 
+- North and South Windows
+- Turret Arch
+- Double Arches
+- Balanced Rock.
 
-Arches - today we did the Fiery Furnace train and the went to a few more arches - North and South Windows, Turret, and Double arches. Then Balanced Rock. Now a giant very localised thunderstorm. Great first day.
+Then we had a giant and very localised thunderstorm.
 
+Great first day.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -74,7 +72,4 @@ Arches - today we did the Fiery Furnace train and the went to a few more arches 
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

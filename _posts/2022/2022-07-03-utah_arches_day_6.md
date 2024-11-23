@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Utah - Arches -  Day 6"
+title: "USA - Utah - Arches - Day 6"
 permalink: /archives/2022/07/2022-07-03-utah_arches_day_6.html
 commentfile: 2022-07-03-utah_arches_day_6
 category: travel
@@ -10,18 +10,9 @@ excerpt: |
   A few of today’s arches from Delicate Arch to most on the Devil’s Garden hike. It was a hot one today.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we visited a few more arches from Delicate Arch to most on the [Devil’s Garden Loop Trail](https://www.alltrails.com/en-gb/trail/us/utah/devils-garden-loop-trail-with-7-arches).
 
-
-A few of today’s arches from Delicate Arch to most on the Devil’s Garden hike. It was a hot one today.
-
+It was a hot one today.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -53,8 +44,7 @@ A few of today’s arches from Delicate Arch to most on the Devil’s Garden hik
       <label for="img-2" class="prev">&#x2039;</label>
       <label for="img-4" class="next">&#x203a;</label>
     </div>
-    </li>
-    
+    </li>    
     <input type="radio" name="radio-btn" id="img-4" />
     <li class="slide-container">
         <div class="slide">
@@ -65,16 +55,10 @@ A few of today’s arches from Delicate Arch to most on the Devil’s Garden hik
       <label for="img-1" class="next">&#x203a;</label>
     </div>
     </li>
-			
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
-
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
-
 </li>
-</ul>        
-             
-
-		
+</ul>
