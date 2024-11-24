@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wisconsin - Door County -  Day 96"
+title: "USA - Wisconsin - Door County - Day 96"
 permalink: /archives/2022/10/2022-10-01-wisconsin_door_county_day_96.html
 commentfile: 2022-10-01-wisconsin_door_county_day_96
 category: travel
@@ -10,18 +10,7 @@ excerpt: |
   We drove to Door County today, but stopped to see how cranberries are harvested. Pretty cool.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
 We drove to Door County today, but stopped to see how cranberries are harvested. Pretty cool.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -63,7 +52,4 @@ We drove to Door County today, but stopped to see how cranberries are harvested.
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

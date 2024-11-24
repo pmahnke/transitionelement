@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Colorado - Rocky Mountain National Park -  Day 85"
-permalink: /archives/2022/09/2022-09-18-colorado_rocky_mountain_national_park_day_85.html
-commentfile: 2022-09-18-colorado_rocky_mountain_national_park_day_85
+title: "USA - Colorado - Rocky Mountain National Park - Day 82"
+permalink: /archives/2022/09/2022-09-18-colorado_rocky_mountain_national_park_day_82.html
+commentfile: 2022-09-18-colorado_rocky_mountain_national_park_day_82
 category: travel
 date: 2022-09-18 12:56:00
 image: "/assets/images/insta/307263307_136987789061645_5933213508177466641_n_17965466578783924.jpg"
@@ -10,18 +10,11 @@ excerpt: |
   Today we hiked to several lakes from the Bear Lake Trailhead; Bear, Nymph, Dream, Emerald and Haihaha. All very pretty.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we hiked to several lakes from the [Bear Lake Trailhead](https://www.alltrails.com/trail/us/colorado/bear-lake-trail-and-emerald-lake): Bear, Nymph, Dream, Emerald, and Haihaha.
 
+This park is a lot more crowded, but we don't mind really. One of the lakes was milky blue because there was a large rockfall a few days before. It also had a lot of extra people coming in for a look.
 
-Today we hiked to several lakes from the Bear Lake Trailhead; Bear, Nymph, Dream, Emerald and Haihaha. All very pretty.
-
+All very pretty.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +78,4 @@ Today we hiked to several lakes from the Bear Lake Trailhead; Bear, Nymph, Dream
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

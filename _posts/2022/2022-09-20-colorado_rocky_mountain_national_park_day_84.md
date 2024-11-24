@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Colorado - Rocky Mountain National Park -  Day 87"
-permalink: /archives/2022/09/2022-09-20-colorado_rocky_mountain_national_park_day_87.html
-commentfile: 2022-09-20-colorado_rocky_mountain_national_park_day_87
+title: "USA - Colorado - Rocky Mountain National Park -  Day 84"
+permalink: /archives/2022/09/2022-09-20-colorado_rocky_mountain_national_park_day_84.html
+commentfile: 2022-09-20-colorado_rocky_mountain_national_park_day_84
 category: travel
 date: 2022-09-20 12:24:00
 image: "/assets/images/insta/307663544_401856498584672_7062874343460670729_n_17866127978785036.jpg"
@@ -10,18 +10,7 @@ excerpt: |
   Hiked up to Loch Vale from Glacier Gorge Trail. It was very nice.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
-Hiked up to Loch Vale from Glacier Gorge Trail. It was very nice.
-
+Hiked up to Loch Vale from [Glacier Gorge Trail](https://www.alltrails.com/trail/us/colorado/the-loch-lake-trail-via-glacier-gorge-trail). It was very nice.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +74,4 @@ Hiked up to Loch Vale from Glacier Gorge Trail. It was very nice.
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

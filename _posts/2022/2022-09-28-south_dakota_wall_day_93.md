@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "South Dakota - Wall -  Day 93"
+title: "USA - South Dakota - Wall - Day 93"
 permalink: /archives/2022/09/2022-09-28-south_dakota_wall_day_93.html
 commentfile: 2022-09-28-south_dakota_wall_day_93
 category: travel
@@ -10,18 +10,7 @@ excerpt: |
   Heading east. Saw more of Deadwood at the Adams’s house and the graveyard where Calamity Jane and Wild Bill are buried. Then on to Rapid City and Wall.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
 Heading east. Saw more of Deadwood at the Adams’s house and the graveyard where Calamity Jane and Wild Bill are buried. Then on to Rapid City and Wall.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +74,4 @@ Heading east. Saw more of Deadwood at the Adams’s house and the graveyard wher
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

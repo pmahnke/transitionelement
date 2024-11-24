@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "South Dakota - Badlands -  Day 94"
+title: "USA - South Dakota - Badlands - Day 94"
 permalink: /archives/2022/09/2022-09-29-south_dakota_badlands_day_94.html
 commentfile: 2022-09-29-south_dakota_badlands_day_94
 category: travel
@@ -10,18 +10,7 @@ excerpt: |
   Heading east we spent most of the day in Badlands park. Very pretty. Also a stop at the Minuteman visitor centre and we are now in Murdo for the night.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
 Heading east we spent most of the day in Badlands park. Very pretty. Also a stop at the Minuteman visitor centre and we are now in Murdo for the night.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +74,4 @@ Heading east we spent most of the day in Badlands park. Very pretty. Also a stop
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

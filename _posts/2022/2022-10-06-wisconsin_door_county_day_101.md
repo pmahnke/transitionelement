@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wisconsin - Door County -  Day 101"
+title: "USA - Wisconsin - Door County - Day 101"
 permalink: /archives/2022/10/2022-10-06-wisconsin_door_county_day_101.html
 commentfile: 2022-10-06-wisconsin_door_county_day_101
 category: travel
@@ -10,18 +10,7 @@ excerpt: |
   Yesterday it rained, so we explored the Sister Bay museum and ended at the Sister Bay Bowl for a game, brandy old fashioned and supper. For sure.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
 Yesterday it rained, so we explored the Sister Bay museum and ended at the Sister Bay Bowl for a game, brandy old fashioned and supper. For sure.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -52,7 +41,4 @@ Yesterday it rained, so we explored the Sister Bay museum and ended at the Siste
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

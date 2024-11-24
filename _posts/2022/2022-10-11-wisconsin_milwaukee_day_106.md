@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wisconsin - Milwaukee -  Day 106"
+title: "USA - Wisconsin - Milwaukee - Day 106"
 permalink: /archives/2022/10/2022-10-11-wisconsin_milwaukee_day_106.html
 commentfile: 2022-10-11-wisconsin_milwaukee_day_106
 category: travel
@@ -10,18 +10,7 @@ excerpt: |
   Today we visited Bayshore Mall and were disappointed at all the closed shops, met Aaron and Pam for lunch, visited the amazing Grohmann Museum of work at MSOE. Then a great dinner at Buttermint.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
 Today we visited Bayshore Mall and were disappointed at all the closed shops, met Aaron and Pam for lunch, visited the amazing Grohmann Museum of work at MSOE. Then a great dinner at Buttermint.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -52,7 +41,4 @@ Today we visited Bayshore Mall and were disappointed at all the closed shops, me
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

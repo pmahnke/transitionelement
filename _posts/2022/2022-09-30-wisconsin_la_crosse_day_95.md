@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wisconsin - La Crosse -  Day 95"
+title: "USA - Wisconsin - La Crosse - Day 95"
 permalink: /archives/2022/10/2022-10-01-wisconsin_la_crosse_day_95.html
 commentfile: 2022-10-01-wisconsin_la_crosse_day_95
 category: travel
@@ -10,18 +10,7 @@ excerpt: |
   Yesterday we finished South Dakota with a visit to the Corn Palace and Sioux Falls and then across Minnesota to La Crosse Wisconsin.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
 Yesterday we finished South Dakota with a visit to the Corn Palace and Sioux Falls and then across Minnesota to La Crosse Wisconsin.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +74,4 @@ Yesterday we finished South Dakota with a visit to the Corn Palace and Sioux Fal
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

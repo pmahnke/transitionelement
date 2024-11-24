@@ -7,21 +7,10 @@ category: travel
 date: 2022-10-07 12:16:00
 image: "/assets/images/insta/310734631_125715173590109_477120920044953529_n_17978989801680125.jpg"
 excerpt: |
-  Today we hiked the Eagle Train in Peninsula State Park and had lunch at Wilson’s in Ephraim.
+  Today we hiked the Eagle Trai1 in Peninsula State Park and had lunch at Wilson’s in Ephraim.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
-Today we hiked the Eagle Train in Peninsula State Park and had lunch at Wilson’s in Ephraim.
-
+Today we hiked the Eagle Trai1 in Peninsula State Park and had lunch at Wilson’s in Ephraim.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -107,7 +96,4 @@ Today we hiked the Eagle Train in Peninsula State Park and had lunch at Wilson�
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "Colorado - Rocky Mountain National Park -  Day 84"
-permalink: /archives/2022/09/2022-09-18-colorado_rocky_mountain_national_park_day_84.html
-commentfile: 2022-09-18-colorado_rocky_mountain_national_park_day_84
+title: "USA - Colorado - Rocky Mountain National Park - Day 81"
+permalink: /archives/2022/09/2022-09-17-colorado_rocky_mountain_national_park_day_81.html
+commentfile: 2022-09-17-colorado_rocky_mountain_national_park_day_81
 category: travel
-date: 2022-09-18 12:53:00
+date: 2022-09-17 12:53:00
 image: "/assets/images/insta/307348381_183532597568976_6081112597557083672_n_17949361817058386.jpg"
 excerpt: |
-  Yesterday we arrived at another camping and hiking destination, a week at the Rocky Mountain National Park. So far we have seen loads of deer, elk and a mountain lion!
+  Today we arrived at another camping and hiking destination, a week at the Rocky Mountain National Park. So far we have seen loads of deer, elk and a mountain lion!
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we arrived at another camping and hiking destination, a week at the Rocky Mountain National Park. So far we have seen loads of deer, elk and a mountain lion!
 
+Car camping is so much easier. This trip I brought a [big trangia stove](https://trangia.se/en/shop/trangia-stove-25-6-ul/) to making cooking a lot easier and better. We are staying at the [Moraine Park Campground](https://maps.app.goo.gl/PojztHxDQ8xkrgFy6), which is in a lovely spot, just above where about 100 elk are rutting.
 
-Yesterday we arrived at another camping and hiking destination, a week at the Rocky Mountain National Park. So far we have seen loads of deer, elk and a mountain lion!
-
+So the mountain lion went by so fast and so early in the morning it was hard to even focus on it; however, it left a few footprints that were easily identifiable.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -63,7 +56,4 @@ Yesterday we arrived at another camping and hiking destination, a week at the Ro
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
