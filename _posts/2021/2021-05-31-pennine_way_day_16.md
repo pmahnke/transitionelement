@@ -3,25 +3,14 @@ layout: post
 title: "Pennine Way -  Day 16"
 permalink: /archives/2021/05/2021-05-31-pennine_way_day_16.html
 commentfile: 2021-05-31-pennine_way_day_16
-category: travel
+category: [travel, hiking]
 date: 2021-05-31 01:40:00
 image: "/assets/images/insta/204842665_867026873888334_4212177179359546018_n_17940581005486408.jpg"
 excerpt: |
   After the walk, we made a flying stop to have dinner with Owen in York. Very nice to see him.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
 After the walk, we made a flying stop to have dinner with Owen in York. Very nice to see him.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -316,7 +305,4 @@ After the walk, we made a flying stop to have dinner with Owen in York. Very nic
       <label for="img-26" class="nav-dot" id="img-dot-26"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

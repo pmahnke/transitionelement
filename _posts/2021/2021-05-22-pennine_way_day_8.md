@@ -3,25 +3,23 @@ layout: post
 title: "Pennine Way -  Day 8"
 permalink: /archives/2021/05/2021-05-22-pennine_way_day_8.html
 commentfile: 2021-05-22-pennine_way_day_8
-category: travel
+category: [travel, hiking]
 date: 2021-05-22 09:44:00
 image: "/assets/images/insta/190066497_508975293629157_3356805486701327829_n_18003718459322963.jpg"
 excerpt: |
   21 miles. Rain. Bog. Three big hills. Also some very beautiful scenery. And a walk past Keld, one of our favourite places on the Coast to coast.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
 21 miles. Rain. Bog. Three big hills. Also some very beautiful scenery. And a walk past Keld, one of our favourite places on the Coast to coast.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -151,7 +149,4 @@ excerpt: |
       <label for="img-11" class="nav-dot" id="img-dot-11"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
