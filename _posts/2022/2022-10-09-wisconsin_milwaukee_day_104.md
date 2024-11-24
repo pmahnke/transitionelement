@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wisconsin - Milwaukee -  Day 104"
+title: "USA - Wisconsin - Milwaukee - Day 104"
 permalink: /archives/2022/10/2022-10-09-wisconsin_milwaukee_day_104.html
 commentfile: 2022-10-09-wisconsin_milwaukee_day_104
 category: travel
@@ -10,18 +10,7 @@ excerpt: |
   Today we were tourists in Milwaukee. We also had a great dinner with Brad Holz and bumped into Susie and Ben Zarwell.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
 Today we were tourists in Milwaukee. We also had a great dinner with Brad Holz and bumped into Susie and Ben Zarwell.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +74,4 @@ Today we were tourists in Milwaukee. We also had a great dinner with Brad Holz a
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

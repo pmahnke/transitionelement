@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wyoming - Devils Tower -  Day 92"
+title: "USA - Wyoming - Devils Tower - Day 92"
 permalink: /archives/2022/09/2022-09-27-wyoming_devils_tower_day_92.html
 commentfile: 2022-09-27-wyoming_devils_tower_day_92
 category: travel
@@ -10,18 +10,7 @@ excerpt: |
   Today we drove back into Wyoming to see Devil’s Tower. Something I wanted to see the last time we were out this Where are you and couldn’t. It was pretty amazing. Also, prairie dogs!
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
 Today we drove back into Wyoming to see Devil’s Tower. Something I wanted to see the last time we were out this Where are you and couldn’t. It was pretty amazing. Also, prairie dogs!
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -63,7 +52,4 @@ Today we drove back into Wyoming to see Devil’s Tower. Something I wanted to s
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

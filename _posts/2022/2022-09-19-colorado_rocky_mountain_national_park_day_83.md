@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Colorado - Rocky Mountain National Park -  Day 86"
-permalink: /archives/2022/09/2022-09-19-colorado_rocky_mountain_national_park_day_86.html
-commentfile: 2022-09-19-colorado_rocky_mountain_national_park_day_86
+title: "USA - Colorado - Rocky Mountain National Park - Day 83"
+permalink: /archives/2022/09/2022-09-19-colorado_rocky_mountain_national_park_day_83.html
+commentfile: 2022-09-19-colorado_rocky_mountain_national_park_day_83
 category: travel
 date: 2022-09-19 12:42:00
 image: "/assets/images/insta/307633529_1250904159062736_5983325269989860014_n_17871592829767446.jpg"
@@ -10,18 +10,13 @@ excerpt: |
   Today we drove the Fall River Road and Trail Ridge Road around much of the park. We saw many cool valleys and mountains and even a cow moose with two calves. Then a shower and food run in Estes Park. Nice day.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+Today we drove the [Old Fall River Road and Trail Ridge Road](https://maps.app.goo.gl/U2HdWN7N7xZGBS4u7) around much of the park. These were some of the original roads into the area and still aren't paved.
 
+On the way, we saw many cool valleys and mountains and even a cow moose with two calves.
 
-Today we drove the Fall River Road and Trail Ridge Road around much of the park. We saw many cool valleys and mountains and even a cow moose with two calves. Then a shower and food run in Estes Park. Nice day.
+In the afternoon we drove to a place to take a shower and then made a food run in Estes Park.
 
+Nice day.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -63,7 +58,4 @@ Today we drove the Fall River Road and Trail Ridge Road around much of the park.
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
