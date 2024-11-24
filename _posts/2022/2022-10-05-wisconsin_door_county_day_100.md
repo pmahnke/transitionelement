@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wisconsin - Door County -  Day 100"
+title: "USA - Wisconsin - Door County - Day 100"
 permalink: /archives/2022/10/2022-10-05-wisconsin_door_county_day_100.html
 commentfile: 2022-10-05-wisconsin_door_county_day_100
 category: travel
@@ -10,18 +10,7 @@ excerpt: |
   Today we drove around the top of Door County. Autumn is coming.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
 Today we drove around the top of Door County. Autumn is coming.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -63,7 +52,4 @@ Today we drove around the top of Door County. Autumn is coming.
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
