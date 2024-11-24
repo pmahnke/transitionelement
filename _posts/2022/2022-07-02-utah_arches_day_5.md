@@ -52,7 +52,6 @@ Great first day.
       <label for="img-4" class="next">&#x203a;</label>
     </div>
     </li>
-    
     <input type="radio" name="radio-btn" id="img-4" />
     <li class="slide-container">
         <div class="slide">

@@ -3,25 +3,23 @@ layout: post
 title: "Pennine Way -  Day 13"
 permalink: /archives/2021/05/2021-05-27-pennine_way_day_13.html
 commentfile: 2021-05-27-pennine_way_day_13
-category: travel
+category: [travel, hiking]
 date: 2021-05-27 11:37:00
 image: "/assets/images/insta/192835766_272234987979300_3012015279430528674_n_17898338876050783.jpg"
 excerpt: |
   Might be off on days now. 27 miles. A killer. Hadrian&#039;s wall, bog, forest with bog. My shin is acting up.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
 Might be off on days now. 27 miles. A killer. Hadrian&#039;s wall, bog, forest with bog. My shin is acting up.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +94,4 @@ Might be off on days now. 27 miles. A killer. Hadrian&#039;s wall, bog, forest w
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

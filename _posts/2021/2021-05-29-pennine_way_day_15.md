@@ -3,25 +3,23 @@ layout: post
 title: "Pennine Way -  Day 15"
 permalink: /archives/2021/05/2021-05-29-pennine_way_day_15.html
 commentfile: 2021-05-29-pennine_way_day_15
-category: travel
+category: [travel, hiking]
 date: 2021-05-29 11:46:00
 image: "/assets/images/insta/193621567_383291613026788_7639974043155222500_n_17984519179367503.jpg"
 excerpt: |
   the Cheviots. Long and boggy, but sunny. Tomorrow is eight miles to the end.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
 the Cheviots. Long and boggy, but sunny. Tomorrow is eight miles to the end.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -107,7 +105,4 @@ the Cheviots. Long and boggy, but sunny. Tomorrow is eight miles to the end.
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

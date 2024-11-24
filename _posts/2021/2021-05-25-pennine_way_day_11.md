@@ -3,25 +3,23 @@ layout: post
 title: "Pennine Way -  Day 11"
 permalink: /archives/2021/05/2021-05-25-pennine_way_day_11.html
 commentfile: 2021-05-25-pennine_way_day_11
-category: travel
+category: [travel, hiking]
 date: 2021-05-25 10:16:00
 image: "/assets/images/insta/191298692_493884158592381_5717170289619847828_n_18155437750082024.jpg"
 excerpt: |
   21 miles to Alston. Rain, fog, hailstorms and bog. Tough climb up. Then a bothy for lunch. The 32 medieval stiles to pass to get to bed in a pub.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
 21 miles to Alston. Rain, fog, hailstorms and bog. Tough climb up. Then a bothy for lunch. The 32 medieval stiles to pass to get to bed in a pub.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +94,4 @@ excerpt: |
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
