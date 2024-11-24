@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Pennine Way Overview"
-permalink: /archives/2021/05/2021-05-31-pennine_way_day_16.html
-commentfile: 2021-05-31-pennine_way_day_16
+permalink: /archives/2021/05/2021-05-31-pennine_way_day_overview.html
+commentfile: 2021-05-31-pennine_way_day_overview
 category: [travel, hiking]
 tag: overview
 date: 2021-05-31 01:40:00
