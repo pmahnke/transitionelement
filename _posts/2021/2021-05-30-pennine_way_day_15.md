@@ -3,25 +3,31 @@ layout: post
 title: "Pennine Way -  Day 15"
 permalink: /archives/2021/05/2021-05-30-pennine_way_day_15.html
 commentfile: 2021-05-30-pennine_way_day_15
-category: travel
+category: [travel, hiking]
 date: 2021-05-30 02:03:00
 image: "/assets/images/insta/193173988_269354064927438_6353119386752967060_n_17947107559478627.jpg"
 excerpt: |
   8 miles. Like a mini Pennine Way with bogs hills, rocks, streams and styles. But we made it.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
+Our final day, just eight miles.
 
-8 miles. Like a mini Pennine Way with bogs hills, rocks, streams and styles. But we made it.
+It is like a mini Pennine Way in a day, with bogs hills, rocks, streams and styles.
 
+But we made it.
+
+We had to wait for [The Border Hotel](https://maps.app.goo.gl/W6ehiFa3Er919daHA) pub (the official end point) to be open, but then headed in for our free half pints, a certificate, and then lunch.
+
+After lunch we got a cab to Berwick-upon-Tweed and then a train down to York.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +91,4 @@ excerpt: |
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

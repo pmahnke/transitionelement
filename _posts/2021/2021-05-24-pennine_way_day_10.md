@@ -3,25 +3,23 @@ layout: post
 title: "Pennine Way -  Day 10"
 permalink: /archives/2021/05/2021-05-24-pennine_way_day_10.html
 commentfile: 2021-05-24-pennine_way_day_10
-category: travel
+category: [travel, hiking]
 date: 2021-05-24 12:42:00
 image: "/assets/images/insta/190337652_4095767507112895_4617704445759931049_n_18164779513135510.jpg"
 excerpt: |
   21 miles. Rock fields, rain, bogs, climb a waterfall, and High Cup Nic. Hard amazing day.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
 21 miles. Rock fields, rain, bogs, climb a waterfall, and High Cup Nic. Hard amazing day.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +94,4 @@ excerpt: |
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -3,25 +3,29 @@ layout: post
 title: "Pennine Way -  Day 5"
 permalink: /archives/2021/05/2021-05-19-pennine_way_day_5.html
 commentfile: 2021-05-19-pennine_way_day_5
-category: travel
+category: [travel, hiking]
 date: 2021-05-19 09:48:00
 image: "/assets/images/insta/187719009_140616214762630_2315531819561474887_n_17917759522711241.jpg"
 excerpt: |
   got to Malham. 18 miles. But Ang wanted an extra three miles to Goredale Scar. Actually worth it.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
+Calder Valley to Ickornshaw
+Via Heptonstall Moor, Bronte Country and Ickornshaw Moor – 16 miles (26 Km)
+
+Ickornshaw to Malham
+Via the Aire Gap, Thornton in Craven and Gargrave – 17 miles (27 Km)
 
 got to Malham. 18 miles. But Ang wanted an extra three miles to Goredale Scar. Actually worth it.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +89,4 @@ got to Malham. 18 miles. But Ang wanted an extra three miles to Goredale Scar. A
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -5,7 +5,8 @@ permalink: /archives/2023/04/japan-overview.html
 commentfile: 2023-04-01-japan-overview
 category: travel
 date: 2023-04-01 16:29:22
-image: ""
+tag: overview
+image: "https://lh3.googleusercontent.com/bNCYdMm3szB9Gi0jpPoSyGA46FOb1qFp9bp-Bjxemuexb__Q-Ck5qdaKvsYUxDbDSDvNjF5Ky2kxS_MxH8642Iv1TLIrtHcVmxL_jL9_vMVVD1HZWu_6psyzs0c3u1lYeLntJOJpwi8=h480"
 excerpt: |
   About our trip to Japan in April 2023
 ---
@@ -61,3 +62,5 @@ We had nearly zero problems with language. The existence of tools like Google Tr
 Every meal we had was excellent, no matter how cheap or expensive. Even better, most places' costs are very reasonable. At ryokans you normally are just served a breakfast or Kaiseki dinner with a dozen or more little bowls. We rarely hit a pickle, vegetable, bit of seafood that we didn't like. And if we did, we just skipped that one. Don't be afraid.
 
 We also used _konbinis_ (convenience stores - 7 Eleven, FamilyMart and Lawsons) for all our snacks, picnics, and lighter meals when we felt overfed. The food is of excellent quality and fun to try.
+
+[Read our day by day notes on our 2023 trip to Japan >](%link _posts/2023/2023-04-02-japan-day-1.md %)

@@ -3,25 +3,23 @@ layout: post
 title: "Pennine Way -  Day 14"
 permalink: /archives/2021/05/2021-05-28-pennine_way_day_14.html
 commentfile: 2021-05-28-pennine_way_day_14
-category: travel
+category: [travel, hiking]
 date: 2021-05-28 08:20:00
 image: "/assets/images/insta/192385032_328743668759082_857347831496639125_n_17899875823919712.jpg"
 excerpt: |
   17 miles. Roads, fields, some bog and forestry track. Ready for the final stretch.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
 17 miles. Roads, fields, some bog and forestry track. Ready for the final stretch.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +94,4 @@ excerpt: |
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

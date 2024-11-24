@@ -3,25 +3,26 @@ layout: post
 title: "Pennine Way -  Day 4"
 permalink: /archives/2021/05/2021-05-19-pennine_way_day_4.html
 commentfile: 2021-05-19-pennine_way_day_4
-category: travel
+category: [travel, hiking]
 date: 2021-05-19 09:45:00
 image: "/assets/images/insta/188576529_485835972681459_5531018638121545226_n_18117150214212791.jpg"
 excerpt: |
   some rain, very lovely views.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
+Standedge to Calder Valley
+Via Blackstone Edge, reservoirs and Stoodley Pike – 11 miles (18 Km)
 
 some rain, very lovely views.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -63,7 +64,4 @@ some rain, very lovely views.
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

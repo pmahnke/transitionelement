@@ -3,25 +3,23 @@ layout: post
 title: "Pennine Way -  Day 9"
 permalink: /archives/2021/05/2021-05-23-pennine_way_day_9.html
 commentfile: 2021-05-23-pennine_way_day_9
-category: travel
+category: [travel, hiking]
 date: 2021-05-23 10:59:00
 image: "/assets/images/insta/190135323_3864511107009448_4910870156847094425_n_17936772961492899.jpg"
 excerpt: |
   20 miles  Passed the halfway point. Fell over in a bog. Rained, raining. Found a hot shower and washer/dryer.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |           |
+| ---------- | --------- | --- |
+| **Stayed** |           |
+| **Ate**    | _Lunch_   |     |
+|            | _Dinner_  |     |
+| **Travel** | _Flying_  |     |
+|            | _Train_   |     |
+|            | _Walking_ |     |
 
-
-20 miles  Passed the halfway point. Fell over in a bog. Rained, raining. Found a hot shower and washer/dryer.
-
+20 miles Passed the halfway point. Fell over in a bog. Rained, raining. Found a hot shower and washer/dryer.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +94,4 @@ excerpt: |
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -1,27 +1,25 @@
 ---
 layout: post
-title: "Pennine Way -  Day 3"
+title: "Pennine Way - Day 3 - Crowden to Standedge"
 permalink: /archives/2021/05/2021-05-17-pennine_way_day_3.html
 commentfile: 2021-05-17-pennine_way_day_3
-category: travel
+category: [travel, hiking]
 date: 2021-05-17 08:04:00
 image: "/assets/images/insta/186778272_294596075663033_1315058507690043960_n_17931666619558534.jpg"
 excerpt: |
   More rain, some sun. Great views. 17 miles.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |                    |
+| ---------- | ------------------ | -------------------------------------------------------- |
+| **Stayed** | Near Foxstone brow | [Wild camped](https://maps.app.goo.gl/UnPsnBB9KCfDi7nSA) |
+| **Travel** | _Walking_          | 17 miles                                                 |
 
+_Crowden to Standedge, over Black Hill and across Wessenden Moor_
 
-More rain, some sun. Great views. 17 miles.
+More rain, some sun.
 
+Great views.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -118,7 +116,4 @@ More rain, some sun. Great views. 17 miles.
       <label for="img-8" class="nav-dot" id="img-dot-8"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
