@@ -7,21 +7,16 @@ category: travel
 date: 2021-11-14 08:04:00
 image: "/assets/images/insta/256344388_606232493859706_6651223808426163044_n_17899643153278873.jpg"
 excerpt: |
-  Tough but rewarding Glyder circular
+  Tough but rewarding Glyder Fawn Circular
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+We decided we needed to get away, so we booked a week in Llanberis at a lovely cottage. For the weekend, Ann & Paul agreed to come out. We didn't have the best weather, but we got out hiking or doing something everyday.
 
+As it was the end of covid, we also brought a bunch of meals from Cook to stay in a bit. But we did hit the local cafes, pubs and pizza places a bit. It turned out that Angela and I did get covid somewhere here. Damn.
 
-Tough but rewarding Glyder circular
+Today we did the tough but rewarding [Glyder Fawr Circular](https://www.alltrails.com/trail/wales/gwynedd/glyder-fawr-circular). It was about 10km.
 
+You start going up the Devil's Chimney and that might be the easiest bit. The path from this point is the hardest scramble I have ever done, until the way down. The peak is all tough, sharp rocks, hard to move around. Then down is just the stepest ravine ever.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -96,7 +91,4 @@ Tough but rewarding Glyder circular
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

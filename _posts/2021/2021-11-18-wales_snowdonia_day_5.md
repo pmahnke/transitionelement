@@ -10,18 +10,7 @@ excerpt: |
   A very long hike with Ann and Paul.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
-A very long hike with Ann and Paul.
-
+A very long hike in [Beddgelert](https://www.alltrails.com/trail/wales/gwynedd/coedwig-beddgelert-moel-lefn-and-moel-yr-ogof-circular) with Ann and Paul. It was lovely, but a bit boggy, rainy, and slippery in places.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -107,7 +96,4 @@ A very long hike with Ann and Paul.
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

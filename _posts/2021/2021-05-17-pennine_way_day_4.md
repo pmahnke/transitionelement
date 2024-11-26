@@ -1,25 +1,27 @@
 ---
 layout: post
-title: "Pennine Way - Day 3 - Crowden to Standedge"
-permalink: /archives/2021/05/2021-05-17-pennine_way_day_3.html
-commentfile: 2021-05-17-pennine_way_day_3
+title: "Pennine Way - Day 4 - Standedge to Colden"
+permalink: /archives/2021/05/2021-05-17-pennine_way_day_4.html
+commentfile: 2021-05-17-pennine_way_day_4
 category: [travel, hiking]
 date: 2021-05-17 08:04:00
-image: "/assets/images/insta/186778272_294596075663033_1315058507690043960_n_17931666619558534.jpg"
+image: "/assets/images/insta/187600889_158355469497430_564666105081533205_n_17915599720731923.jpg"
 excerpt: |
   More rain, some sun. Great views. 17 miles.
 ---
 
-|            |                    |
-| ---------- | ------------------ | -------------------------------------------------------- |
-| **Stayed** | Near Foxstone brow | [Wild camped](https://maps.app.goo.gl/UnPsnBB9KCfDi7nSA) |
-| **Travel** | _Walking_          | 17 miles                                                 |
+|            |           |
+| ---------- | --------- | ------------------------------------------------------- |
+| **Stayed** | Colden    | [May's Shop](https://maps.app.goo.gl/kq1wkmKCSWmViysAA) |
+| **Travel** | _Walking_ | 17 miles, 7 hours                                       |
 
-_Crowden to Standedge, over Black Hill and across Wessenden Moor_
+_Standedge to Colden_
 
 More rain, some sun.
 
 Great views.
+
+We stayed in a sheep field above May's Shop, a really amazing Aladin's Cave of a countryside shop with plenty of nice pies and rolls.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />

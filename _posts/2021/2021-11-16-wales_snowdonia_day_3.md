@@ -10,18 +10,7 @@ excerpt: |
   A hike by South and North Stack lighthouses at Holyhead
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
-A hike by South and North Stack lighthouses at Holyhead
-
+We drove over to Holyhead and hiked by [South and North Stack lighthouses](https://www.alltrails.com/trail/wales/anglesey/holyhead-mountain-circular). Then we drove to Caernarfon and [Caernarfon Castle](https://maps.app.goo.gl/mDRVGcvGtW9bxy8y7) which was very pretty. But the town was very quiet.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -54,7 +43,6 @@ A hike by South and North Stack lighthouses at Holyhead
       <label for="img-4" class="next">&#x203a;</label>
     </div>
     </li>
-    
     <input type="radio" name="radio-btn" id="img-4" />
     <li class="slide-container">
         <div class="slide">
@@ -70,11 +58,6 @@ A hike by South and North Stack lighthouses at Holyhead
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
-
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
-
 </li>
-</ul>        
-             
-
-		
+</ul>

@@ -1,31 +1,27 @@
 ---
 layout: post
-title: "Pennine Way -  Day 5"
-permalink: /archives/2021/05/2021-05-19-pennine_way_day_5.html
-commentfile: 2021-05-19-pennine_way_day_5
+title: "Pennine Way - Day 6 - Cowling to Malham"
+permalink: /archives/2021/05/2021-05-19-pennine_way_day_6.html
+commentfile: 2021-05-19-pennine_way_day_6
 category: [travel, hiking]
 date: 2021-05-19 09:48:00
 image: "/assets/images/insta/187719009_140616214762630_2315531819561474887_n_17917759522711241.jpg"
 excerpt: |
-  got to Malham. 18 miles. But Ang wanted an extra three miles to Goredale Scar. Actually worth it.
+  Got to Malham, but Ang wanted an extra three miles to Goredale Scar. Actually worth it.
 ---
 
 |            |           |
-| ---------- | --------- | --- |
-| **Stayed** |           |
-| **Ate**    | _Lunch_   |     |
-|            | _Dinner_  |     |
-| **Travel** | _Flying_  |     |
-|            | _Train_   |     |
-|            | _Walking_ |     |
+| ---------- | --------- | ---------------------------------------------------------------------- |
+| **Stayed** | Malham    | [Riverside Campsite Malham](https://maps.app.goo.gl/uSERqfr5tKnHMLcB9) |
+| **Travel** | _Walking_ | 21 miles, 8:30 hours                                                   |
 
-Calder Valley to Ickornshaw
-Via Heptonstall Moor, Bronte Country and Ickornshaw Moor – 16 miles (26 Km)
+_Cowling to Malham_
 
-Ickornshaw to Malham
-Via the Aire Gap, Thornton in Craven and Gargrave – 17 miles (27 Km)
+Got to Malham, but Ang wanted an extra three miles to Goredale Scar. Actually worth it.
 
-got to Malham. 18 miles. But Ang wanted an extra three miles to Goredale Scar. Actually worth it.
+Both were/are ancient waterfalls, created when the ice melted from the last ice age.
+
+We had a great meal in the pub in Malham and loved walking around the cure town.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -68,7 +64,6 @@ got to Malham. 18 miles. But Ang wanted an extra three miles to Goredale Scar. A
       <label for="img-5" class="next">&#x203a;</label>
     </div>
     </li>
-    
     <input type="radio" name="radio-btn" id="img-5" />
     <li class="slide-container">
         <div class="slide">
@@ -79,13 +74,11 @@ got to Malham. 18 miles. But Ang wanted an extra three miles to Goredale Scar. A
       <label for="img-1" class="next">&#x203a;</label>
     </div>
     </li>
-			
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
-
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>

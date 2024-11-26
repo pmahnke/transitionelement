@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pennine Way -  Day 6"
+title: "Pennine Way - Day 7 - Malham to Horton in Ribblesdale"
 permalink: /archives/2021/05/2021-05-20-pennine_way_day_6.html
 commentfile: 2021-05-20-pennine_way_day_6
 category: [travel, hiking]
@@ -10,16 +10,18 @@ excerpt: |
   Started in Malham and got up early to beat a storm to Pen-y-ghent. It arrived as we started down. Now in a pub room drying everything out. 18 or so miles.
 ---
 
-|            |           |
-| ---------- | --------- | --- |
-| **Stayed** |           |
-| **Ate**    | _Lunch_   |     |
-|            | _Dinner_  |     |
-| **Travel** | _Flying_  |     |
-|            | _Train_   |     |
-|            | _Walking_ |     |
+|            |                       |
+| ---------- | --------------------- | ------------------------------------------------------------ |
+| **Stayed** | Horton in Ribblesdale | [The Crown Hotel](https://maps.app.goo.gl/2RAocu8g8hkzTm366) |
+| **Travel** | _Walking_             | 16 miles, 7 hours                                            |
 
-Started in Malham and got up early to beat a storm to Pen-y-ghent. It arrived as we started down. Now in a pub room drying everything out. 18 or so miles.
+_Malham to Horton in Ribblesdale_
+
+Started in Malham and got up early to beat a storm to Pen-y-ghent. It arrived as we started down. It was so bad I booked a room at one of the two pubs in town. Unfortunately it wasn't open for four hours, so we had to hide in a church, avoiding the rain.
+
+Before that we really enjoyed walking up behind Malham Cove and around Malham Tarn.
+
+When we finally got in the pub, we took everything out to dry and had a lovely dinner in the pub.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />

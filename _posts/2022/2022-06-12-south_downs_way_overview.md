@@ -27,4 +27,4 @@ It is nearly always close to towns, roads, and trains so it is easy to break up 
 
 [Read our day by day notes from our South Downs Way hike >]({% link _posts/2022/2022-03-19-south_downs_way_day_1.md %})
 
-![Map of the South Downs Way](https://southdownsway.org/wp-content/uploads/2020/07/southdowns-transparent.png "Map of the South Downs Way")
+[![Map of the South Downs Way](https://southdownsway.org/wp-content/uploads/2020/07/southdowns-transparent.png "Map of the South Downs Way")](https://southdownsway.org/wp-content/uploads/2020/07/southdowns-transparent.png)

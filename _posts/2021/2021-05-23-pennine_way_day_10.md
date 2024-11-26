@@ -1,31 +1,35 @@
 ---
 layout: post
-title: "Pennine Way -  Day 10"
-permalink: /archives/2021/05/2021-05-24-pennine_way_day_10.html
-commentfile: 2021-05-24-pennine_way_day_10
+title: "Pennine Way - Day 10 - Tan Hill to Middleton in Teesdale"
+permalink: /archives/2021/05/2021-05-23-pennine_way_day_9.html
+commentfile: 2021-05-23-pennine_way_day_9
 category: [travel, hiking]
-date: 2021-05-24 12:42:00
-image: "/assets/images/insta/190337652_4095767507112895_4617704445759931049_n_18164779513135510.jpg"
+date: 2021-05-23 10:59:00
+image: "/assets/images/insta/190135323_3864511107009448_4910870156847094425_n_17936772961492899.jpg"
 excerpt: |
-  21 miles. Rock fields, rain, bogs, climb a waterfall, and High Cup Nic. Hard amazing day.
+  20 miles  Passed the halfway point. Fell over in a bog. Rained, raining. Found a hot shower and washer/dryer.
 ---
 
-|            |           |
-| ---------- | --------- | --- |
-| **Stayed** |           |
-| **Ate**    | _Lunch_   |     |
-|            | _Dinner_  |     |
-| **Travel** | _Flying_  |     |
-|            | _Train_   |     |
-|            | _Walking_ |     |
+|            |                       |
+| ---------- | --------------------- | -------- |
+| **Stayed** | Middleton in Teesdale |
+| **Travel** | _Walking_             | 20 miles |
 
-21 miles. Rock fields, rain, bogs, climb a waterfall, and High Cup Nic. Hard amazing day.
+_Tan Hill to Middleton in Teesdale_
+
+Today we passed the halfway point.
+
+I fell over in a bog.
+
+It rained, is raining.
+
+Found a hot shower and washer/dryer.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/191740447_823591391615740_592643121405041498_n_17886933290123926.jpg"><img src="/assets/images/insta/191740447_823591391615740_592643121405041498_n_17886933290123926.jpg" /></a>
+          <a href="/assets/images/insta/189276408_555688902102509_4858998546147838933_n_17893837448107863.jpg"><img src="/assets/images/insta/189276408_555688902102509_4858998546147838933_n_17893837448107863.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -35,7 +39,7 @@ excerpt: |
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/191714843_298937898550616_1257585843468732741_n_17922939832626879.jpg"><img src="/assets/images/insta/191714843_298937898550616_1257585843468732741_n_17922939832626879.jpg" /></a>
+          <a href="/assets/images/insta/189633941_336994984686452_4741916120008970187_n_17896540036979591.jpg"><img src="/assets/images/insta/189633941_336994984686452_4741916120008970187_n_17896540036979591.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -45,7 +49,7 @@ excerpt: |
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/191533080_194946632484525_5167790321690663334_n_18149048905196395.jpg"><img src="/assets/images/insta/191533080_194946632484525_5167790321690663334_n_18149048905196395.jpg" /></a>
+          <a href="/assets/images/insta/191189685_346386880163844_1722931912557353811_n_17900912383966182.jpg"><img src="/assets/images/insta/191189685_346386880163844_1722931912557353811_n_17900912383966182.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -55,7 +59,7 @@ excerpt: |
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/190854111_317251376505394_3033434877568863886_n_18086250775264854.jpg"><img src="/assets/images/insta/190854111_317251376505394_3033434877568863886_n_18086250775264854.jpg" /></a>
+          <a href="/assets/images/insta/189788226_336414614575271_6177687705883167133_n_17868016745440585.jpg"><img src="/assets/images/insta/189788226_336414614575271_6177687705883167133_n_17868016745440585.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -65,18 +69,17 @@ excerpt: |
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/190213569_208030724339817_5478306430931856494_n_17881191554243124.jpg"><img src="/assets/images/insta/190213569_208030724339817_5478306430931856494_n_17881191554243124.jpg" /></a>
+          <a href="/assets/images/insta/190887933_942108123285966_2534486887356792608_n_17897240885061125.jpg"><img src="/assets/images/insta/190887933_942108123285966_2534486887356792608_n_17897240885061125.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
       <label for="img-6" class="next">&#x203a;</label>
     </div>
     </li>
-    
     <input type="radio" name="radio-btn" id="img-6" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/190337652_4095767507112895_4617704445759931049_n_18164779513135510.jpg"><img src="/assets/images/insta/190337652_4095767507112895_4617704445759931049_n_18164779513135510.jpg" /></a>
+          <a href="/assets/images/insta/190135323_3864511107009448_4910870156847094425_n_17936772961492899.jpg"><img src="/assets/images/insta/190135323_3864511107009448_4910870156847094425_n_17936772961492899.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>

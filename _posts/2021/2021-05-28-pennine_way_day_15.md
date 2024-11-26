@@ -1,31 +1,29 @@
 ---
 layout: post
-title: "Pennine Way -  Day 9"
-permalink: /archives/2021/05/2021-05-23-pennine_way_day_9.html
-commentfile: 2021-05-23-pennine_way_day_9
+title: "Pennine Way - Day 15 - Bellingham to Bryness"
+permalink: /archives/2021/05/2021-05-28-pennine_way_day_15.html
+commentfile: 2021-05-28-pennine_way_day_15
 category: [travel, hiking]
-date: 2021-05-23 10:59:00
-image: "/assets/images/insta/190135323_3864511107009448_4910870156847094425_n_17936772961492899.jpg"
+date: 2021-05-28 11:37:00
+image: "/assets/images/insta/192385032_328743668759082_857347831496639125_n_17899875823919712.jpg"
 excerpt: |
-  20 miles  Passed the halfway point. Fell over in a bog. Rained, raining. Found a hot shower and washer/dryer.
+  The forrest was pretty, but so boggy, it was really painful to find a way through.
 ---
 
 |            |           |
-| ---------- | --------- | --- |
-| **Stayed** |           |
-| **Ate**    | _Lunch_   |     |
-|            | _Dinner_  |     |
-| **Travel** | _Flying_  |     |
-|            | _Train_   |     |
-|            | _Walking_ |     |
+| ---------- | --------- | -------------------------------------------------------------------- |
+| **Stayed** | Bryness   | [Forest View Walkers Inn](https://maps.app.goo.gl/Epp5kWL8PDDHADQPA) |
+| **Travel** | _Walking_ | 17 miles, 8 hours                                                    |
 
-20 miles Passed the halfway point. Fell over in a bog. Rained, raining. Found a hot shower and washer/dryer.
+_Bellingham to Bryness_
+
+The forrest was pretty, but so boggy, it was really painful to find a way through. But geting to Bryness and Forest View Walkers Inn was amazing. Great evening.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/189276408_555688902102509_4858998546147838933_n_17893837448107863.jpg"><img src="/assets/images/insta/189276408_555688902102509_4858998546147838933_n_17893837448107863.jpg" /></a>
+          <a href="/assets/images/insta/192183706_3028468797387157_4386281236679831794_n_17842846862609255.jpg"><img src="/assets/images/insta/192183706_3028468797387157_4386281236679831794_n_17842846862609255.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -35,7 +33,7 @@ excerpt: |
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/189633941_336994984686452_4741916120008970187_n_17896540036979591.jpg"><img src="/assets/images/insta/189633941_336994984686452_4741916120008970187_n_17896540036979591.jpg" /></a>
+          <a href="/assets/images/insta/192197588_488213322467065_7001889911303462535_n_18077410618274114.jpg"><img src="/assets/images/insta/192197588_488213322467065_7001889911303462535_n_18077410618274114.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -45,7 +43,7 @@ excerpt: |
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/191189685_346386880163844_1722931912557353811_n_17900912383966182.jpg"><img src="/assets/images/insta/191189685_346386880163844_1722931912557353811_n_17900912383966182.jpg" /></a>
+          <a href="/assets/images/insta/193696510_118704487037732_7516668021696083143_n_18012975412311259.jpg"><img src="/assets/images/insta/193696510_118704487037732_7516668021696083143_n_18012975412311259.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -55,7 +53,7 @@ excerpt: |
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/189788226_336414614575271_6177687705883167133_n_17868016745440585.jpg"><img src="/assets/images/insta/189788226_336414614575271_6177687705883167133_n_17868016745440585.jpg" /></a>
+          <a href="/assets/images/insta/192986978_168994658500686_1411756098898208128_n_17876919008321555.jpg"><img src="/assets/images/insta/192986978_168994658500686_1411756098898208128_n_17876919008321555.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -65,33 +63,29 @@ excerpt: |
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/190887933_942108123285966_2534486887356792608_n_17897240885061125.jpg"><img src="/assets/images/insta/190887933_942108123285966_2534486887356792608_n_17897240885061125.jpg" /></a>
+          <a href="/assets/images/insta/191838303_747735025918633_1823063962213661796_n_18230530741047251.jpg"><img src="/assets/images/insta/191838303_747735025918633_1823063962213661796_n_18230530741047251.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
       <label for="img-6" class="next">&#x203a;</label>
     </div>
     </li>
-    
     <input type="radio" name="radio-btn" id="img-6" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/190135323_3864511107009448_4910870156847094425_n_17936772961492899.jpg"><img src="/assets/images/insta/190135323_3864511107009448_4910870156847094425_n_17936772961492899.jpg" /></a>
+          <a href="/assets/images/insta/192385032_328743668759082_857347831496639125_n_17899875823919712.jpg"><img src="/assets/images/insta/192385032_328743668759082_857347831496639125_n_17899875823919712.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
       <label for="img-1" class="next">&#x203a;</label>
     </div>
     </li>
-			
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
-
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
-
 </li>
 </ul>

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Pennine Way -  Day 11"
-permalink: /archives/2021/05/2021-05-25-pennine_way_day_11.html
-commentfile: 2021-05-25-pennine_way_day_11
+title: "Pennine Way - Day 12 - Dufton to Alston"
+permalink: /archives/2021/05/2021-05-25-pennine_way_day_12.html
+commentfile: 2021-05-25-pennine_way_day_12
 category: [travel, hiking]
 date: 2021-05-25 10:16:00
 image: "/assets/images/insta/191298692_493884158592381_5717170289619847828_n_18155437750082024.jpg"
@@ -11,15 +11,17 @@ excerpt: |
 ---
 
 |            |           |
-| ---------- | --------- | --- |
-| **Stayed** |           |
-| **Ate**    | _Lunch_   |     |
-|            | _Dinner_  |     |
-| **Travel** | _Flying_  |     |
-|            | _Train_   |     |
-|            | _Walking_ |     |
+| ---------- | --------- | ---------------------------------------------------------- |
+| **Stayed** | Alston    | [The Angel Inn](https://maps.app.goo.gl/wRJ4r3nXZcwC8zg38) |
+| **Travel** | _Walking_ | 21 miles, 8:30 hours                                       |
 
-21 miles to Alston. Rain, fog, hailstorms and bog. Tough climb up. Then a bothy for lunch. The 32 medieval stiles to pass to get to bed in a pub.
+_Dufton to Alston_
+
+Rain, fog, hailstorms and bog. Tough climb up Cross Fell, not that we saw it in the hail and fog.
+
+Then a bothy, Greg's Hut, for lunch. Then down the Corpse Road to Dufton.
+
+Then 32 medieval stiles to pass to get to bed in a pub that happend to have the best breakfast on the trip. They also booked us dinner at Alston House as they were closed that evening. Very nice.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />

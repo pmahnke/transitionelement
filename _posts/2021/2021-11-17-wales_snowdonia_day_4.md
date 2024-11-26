@@ -10,18 +10,7 @@ excerpt: |
   A long walk around Llyn Padarn today with a trip to the Slate Mine Museum.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
-
-
-A long walk around Llyn Padarn today with a trip to the Slate Mine Museum.
-
+A long walk around [Llyn Padarn](https://www.alltrails.com/trail/wales/gwynedd/lyn-padarn-lake-walk) today. It was very pretty with views back to Llanberis. At the end of the lake, you are at the [National Slate Museum](https://maps.app.goo.gl/2gGQm3bbFemXddN17) which was very interesting.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -94,7 +83,6 @@ A long walk around Llyn Padarn today with a trip to the Slate Mine Museum.
       <label for="img-8" class="next">&#x203a;</label>
     </div>
     </li>
-    
     <input type="radio" name="radio-btn" id="img-8" />
     <li class="slide-container">
         <div class="slide">
@@ -114,11 +102,6 @@ A long walk around Llyn Padarn today with a trip to the Slate Mine Museum.
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
-
       <label for="img-8" class="nav-dot" id="img-dot-8"></label>
-
 </li>
-</ul>        
-             
-
-		
+</ul>

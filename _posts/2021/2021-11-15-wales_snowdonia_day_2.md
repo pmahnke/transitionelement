@@ -10,18 +10,11 @@ excerpt: |
   Up Yr Wyddfa/Snowden via the Pyg path and down the Llanberis.  Started with patchy fog, ended in dense cloud.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+We got up early to get a bus from Llanberis, where we are staying. Then we went up [Yr Wyddfa/Snowden via the Pyg path and down the Llanberis](https://www.alltrails.com/trail/wales/gwynedd/yr-wyddfa-snowdon-and-llanberis-track). It was around 13 km.
 
+We started in patchy fog and ended in dense cloud.
 
-Up Yr Wyddfa/Snowden via the Pyg path and down the Llanberis.  Started with patchy fog, ended in dense cloud.
-
+There was literally almost no one at the peak. However, there were more crowds at the bottom.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -85,7 +78,4 @@ Up Yr Wyddfa/Snowden via the Pyg path and down the Llanberis.  Started with patc
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>

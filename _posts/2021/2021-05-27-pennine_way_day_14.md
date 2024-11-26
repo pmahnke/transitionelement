@@ -1,25 +1,29 @@
 ---
 layout: post
-title: "Pennine Way -  Day 13"
-permalink: /archives/2021/05/2021-05-27-pennine_way_day_13.html
-commentfile: 2021-05-27-pennine_way_day_13
+title: "Pennine Way - Day 14 - Brampton to Bellingham"
+permalink: /archives/2021/05/2021-05-27-pennine_way_day_14.html
+commentfile: 2021-05-27-pennine_way_day_14
 category: [travel, hiking]
 date: 2021-05-27 11:37:00
 image: "/assets/images/insta/192835766_272234987979300_3012015279430528674_n_17898338876050783.jpg"
 excerpt: |
-  Might be off on days now. 27 miles. A killer. Hadrian&#039;s wall, bog, forest with bog. My shin is acting up.
+  A killer day. Hadrian's wall, a bog, a forest with bog. And my shin is acting up.
 ---
 
-|            |           |
-| ---------- | --------- | --- |
-| **Stayed** |           |
-| **Ate**    | _Lunch_   |     |
-|            | _Dinner_  |     |
-| **Travel** | _Flying_  |     |
-|            | _Train_   |     |
-|            | _Walking_ |     |
+|            |            |
+| ---------- | ---------- | -------------------------------------------------------------------------------------- |
+| **Stayed** | Bellingham | [Demesne Farm Campsite and Granary Cottage](https://maps.app.goo.gl/m3mzJRDhTmmxRbm26) |
+| **Travel** | _Walking_  | 27 miles, 9 hours                                                                      |
 
-Might be off on days now. 27 miles. A killer. Hadrian&#039;s wall, bog, forest with bog. My shin is acting up.
+_Brampton to Bellingham_
+
+We started with the ups and downs on Hadrian's Wall Trail,
+
+Hadrian's wall was more impressive than I expected. Sycamore Gap was very pretty and we stopped for a good long break to enjoy it. Then when we went north of the wall, it was only more impressive from that side.
+
+Then off the wall across roads, fields, some bog and forestry track.
+
+A killer day.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -72,7 +76,6 @@ Might be off on days now. 27 miles. A killer. Hadrian&#039;s wall, bog, forest w
       <label for="img-6" class="next">&#x203a;</label>
     </div>
     </li>
-    
     <input type="radio" name="radio-btn" id="img-6" />
     <li class="slide-container">
         <div class="slide">
@@ -83,15 +86,12 @@ Might be off on days now. 27 miles. A killer. Hadrian&#039;s wall, bog, forest w
       <label for="img-1" class="next">&#x203a;</label>
     </div>
     </li>
-			
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
       <label for="img-5" class="nav-dot" id="img-dot-5"></label>
-
       <label for="img-6" class="nav-dot" id="img-dot-6"></label>
-
 </li>
 </ul>

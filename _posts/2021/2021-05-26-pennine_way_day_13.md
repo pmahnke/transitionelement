@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Pennine Way -  Day 11"
-permalink: /archives/2021/05/2021-05-26-pennine_way_day_11.html
-commentfile: 2021-05-26-pennine_way_day_11
+title: "Pennine Way - Day 13 - Alston to Brampton"
+permalink: /archives/2021/05/2021-05-26-pennine_way_day_13.html
+commentfile: 2021-05-26-pennine_way_day_13
 category: travel
 date: 2021-05-26 07:47:00
 image: "/assets/images/insta/192594732_910068286250323_8375130463600178983_n_18147703249167627.jpg"
@@ -10,18 +10,18 @@ excerpt: |
   14 miles. Took an easier alternative trail, the South Tyne Line. The Pennine Way was meant to be a bog and stile filled pain fest. Nearly every person we know walking the trail did the same.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            |           |
+| ---------- | --------- | ------------------------------------------------------------------------------ |
+| **Stayed** | Brampton  | [Greenhead Hotel, Bar & Restaurant](https://maps.app.goo.gl/gEXpn854EUJzfSD6A) |
+| **Travel** | _Walking_ | 14 miles                                                                       |
 
+_Alston to Brampton_
 
-14 miles. Took an easier alternative trail, the South Tyne Line. The Pennine Way was meant to be a bog and stile filled pain fest. Nearly every person we know walking the trail did the same.
+Dawn saved us from about 100 stiles. Instead of the Pennine Way, we took an easier alternative trail, the South Tyne Line that follows the railway line.
 
+The Pennine Way was meant to be a bog and stile filled pain fest.
+
+Nearly every person we know walking the trail did the same.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -107,7 +107,4 @@ excerpt: |
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
