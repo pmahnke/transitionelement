@@ -25,4 +25,4 @@ Overall, it was very pretty and we are glad we did it. We met many other hikers 
 
 [Read our day by day notes from our Pennine Way hike >]({% link _posts/2021/2021-05-14-pennine_way_day_1.md %})
 
-!["Map of the Pennine Way"](/assets/images/insta/pennine-way-map.png "Map of the Pennine Way")
+[!["Map of the Pennine Way"](/assets/images/insta/pennine-way-map.png "Map of the Pennine Way")](/assets/images/insta/pennine-way-map.png)
