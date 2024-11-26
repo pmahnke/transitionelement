@@ -1,26 +1,21 @@
 ---
 layout: post
-title: "Pennine Way -  Day 4"
-permalink: /archives/2021/05/2021-05-19-pennine_way_day_4.html
-commentfile: 2021-05-19-pennine_way_day_4
+title: "Pennine Way -  Day 5 - Colden to Cowling"
+permalink: /archives/2021/05/2021-05-18-pennine_way_day_5.html
+commentfile: 2021-05-18-pennine_way_day_5
 category: [travel, hiking]
-date: 2021-05-19 09:45:00
+date: 2021-05-18 09:45:00
 image: "/assets/images/insta/188576529_485835972681459_5531018638121545226_n_18117150214212791.jpg"
 excerpt: |
-  some rain, very lovely views.
+  Colden to Cowling
 ---
 
 |            |           |
-| ---------- | --------- | --- |
-| **Stayed** |           |
-| **Ate**    | _Lunch_   |     |
-|            | _Dinner_  |     |
-| **Travel** | _Flying_  |     |
-|            | _Train_   |     |
-|            | _Walking_ |     |
+| ---------- | --------- | --------------------------------------------------------------------- |
+| **Stayed** | Cowling   | [Winterhouse Barn camping](https://maps.app.goo.gl/eBDa4JVbAg75z6RV6) |
+| **Travel** | _Walking_ | 16.1 miles, 7 hours                                                   |
 
-Standedge to Calder Valley
-Via Blackstone Edge, reservoirs and Stoodley Pike – 11 miles (18 Km)
+_Colden to Cowling_
 
 some rain, very lovely views.
 

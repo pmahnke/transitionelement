@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Pennine Way -  Day 8"
-permalink: /archives/2021/05/2021-05-22-pennine_way_day_8.html
-commentfile: 2021-05-22-pennine_way_day_8
+title: "Pennine Way - Day 9 - Hawes to Tan Hill"
+permalink: /archives/2021/05/2021-05-22-pennine_way_day_9.html
+commentfile: 2021-05-22-pennine_way_day_9
 category: [travel, hiking]
 date: 2021-05-22 09:44:00
 image: "/assets/images/insta/190066497_508975293629157_3356805486701327829_n_18003718459322963.jpg"
@@ -11,15 +11,15 @@ excerpt: |
 ---
 
 |            |           |
-| ---------- | --------- | --- |
-| **Stayed** |           |
-| **Ate**    | _Lunch_   |     |
-|            | _Dinner_  |     |
-| **Travel** | _Flying_  |     |
-|            | _Train_   |     |
-|            | _Walking_ |     |
+| ---------- | --------- | ----------------- |
+| **Stayed** | Tan Hill  |
+| **Travel** | _Walking_ | 21 miles. 8 hours |
 
-21 miles. Rain. Bog. Three big hills. Also some very beautiful scenery. And a walk past Keld, one of our favourite places on the Coast to coast.
+_Hawes to Tan Hill_
+
+21 miles. Rain. Bog. Three big hills. Also some very beautiful scenery. And a walk past Keld, one of our favourite places on the Coast to Coast.
+
+Tan Hill was busy and not that 'fun'. But they had showers, toilets, and food.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -122,7 +122,6 @@ excerpt: |
       <label for="img-11" class="next">&#x203a;</label>
     </div>
     </li>
-    
     <input type="radio" name="radio-btn" id="img-11" />
     <li class="slide-container">
         <div class="slide">
