@@ -12,14 +12,14 @@ excerpt: |
 
 |            |           |
 | ---------- | --------- | ----------------- |
-| **Stayed** | Tan Hill  |
+| **Stayed** | Tan Hill  | Tan Hill Pub
 | **Travel** | _Walking_ | 21 miles. 8 hours |
 
 _Hawes to Tan Hill_
 
 21 miles. Rain. Bog. Three big hills. Also some very beautiful scenery. And a walk past Keld, one of our favourite places on the Coast to Coast.
 
-Tan Hill was busy and not that 'fun'. But they had showers, toilets, and food.
+Tan Hill Pub was busy and not that 'fun'. But they had showers, toilets, and food.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />

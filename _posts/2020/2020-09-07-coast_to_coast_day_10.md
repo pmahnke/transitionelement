@@ -1,37 +1,33 @@
 ---
 layout: post
-title: "Coast to Coast - Day 1 - St Bees to Ennerdale Bridge"
-permalink: /archives/2020/08/2020-08-29-coast_to_coast_day_1.html
-commentfile: 2020-08-29-coast_to_coast_day_1
+title: "Coast to Coast - Day 10 - Richmond to Northallerton"
+permalink: /archives/2020/09/2020-09-07-coast_to_coast_day_10.html
+commentfile: 2020-09-07-coast_to_coast_day_10
 category: travel
-date: 2020-08-29 08:59:00
-image: "/assets/images/insta/IMG_20200829_084416.jpg"
+date: 2020-09-07 06:36:00
+image: "/assets/images/insta/118892554_2676533015998521_4553966498888062636_n_18132460051108449.jpg"
 excerpt: |
-  17.28 miles. Shattered but happy.
+  First thing in the morning we found some camping gas, well the first thing we did is miss a turning and walk an extra mile.
 ---
 
-|            |                  |
-| ---------- | ---------------- | --------------------------------------------------------------- |
-| **Stayed** | Ennerdale Bridge | [Fox and Hounds Inn](https://maps.app.goo.gl/gCs9Xc2S3bXtjhpw9) |
-| **Travel** | _Walking_        | 17 miles, 923 meters up                                         |
+|            |               |
+| ---------- | ------------- | ---------------------- |
+| **Stayed** | Northallerton | [Lovesome Hill Farm]() |
+| **Travel** | _Walking_     | 13 miles               |
 
-_[St Bees to Ennerdale Bridge](https://www.alltrails.com/explore/trail/england/cumbria/coast-to-coast-walk-segment-1-st-bees-to-ennerdale-bridge--2?mobileMap=false&ref=sidebar-static-map) - Lake District National Park_
+_Richmond to Northallerton_
 
-Today we dipped our toes in the Irish Sea and took two small stones to be deposited in the North Sea as is the custom.
+First thing in the morning we found some camping gas, well the first thing we did is miss a turning and walk an extra mile.
 
-We walked up St Bees Head, through Cleator Moor and over Dent Hill.
+Then we had a fairly wet, but fine walk to Northallerton where we stayed at a Farm on their front lawn.
 
-I gave myself a blister on the first hill and had lots of leg cramps on the back of Dent Hill, I clearly wasn't drinking enough.
-
-We ate and slept in the garden of the Fox and Hounds Inn.
-
-Shattered but happy.
+In the evening, we played cards, Shithead, with Jas.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/22fd78c0-d0ab-48a6-aa7b-5e685afa983a.jpg"><img src="/assets/images/insta/22fd78c0-d0ab-48a6-aa7b-5e685afa983a.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200907_153420.jpg"><img src="/assets/images/insta/IMG_20200907_153420.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-6" class="prev">&#x2039;</label>
@@ -40,7 +36,7 @@ Shattered but happy.
     </li>    <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20200829_104109.jpg"><img src="/assets/images/insta/IMG_20200829_104109.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200907_100855.jpg"><img src="/assets/images/insta/IMG_20200907_100855.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-1" class="prev">&#x2039;</label>
@@ -49,7 +45,7 @@ Shattered but happy.
     </li>    <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20200829_085043.jpg"><img src="/assets/images/insta/IMG_20200829_085043.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200907_195156.jpg"><img src="/assets/images/insta/IMG_20200907_195156.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-2" class="prev">&#x2039;</label>
@@ -58,7 +54,7 @@ Shattered but happy.
     </li>    <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20200829_143402.jpg"><img src="/assets/images/insta/IMG_20200829_143402.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200907_093725.jpg"><img src="/assets/images/insta/IMG_20200907_093725.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-3" class="prev">&#x2039;</label>
@@ -67,7 +63,7 @@ Shattered but happy.
     </li>    <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20200829_131918.jpg"><img src="/assets/images/insta/IMG_20200829_131918.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200907_113115.jpg"><img src="/assets/images/insta/IMG_20200907_113115.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-4" class="prev">&#x2039;</label>
@@ -77,7 +73,7 @@ Shattered but happy.
     <input type="radio" name="radio-btn" id="img-6" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20200829_084416.jpg"><img src="/assets/images/insta/IMG_20200829_084416.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200907_105651.jpg"><img src="/assets/images/insta/IMG_20200907_105651.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-5" class="prev">&#x2039;</label>
