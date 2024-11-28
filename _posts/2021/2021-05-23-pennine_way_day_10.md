@@ -12,7 +12,7 @@ excerpt: |
 
 |            |                       |
 | ---------- | --------------------- | -------- |
-| **Stayed** | Middleton in Teesdale |
+| **Stayed** | Middleton in Teesdale |[Dale View Caravan Park](https://daleviewcaravanpark.com/)|
 | **Travel** | _Walking_             | 20 miles |
 
 _Tan Hill to Middleton in Teesdale_
@@ -23,7 +23,7 @@ I fell over in a bog.
 
 It rained, is raining.
 
-Found a hot shower and washer/dryer.
+Found a hot shower and a  washer/dryer at a campsite with a pub and a fire.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
