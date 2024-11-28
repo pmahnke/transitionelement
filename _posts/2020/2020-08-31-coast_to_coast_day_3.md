@@ -1,37 +1,37 @@
 ---
 layout: post
-title: "Coast to Coast - Day 1 - St Bees to Ennerdale Bridge"
-permalink: /archives/2020/08/2020-08-29-coast_to_coast_day_1.html
-commentfile: 2020-08-29-coast_to_coast_day_1
+title: "Coast to Coast - Day 3 - Haystacks to Grisedale Tarn"
+permalink: /archives/2020/08/2020-08-31-coast_to_coast_day_3.html
+commentfile: 2020-08-31-coast_to_coast_day_3
 category: travel
-date: 2020-08-29 08:59:00
-image: "/assets/images/insta/IMG_20200829_084416.jpg"
+date: 2020-08-31 08:59:00
+image: "/assets/images/insta/IMG_20200831_090344.jpg"
 excerpt: |
   17.28 miles. Shattered but happy.
 ---
 
-|            |                  |
-| ---------- | ---------------- | --------------------------------------------------------------- |
-| **Stayed** | Ennerdale Bridge | [Fox and Hounds Inn](https://maps.app.goo.gl/gCs9Xc2S3bXtjhpw9) |
-| **Travel** | _Walking_        | 17 miles, 923 meters up                                         |
+|            |                |
+| ---------- | -------------- | -------------------------------------------------------- |
+| **Stayed** | Grisedale Tarn | [Wild camped](https://maps.app.goo.gl/3C2K54oKjKKWU5jr5) |
+| **Travel** | _Walking_      | 15 miles                                                 |
 
-_[St Bees to Ennerdale Bridge](https://www.alltrails.com/explore/trail/england/cumbria/coast-to-coast-walk-segment-1-st-bees-to-ennerdale-bridge--2?mobileMap=false&ref=sidebar-static-map) - Lake District National Park_
+_Haystacks to Grisedale Tarn - Lake District National Park_
 
-Today we dipped our toes in the Irish Sea and took two small stones to be deposited in the North Sea as is the custom.
+Today we started with a steep climb up to the top of Haystacks. The views over Buttermere Water are amazing. Innominate Tarn was pretty, but it was actually very boggy, so perhaps it was better to sleep where we did.
 
-We walked up St Bees Head, through Cleator Moor and over Dent Hill.
+From there we walked mostly down to Honnister Slate Mine. At this point we got a bit off track and had to catch a bus to get back to the path.
 
-I gave myself a blister on the first hill and had lots of leg cramps on the back of Dent Hill, I clearly wasn't drinking enough.
+The walk up to Grisdale was long, but steady. When we arrived, there were already two or three other campers.
 
-We ate and slept in the garden of the Fox and Hounds Inn.
+It was very pretty and very windy, but our tent help up well.
 
-Shattered but happy.
+The only bad thing was the blister I gave myself on the first day was really painful.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/22fd78c0-d0ab-48a6-aa7b-5e685afa983a.jpg"><img src="/assets/images/insta/22fd78c0-d0ab-48a6-aa7b-5e685afa983a.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200831_110149.jpg"><img src="/assets/images/insta/IMG_20200831_110149.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-6" class="prev">&#x2039;</label>
@@ -40,7 +40,7 @@ Shattered but happy.
     </li>    <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20200829_104109.jpg"><img src="/assets/images/insta/IMG_20200829_104109.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200831_204038.jpg"><img src="/assets/images/insta/IMG_20200831_204038.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-1" class="prev">&#x2039;</label>
@@ -49,7 +49,7 @@ Shattered but happy.
     </li>    <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20200829_085043.jpg"><img src="/assets/images/insta/IMG_20200829_085043.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200831_090344.jpg"><img src="/assets/images/insta/IMG_20200831_090344.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-2" class="prev">&#x2039;</label>
@@ -58,7 +58,7 @@ Shattered but happy.
     </li>    <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20200829_143402.jpg"><img src="/assets/images/insta/IMG_20200829_143402.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200831_090341.jpg"><img src="/assets/images/insta/IMG_20200831_090341.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-3" class="prev">&#x2039;</label>
@@ -67,7 +67,7 @@ Shattered but happy.
     </li>    <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20200829_131918.jpg"><img src="/assets/images/insta/IMG_20200829_131918.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200831_165524.jpg"><img src="/assets/images/insta/IMG_20200831_165524.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-4" class="prev">&#x2039;</label>
@@ -77,7 +77,7 @@ Shattered but happy.
     <input type="radio" name="radio-btn" id="img-6" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20200829_084416.jpg"><img src="/assets/images/insta/IMG_20200829_084416.jpg" /></a>
+          <a href="/assets/images/insta/IMG_20200831_170016.jpg"><img src="/assets/images/insta/IMG_20200831_170016.jpg" /></a>
         </div>
         <div class="nav">
              <label for="img-5" class="prev">&#x2039;</label>
