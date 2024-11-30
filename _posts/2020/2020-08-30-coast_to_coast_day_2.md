@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 2 - Ennerdale Bridge to Haystacks"
 permalink: /archives/2020/08/2020-08-30-coast_to_coast_day_2.html
 commentfile: 2020-08-30-coast_to_coast_day_2
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-08-30 08:59:00
 image: "/assets/images/insta/IMG_20200830_162325.jpg"
 excerpt: |

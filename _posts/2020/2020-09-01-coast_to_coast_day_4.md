@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast -  Day 4 - Grisdale Tarn to Patterdale"
 permalink: /archives/2020/09/2020-09-01-coast_to_coast_day_4.html
 commentfile: 2020-09-01-coast_to_coast_day_4
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-01 05:51:00
 image: "/assets/images/insta/IMG_20200901_064149.jpg"
 excerpt: |
@@ -17,7 +17,7 @@ excerpt: |
 
 _Grisdale Tarn to Patterdale - Lake District National Park_
 
-My foot had become a bit of a problem. We decided to walk the 5 miles or so down to Patterdale and rest for the rest of the day.
+My foot had become a bit of a problem. We decided to walk the five miles or so down to Patterdale and rest for the rest of the day.
 
 Luckily, the Old Water View hotel had a shepard's hut that we could use. I got [Compeed plasters](https://www.compeed.co.uk/product/compeed-blister-plasters-medium/) and generally rested. It helped.
 

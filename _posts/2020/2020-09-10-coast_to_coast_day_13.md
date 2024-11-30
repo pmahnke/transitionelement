@@ -3,11 +3,11 @@ layout: post
 title: "Coast to Coast - Day 13 - Clay Bank Top to Blakey Ridge"
 permalink: /archives/2020/09/2020-09-10-coast_to_coast_day_13.html
 commentfile: 2020-09-10-coast_to_coast_day_13
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-10 03:53:00
 image: "/assets/images/insta/118860086_3922187511142727_4925961326760647930_n_17885263783692987.jpg"
 excerpt: |
-  9 miles to the Lion Inn. First pint from Lisa &amp; &#064;wayne.crosby.96! Thank you. Made my day!
+  Nine miles to the Lion Inn. First pint from Lisa &amp; &#064;wayne.crosby.96! Thank you. Made my day!
 ---
 
 |            |              |

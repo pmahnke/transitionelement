@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 9 - Reeth to Richmond"
 permalink: /archives/2020/09/2020-09-06-coast_to_coast_day_9.html
 commentfile: 2020-09-06-coast_to_coast_day_9
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-06 05:10:00
 image: "/assets/images/insta/IMG_20200906_124639.jpg"
 excerpt: |

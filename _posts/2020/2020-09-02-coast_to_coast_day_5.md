@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 5 - Patterdale to Shap"
 permalink: /archives/2020/09/2020-09-02-coast_to_coast_day_5.html
 commentfile: 2020-09-02-coast_to_coast_day_5
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-02 09:51:00
 image: "/assets/images/insta/IMG_20200902_115053.jpg"
 excerpt: |

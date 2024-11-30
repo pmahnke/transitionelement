@@ -3,11 +3,11 @@ layout: post
 title: "Coast to Coast - Day 12 - Osmotherley to Clay Bank Top"
 permalink: /archives/2020/09/2020-09-09-coast_to_coast_day_12.html
 commentfile: 2020-09-09-coast_to_coast_day_12
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-09 03:24:00
 image: "/assets/images/insta/e517f013-1a08-472a-b858-16f74b7f1f52.jpg"
 excerpt: |
-  2/3rds of the way to Clay Bank Top
+  I have to say, I didn't know exactly what a Moor was...
 ---
 
 |            |           |

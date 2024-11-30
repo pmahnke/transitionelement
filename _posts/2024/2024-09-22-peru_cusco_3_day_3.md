@@ -7,7 +7,7 @@ category: travel
 date: 2024-09-22 12:36:00
 image: "/assets/images/insta/461085745_18464787289047535_3658032631222986201_n_18458832073044392.jpg"
 excerpt: |
-  Today we drove 7 hours to hike at 15k feet at the Ausangate seven lakes walk.
+  Today we drove 7 hours to hike at 15k feet at the Ausangate Seven Lakes walk.
 ---
 
 |            |           |
@@ -18,7 +18,7 @@ excerpt: |
 | **Travel** | _Bus_     | 7 hours                                                                          |
 |            | _Walking_ | 13.12 km, 5:20 hours, 432 meters up, 435 meters down                             |
 
-To attempted to get a bit more aclimated to even higher altitude before our big hike, we booked a tour and drove 3.5 hours (each way) to hike at 15,000 feet on the Ausangate Seven lakes walk.
+To attempted to get a bit more acclimated to even higher altitude before our big hike, we booked a tour and drove 3.5 hours (each way) to hike at 15,000 feet on the Ausangate Seven Lakes walk.
 
 It was tough at first, but doable. The lakes were pretty, but the snow covered mountains the real star.
 

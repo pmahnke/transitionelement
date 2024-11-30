@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 11 - Northallerton to Osmotherley"
 permalink: /archives/2020/09/2020-09-08-coast_to_coast_day_11.html
 commentfile: 2020-09-08-coast_to_coast_day_11
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-08 06:36:00
 image: "/assets/images/insta/IMG_20200908_132118.jpg"
 excerpt: |

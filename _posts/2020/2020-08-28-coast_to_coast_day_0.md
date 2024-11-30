@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast -  Day 0 - London to St Bees"
 permalink: /archives/2020/08/2020-08-28-coast_to_coast_day_0.html
 commentfile: 2020-08-28-coast_to_coast_day_0
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-08-28 06:04:00
 image: "/assets/images/insta/118290235_342200816955998_8564698018353040748_n_17887169296666755.jpg"
 excerpt: |
