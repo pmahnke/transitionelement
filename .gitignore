@@ -10,3 +10,4 @@ robots.txt
 .DS_store
 .jekyll-cache*
 Gemfile.lock
+vendor/*
