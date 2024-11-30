@@ -3,11 +3,11 @@ layout: post
 title: "Coast to Coast - Day 8 - Keld to Reeth"
 permalink: /archives/2020/09/2020-09-05-coast_to_coast_day_8.html
 commentfile: 2020-09-05-coast_to_coast_day_8
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-05 09:08:00
 image: "/assets/images/insta/118844293_961931904308968_2596691062613543012_n_17891784070627938.jpg"
 excerpt: |
-  13 miles through former lead mining area and Swaledale.
+  Thirteen miles through former lead mining area and Swaledale.
 ---
 
 |            |           |

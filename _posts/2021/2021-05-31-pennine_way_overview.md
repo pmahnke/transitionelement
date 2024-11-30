@@ -17,9 +17,9 @@ excerpt: |
 
 > The route follows England’s rocky spine from the hills of the Derbyshire Peak District and the Yorkshire Dales, through the stunning Swaledale Valley, across the North Pennines and over Hadrian’s Wall in Northumberland to the Cheviot Hills, ending in the Scottish Borders in Kirk Yetholm.
 
-This was our second longer hike and the second carrying our camping gear. We had pretty poor weather for most of the trip, which would have been fine, except for the bogs, they were everywhere. It forced us to use a few B&B's just to dry out a few times.
+This was our second and far longer hike and the second time carrying our camping gear. We had pretty poor weather for most of the trip, which would have been fine, except for the bogs, they were everywhere. It forced us to use a few B&B's just to dry out a few times.
 
-We timed this hike with the re-opening of many business from the second UK lockdown. However, in many communities, many pubs and small shops didn't survive, so it was a bit tricky to find extra food shops, we had to carry a bit more than you would now.
+We timed this hike with the re-opening of many business from the second UK lockdown. However, in many communities, many pubs and small shops didn't survive, so it was a bit tricky to find extra food shops, we had to carry a bit more than you would now days.
 
 Overall, it was very pretty and we are glad we did it. We met many other hikers and are still very close with one woman we met on the hike.
 

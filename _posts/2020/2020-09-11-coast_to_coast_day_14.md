@@ -3,11 +3,11 @@ layout: post
 title: "Coast to Coast - Day 14 - Blakey Ridge to Littlebeck"
 permalink: /archives/2020/09/2020-09-11-coast_to_coast_day_14.html
 commentfile: 2020-09-11-coast_to_coast_day_14
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-11 03:53:00
 image: "/assets/images/insta/IMG_20200911_111040.jpg"
 excerpt: |
-  9 miles to the Lion Inn. First pint from Lisa &amp; &#064;wayne.crosby.96! Thank you. Made my day!
+  This was a fairly long walk.
 ---
 
 |            |               |

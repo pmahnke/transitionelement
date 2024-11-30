@@ -3,11 +3,11 @@ layout: post
 title: "Coast to Coast - Day 15 - Littlebeck to Robin Hood Bay"
 permalink: /archives/2020/09/2020-09-12-coast_to_coast_day_15.html
 commentfile: 2020-09-12-coast_to_coast_day_15
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-12 06:19:00
 image: "/assets/images/insta/119101550_172384694362971_2709252668550326353_n_17916596341466539.jpg"
 excerpt: |
-  12 miles to Robin Hood Bay. Coast to Coast done.
+  Just twelve miles to Robin Hood Bay. Coast to Coast done.
 ---
 
 |            |           |

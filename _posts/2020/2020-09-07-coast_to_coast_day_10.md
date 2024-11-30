@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 10 - Richmond to Northallerton"
 permalink: /archives/2020/09/2020-09-07-coast_to_coast_day_10.html
 commentfile: 2020-09-07-coast_to_coast_day_10
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-07 06:36:00
 image: "/assets/images/insta/118892554_2676533015998521_4553966498888062636_n_18132460051108449.jpg"
 excerpt: |

@@ -3,11 +3,11 @@ layout: post
 title: "Coast to Coast - Day 1 - St Bees to Ennerdale Bridge"
 permalink: /archives/2020/08/2020-08-29-coast_to_coast_day_1.html
 commentfile: 2020-08-29-coast_to_coast_day_1
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-08-29 08:59:00
 image: "/assets/images/insta/IMG_20200829_084416.jpg"
 excerpt: |
-  17.28 miles. Shattered but happy.
+  Today we dipped our toes in the Irish Sea and took two small stones to be deposited in the North Sea as is the custom.
 ---
 
 |            |                  |

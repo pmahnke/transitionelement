@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 7 - Kirkby Stephen To Keld"
 permalink: /archives/2020/09/2020-09-04-coast_to_coast_day_3.html
 commentfile: 2020-09-04-coast_to_coast_day_3
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-04 08:19:00
 image: "/assets/images/insta/118689691_914318502426798_5290097470908528977_n_17866203830019545.jpg"
 excerpt: |

@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 6 - Shap to Kirkby Stephen"
 permalink: /archives/2020/09/2020-09-03-coast_to_coast_day_6.html
 commentfile: 2020-09-03-coast_to_coast_day_6
-category: travel
+categories: ["travel", "hiking"]
 date: 2020-09-03 09:51:00
 image: "/assets/images/insta/118712007_1018728075254408_7781887901799512167_n_17874270922844060.jpg"
 excerpt: |
