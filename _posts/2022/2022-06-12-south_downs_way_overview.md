@@ -8,10 +8,10 @@ date: 2022-06-12 07:27:09
 tag: overview
 image: "/assets/images/insta/IMG_20220320_113831.jpg"
 excerpt: |
-  Winchester to Eastborne - 160 km (100 mile)
+  Winchester to Eastborne - 160 km (100 miles) - 6 days
 ---
 
-### Winchester to Eastborne - 160 km (100 mile)
+### Winchester to Eastborne - 160 km (100 miles) - 6 days
 
 #### 19 to 20 March & 9 to 12 June 2022
 
