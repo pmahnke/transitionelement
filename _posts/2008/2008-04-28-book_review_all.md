@@ -3,18 +3,16 @@ layout: post
 title: "Book Review - All Lee Child's books"
 permalink: /archives/2008/04/book_review_all.html
 commentfile: 2008-04-28-book_review_all
+image: "/assets/images/lee_child_covers1.jpg"
 category: culture
 date: 2008-04-28 13:17:43
-
 ---
-
-<a href="/assets/images/lee_child_covers1.jpg"><img src="/assets/images/lee_child_covers-thumb.jpg" width="274" height="348" alt="Lee Child Covers" class="book right" /></a>
 
 For this month's company newsletter I was asked to review a book I have read recently. I decided to review all of the wonderful Jack Reacher novels by Lee Child together as I honestly can't separate out all the characters and plots.
 
 I hope you enjoy.
 
-bq.. from a Scholastic UK company newsletter
+_from a Scholastic UK company newsletter_
 
 ### Book Talk by Peter Mahnke
 

@@ -3,12 +3,10 @@ layout: post
 title: "Embarrassment of Sweets"
 permalink: /archives/2007/09/embarrassment_o.html
 commentfile: 2007-09-23-embarrassment_o
+image: "/assets/images/Licorice.jpg"
 category: on food & drink
 date: 2007-09-23 21:19:47
-
 ---
-
-<a href="/assets/images/Licorice.jpg"><img src="/assets/images/Licorice-thumb.jpg" width="150" height="131" alt="Liquorice" class="right" /></a>
 
 How does a thing start?
 
@@ -16,7 +14,7 @@ I have always loved liquorice. I think it started with black jelly beans when I 
 
 But as luck would have it, I was working with a lovely dutch girl who told me about 'drop' and became my supplier of good quality candy from Holland. For those you know drop, I only like sweet, not salty and really mostly munten, honing and katjes. But I left Gartner and my contact with Marielle and inter-office mail.
 
-A year in to a new job and I was buying the occasional bar of Panda for nearly £2 per bar and only at high end organic stores. So my mother bought me a bag of *scotty dogs* at Christmas. I took some to Leamington and the people loved them, so I requested some more. Mom sent 10lb! I gave away lots more and actually still have about 2lbs!
+A year in to a new job and I was buying the occasional bar of Panda for nearly £2 per bar and only at high end organic stores. So my mother bought me a bag of _scotty dogs_ at Christmas. I took some to Leamington and the people loved them, so I requested some more. Mom sent 10lb! I gave away lots more and actually still have about 2lbs!
 
 However, that amount of donation resulted in four more people getting and giving me candy. Andy in Leamington found some there, and has shared some with me. Denise found some very respectable New Zealand brand called RJs. Then Jane and Julie in London have been to Amsterdam a few times and bought be large amounts.
 

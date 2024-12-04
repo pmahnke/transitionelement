@@ -5,7 +5,7 @@ permalink: /archives/2012/10/book_the_ghost.html
 commentfile: 2012-10-14-book_the_ghost
 category: culture
 date: 2012-10-14 11:24:24
-image: /assets/images/1594489254.jpg
+image: "/assets/images/1594489254.jpg"
 excerpt: |
   Fantastic book.  John Snow was absolutely an amazing man -- finding a theory, using statistics to prove it, convincing the government to act, then helping rid the modern world of one of the most deadly diseases -- awesome.  Steven Johnson does a great job of telling this story, with a bit of history, a bit of back story, a bit of science and great pacing.  Worth a read.
 ---

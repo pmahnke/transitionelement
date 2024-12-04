@@ -5,11 +5,11 @@ permalink: /archives/2004/12/books_back_to_t.html
 commentfile: 2004-12-15-books_back_to_t
 category: culture
 date: 2004-12-15 10:37:31
-
 ---
 
 **Back to the Garden**
-*Geoffrey Ross*
+
+_Geoffrey Ross_
 
 Geoffrey is my late uncle. I was given this book right before he killed himself. I had started it and spoke to him about it, but put it down when he died.
 
