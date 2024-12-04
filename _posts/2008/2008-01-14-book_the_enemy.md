@@ -3,11 +3,10 @@ layout: post
 title: "Book - The Enemy"
 permalink: /archives/2008/01/book_the_enemy.html
 commentfile: 2008-01-14-book_the_enemy
+image: "/assets/images/0385336675.jpg"
 category: culture
 date: 2008-01-14 22:13:55
 ---
-
-<img class="photo right" src="/assets/images/0385336675.jpg" width="250" alt="The Enemy (Child, Lee) cover" />
 
 \[ [US](http://www.amazon.com/o/asin/0385336675) | [UK](http://www.amazon.co.uk/o/asin/0385336675) \]
 

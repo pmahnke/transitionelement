@@ -1,29 +1,27 @@
 <!DOCTYPE html>
 <html>
 
-{% include head.html %}
+{% include head_new.html %}
 
 <body>
 
-  <section class="p-strip">
-    <div class="row">
-      <div class="col-4 col-start-large-1">
-        {% include header.html %}
-      </div><!-- end pagenavigation -->
-      <div class="col-6 col-start-large-6">
-        <h2>{{ page.title }}</h2>
+  <div class="grid-container two-thirds">
+    <div>
   
-        <!-- content -->
-        {{ content }}
-        <!-- end content -->
+      {% include header_new.html %} 
+    
+    </div><!-- /end 2/3 -->
+    <div>
+      
+      <h2 class="post-title">{{ page.title }}</h2>
   
-      </div>
-    </div>
-  </section>
+      <!-- content -->
+      {{ content }}
+      <!-- end content -->
+
 
   <!-- footer -->
-  {% include footer.html %}
+  {% include footer_new.html %}
 
 </body>
-
 </html>

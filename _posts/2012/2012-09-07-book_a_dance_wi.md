@@ -3,14 +3,12 @@ layout: post
 title: "Book - A Dance with Dragons (Song of Ice and Fire)"
 permalink: /archives/2012/09/book_a_dance_wi.html
 commentfile: 2012-09-07-book_a_dance_wi
+image: "/assets/images/0553801473.jpg"
 category: culture
 date: 2012-09-07 20:29:57
 excerpt: |
-
   I can't recall my previous reviews, but this was everything I love and hate about Martin.  Love the characters and atmosphere, but he utterly fails to follow a plot, understand how to make people love a hero or underdog, resolve conflicts.  And, he kills off one of the last heroes left at the end... so, I guess I say... 'fuck you George' and I will NOT BE READING ANOTHER WORD FROM THIS MAN.
 ---
-
-<img class="photo right" src="/assets/images/0553801473.jpg" width="250" alt="A Dance with Dragons (Song of Ice and Fire) cover"/>
 
 \[ [US](http://www.amazon.com/o/asin/0553801473) | [UK](http://www.amazon.co.uk/o/asin/0553801473) \]
 
@@ -28,4 +26,5 @@ To the north lies the mammoth Wall of ice and stone--a structure only as strong 
 And from all corners, bitter conflicts soon reignite, intimate betrayals are perpetrated, and a grand cast of outlaws and priests, soldiers and skinchangers, nobles and slaves, will face seemingly insurmountable obstacles. Some will fail, others will grow in the strength of darkness. But in a time of rising restlessness, the tides of destiny and politics will lead inevitably to the greatest dance of all.</em>
 
 </div>
+
 I can't recall my previous reviews, but this was everything I love and hate about Martin. Love the characters and atmosphere, but he utterly fails to follow a plot, understand how to make people love a hero or underdog, resolve conflicts. And, he kills off one of the last heroes left at the end... so, I guess I say... 'fuck you George' and I will NOT BE READING ANOTHER WORD FROM THIS MAN.

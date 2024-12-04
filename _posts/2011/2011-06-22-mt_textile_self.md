@@ -11,8 +11,8 @@ Today I did some general CPAN updates. Everything went fine, I thought, but when
 
 ```
 An error occurred:
-Global symbol "$nested" requires explicit package name at (re\_eval 34) line 2, &lt;DATA&gt; line 1.
-Compilation failed in regexp at /usr/lib/perl5/5.8.8/SelfLoader.pm line 112, &lt;DATA&gt; line 1.
+Global symbol "$nested" requires explicit package name at (re\_eval 34) line 2, <DATA> line 1.
+Compilation failed in regexp at /usr/lib/perl5/5.8.8/SelfLoader.pm line 112, <DATA> line 1.
 ```
 
 After a minor amount of digging, I found it was either SelfLoader.pm or Textile2.

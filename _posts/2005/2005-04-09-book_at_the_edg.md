@@ -3,17 +3,16 @@ layout: post
 title: "Book - At the Edge of Honor"
 permalink: /archives/2005/04/book_at_the_edg.html
 commentfile: 2005-04-09-book_at_the_edg
+image: "/assets/images/156164272X.01.MZZZZZZZ.jpg"
 category: culture
 date: 2005-04-09 15:43:05
-
 ---
 
-<img alt="Robert Macomber: At the Edge of Honor" src="/assets/images/156164272X.01.MZZZZZZZ.jpg" width="110" height="140" border="0" class="img_plain" align="right" />
-
-\[<a /assets/images/="" target="_blank">US</a> | <a href="/assets/images/026-8983851-9389253" target="_blank">UK</a>\]
+\[<a href="https://www.amazon.com/At-Edge-Honor-Robert-Macomber/dp/1561642525" target="\_blank">US</a> | <a href="https://www.amazon.co.uk/At-Edge-Honor-Robert-Macomber/dp/1561642525/r" target="_blank">UK</a>\]
 
 **At the Edge of Honor**
-*by Robert Macomber*
+
+_by Robert Macomber_
 
 My father-in-law loaned me this book. He had heard the author speak recently and was impressed with him. Apparently he has lectured at Annapolis on guerrilla tactics and is a sailor.
 

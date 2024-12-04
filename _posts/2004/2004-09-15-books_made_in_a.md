@@ -3,17 +3,16 @@ layout: post
 title: "Book - Made in America"
 permalink: /archives/2004/09/books_made_in_a.html
 commentfile: 2004-09-15-books_made_in_a
+image: "/assets/images/0380713810.01.MZZZZZZZ.jpg"
 category: culture
 date: 2004-09-15 17:17:42
-
 ---
 
-<img alt="Bill Bryson's Made in America" src="/assets/images/0380713810.01.MZZZZZZZ.jpg" width="93" height="140" border="0" class="img_plain" align="right" />
-
-\[<a href="/assets/images/102-7981401-6532919" target="_blank">US</a> | <a href="/assets/images/026-4106676-0298810" target="_blank">UK</a>\]
+\[<a href="https://www.amazon.com/Made-America-Informal-History-American-ebook/dp/B0035OC7JU" target="_blank">US</a> | <a href="https://www.amazon.co.uk/Made-America-Informal-History-American-ebook/dp/B0035OC7JU" target="_blank">UK</a>\]
 
 **Made in America**
-*by Bill Bryson*
+
+_by Bill Bryson_
 
 On our recent trip to Morocco, I re-read this book.
 

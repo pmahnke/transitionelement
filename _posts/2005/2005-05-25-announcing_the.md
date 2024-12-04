@@ -3,12 +3,10 @@ layout: post
 title: "Announcing the Launch of St Margarets Community Website"
 permalink: /archives/2005/05/announcing_the.html
 commentfile: 2005-05-25-announcing_the
+image: "/assets/images/stmgrts_invers_logo_med-thumb.gif"
 category: life in the UK
 date: 2005-05-25 09:04:27
-
 ---
-
-<a href="/assets/images/stmgrts.org.uk"><img src="/assets/images/stmgrts_invers_logo_med-thumb.gif" width="279" height="300" alt="St Margarets Community Website Logo" class="img_right" /></a>
 
 For a long time I have wanted to do something like this, but have always been too busy. Finally a good friend spurred me into action (not to mention some job issues) and I have built a new community website for the village I live in, St Margarets, right outside London.
 
@@ -20,6 +18,6 @@ The site was originally nearly all [Movable Type](http://www.movabletype.org/), 
 
 I think that Movable Type could have done the static and even the events and directory if I setup separate blogs for each, but that seems a little nightmarish to knit altogether.
 
-Right now we are in *beta* just showing it to a select few people, but I am anxious to get the word out and see how people use it. Then perhaps a bigger launch at our fair in July.
+Right now we are in _beta_ just showing it to a select few people, but I am anxious to get the word out and see how people use it. Then perhaps a bigger launch at our fair in July.
 
 Take a look and give me some feedback!

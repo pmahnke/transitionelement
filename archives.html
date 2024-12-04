@@ -4,39 +4,40 @@ title: "transitionelement archives"
 permalink: /archives/index.html
 ---
 
-<section class="p-strip">
-  <div class="row">
-    <div class="col-4 col-start-large-1">
-      {% include header.html %}
-    </div><!-- end pagenavigation -->
+<div class="grid-container two-thirds">
+  <div>
 
-    <div class="col-6 col-start-large-6">
-      <h2>Archives</h2>
+    {% include header_new.html %} 
+  
+  </div><!-- /end 2/3 -->
+  <div>
+    
+    <h2 class="post-title">Archives</h2>
 
-      <h3>Categories</h3>
+    <h3>Categories</h3>
 
-      {% for category in site.categories %}
-      <h4 id="{{ category[0] }}-ref"><a href="{{ site.baseurl }}/archives/{{ category[0] | downcase }}">{{ category[0] }}</a></h4>
-      <ul>
-        {% for post in category[1] limit: 10 %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
+    {% for category in site.categories %}
+    <h4 id="{{ category[0] }}-ref"><a href="{{ site.baseurl }}/archives/{{ category[0] | downcase }}">{{ category[0] | upcase }}</a></h4>
+    <ul>
+      {% for post in category[1] limit: 10 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
+    </ul>
+    {% endfor %}
 
-      <h3>Monthly archives</h3>
+    <h3>Monthly archives</h3>
 
-      <ul>
-  {% for post in site.posts  %}
-    {% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}
-    {% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}
-    {% if currentyearmonth != lastyearmonth %}
-        <li><a href="{{ site.baseurl }}{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
-      {% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}
-    {% endif %}
-  {% endfor %}
-      </ul>
+    <ul>
+    {% for post in site.posts  %}
+      {% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}
+      {% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}
+      {% if currentyearmonth != lastyearmonth %}
+          <li><a href="{{ site.baseurl }}{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
+        {% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}
+      {% endif %}
+    {% endfor %}
+    </ul>
 
-    </div><!-- end div col-6 -->
   </div>
-</section>
+</div><!-- /end grid-container two-thirds -->
+

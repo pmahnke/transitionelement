@@ -3,18 +3,16 @@ layout: post
 title: "Books - Uniform Justice"
 permalink: /archives/2006/06/books_uniform_j.html
 commentfile: 2006-06-04-books_uniform_j
+image: "/assets/images/leon_uniformjustice.jpg"
 category: culture
 date: 2006-06-04 18:37:28
-
 ---
-
-<a href="/assets/images/leon_uniformjustice.jpg"><img alt="leon_uniformjustice.jpg" src="/assets/images/leon_uniformjustice-thumb.jpg" width="98" height="160"   class="right img_plain" /></a>
 
 \[ [UK](http://www.amazon.co.uk/exec/obidos/ASIN/0099415178/sr=1-15/qid=1150133584/ref=sr_1_15/026-7137165-3530015?%5Fencoding=UTF8&s=books&v=glance) | [US](http://www.amazon.com/gp/product/0142004227/qid=1150133964/sr=1-9/ref=sr_1_9/104-6366348-2988752?s=books&v=glance&n=283155) \]
 
 #### Uniform Justice
 
-*By by Donna Leon*
+_By by Donna Leon_
 
 Rating: ★★★★
 

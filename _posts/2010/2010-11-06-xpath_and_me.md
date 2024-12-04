@@ -5,16 +5,15 @@ permalink: /archives/2010/11/xpath_and_me.html
 commentfile: 2010-11-06-xpath_and_me
 category: on technology
 date: 2010-11-06 13:07:37
-
 ---
 
-I run a small, hyperlocal website, [St Margarets Community Website](http://stmgrts.org.uk). I do this completely in my *spare* time and am always looking for ways to cut corners. One bit time suck is posting events where you have to:
+I run a small, hyperlocal website, [St Margarets Community Website](httpa://stmgrts.org.uk). I do this completely in my _spare_ time and am always looking for ways to cut corners. One bit time suck is posting events where you have to:
 
--   get the event text (sometimes emailed, sometimes on a website, sometimes on a postcard)
--   clean the text, specially if it is in an email, word or pdf into ascii with proper line breaks)
--   prepare any images or pdfs (if the event is complex) and resize them, upload them, add the right classes, alt text, etc...)
--   upload the image
--   copy and paste all the events into the event database via web form (and this form is pretty optimised, with a host of all the hosts and venues and date pickers and checkboxes, etc... to make it easy as possible)
+- get the event text (sometimes emailed, sometimes on a website, sometimes on a postcard)
+- clean the text, specially if it is in an email, word or pdf into ascii with proper line breaks)
+- prepare any images or pdfs (if the event is complex) and resize them, upload them, add the right classes, alt text, etc...)
+- upload the image
+- copy and paste all the events into the event database via web form (and this form is pretty optimised, with a host of all the hosts and venues and date pickers and checkboxes, etc... to make it easy as possible)
 
 If I am really moving, I can get it done in about 10-20 minutes. I have done over 2,300 in the past five years... that averages to 575 hours or 24 days of my life!
 
@@ -46,7 +45,8 @@ Here is the code to get some event listings off a theatre page.
                 next;
             }
 
-            if ($FLAG_in == 1 && /<b>\&nbsp\;\&nbsp\;(.*) (.*) (.[<sup>\:]*):<\/b> \&nbsp\;(.[</sup><]*)</) {
+            if ($FLAG_in == 1 &&
+                /<b>\&nbsp\;\&nbsp\;(.*) (.*) (.[<sup>\:]*):<\/b> \&nbsp\;(.[</sup><]*)</) {
                 # date info
                 $dow  = $1;
                 $date = $2;
@@ -88,7 +88,7 @@ Here is the code to get some event listings off a theatre page.
 
     </code>
 
-Ok, so I am obviously not a programmer by training, but you can see, there is a lot of brute force regular expression work and lots of logic to know where you are in the document. It isn't pretty and is *very* fragile.
+Ok, so I am obviously not a programmer by training, but you can see, there is a lot of brute force regular expression work and lots of logic to know where you are in the document. It isn't pretty and is _very_ fragile.
 
 But with XPath, it is completely different. That whole set of code becomes (with a slightly different version of the core html).
 

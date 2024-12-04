@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Wilco - Kentish Town"
+title: "Concert - Wilco - Kentish Town"
 permalink: /archives/2009/11/wilco_kentish_t.html
-commentfile: 2009-11-27-wilco_kentish_t
+commentfile: 2009-11-04-wilco_kentish_t
+image: "/assets/images/wilco_200911.jpg"
 category: culture
-date: 2009-11-27 21:57:19
-
+date: 2009-11-04 21:57:19
 ---
-
-<a href="/assets/images/wilco_200911.jpg"><img alt="wilco_200911.jpg" src="/assets/images/wilco_200911-thumb.jpg" width="500" height="375" /></a>
 
 Woman in crowd, "Play the hits!"
 

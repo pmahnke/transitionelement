@@ -2,33 +2,42 @@
 layout: default-empty
 ---
 
-  <section class="p-strip">
-    <div class="row">
-      <div class="col-4 col-start-large-1">
-        {% include header.html %}
-      </div><!-- end pagenavigation -->
+<div class="grid-container two-thirds">
+  <div>
 
-      <div class="col-6 col-start-large-6">
-        <h2>Archive of posts from {{ page.date | date: "%B %Y" }}</h2>
-        {% for post in page.posts limit: 10 %}
-          <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          {{ post.excerpt }}
-          <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
+    {% include header_new.html %} 
+  
+  </div><!-- /end 2/3 -->
+  <div>
+    
+    <h2 class="post-title">Posts from {{ page.date | date: "%B %Y" }}</h2>
+
+      <!-- latest story - big -->
+      {% for post in page.posts limit: 1 %}
+      <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {% if post.image %}<p><img src="{{ post.image | escape }}" width="536" alt="" /></p>{% endif %}
+      {{ post.excerpt | textilize }}
+      <p class="post-link"><a href="{{ post.url }}">Continue reading &#8230;</a></p>
+      <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} | <a href="{{ site.baseurl }}/archives/{{ post.categories[0] | downcase }}">{{ post.categories[0] }}</a></p>
+      {% endfor %}
+      
+  
+      {% for post in page.posts limit: 2 offset: 1 %}
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {{ post.excerpt }}
+        <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
+      {% endfor %}
+  
+      <h3>Older Articles</h3>
+      <ul>
+        {% for post in page.posts offset: 3 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a> 
+          &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}
+        </li>
         {% endfor %}
-      </div>
-    </div>
-  </section>
-  <section class="p-strip">
-    <div class="row">
-      <div class="col-6 col-start-large-6">
-        <h3>Older Articles</h3>
-        <ul>
-          {% for post in page.posts offset: 10 %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories |  join: ', ' }}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </section>
+      </ul>
+
+  </div>
+</div><!-- /end grid-container two-thirds -->
+

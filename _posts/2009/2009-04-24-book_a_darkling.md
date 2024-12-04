@@ -3,11 +3,10 @@ layout: post
 title: "Book - A Darkling Plain"
 permalink: /archives/2009/04/book_a_darkling.html
 commentfile: 2009-04-24-book_a_darkling
+image: "/assets/images/006089055X.jpg"
 category: culture
 date: 2009-04-24 14:50:52
 ---
-
-<img class="photo right" src="/assets/images/006089055X.jpg" width="250" alt="A Darkling Plain (Hungry City Chronicles) cover" />
 
 \[ [US](http://www.amazon.com/o/asin/006089055X) | [UK](http://www.amazon.co.uk/o/asin/006089055X) \]
 
@@ -25,6 +24,7 @@ Tom and his daughter, Wren, aren't the only people interested in London. The des
 But it may be too late. Even as Tom and Wren hurry to uncover the mystery of London, Hester Shaw—estranged from her husband and her daughter—tracks the resurrected Stalker Fang, who has found another way to end the war and all life on the planet once and for all. </em>
 
 </div>
+
 Wow!
 
 Amazing book, amazing ending to the series.

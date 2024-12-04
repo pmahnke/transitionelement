@@ -3,11 +3,10 @@ layout: post
 title: "Play - Endgame"
 permalink: /archives/2004/04/play_endgame.html
 commentfile: 2004-04-22-play_endgame
+image: "/assets/images/endgame.jpg"
 category: culture
 date: 2004-04-22 10:56:25
 ---
-
-<img src="/assets/images/endgame.jpg" height="250" border="0" alt="Endgame" />
 
 Tonight we went to dinner and the Samuel Beckett play, Endgame at the Albery with Anne and Paul.
 

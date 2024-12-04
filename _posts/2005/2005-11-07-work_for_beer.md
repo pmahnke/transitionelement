@@ -3,14 +3,12 @@ layout: post
 title: "Work for Beer?"
 permalink: /archives/2005/11/work_for_beer.html
 commentfile: 2005-11-07-work_for_beer
+image: "/assets/images/realalelogo-thumb.gif"
 category: life in the UK
 date: 2005-11-07 20:53:27
-
 ---
 
-<a href="/assets/images/realalelogo.jpg"><img src="/assets/images/realalelogo-thumb.gif" width="150" height="51" alt="Real Ale" class="img_plain right" /></a>
-
-*Would you work for beer?*
+_Would you work for beer?_
 
 #### I OFFICIALLY WORK FOR BEER
 
@@ -18,10 +16,10 @@ That's right, I have a completely informal deal to format and send out the month
 
 bq.. Working for beer sounds good to me - a six pack retails at {-L}15.00 a box on average, how does that sound?
 
-Nick
---
+## Nick
+
 Real Ale Limited
 371 Richmond Road
 Twickenham
 
-Sound *good* to me ... very good.
+Sound _good_ to me ... very good.

@@ -3,17 +3,16 @@ layout: post
 title: "Book - A Walk in the Woods"
 permalink: /archives/2004/10/books_a_walk_in.html
 commentfile: 2004-10-02-books_a_walk_in
+image: "/assets/images/0767902521.01.MZZZZZZZ.jpg"
 category: culture
 date: 2004-10-02 09:58:22
-
 ---
-
-<img alt="Bill Bryson's A Walk in the Woods: Rediscovering America on the Appalachian Trail" src="/assets/images/0767902521.01.MZZZZZZZ.jpg" width="90" height="140" border="0" class="img_plain" align="right" />
 
 \[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0767902521/qid=1096880258/sr=8-2/ref=pd_csp_2/104-9896320-9963126?v=glance&s=books&n=507846" target="_blank">US</a> | <a href="http://www.amazon.co.uk/exec/obidos/tg/detail/-/0767902521/qid=1096880258/sr=8-2/ref=pd_csp_2/202-8209596-2711845?v=glance&s=books&n=507846" target="_blank">UK</a>\]
 
 **A Walk in the Woods: Rediscovering America on the Appalachian Trail**
-*by Bill Bryson*
+
+_by Bill Bryson_
 
 Keeping with my pattern of reading nearly the entire body of an author in one furious stint, I read this Bryson book as well.
 

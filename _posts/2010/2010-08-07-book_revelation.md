@@ -3,11 +3,10 @@ layout: post
 title: "Book - Revelation"
 permalink: /archives/2010/08/book_revelation.html
 commentfile: 2010-08-07-book_revelation
+image: "/assets/images/0330447106.jpg"
 category: culture
 date: 2010-08-07 15:49:37
 ---
-
-<img class="photo right" src="/assets/images/0330447106.jpg" width="250" alt="Revelation (Shardlake) cover" />
 
 \[ [US](http://www.amazon.com/o/asin/0330447106) | [UK](http://www.amazon.co.uk/o/asin/0330447106) \]
 
@@ -27,4 +26,5 @@ When an old friend is horrifically murdered Shardlake vows to bring the killer t
 As London's Bishop Bonner prepares a purge of Protestants Shardlake, together with his assistant, Jack Barak, and his friend, Guy Malton, investigate a series of horrific murders which are already bringing frenzied talk of witchcraft and demonic possession – for what else would the Tudor mind make of a serial killer ...?</em>
 
 </div>
+
 My second favorite of the series and really well done. Lots of suspicious characters and misdirection.

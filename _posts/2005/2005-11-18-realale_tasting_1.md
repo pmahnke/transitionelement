@@ -3,12 +3,10 @@ layout: post
 title: "Tasting Notes &#58;&#58; RealAle &#58; New Forest Cider"
 permalink: /archives/2005/11/realale_tasting_1.html
 commentfile: 2005-11-18-realale_tasting_1
+image: "/assets/images/newforestcider-thumb.jpg"
 category: on food & drink
 date: 2005-11-18 21:38:44
-
 ---
-
-<a href="/assets/images/newforestcider.jpgNew Forrest Cider"><img alt="New Forrest Cider" src="/assets/images/newforestcider-thumb.jpg" width="150" height="200" class="img_plain right" /></a>
 
 **New Forrest Cider**
 

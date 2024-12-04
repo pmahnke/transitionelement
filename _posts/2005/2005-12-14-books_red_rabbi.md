@@ -3,18 +3,16 @@ layout: post
 title: "Books - Red Rabbit"
 permalink: /archives/2005/12/books_red_rabbi.html
 commentfile: 2005-12-14-books_red_rabbi
+image: "/assets/images/clancy-redrabbit.jpg"
 category: culture
 date: 2005-12-14 13:12:03
-
 ---
-
-<a href="/assets/images/clancy-redrabbit.jpg"><img alt=" Red Rabbit  ~Tom Clancy" src="/assets/images/clancy-redrabbit-thumb.jpg" width="67" height="110"  class="img_plain right" /></a>
 
 \[ [UK](http://www.amazon.co.uk/exec/obidos/ASIN/0141004916/qid=1135170632/sr=8-1/ref=pd_ka_1/202-1786082-0027024) | [US](http://www.amazon.com/gp/product/0425191184/qid=1135170848/sr=2-1/ref=pd_bbs_b_2_1/104-2679528-0797545?s=books&v=glance&n=283155) \]
 
 #### Red Rabbit
 
-*by Tom Clancy*
+_by Tom Clancy_
 
 Rating: ★ ★ ★ ☆ ☆
 

@@ -3,12 +3,10 @@ layout: post
 title: "Eggplant (Aubergine) Parmesan"
 permalink: /archives/2006/01/eggplant_auberg.html
 commentfile: 2006-01-04-eggplant_auberg
+image: "/assets/images/eggplantparm.jpg"
 category: on food & drink
 date: 2006-01-04 21:13:11
-
 ---
-
-<a href="/assets/images/eggplantparm.jpg"><img src="/assets/images/eggplantparm-thumb.jpg" width="150" height="150" alt="Eggplant Aubergine Parmesan" class="photo right" /></a>
 
 I don't know if I will have the energy to keep this up, but I thought that I might put up a few recipes on the site as I settle on a good one. This all started a few years ago when my brother (in New York), mother (in Milwaukee, Wisconsin) and I (London) all started trading new recipes. I wrote a little web application to track them. Unfortunately, due to a major server problem (kernel panic) we lost all of them, and the mounted back-up disk (long sad story). However, in recent years we have slow started again.
 

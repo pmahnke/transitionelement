@@ -1,0 +1,31 @@
+<header>
+    <h1>
+        <a href="/" accesskey="1">
+        <img src="/assets/images/transitionelement_logo_whit.gif" width="150" height="150" alt="transitionelement" />
+        </a>
+    </h1>
+
+    <nav class="nav">
+    <ul class="nav-links">
+        {% for category in site.categories %}{% unless category[0] == 'about' %}<li>
+        <a class="nav-link" href="{{ site.baseurl }}/archives/{{ category[0] | replace: ' ', '-' | replace: '&-', '' | downcase }}">{{ category[0] }}</a>
+        </li>{% endunless %}{% endfor %}
+        <li>
+        <a class="nav-link" href="{{ site.baseurl }}/archives">archives</a>
+        </li>
+        <li>
+        <a class="nav-link" href="/info/colophon.html">about</a>
+        </li>
+    </ul>
+    </nav>
+
+    <div class="search">
+    <form action="/cgi-bin/search.cgi" method="get">
+        <fieldset>
+        <input name="a" value="search" type="hidden">
+        <input id="search" name="q" size="20"><br/>
+        <input value="Search" type="submit">
+        </fieldset>
+    </form>
+    </div>
+</header>

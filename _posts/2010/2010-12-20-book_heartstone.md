@@ -3,11 +3,10 @@ layout: post
 title: "Book - Heartstone"
 permalink: /archives/2010/12/book_heartstone.html
 commentfile: 2010-12-20-book_heartstone
+image: "/assets/images/023074415X.jpg"
 category: culture
 date: 2010-12-20 11:42:50
 ---
-
-<img class="photo right" src="/assets/images/023074415X.jpg" width="250" alt="Heartstone cover" />
 
 \[ [US](http://www.amazon.com/o/asin/023074415X) | [UK](http://www.amazon.co.uk/o/asin/023074415X) \]
 
@@ -25,4 +24,5 @@ Meanwhile Matthew Shardlake is given an intriguing legal case by an old servant 
 Once arrived, Shardlake and Barak find themselves in a city preparing to become a war zone; and Shardlake takes the opportunity to also investigate the mysterious past of Ellen Fettipace, a young woman incarcerated in the Bedlam. The emerging mysteries around the young ward, and the events that destroyed Ellen's family nineteen years before, involve Shardlake in reunions both with an old friend and an old enemy close to the throne. Events will converge on board one of the King's great warships, primed for battle in Portsmouth harbour...</em>
 
 </div>
+
 Well, I love all the Sharlake books and this was pretty good. At times it was a bit too far fetched for me with Richard Rich turning up again and the whole thing on the Mary Rose was a step too far; it just didn't need to be done -- that's how good the rest of it was.

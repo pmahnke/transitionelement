@@ -3,12 +3,10 @@ layout: post
 title: "Food &#58; Pfannkuchen"
 permalink: /archives/2006/02/food_pfannkuche.html
 commentfile: 2006-02-28-food_pfannkuche
+image: "/assets/images/Pfannkuchen.jpg"
 category: on food & drink
 date: 2006-02-28 09:37:58
-
 ---
-
-<a href="/assets/images/Pfannkuchen.jpg"><img src="/assets/images/Pfannkuchen-thumb.jpg" width="150" height="150" alt="Pfannkuchen" title="Pfannkuchen" class="photo right" /></a>
 
 Well today was 'Pancake Day' here in England, better known as [Shrove Tuesday](http://en.wikipedia.org/wiki/Shrove_Tuesday) or 'Mardi Gras'. In fact, it seems that most people don't even know of its religious meaning at all. This is from the Wikipedia:
 
@@ -16,6 +14,6 @@ Well today was 'Pancake Day' here in England, better known as [Shrove Tuesday](h
 
 Well, the boys had the minister from the local church come in and talk about it. Our four year old only knew some man came in and flipped a pancake in the air. Our six year old knew it was the father of a classmate and that he was talking about Jesus -- no real understanding.
 
-However, we did celebrate by making a German cr{e^}pe called 'Pfannkuchen'. My wife can eat masses of them plain, but the boys and I insist on ham & cheese or sugar & lemon or maple syrup.
+However, we did celebrate by making a German crêpe called 'Pfannkuchen'. My wife can eat masses of them plain, but the boys and I insist on ham & cheese or sugar & lemon or maple syrup.
 
 [Here is the recipe](https://www.mahnke.net/recipe/index.cgi?page=open&key=20062193655)

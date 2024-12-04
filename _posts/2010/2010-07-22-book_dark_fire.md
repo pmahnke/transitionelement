@@ -3,11 +3,10 @@ layout: post
 title: "Book - Dark Fire"
 permalink: /archives/2010/07/book_dark_fire.html
 commentfile: 2010-07-22-book_dark_fire
+image: "/assets/images/0330450786.jpg"
 category: culture
 date: 2010-07-22 15:37:17
 ---
-
-<img class="photo right" src="/assets/images/0330450786.jpg" width="250" alt="Dark Fire (Shardlake) cover" />
 
 \[ [US](http://www.amazon.com/o/asin/0330450786) | [UK](http://www.amazon.co.uk/o/asin/0330450786) \]
 
@@ -25,4 +24,5 @@ The secret of Greek Fire, the legendary substance with which the Byzantines dest
 Now Shardlake must follow the trail of Greek Fire across Tudor London, while trying at the same time to prove his young client’s innocence. But very soon he discovers nothing is as it seems ...</em></em>
 
 </div>
+
 My least favorite of the series, but still a good read. I love the Barack character, it is just a bit far fetched and complex.

@@ -3,18 +3,16 @@ layout: post
 title: "Books - Flashman and the Dragon"
 permalink: /archives/2005/04/books_flashman.html
 commentfile: 2005-04-16-books_flashman
+image: "/assets/images/0452261910.01.__SCMZZZZZZZ_.jpg"
 category: culture
 date: 2005-04-16 21:28:46
-
 ---
 
-<img alt="George MacDonald Fraser: Flashman and the Dragon" src="/assets/images/0452261910.01.__SCMZZZZZZZ_.jpg" width="93" height="140" border="0" class="photo right"/>
-
-\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0452261910/qid=1113674490/sr=8-3/ref=pd_csp_3/102-1691733-2342538?v=glance&amp;s=books&amp;n=507846" target="_blank">US</a> | <a href="/assets/images/026-4300878-8787639" target="_blank">UK</a>\]
+\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0452261910/qid=1113674490" target="_blank">US</a> | <a href="[/assets/images/026-4300878-8787639](https://www.amazon.co.uk/exec/obidos/tg/detail/-/0452261910/qid=1113674490)" target="_blank">UK</a>\]
 
 #### Flashman and the Dragon
 
-*by George MacDonald Fraser*
+_by George MacDonald Fraser_
 
 Rating: ★★★★☆
 
