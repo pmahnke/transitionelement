@@ -5,10 +5,10 @@ permalink: /archives/2010/11/pa_digital_publ.html
 commentfile: 2010-11-16-pa_digital_publ
 category: on technology
 date: 2010-11-16 15:12:15
-
 ---
 
-<p>
+_Notes from the PA Digital Publishing Forum_
+
 <em>Wednesday 10th November 2010</em>
 
 </p>

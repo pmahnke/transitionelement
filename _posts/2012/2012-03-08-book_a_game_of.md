@@ -3,12 +3,11 @@ layout: post
 title: "Book - A Game of Thrones"
 permalink: /archives/2012/03/book_a_game_of.html
 commentfile: 2012-03-08-book_a_game_of
+image: "/assets/images/0553386794.jpg"
 category: culture
 date: 2012-03-08 20:58:29
 excerpt: |
 ---
-
-<img class="photo right" src="/assets/images/0553386794.jpg" width="250" alt="A Game of Thrones HBO Tie-In Edition  cover" />
 
 \[ [US](http://www.amazon.com/o/asin/0553386794) | [UK](http://www.amazon.co.uk/o/asin/0553386794) \]
 

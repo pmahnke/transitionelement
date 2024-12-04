@@ -5,14 +5,11 @@ permalink: /archives/2006/07/book_from_finla.html
 commentfile: 2006-07-30-book_from_finla
 category: culture
 date: 2006-07-30 09:33:28
-
 ---
-
-<a href="https://www.transitionelement.com/archives/finlandlove.JPG"><img alt="finlandlove.JPG" src="https://www.transitionelement.com/archives/finlandlove-thumb.JPG" width="100" height="65" class="photo right" /></a>
 
 #### Suomesta, rakkaudella/From Finland with love
 
-*by Schatz, Roman; Autio, Maarika*
+_by Schatz, Roman; Autio, Maarika_
 
 Rating: ★★★☆☆
 

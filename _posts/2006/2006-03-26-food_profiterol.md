@@ -3,12 +3,10 @@ layout: post
 title: "Food &#58; Profiterole"
 permalink: /archives/2006/03/food_profiterol.html
 commentfile: 2006-03-26-food_profiterol
+image: "/assets/images/profiterole.jpg"
 category: on food & drink
 date: 2006-03-26 20:17:03
-
 ---
-
-<a href="/assets/images/profiterole.jpg"><img src="/assets/images/profiterole-thumb.jpg" width="150" height="150" alt="Profiterols" class="photo right" /></a>
 
 Today is Mother's Day in the UK.
 

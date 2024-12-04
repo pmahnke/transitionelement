@@ -3,18 +3,16 @@ layout: post
 title: "Book - Carry Me Down"
 permalink: /archives/2007/03/book_carry_me_d.html
 commentfile: 2007-03-17-book_carry_me_d
+image: "/assets/images/book_carrymedown.jpg"
 category: culture
 date: 2007-03-17 21:52:40
-
 ---
-
-<a href="/assets/images/book_carrymedown.jpg"><img src="/assets/images/book_carrymedown-thumb.jpg" width="250" height="375" alt="Carry Me Down" class="photo right" /></a>
 
 \[ [US](http://www.amazon.com/o/asin/1841958786) | [UK](http://www.amazon.co.uk/o/asin/076791936X) \]
 
 #### Carry Me Down
 
-*by M. J. Hyland*
+_by M. J. Hyland_
 
 Rating: ★★★★☆
 

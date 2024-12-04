@@ -3,14 +3,12 @@ layout: post
 title: "Play - The Exonerated"
 permalink: /archives/2006/02/play_the_exoner.html
 commentfile: 2006-02-22-play_the_exoner
+image: "/assets/images/theexonerated1.jpg"
 category: culture
 date: 2006-02-22 10:09:27
 excerpt: |
-    Review of the most excellent play, The Exonerated, at Riverside Studios in Hammersmith.
-
+  Review of the most excellent play, The Exonerated, at Riverside Studios in Hammersmith.
 ---
-
-<a href="/assets/images/theexonerated1.jpg"><img src="/assets/images/theexonerated1-thumb.jpg" width="150" height="75" alt="The Exonerated" title="The Exonerated" class="photo right" /></a>
 
 We were lucky enough to see [The Exonerated](http://www.riversidestudios.co.uk/cgi-bin/page.pl?l=1130414233) at [Riverside Studios](http://www.riversidestudios.co.uk/) in Hammersmith tonight. It was one of the most incredible stories I have ever heard. It is the true life stories of six completely innocent people held for huge parts of their lives on 'death row' only to be released later. All the words were taken from interview and court transcripts.
 
