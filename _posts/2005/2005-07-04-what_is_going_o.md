@@ -5,7 +5,6 @@ permalink: /archives/2005/07/what_is_going_o.html
 commentfile: 2005-07-04-what_is_going_o
 category: life in the UK
 date: 2005-07-04 12:20:42
-
 ---
 
 Today was a shock for me.
@@ -16,11 +15,11 @@ A little later, some one else said, "I will have to take a look at that on Tuesd
 
 A little later still, I was on the phone with a German colleague who said that we would have to wait until Tuesday for the US to respond. I finally asked, "Tracy, what is going on Monday that no one is working in the US? So far three people have mentioned it...".
 
-Tracy just laughed, "Isn't it *your* Independence Day\_?"
+Tracy just laughed, "Isn't it _your_ Independence Day?"
 
 **SNAP**
 
-*silence*
+_silence_
 
 "Ah, yes, thanks..."
 

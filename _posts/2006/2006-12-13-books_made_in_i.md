@@ -3,18 +3,16 @@ layout: post
 title: "Books - Made in Italy"
 permalink: /archives/2006/12/books_made_in_i.html
 commentfile: 2006-12-13-books_made_in_i
+image: "/assets/images/book_madinitaly.jpg"
 category: culture
 date: 2006-12-13 21:39:36
-
 ---
-
-<a href="/assets/images/book_madinitaly.jpg"><img src="/assets/images/book_madinitaly-thumb.jpg" width="250" height="367" alt="Made in Italy" class="photo right" /></a>
 
 \[ [US](http://www.amazon.com/o/asin/1841157015) | [UK](http://www.amazon.co.uk/o/asin/1841157015) \]
 
 #### Made in Italy
 
-*by Giorgio Locatelli*
+_by Giorgio Locatelli_
 
 Rating: ★★★★☆
 
