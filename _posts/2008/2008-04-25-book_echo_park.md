@@ -3,11 +3,10 @@ layout: post
 title: "Book - Echo Park"
 permalink: /archives/2008/04/book_echo_park.html
 commentfile: 2008-04-25-book_echo_park
+image: "/assets/images/0752877348.jpg"
 category: culture
 date: 2008-04-25 21:03:42
 ---
-
-<img class="photo right" src="/assets/images/0752877348.jpg" width="250" alt="Echo Park cover" />
 
 \[ [US](http://www.amazon.com/o/asin/0752877348) | [UK](http://www.amazon.co.uk/o/asin/0752877348) \]
 

@@ -3,18 +3,16 @@ layout: post
 title: "Books - Doctored Evidence"
 permalink: /archives/2006/06/books_doctored.html
 commentfile: 2006-06-19-books_doctored
+image: "/assets/images/leondoctoredevidence-thumb.jpg"
 category: culture
 date: 2006-06-19 22:00:11
-
 ---
-
-<img alt="leondoctoredevidence.jpg" src="/assets/images/leondoctoredevidence-thumb.jpg" width="95" height="155" class="right img_plain" /></a>
 
 \[ [UK](http://www.amazon.co.uk/exec/obidos/ASIN/0099446758/sr=1-9/qid=1150750297/ref=sr_1_9/026-4928692-8831613?%5Fencoding=UTF8&s=books&v=glance) | [US](http://www.amazon.com/gp/product/0143035630/sr=1-8/qid=1150750087/ref=sr_1_8/104-0014667-8280776?%5Fencoding=UTF8&s=books) \]
 
 #### Doctored Evidence
 
-*By by Donna Leon*
+_By by Donna Leon_
 
 Rating: ★★★★
 

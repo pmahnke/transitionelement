@@ -5,10 +5,7 @@ permalink: /archives/2006/11/book_festival_g.html
 commentfile: 2006-11-08-book_festival_g
 category: culture
 date: 2006-11-08 09:15:03
-
 ---
-
-<a href="/assets/images/giorgio-locatelli.jpg" title="See larger version of - Giorgio Locatelli"><img src="/assets/images/giorgio-locatelli_thumb.jpg" width="150" height="158" alt="Giorgio Locatelli" class="photo right" /></a>
 
 Last night the wife and I attended a talk with [Giorgio Locatelli](https://stmargarets.london/event/Reading/200610191516) at the Petersham Hotel in Richmond as part of the [Richmond Book Now 2006 Festival](https://stmargarets.london/directory/art/200610191449).
 

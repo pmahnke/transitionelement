@@ -10,7 +10,7 @@ excerpt: |
 
 ### Server Information
 
-This site is run on an Ubuntu Linux box hosted by [Digital Ocean](https://www.digitalocean.com/). It is a static site, built with [Jekyll](https://jekyllrb.com/) and a custom comment script. The CSS framework is the most excellent [Vanilla Framework](https://vanillaframework.io/).
+This site is run on an Ubuntu Linux box hosted by [Digital Ocean](https://www.digitalocean.com/). It is a static site, built with [Jekyll](https://jekyllrb.com/) and a custom comment script. The CSS framework is the [Barebones](https://acahir.github.io/Barebones/), based on [Skeleton](http://getskeleton.com/).
 
 ### Desktop Software
 
@@ -26,8 +26,6 @@ This weblog is licensed under a Creative Commons' [CC BY-ND 4.0](https://creativ
 
 ### Personal
 
-I am an American living outside London. I am married and have two grown children. I have been working on the web since 1995 doing everything from design to coding, but mostly as a Product Manager/Managing Editor/Head of Web.
-
-I am very interested in clean, simple, web-standard information design and try to bring that to every place I work.
+I am an American living outside London. I am married and have two grown children. I have been working on the web since 1995 doing everything from design to coding, but mostly as a Product Manager/Managing Editor/Head/VP of Web & Design. However, I retired in 2021, and now we mostly travel.
 
 <a href="/assets/images/bw_self.jpg"><img src="/assets/images/peter_mirror-thumb.jpg" width="116" height="134" border="0" alt="Peter around 2004" /></a>

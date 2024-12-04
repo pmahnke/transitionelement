@@ -3,14 +3,12 @@ layout: post
 title: "Play - The Nutcracker"
 permalink: /archives/2005/12/play_the_nutcra.html
 commentfile: 2005-12-23-play_the_nutcra
+image: "/assets/images/nutcrakerticket05-thumb.gif"
 category: culture
 date: 2005-12-23 15:06:15
-
 ---
 
-<a href="/assets/images/nutcrakerticket05.jpg"><img src="/assets/images/nutcrakerticket05-thumb.gif" width="150" height="88" alt="ticket to show" class="img_plain right" /></a>
-
-We figured that this might be the year to take the boys (aged 4 and 6) to see *The Nutcracker*. We have fond memories of seeing it as children and as adults. The production we picked was the *English National Ballet's* version at the Coliseum.
+We figured that this might be the year to take the boys (aged 4 and 6) to see _The Nutcracker_. We have fond memories of seeing it as children and as adults. The production we picked was the _English National Ballet's_ version at the Coliseum.
 
 While the costumes and the set was really well done, designed by the excellent Gerald Scarfe. The ballet itself was quite boring. Not just for me, the boys weren't that interested either. It wasn't the dancing either, it was the choreography.
 
