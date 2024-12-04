@@ -3,12 +3,10 @@ layout: post
 title: "The Power of Advertisements"
 permalink: /archives/2006/04/the_power_of_ad.html
 commentfile: 2006-04-26-the_power_of_ad
+image: "/assets/images/subwaylogo.jpg"
 category: of interest
 date: 2006-04-26 14:05:54
-
 ---
-
-<img alt="subwaylogo.jpg" src="/assets/images/subwaylogo.jpg" width="167" height="71" class="photo right"/>
 
 Today I was in the queue at a Subway in Leamington Spa. In front of me were two young men, about 17 years old, wearing sweats and hoodies (hooded sweatshirts).
 

@@ -3,25 +3,22 @@ layout: post
 title: "MeasureMap from AdaptivePath"
 permalink: /archives/2005/11/measuremap_from_1.html
 commentfile: 2005-11-07-measuremap_from_1
+image: "/assets/images/measuremap-thumb.gif"
 category: on technology
 date: 2005-11-07 12:21:25
-
 ---
-
-<a href="/assets/images/measuremap.jpg"><img src="/assets/images/measuremap-thumb.gif" width="150" height="112" alt="MeasureMap Homepage" class="img right" /></a>
 
 For the past two weeks I have been looking at a new blog stats package from [Adaptive Path](http://www.adaptivepath.com/) called [MeasureMap](http://eee.measuremap.com/). What follows is a feedback email that I sent them. I haven't heard anything from them, but they welcomed people posting the information.
 
 Overall, I like it very much, but naturally had lots of comments.
 
-bq.. First of all, let me say that I am very impressed with this application. I can imagine a whole world of hosted bloggers who have never seen these kinds of stats before being blown away by some of this data.
-
-Also, before I start telling you what I would do to improve the application, I should state upfron that I don't understand your business model to understand how you are going to make money doing this -- I am assuming it will be by up-selling other services (advanced tracking, realtime tracking, advice, etc...)
+> First of all, let me say that I am very impressed with this application. I can imagine a whole world of hosted bloggers who have never seen these kinds of stats before being blown away by some of this data.
+>
+> Also, before I start telling you what I would do to improve the application, I should state upfron that I don't understand your business model to understand how you are going to make money doing this -- I am assuming it will be by up-selling other services (advanced tracking, realtime tracking, advice, etc...)
 
 That said, here I go...
 
-UI
---
+## UI
 
 ### Colors
 
@@ -61,8 +58,7 @@ If you don't want to do that, I would turn 'Today' into 'Select Today', as it do
 
 Also, you might want to put a legend on this saying 'Visitors' somewhere.
 
-Application
------------
+## Application
 
 ### Days Before I Started the Service
 
@@ -109,8 +105,7 @@ Post Detail for
 Details Emerge on Tesco's Loading Bay
 during 28 - 31 October 2005
 
-Data
-----
+## Data
 
 ### Visits?
 
@@ -123,7 +118,7 @@ I don't know exactly how you are tracking, but now I have three slightly conflic
 For 30 Oct 2005
 
 |                   |             |
-|-------------------|-------------|
+| ----------------- | ----------- |
 | MeasureMap        | 26 Visitors |
 | AWSTATS           | 72 Visits   |
 | GREP Homepage Log | 52 Visits   |

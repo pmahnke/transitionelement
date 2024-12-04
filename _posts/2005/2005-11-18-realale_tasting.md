@@ -3,12 +3,10 @@ layout: post
 title: "Tasting Notes &#58;&#58; RealAle &#58; New Forest Perry"
 permalink: /archives/2005/11/realale_tasting.html
 commentfile: 2005-11-18-realale_tasting
+image: "/assets/images/newforestperry.jpg"
 category: on food & drink
 date: 2005-11-18 20:43:16
-
 ---
-
-<a href="/assets/images/newforestperry.jpg" title="New Forrest Perry"><img alt="New Forrest Perry" src="/assets/images/newforestperry-thumb.jpg" width="150" height="200" class="img_plain right" /></a>
 
 **New Forrest Perry**
 

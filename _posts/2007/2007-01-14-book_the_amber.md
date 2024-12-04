@@ -3,11 +3,10 @@ layout: post
 title: "Book - The Amber Spyglass"
 permalink: /archives/2007/01/book_the_amber.html
 commentfile: 2007-01-14-book_the_amber
+image: "/assets/images/1407102567.jpg"
 category: culture
 date: 2007-01-14 12:24:25
 ---
-
-<img class="photo right" src="/assets/images/1407102567.jpg" width="250" alt="The Amber Spyglass cover" />
 
 \[ [US](http://www.amazon.com/o/asin/1407102567) | [UK](http://www.amazon.co.uk/o/asin/1407102567) \]
 

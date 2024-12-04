@@ -3,11 +3,10 @@ layout: post
 title: "Book - The Narrows"
 permalink: /archives/2008/08/book_the_narrow.html
 commentfile: 2008-08-14-book_the_narrow
+image: "/assets/images/0446699543.jpg"
 category: culture
 date: 2008-08-14 13:33:00
 ---
-
-<img class="photo right" src="/assets/images/0446699543.jpg" width="250" alt="The Narrows (Harry Bosch) cover" />
 
 \[ [US](http://www.amazon.com/o/asin/0446699543) | [UK](http://www.amazon.co.uk/o/asin/0446699543) \]
 
