@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Japan - Overview of our trip"
+title: "Japan - Overview"
 permalink: /archives/2023/04/japan-overview.html
 commentfile: 2023-04-01-japan-overview
 category: travel
@@ -63,4 +63,4 @@ Every meal we had was excellent, no matter how cheap or expensive. Even better, 
 
 We also used _konbinis_ (convenience stores - 7 Eleven, FamilyMart and Lawsons) for all our snacks, picnics, and lighter meals when we felt overfed. The food is of excellent quality and fun to try.
 
-[Read our day by day notes on our 2023 trip to Japan >](%link _posts/2023/2023-04-02-japan-day-1.md %)
+[Read our day by day notes on our 2023 trip to Japan >](%link \_posts/2023/2023-04-02-japan-day-1.md %)
