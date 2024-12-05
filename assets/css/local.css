@@ -1,7 +1,10 @@
 img {
-    max-width: calc(var(--grid-max-width) * 2 / 3);
-    max-height: calc(var(--grid-max-width) * 2 / 3);
-    width: auto;
+    /** max-width: calc(var(--grid-max-width) * 2 / 3);
+    max-height: calc(var(--grid-max-width) * 2 / 3); **/
+    height: auto;
+    max-width: 100%;
+    object-fit: scale-down;
+    
 }
 
 /* lists */
@@ -113,6 +116,7 @@ blockquote {
 }
 .pagination-text {
     padding: 1em;
+    width: 15em;
 }
 .pagination-arrow {
     color: #666;
@@ -267,8 +271,10 @@ blockquote {
 
 .slides {
   padding: 0;
-  width: 605px;
-  height: 605px;
+  /** width: 605px;
+  height: 605px;**/
+  max-width: calc(var(--grid-max-width)* 2 / 3);
+  min-height: calc(var(--grid-max-width)* .6);
   display: block;
   margin: 0 auto;
   position: relative;
@@ -290,13 +296,14 @@ blockquote {
 .slide {
   top: 0;
   opacity: 0;
-  width: 605px;
-  #height: 605px;
+  /** width: 605px;
+  height: 605px;
+  width: calc(var(--grid-max-width)* 2 / 3);
+  height: calc(var(--grid-max-width)* 2 / 3);**/
+  object-fit: cover;
   display: block;
   position: absolute;
-
   transform: scale(0);
-
   transition: all .7s ease-in-out;
 }
 
