@@ -3,7 +3,7 @@ layout: post
 title: "Rätikon Hike Overview"
 permalink: /archives/2024/07/2024-07-06-ratikon_day_overview.html
 commentfile: 2024-07-06-ratikon_day_overview
-category: [travel, hiking]
+category: [hiking]
 tag: "overview"
 date: 2024-07-06 05:38:00
 image: "/assets/images/insta/ratikon-overview.jpg"

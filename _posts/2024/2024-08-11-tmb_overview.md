@@ -3,7 +3,7 @@ layout: post
 title: "Tour de Mont Blanc Overview"
 permalink: /archives/2024/07/2024-08-11-tmb_overview.html
 commentfile: 2024-08-11-tmb_overview
-category: [travel, hiking]
+category: [hiking]
 tag: "overview"
 date: 2024-08-11 05:38:00
 image: "/assets/images/insta/tmb-overview.jpg"

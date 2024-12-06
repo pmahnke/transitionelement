@@ -3,7 +3,7 @@ layout: post
 title: "South Downs Way Overview"
 permalink: /archives/2022/06/2022-06-12-south_downs_way_overview.html
 commentfile: 2022-06-12-south_downs_way_overview
-category: [travel, hiking]
+category: [hiking]
 date: 2022-06-12 07:27:09
 tag: overview
 image: "/assets/images/insta/IMG_20220320_113831.jpg"

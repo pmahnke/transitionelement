@@ -3,7 +3,7 @@ layout: post
 title: "John Muir Trail Overview"
 permalink: /archives/2022/08/2022-08-30-jmt_overview.html
 commentfile: 2022-08-30-jmt_overview
-category: [travel, hiking]
+category: [hiking]
 tag: "overview"
 date: 2022-08-30 05:38:00
 image: "/assets/images/insta/jmt-overview.jpg"

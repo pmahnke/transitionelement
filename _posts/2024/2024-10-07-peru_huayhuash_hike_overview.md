@@ -3,7 +3,7 @@ layout: post
 title: "Huayhuash Curcuit Overview"
 permalink: /archives/2024/10/2024-10-03-peru_huayhuash_hike_overview.html
 commentfile: 2024-10-03-peru_huayhuash_hike_overview
-category: [travel, hiking]
+category: [hiking]
 tag: "overview"
 date: 2024-10-03 06:18:00
 image: "/assets/images/insta/huahuash_overview.jpg"
