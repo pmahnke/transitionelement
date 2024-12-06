@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Southern Italy - Polignano A Mare - Day 5"
-permalink: /archives/2019/04/2019-04-04-southern_italy_polignano_day_5
+permalink: /archives/2019/04/2019-04-04-southern_italy_polignano_day_5.html
 commentfile: 2019-04-04-southern_italy_polignano_day_5
 category: travel
 date: 2019-04-04 10:01:00
