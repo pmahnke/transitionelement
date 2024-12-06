@@ -29,7 +29,7 @@ It was a real mix of places. In Wisconsin, we stayed with my mom, or in a home o
 
 ### How did we get around
 
-In Wisconsin, we just travelled in my mom's car. Then we flew out to Phoenix and rented a SUV for the time out West.
+In Wisconsin, we travelled in my mom's car. Then we flew out to Phoenix and rented a SUV for the rest of time out West and returned it in Las Vegas before we flew home.
 
 We drove around 4,000 miles (6,400 km) and paid $516.14 for the gas / petrol.
 

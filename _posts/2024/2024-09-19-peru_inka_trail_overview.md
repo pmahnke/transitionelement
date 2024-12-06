@@ -3,7 +3,7 @@ layout: post
 title: "Inka Trail Overview"
 permalink: /archives/2024/07/2024-09-19-peru_inka_trail_overview.html
 commentfile: 2024-09-19-peru_inka_trail_overview
-category: [travel, hiking]
+category: [hiking]
 tag: "overview"
 date: 2024-09-19 05:38:00
 image: "/assets/images/insta/machu-picchu-overview.jpg"

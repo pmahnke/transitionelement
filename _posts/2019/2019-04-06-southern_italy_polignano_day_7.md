@@ -1,27 +1,22 @@
 ---
 layout: post
-title: "Southern Italy - Matera - Day 1"
-permalink: /archives/2019/03/2019-03-31-southern_italy_matera_day_1.html
-commentfile: 2019-03-31-southern_italy_matera_day_1
-image: "/assets/images/insta/54237217_1746371295463228_1480307620202844726_n_18051276190012340.jpg"
+title: "Southern Italy - Polignano A Mare - Day 7"
+permalink: /archives/2019/04/2019-04-06-southern_italy_polignano_day_7.html
+commentfile: 2019-04-06-southern_italy_polignano_day_7
 category: travel
-tag: overview
-date: 2019-03-31 09:40:00
+date: 2019-04-06 07:30:00
+image: "/assets/images/2019/89814658_488594381836754_6086351201552668495_n_18001687615304596.jpg"
 excerpt: |
-  Made it to Matera. Lovely place.
+  More of us walking around Polignano
 ---
 
-Made it to Matera. Lovely place.
-
-We are staying in a cave house at [Hoplites BeB](https://maps.app.goo.gl/aUFvqrui5JaWcBJY8)
-
-And a pretty impressive first dinner.
+More of us walking around Polignano
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/56271620_2278914829013234_1582036086842277741_n_17973898510241557.jpg"><img src="/assets/images/2019/56271620_2278914829013234_1582036086842277741_n_17973898510241557.jpg" /></a>
+          <a href="/assets/images/2019/54511641_303548973673786_832775520141495731_n_17958991480255583.jpg"><img src="/assets/images/2019/54511641_303548973673786_832775520141495731_n_17958991480255583.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-4" class="prev">&#x2039;</label>
@@ -30,7 +25,7 @@ And a pretty impressive first dinner.
     </li>    <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/56218117_1985648755076776_7787123455005559408_n_17879446570322842.jpg"><img src="/assets/images/2019/56218117_1985648755076776_7787123455005559408_n_17879446570322842.jpg" /></a>
+          <a href="/assets/images/2019/56182696_830440873957925_7704856145259903226_n_18053514721060501.jpg"><img src="/assets/images/2019/56182696_830440873957925_7704856145259903226_n_18053514721060501.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-1" class="prev">&#x2039;</label>
@@ -39,7 +34,7 @@ And a pretty impressive first dinner.
     </li>    <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/54447269_767790346936105_2964031589762050274_n_18010781029174967.jpg"><img src="/assets/images/2019/54447269_767790346936105_2964031589762050274_n_18010781029174967.jpg" /></a>
+          <a href="/assets/images/2019/56645143_2113137608770061_3287690888380096859_n_18019308763154493.jpg"><img src="/assets/images/2019/56645143_2113137608770061_3287690888380096859_n_18019308763154493.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-2" class="prev">&#x2039;</label>
@@ -49,7 +44,7 @@ And a pretty impressive first dinner.
     <input type="radio" name="radio-btn" id="img-4" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/54237217_1746371295463228_1480307620202844726_n_18051276190012340.jpg"><img src="/assets/images/insta/54237217_1746371295463228_1480307620202844726_n_18051276190012340.jpg" /></a>
+          <a href="/assets/images/2019/56264457_452402125325149_87775450640894075_n_17886940282314774.jpg"><img src="/assets/images/2019/56264457_452402125325149_87775450640894075_n_17886940282314774.jpg" /></a>
         </div>
     	<div class="nav">
       	     <label for="img-3" class="prev">&#x2039;</label>

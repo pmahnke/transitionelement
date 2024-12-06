@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast Overview"
 permalink: /archives/2020/08/2020-08-27-coast_to_coast_overview.html
 commentfile: 2020-08-27-coast_to_coast_overview
-categories: ["travel", "hiking"]
+categories: ["hiking"]
 tag: "overview"
 date: 2020-08-27 06:04:00
 image: "/assets/images/insta/IMG_20200830_192143.jpg"

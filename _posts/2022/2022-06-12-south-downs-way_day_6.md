@@ -3,7 +3,7 @@ layout: post
 title: "South Downs Way - Day 6 - Southease to Eastbourne"
 permalink: /archives/2022/06/2022-06-12-south_downs_way_day_6.html
 commentfile: 2022-06-12-south_downs_way_day_6
-category: [travel, hiking]
+category: [hiking]
 date: 2022-06-12 07:25:00
 image: "/assets/images/insta/IMG_20220612_154733.jpg"
 excerpt: |
