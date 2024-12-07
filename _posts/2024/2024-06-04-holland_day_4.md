@@ -7,7 +7,7 @@ category: travel
 date: 2024-06-04 12:47:00
 image: "/assets/images/insta/447775722_1113901539895737_7149536124887763954_n_17899419311991224.jpg"
 excerpt: |
-  today we cycled to Utrecht. Very windy along the canal, but it was pretty and Utrecht is lovely.
+  Today we cycled to Utrecht. Very windy along the canal, but it was pretty and Utrecht is lovely.
 ---
 
 |            |           |

@@ -7,7 +7,7 @@ category: travel
 date: 2024-06-05 12:07:00
 image: "/assets/images/insta/447907223_825402442831742_7737881953546664313_n_18289222009161147.jpg"
 excerpt: |
-  today was a very headwindy cycle to Breda. It’s a very cute town with a ton of outdoor cafes.
+  Today was a very headwindy cycle to Breda. It’s a very cute town with a ton of outdoor cafes.
 ---
 
 |            |           |

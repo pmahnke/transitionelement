@@ -1,24 +1,26 @@
 ---
 layout: post
-title: "Southern Italy - Lecce - Day 4"
-permalink: /archives/2019/04/2019-04-03-southern_italy_lecce_day_4.html
-commentfile: 2019-04-03-southern_italy_lecce_day_4
+title: "Xmas 2016 - Florida - Day 3"
+permalink: /archives/2016/12/2016-12-16-xmas_2016_florida_day_3.html
+commentfile: 2016-12-16-xmas_2016_florida_day_3
 category: travel
-date: 2019-04-03 04:17:00
-image: "/assets/images/2019/56697184_272722503669737_671897421843081383_n_17843855047407613.jpg"
+date: 2016-12-16 08:47:00
+image: "/assets/images/2016/14566563_290194251378526_134265470856462336_n_17845522342168122.jpg"
 excerpt: |
-  Star Wars character, right?
+  Today we sailed to Burnt Store Marina for lunch
 ---
 
-Today we explored Lecce. There are a lot of lovely baroque streets and parks. There is also a giant Roman column and remains of a amphitheater.
+Today we sailed to [Burnt Store Marina](https://maps.app.goo.gl/wXx7rcnwBa99r5jc7) for lunch.
 
-We had dinner at [La Scarpetta Hostaria](https://maps.app.goo.gl/ZyFoLrtTadxThAex7), it was pretty good.
+It was a lovely day for a sail, but not too much wind.
+
+On the way back we sailed by an artificial reef and saw some dolphins.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20190403_124956.jpg"><img src="/assets/images/insta/IMG_20190403_124956.jpg" /></a>
+          <a href="/assets/images/2016/15538920_1883250425254381_5387858867344375808_n_17857131085107403.jpg"><img src="/assets/images/2016/15538920_1883250425254381_5387858867344375808_n_17857131085107403.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-6" class="prev">&#x2039;</label>
@@ -27,7 +29,7 @@ We had dinner at [La Scarpetta Hostaria](https://maps.app.goo.gl/ZyFoLrtTadxThAe
     </li>    <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/DSC04290.JPG"><img src="/assets/images/insta/DSC04290.JPG" /></a>
+          <a href="/assets/images/2016/15538926_1391291114214409_885159014147555328_n_17855834305080176.jpg"><img src="/assets/images/2016/15538926_1391291114214409_885159014147555328_n_17855834305080176.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-1" class="prev">&#x2039;</label>
@@ -36,7 +38,7 @@ We had dinner at [La Scarpetta Hostaria](https://maps.app.goo.gl/ZyFoLrtTadxThAe
     </li>    <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20190403_210409-EDIT.jpg"><img src="/assets/images/insta/IMG_20190403_210409-EDIT.jpg" /></a>
+          <a href="/assets/images/2016/15403482_576552392540470_6788179103905218560_n_17845525627153317.jpg"><img src="/assets/images/2016/15403482_576552392540470_6788179103905218560_n_17845525627153317.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-2" class="prev">&#x2039;</label>
@@ -45,7 +47,7 @@ We had dinner at [La Scarpetta Hostaria](https://maps.app.goo.gl/ZyFoLrtTadxThAe
     </li>    <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/DSC04259.JPG"><img src="/assets/images/insta/DSC04259.JPG" /></a>
+          <a href="/assets/images/2016/15538886_1348989808478972_5230811635819479040_n_18033210334170001.jpg"><img src="/assets/images/2016/15538886_1348989808478972_5230811635819479040_n_18033210334170001.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-3" class="prev">&#x2039;</label>
@@ -54,7 +56,7 @@ We had dinner at [La Scarpetta Hostaria](https://maps.app.goo.gl/ZyFoLrtTadxThAe
     </li>    <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/DSC04284.JPG"><img src="/assets/images/insta/DSC04284.JPG" /></a>
+          <a href="/assets/images/2016/15538125_602651776606615_6566213574845267968_n_17857086610109343.jpg"><img src="/assets/images/2016/15538125_602651776606615_6566213574845267968_n_17857086610109343.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-4" class="prev">&#x2039;</label>
@@ -64,7 +66,7 @@ We had dinner at [La Scarpetta Hostaria](https://maps.app.goo.gl/ZyFoLrtTadxThAe
     <input type="radio" name="radio-btn" id="img-6" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/56697184_272722503669737_671897421843081383_n_17843855047407613.jpg"><img src="/assets/images/2019/56697184_272722503669737_671897421843081383_n_17843855047407613.jpg" /></a>
+          <a href="/assets/images/2016/14566563_290194251378526_134265470856462336_n_17845522342168122.jpg"><img src="/assets/images/2016/14566563_290194251378526_134265470856462336_n_17845522342168122.jpg" /></a>
         </div>
     	<div class="nav">
       	     <label for="img-5" class="prev">&#x2039;</label>
