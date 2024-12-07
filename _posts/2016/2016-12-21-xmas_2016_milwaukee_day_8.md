@@ -1,26 +1,24 @@
 ---
 layout: post
-title: "Southern Italy - Polignano A Mare - Day 6"
-permalink: /archives/2019/04/2019-04-05-southern_italy_polignano_day_6.html
-commentfile: 2019-04-05-southern_italy_polignano_day_6
+title: "Xmas 2016 - Milwaukee - Day 8"
+permalink: /archives/2016/12/2016-12-21-xmas_2016_milwaukee_day_8.html
+commentfile: 2016-12-21-xmas_2016_milwaukee_day_8
 category: travel
-date: 2019-04-05 05:55:00
-image: "/assets/images/2019/54447192_210903659867863_2869369439369436316_n_18052517824017319.jpg"
+date: 2016-12-21 11:36:00
+image: "/assets/images/2016/15539096_1335018953236765_8458661746981208064_n_17866825897055602.jpg"
 excerpt: |
-  Family at the shore
+  Today we decorated the tree.
 ---
 
-Today we walked around the town and explored the cliffs and beaches.
+Today we decorated our second tree and got the house ready for Christmas. We also went to [Real Chili](https://maps.app.goo.gl/DQDEjwvNEoQ2E1VK7) for lunch. The boys really liked it.
 
-Too bad the sea is freezing
-
-We found a really good Panzerotti place and bought nice shrimp for dinner.
+The rest of the day was just catching up with John, Dee, and Grandma.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/54511641_303548973673786_832775520141495731_n_17958991480255583.jpg"><img src="/assets/images/2019/54511641_303548973673786_832775520141495731_n_17958991480255583.jpg" /></a>
+          <a href="/assets/images/2016/15539096_1335018953236765_8458661746981208064_n_17866825897055602.jpg"><img src="/assets/images/2016/15539096_1335018953236765_8458661746981208064_n_17866825897055602.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-7" class="prev">&#x2039;</label>
@@ -29,7 +27,7 @@ We found a really good Panzerotti place and bought nice shrimp for dinner.
     </li>    <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/56182696_830440873957925_7704856145259903226_n_18053514721060501.jpg"><img src="/assets/images/2019/56182696_830440873957925_7704856145259903226_n_18053514721060501.jpg" /></a>
+          <a href="/assets/images/2016/IMG_20161221_163713_1.jpg"><img src="/assets/images/2016/IMG_20161221_163713_1.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-1" class="prev">&#x2039;</label>
@@ -38,7 +36,7 @@ We found a really good Panzerotti place and bought nice shrimp for dinner.
     </li>    <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/56645143_2113137608770061_3287690888380096859_n_18019308763154493.jpg"><img src="/assets/images/2019/56645143_2113137608770061_3287690888380096859_n_18019308763154493.jpg" /></a>
+          <a href="/assets/images/2016/IMG_20161221_122741.jpg"><img src="/assets/images/2016/IMG_20161221_122741.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-2" class="prev">&#x2039;</label>
@@ -47,7 +45,7 @@ We found a really good Panzerotti place and bought nice shrimp for dinner.
     </li>    <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/56264457_452402125325149_87775450640894075_n_17886940282314774.jpg"><img src="/assets/images/2019/56264457_452402125325149_87775450640894075_n_17886940282314774.jpg" /></a>
+          <a href="/assets/images/2016/IMG_20161221_122819.jpg"><img src="/assets/images/2016/IMG_20161221_122819.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-3" class="prev">&#x2039;</label>
@@ -56,7 +54,7 @@ We found a really good Panzerotti place and bought nice shrimp for dinner.
     </li>    <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20190405_123347.jpg"><img src="/assets/images/insta/IMG_20190405_123347.jpg" /></a>
+          <a href="/assets/images/2016/IMG_20161221_133600.jpg"><img src="/assets/images/2016/IMG_20161221_133600.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-4" class="prev">&#x2039;</label>
@@ -65,7 +63,7 @@ We found a really good Panzerotti place and bought nice shrimp for dinner.
     </li>    <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/54447192_210903659867863_2869369439369436316_n_18052517824017319.jpg"><img src="/assets/images/2019/54447192_210903659867863_2869369439369436316_n_18052517824017319.jpg" /></a>
+          <a href="/assets/images/2016/IMG_20161221_122728.jpg"><img src="/assets/images/2016/IMG_20161221_122728.jpg" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-5" class="prev">&#x2039;</label>
@@ -75,7 +73,7 @@ We found a really good Panzerotti place and bought nice shrimp for dinner.
     <input type="radio" name="radio-btn" id="img-7" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/IMG_20190405_120214-PANO.jpg"><img src="/assets/images/insta/IMG_20190405_120214-PANO.jpg" /></a>
+          <a href="/assets/images/2016/15624313_1235447073199230_8859173748050231296_n_17867415073009167.jpg"><img src="/assets/images/2016/15624313_1235447073199230_8859173748050231296_n_17867415073009167.jpg" /></a>
         </div>
     	<div class="nav">
       	     <label for="img-6" class="prev">&#x2039;</label>

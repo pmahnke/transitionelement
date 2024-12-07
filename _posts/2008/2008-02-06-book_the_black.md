@@ -6,6 +6,8 @@ commentfile: 2008-02-06-book_the_black
 image: "/assets/images/0446613444.jpg"
 category: culture
 date: 2008-02-06 21:44:14
+excerpt: |
+  My least favourite of the Bosch books. Connelly takes Bosch to Mexico and makes him more Jack Reacher than Harry Bosch -- it doesn't work.
 ---
 
 \[ [US](http://www.amazon.com/o/asin/0446613444) | [UK](http://www.amazon.co.uk/o/asin/0446613444) \]

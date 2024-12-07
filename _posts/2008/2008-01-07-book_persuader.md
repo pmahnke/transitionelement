@@ -6,6 +6,8 @@ commentfile: 2008-01-07-book_persuader
 image: "/assets/images/0385336667.jpg"
 category: culture
 date: 2008-01-07 22:18:12
+excerpt: |
+  Never forgive, never forget. That's Jack Reacher's standard operating procedure.
 ---
 
 \[ [US](http://www.amazon.com/o/asin/0385336667) | [UK](http://www.amazon.co.uk/o/asin/0385336667) \]
