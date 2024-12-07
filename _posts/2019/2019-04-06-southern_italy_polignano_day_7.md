@@ -5,27 +5,29 @@ permalink: /archives/2019/04/2019-04-06-southern_italy_polignano_day_7.html
 commentfile: 2019-04-06-southern_italy_polignano_day_7
 category: travel
 date: 2019-04-06 07:30:00
-image: "/assets/images/2019/89814658_488594381836754_6086351201552668495_n_18001687615304596.jpg"
+image: "/assets/images/insta/IMG_20190406_141735-EFFECTS.jpg"
 excerpt: |
-  More of us walking around Polignano
+  Today we took a boat trip to see some of the coves and caves around Polganano.
 ---
 
-More of us walking around Polignano
+Today we took a boat trip to see some of the coves and caves around Polganano. The color of the water alone makes me want to come back here in the summer.
+
+We fly home tomorrow.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/54511641_303548973673786_832775520141495731_n_17958991480255583.jpg"><img src="/assets/images/2019/54511641_303548973673786_832775520141495731_n_17958991480255583.jpg" /></a>
+          <a href="/assets/images/insta/DSC04345.JPG"><img src="/assets/images/insta/DSC04345.JPG" /></a>
         </div>			
     	<div class="nav">
-      	     <label for="img-4" class="prev">&#x2039;</label>
+      	     <label for="img-5" class="prev">&#x2039;</label>
       	     <label for="img-2" class="next">&#x203a;</label>
     	 </div>
     </li>    <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/56182696_830440873957925_7704856145259903226_n_18053514721060501.jpg"><img src="/assets/images/2019/56182696_830440873957925_7704856145259903226_n_18053514721060501.jpg" /></a>
+          <a href="/assets/images/insta/DSC04338.JPG"><img src="/assets/images/insta/DSC04338.JPG" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-1" class="prev">&#x2039;</label>
@@ -34,20 +36,29 @@ More of us walking around Polignano
     </li>    <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/56645143_2113137608770061_3287690888380096859_n_18019308763154493.jpg"><img src="/assets/images/2019/56645143_2113137608770061_3287690888380096859_n_18019308763154493.jpg" /></a>
+          <a href="/assets/images/insta/DSC04335.JPG"><img src="/assets/images/insta/DSC04335.JPG" /></a>
         </div>			
     	<div class="nav">
       	     <label for="img-2" class="prev">&#x2039;</label>
       	     <label for="img-4" class="next">&#x203a;</label>
     	 </div>
-    </li>
-    <input type="radio" name="radio-btn" id="img-4" />
+    </li>    <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/2019/56264457_452402125325149_87775450640894075_n_17886940282314774.jpg"><img src="/assets/images/2019/56264457_452402125325149_87775450640894075_n_17886940282314774.jpg" /></a>
-        </div>
+          <a href="/assets/images/insta/IMG_20190406_141735-EFFECTS.jpg"><img src="/assets/images/insta/IMG_20190406_141735-EFFECTS.jpg" /></a>
+        </div>			
     	<div class="nav">
       	     <label for="img-3" class="prev">&#x2039;</label>
+      	     <label for="img-5" class="next">&#x203a;</label>
+    	 </div>
+    </li>
+    <input type="radio" name="radio-btn" id="img-5" />
+    <li class="slide-container">
+        <div class="slide">
+          <a href="/assets/images/insta/DSC04327.JPG"><img src="/assets/images/insta/DSC04327.JPG" /></a>
+        </div>
+    	<div class="nav">
+      	     <label for="img-4" class="prev">&#x2039;</label>
       	     <label for="img-1" class="next">&#x203a;</label>
     	 </div>
     </li>
@@ -56,5 +67,6 @@ More of us walking around Polignano
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
+      <label for="img-5" class="nav-dot" id="img-dot-5"></label>
   </li>
 </ul>

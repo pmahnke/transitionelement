@@ -2,7 +2,7 @@
 
 
 
-my $dir = qq|/home/peter/src/personal/transitionelement/assets/images/|;
+my $dir = qq|/home/peter/src/personal/transitionelement/assets/images/2016|;
 
 my $mvdir = qq|/home/peter/src/personal/insta|;
 
@@ -23,7 +23,7 @@ foreach $file (@img) {
 
     if (!$count) {
         print "$i BAD $file\n";
-        #`mv $dir/$file $mvdir`;
+        `mv $dir/$file $mvdir`;
         $count = "";
         $i++;
     } else {

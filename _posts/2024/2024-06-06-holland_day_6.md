@@ -7,7 +7,7 @@ category: travel
 date: 2024-06-06 12:10:00
 image: "/assets/images/insta/447920453_1905706953194329_7051972338972298537_n_18003449402552932.jpg"
 excerpt: |
-  today we cycled to Gouda via Rotterdam. I big mix of urban and bucolic. Gouda has a huge square and lovely canals surrounding the centre.
+  Today we cycled to Gouda via Rotterdam. I big mix of urban and bucolic. Gouda has a huge square and lovely canals surrounding the centre.
 ---
 
 |            |           |

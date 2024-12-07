@@ -7,19 +7,12 @@ category: travel
 date: 2019-04-01 05:06:00
 image: "/assets/images/2019/54447065_126184101814837_5654034937556872279_n_17846343148393553.jpg"
 excerpt: |
-  A church carved into the rocks.
+  Today we walked around and explored Matera.
 ---
 
-|            |           |
-| ---------- | --------- | --- |
-| **Stayed** |           |
-| **Ate**    | _Lunch_   |     |
-|            | _Dinner_  |     |
-| **Travel** | _Flying_  |     |
-|            | _Train_   |     |
-|            | _Walking_ |     |
+Today we walked around and explored Matera. We visied the ancient wells and a museum of the homes built into the hillside and learned how people lived here in the past. Also about the history of the place and how the Sassi area was emptied by goverment in the early 1950's because of the poverty and overcrowding.
 
-A church carved into the rocks.
+We visited an old church carved into the rocks and a more modern one as well.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
