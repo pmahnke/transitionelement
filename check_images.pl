@@ -1,8 +1,9 @@
 #!/usr/bin/perl
 
+###
+# check if images are in posts, otherwise move them... be careful
 
-
-my $dir = qq|/home/peter/src/personal/transitionelement/assets/images/2016|;
+my $dir = qq|/home/peter/src/personal/transitionelement/assets/images/insta|;
 
 my $mvdir = qq|/home/peter/src/personal/insta|;
 
