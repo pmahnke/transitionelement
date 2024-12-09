@@ -8,6 +8,6 @@ db/*
 sitemap.xml.gz
 robots.txt
 .DS_store
-.jekyll-cache*
+.jekyll-cache
 Gemfile.lock
 vendor/*
