@@ -3,13 +3,14 @@
 <!DOCTYPE html>
 <html>
 
-{% include head.html %}
+{% include head_new.html %}
 
 <body>
-<section class="row">
-  <div class="strip-inner-wrapper">
-    <div class="prefix-1 col-4 suffix-1">
-{% include header.html %}
-    </div>
 
-    <div class="post-content col-6">
+  <div class="grid-container two-thirds">
+    <div>
+  
+      {% include header_new.html %} 
+    
+    </div><!-- /end 2/3 -->
+    <div>
