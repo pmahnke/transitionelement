@@ -1,12 +1,7 @@
 ---
 ---
-
-  </div>
-</section>
-
-<!-- footer -->
-{% include footer.html %}
+  <!-- footer -->
+  {% include footer_new.html %}
 
 </body>
-
 </html>
