@@ -10,3 +10,5 @@ image: "/assets/images/insta/461750648_18467837860047535_224594193024912711_n_17
 excerpt: |
   About our trip to Peru from August to October 2024
 ---
+
+Angela and I have wanted to go to Peru for ages, now that we are retired, we put together a two month trip to see as much of the country as we could, but still at a reasonable pace.
