@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Huayhuash Curcuit Overview"
-permalink: /archives/2024/10/2024-10-03-peru_huayhuash_hike_overview.html
-commentfile: 2024-10-03-peru_huayhuash_hike_overview
+permalink: /archives/2024/09/2024-09-27-peru_huayhuash_hike_overview.html
+commentfile: 2024-09-27-peru_huayhuash_hike_overview
 category: [hiking]
 tag: "overview"
-date: 2024-10-03 06:18:00
+date: 2024-09-27 06:18:00
 image: "/assets/images/insta/huahuash_overview.jpg"
 excerpt: |
   Matacancha to Matacancha - 62 miles (100 km) - 10 days

@@ -14,4 +14,4 @@ The recipe is the essense of simplicity and really allows you to taste the all t
 
 Great with crusty bread, soft cheeses, sausage and light red or full white wine.
 
-Here is [my recipe](https://www.mahnke.net/recipe/index.cgi?page=open&key=2006022163051).
+Here is [my recipe](https://mahnke.net/recipes/chickpea_and_carrot_soup/).

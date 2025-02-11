@@ -10,7 +10,7 @@ excerpt: |
   We walked slowly through quiet streets ( it’s a holiday) to Lidia and Junye’s for an amazing paella and crème brûlée lunch.
 ---
 
-Today we got up a bit later and had a small breakfast and made a [plum cake](https://www.mahnke.net/recipe/index.cgi?page=open&key=76) to bring to Lidia and Junye's.
+Today we got up a bit later and had a small breakfast and made a [plum cake](https://mahnke.net/recipes/fruit_kuchen_muerbeteig/) to bring to Lidia and Junye's.
 
 Then we walked slowly through quiet streets (it’s a holiday) to Lidia and Junye’s for an amazing paella and crème brûlée lunch.
 

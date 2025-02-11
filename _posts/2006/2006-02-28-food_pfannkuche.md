@@ -16,4 +16,4 @@ Well, the boys had the minister from the local church come in and talk about it.
 
 However, we did celebrate by making a German crêpe called 'Pfannkuchen'. My wife can eat masses of them plain, but the boys and I insist on ham & cheese or sugar & lemon or maple syrup.
 
-[Here is the recipe](https://www.mahnke.net/recipe/index.cgi?page=open&key=20062193655)
+[Here is the recipe](https://mahnke.net/recipes/pfannkuchen/)
