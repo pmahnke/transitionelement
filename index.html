@@ -20,7 +20,7 @@ layout: default-empty
     {% endfor %}
 
     <!-- next stories - big -->
-    {% for post in site.posts limit: 3 offset: 2 %}
+    {% for post in site.posts limit: 3 offset: 1 %}
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     {{ post.excerpt | textilize }}
     <p class="post-link"><a href="{{ post.url }}">Continue reading &#8230;</a></p>
