@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tasting Notes &#58;&#58; RealAle &#58; Pure Gold"
+title: "Tasting Notes :: RealAle : Pure Gold"
 permalink: /archives/2005/11/tasting_notes_r_1.html
 commentfile: 2005-11-23-tasting_notes_r_1
 image: "/assets/images/puregold.jpg"

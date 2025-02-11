@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allotment &#58; Paper Pots"
+title: "Allotment : Paper Pots"
 permalink: /archives/2006/03/allotment_paper.html
 commentfile: 2006-03-26-allotment_paper
 image: "/assets/images/paperpot.jpg"

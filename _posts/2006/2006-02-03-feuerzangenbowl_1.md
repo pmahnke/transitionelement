@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Drink &#58; Feuerzangenbowle"
+title: "Drink : Feuerzangenbowle"
 permalink: /archives/2006/02/feuerzangenbowl_1.html
 commentfile: 2006-02-03-feuerzangenbowl_1
 category: on food & drink

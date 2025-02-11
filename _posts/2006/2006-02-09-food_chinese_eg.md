@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Food &#58; Chinese Eggplant"
+title: "Food : Chinese Eggplant"
 permalink: /archives/2006/02/food_chinese_eg.html
 commentfile: 2006-02-09-food_chinese_eg
 image: "/assets/images/food-eggplant.jpg"

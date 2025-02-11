@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Food &#58; Tortilla Espanola"
+title: "Food : Tortilla Espanola"
 permalink: /archives/2006/02/food_tortilla_e.html
 commentfile: 2006-02-11-food_tortilla_e
 image: "/assets/images/food_tortilla.jpg"
