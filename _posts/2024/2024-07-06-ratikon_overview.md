@@ -15,7 +15,7 @@ excerpt: |
 
 #### Sankt Antönien to Sankt Antönien - 86 km (54 miles) - 7 days
 
-Our good friend Dawn wanted to do a hike a head of her longer and harder hike in Italy and France later in July. We thought it was a good idea for us too as we were going to be doing harder hikes later in the year; the [Tour de Mont Blanc](_posts/2024/2024-08-11-tmb_overview.md), [Inka Trail](_posts/2024/2024-09-19-peru_inka_trail_overview.md), and the [Huayhuash Circuit]({% link _posts/2024/2024-10-07-peru_huayhuash_hike_overview.md %}).
+Our good friend Dawn wanted to do a hike a head of her longer and harder hike in Italy and France later in July. We thought it was a good idea for us too as we were going to be doing harder hikes later in the year; the [Tour de Mont Blanc](_posts/2024/2024-08-11-tmb_overview.md), [Inka Trail](_posts/2024/2024-09-19-peru_inka_trail_overview.md), and the [Huayhuash Circuit]({% link _posts/2024/2024-09-27-peru_huayhuash_hike_overview.md %}).
 
 ### Getting there
 
