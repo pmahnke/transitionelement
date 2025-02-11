@@ -20,4 +20,4 @@ This classic has become complete comfort food for my wife and me. We make it a f
 
 I think this makes a great main with a rich salad like a Caesar or one with fruit, nuts and/or cheese. It can also be a side with some grilled fish or appetiser. Very versatile.
 
-Here is [my recipe](https://www.mahnke.net/recipe/index.cgi?page=open&key=200604213716)
+Here is [my recipe](https://mahnke.net/recipes/eggplant_parmesan/)

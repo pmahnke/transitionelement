@@ -14,4 +14,4 @@ Based on the classic Chinese dish, "Ants Climbing a Tree", named because of the 
 
 We normally make a simple long bean dish with this that uses very similar ingredients. Give it a try.
 
-[Here is my recipe.](https://www.mahnke.net/recipe/index.cgi?page=open&key=2006111124322)
+[Here is my recipe.](https://mahnke.net/recipes/chinese_eggplant_with_minced_pork/)
