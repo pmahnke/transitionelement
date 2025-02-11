@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book - The Life and Times of the Thunderbolt Kid&#58; A Memoir"
+title: "Book - The Life and Times of the Thunderbolt Kid: A Memoir"
 permalink: /archives/2007/02/book_the_life_a.html
 commentfile: 2007-02-01-book_the_life_a
 image: "/assets/images/book_thunderboltkid.jpg"

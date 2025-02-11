@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Food &#58; Chickpea & Carrot Soup"
+title: "Food : Chickpea & Carrot Soup"
 permalink: /archives/2006/01/food_chickpea_c.html
 commentfile: 2006-01-23-food_chickpea_c
 image: "/assets/images/chickpeas.jpg"

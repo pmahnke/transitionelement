@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tasting Notes &#58;&#58; RealAle &#58; New Forest Cider"
+title: "Tasting Notes :: RealAle : New Forest Cider"
 permalink: /archives/2005/11/realale_tasting_1.html
 commentfile: 2005-11-18-realale_tasting_1
 image: "/assets/images/newforestcider-thumb.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apple with Intel &#151; My Personal Take &#58;&#58; Part 2"
+title: "Apple with Intel &#151; My Personal Take :: Part 2"
 permalink: /archives/2005/06/apple_with_inte_1.html
 commentfile: 2005-06-20-apple_with_inte_1
 image: "/assets/images/beautyshot_power_mac_g5-thu.gif"

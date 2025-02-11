@@ -48,8 +48,6 @@ We felt nervous about the next ten days as we couldn’t see what we camped unde
 			
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
-
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
-
 </li>
 </ul>

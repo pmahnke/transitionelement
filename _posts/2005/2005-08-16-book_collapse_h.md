@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book - Collapse &#58; How Societies Choose to Fail or Survive "
+title: "Book - Collapse : How Societies Choose to Fail or Survive "
 permalink: /archives/2005/08/book_collapse_h.html
 commentfile: 2005-08-16-book_collapse_h
 image: "/assets/images/collapse.jpg"

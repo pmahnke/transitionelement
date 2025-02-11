@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Food &#58; Pfannkuchen"
+title: "Food : Pfannkuchen"
 permalink: /archives/2006/02/food_pfannkuche.html
 commentfile: 2006-02-28-food_pfannkuche
 image: "/assets/images/Pfannkuchen.jpg"

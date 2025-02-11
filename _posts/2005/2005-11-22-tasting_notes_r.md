@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tasting Notes &#58;&#58; RealAle &#58; Red Admiral"
+title: "Tasting Notes :: RealAle : Red Admiral"
 permalink: /archives/2005/11/tasting_notes_r.html
 commentfile: 2005-11-22-tasting_notes_r
 image: "/assets/images/red_admiral.jpg"

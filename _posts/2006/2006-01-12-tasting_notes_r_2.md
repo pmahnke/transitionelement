@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tasting Notes &#58;&#58; RealAle &#58; Nelson's Revenge"
+title: "Tasting Notes :: RealAle : Nelson's Revenge"
 permalink: /archives/2006/01/tasting_notes_r_2.html
 commentfile: 2006-01-12-tasting_notes_r_2
 image: "/assets/images/beer_nelsonrevenge.gif"
