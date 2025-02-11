@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Site Launch&#58; Scholastic Book Clubs"
+title: "Site Launch: Scholastic Book Clubs"
 permalink: /archives/2009/08/site_launch_sch.html
 commentfile: 2009-08-13-site_launch_sch
 image: "/assets/images/SCB_parentHome_200909_cropped-thumb.png"

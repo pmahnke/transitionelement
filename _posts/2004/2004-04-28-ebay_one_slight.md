@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EBAY&#58; One Slightly Used Size 12 Wedding Gown. Only worn twice..."
+title: "EBAY: One Slightly Used Size 12 Wedding Gown. Only worn twice..."
 permalink: /archives/2004/04/ebay_one_slight.html
 commentfile: 2004-04-28-ebay_one_slight
 image: "/assets/images/ebay_wedding_dress.JPG"

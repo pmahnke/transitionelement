@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Food &#58; Profiterole"
+title: "Food : Profiterole"
 permalink: /archives/2006/03/food_profiterol.html
 commentfile: 2006-03-26-food_profiterol
 image: "/assets/images/profiterole.jpg"

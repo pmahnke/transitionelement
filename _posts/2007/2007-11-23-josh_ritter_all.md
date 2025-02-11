@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Josh Ritter&#58; All grown-up!"
+title: "Josh Ritter: All grown-up!"
 permalink: /archives/2007/11/josh_ritter_all.html
 commentfile: 2007-11-23-josh_ritter_all
 image: "/assets/images/josh_ritter_sbe.jpg"

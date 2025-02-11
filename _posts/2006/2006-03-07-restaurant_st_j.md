@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Restaurant &#58; St. JOHN"
+title: "Restaurant : St. JOHN"
 permalink: /archives/2006/03/restaurant_st_j.html
 commentfile: 2006-03-07-restaurant_st_j
 image: "/assets/images/stJohnRestaurant-thumb.gif"

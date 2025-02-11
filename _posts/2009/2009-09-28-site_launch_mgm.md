@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Site Launch&#58; MGM Plus"
+title: "Site Launch: MGM Plus"
 permalink: /archives/2009/09/site_launch_mgm.html
 commentfile: 2009-09-28-site_launch_mgm
 image: "/assets/images/mgm_student_home.jpg"

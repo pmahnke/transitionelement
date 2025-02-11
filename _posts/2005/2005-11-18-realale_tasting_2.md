@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tasting Notes &#58;&#58; RealAle &#58; Two Pints Bitter"
+title: "Tasting Notes :: RealAle : Two Pints Bitter"
 permalink: /archives/2005/11/realale_tasting_2.html
 commentfile: 2005-11-18-realale_tasting_2
 image: "/assets/images/twopints.jpg"

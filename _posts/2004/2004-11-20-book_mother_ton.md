@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book - Mother Tongue&#58; The English Language"
+title: "Book - Mother Tongue: The English Language"
 permalink: /archives/2004/11/book_mother_ton.html
 commentfile: 2004-11-20-book_mother_ton
 image: "/assets/images/014014305X.02._SCMZZZZZZZ_.jpg"

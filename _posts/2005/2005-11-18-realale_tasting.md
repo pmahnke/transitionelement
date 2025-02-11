@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tasting Notes &#58;&#58; RealAle &#58; New Forest Perry"
+title: "Tasting Notes :: RealAle : New Forest Perry"
 permalink: /archives/2005/11/realale_tasting.html
 commentfile: 2005-11-18-realale_tasting
 image: "/assets/images/newforestperry.jpg"

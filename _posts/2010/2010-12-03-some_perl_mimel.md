@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Some Perl MIME&#58;&#58;Lite HTML Image Embedding"
+title: "Some Perl MIME::Lite HTML Image Embedding"
 permalink: /archives/2010/12/some_perl_mimel.html
 commentfile: 2010-12-03-some_perl_mimel
 category: on technology
 date: 2010-12-03 20:43:03
-
 ---
 
 At some point, you have been sent an HTML email with images that are still on the server. Most email clients will not download the images automatically, unless the sender is in your address book or been white-listed somehow. You either get:
@@ -22,7 +21,7 @@ or,
 
 This is for good reason, nasty marketers can embedded tracking codes and who knows what else (joke)...
 
-Of course, the real solution to this is, *send plain text or rich text emails*; however, I realise there are times when an HTML email is the only think that will make the boss and the design team happy. Specially for the company Christmas email.
+Of course, the real solution to this is, _send plain text or rich text emails_; however, I realise there are times when an HTML email is the only think that will make the boss and the design team happy. Specially for the company Christmas email.
 
 So I have ended up coding a web form that allows people add the To:, From:, Subject: and a personal message to our email, but it needs to send our nice corporate image too.
 
@@ -30,21 +29,21 @@ So I have ended up coding a web form that allows people add the To:, From:, Subj
 
 Using [MIME::Lite](http://search.cpan.org/~rjbs/MIME-Lite-3.027/lib/MIME/Lite.pm), you can easily send these images with a [multipart/mixed](http://en.wikipedia.org/wiki/MIME#Mixed) email. Basically, you make the image source point to a file "cid:&lt;filename&gt;" and then attach that &lt;filename&gt;. However, I figured, you might get a lot of image files in your HTML email and some might not even be local.
 
-*What a pain it would be to hand code these up every time!*
+_What a pain it would be to hand code these up every time!_
 
 So I wrote a script that:
 
 1.  parses the HTML looking for &lt;img tags
 2.  if it finds one, it checks if the file is local or remote
-    1.  if it is remote, it *wget* the file and makes it a local one (you have to delete these later)
+    1.  if it is remote, it _wget_ the file and makes it a local one (you have to delete these later)
 3.  then it turns the source of the image to the correct new one &lt;img src="cid:
 4.  finally, it attaches the file, using [base64](http://en.wikipedia.org/wiki/Base64)
 
 Now this will work for any HTML email I send, not just the Christmas card. The benefits are:
 
--   less chance of the email being flagged as SPAM
--   better chance someone will see the HTML email
--   happier boss and design people
+- less chance of the email being flagged as SPAM
+- better chance someone will see the HTML email
+- happier boss and design people
 
 Here is some code...
 
