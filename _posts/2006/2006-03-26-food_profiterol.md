@@ -22,4 +22,4 @@ It can't be simpler either.
 
 Its very nice and feels fancy. I recommend it highly for a dinner party.
 
-[Here is the recipe](https://www.mahnke.net/recipe/index.cgi?page=open&key=2006226201531)
+[Here is the recipe](https://mahnke.net/recipes/profiterole/)
