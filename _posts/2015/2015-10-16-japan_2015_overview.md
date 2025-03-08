@@ -17,4 +17,4 @@ This was our first trip to Japan as a family. We decided to do a pretty conventi
 
 The boys were 14 and 16 at the time, a great age to travel and hike. They also really loved (most) of the food and the modern bits of Japanese culture. While Owen wanted to go for Pokemon, this trip had a far bigger impact on him over time. He has become a real Japanophile, learning the language, writting, food and culture a lot more deeply.
 
-[Read our day by day notes on our 2015 trip to Japan >](%link \_posts/2015/2015-10-17-japan_2015_day_0.md %)
+[Read our day by day notes on our 2015 trip to Japan >](%link _posts/2015/2015-10-17-japan_2015_day_0.md %)
