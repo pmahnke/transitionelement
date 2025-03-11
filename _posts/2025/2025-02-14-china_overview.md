@@ -87,16 +87,16 @@ Every meal we had was excellent, no matter how cheap or expensive. The quality o
 
 Here is a rough guide to what we spent for three adults per day (averaged over 20 days). Obviously, bigger cities cost more than smaller ones. I didn't divide it by three for a per person cost as that would be understating costs. For example, we often had two hotel rooms, but many hotels had rooms for three people, usually with a second bedroom.
 
-| Category                   | ¥ Yuan    | $ USD   | £ GBP   |
-| -------------------------- | --------- | ------- | ------- |
-| Breakfast                  | ¥43.08    | $6.03   | £4.74   |
-| Dinner                     | ¥160.82   | $22.52  | £17.69  |
-| Drinks (at a bar)          | ¥75.58    | $10.58  | £8.31   |
-| Hotel                      | ¥778.75   | $109.03 | £85.66  |
-| Lunch                      | ¥125.61   | $17.59  | £13.82  |
-| Snacks                     | ¥50.41    | $7.06   | £5.54   |
-| Tips                       | ¥400.00   | $56.00  | £44.00  |
-| Transport                  | ¥18.57    | $2.60   | £2.04   |
+| Category                   |    ¥ Yuan |   $ USD |   £ GBP |
+| -------------------------- | --------: | ------: | ------: |
+| Breakfast                  |    ¥43.08 |   $6.03 |   £4.74 |
+| Dinner                     |   ¥160.82 |  $22.52 |  £17.69 |
+| Drinks (at a bar)          |    ¥75.58 |  $10.58 |   £8.31 |
+| Hotel                      |   ¥778.75 | $109.03 |  £85.66 |
+| Lunch                      |   ¥125.61 |  $17.59 |  £13.82 |
+| Snacks                     |    ¥50.41 |   $7.06 |   £5.54 |
+| Tips                       |   ¥400.00 |  $56.00 |  £44.00 |
+| Transport                  |    ¥18.57 |   $2.60 |   £2.04 |
 | Total per day for 3 adults | ¥1,718.76 | $240.63 | £189.06 |
 
 [Read our day by day notes on our 2025 trip to China >]({%link _posts/2025/2025-02-15-china_harbin_day_1.md %})
