@@ -25,7 +25,7 @@ We started looking at more time in Tokyo and going north. After a few weeks of r
 
 Eventually, we mapped a path and planned to spend five days in Tokyo at the start and two more days at the end of the trip. Then we would take a Shinkansen train to Fukushima and rent a car. Finally, we would travel up the east and come back down the island's west side with many nights in the mountain areas of Dewa and Zao.
 
-### Traveling around Tokyo
+### Travelling around Tokyo
 
 For Tokyo, we purchased a train ticket from Narita Airport to Tokyo and a three-day subway pass ahead of time from [Klook](https://www.klook.com/en-GB/activity/19437-skyliner-subway-ticket-tokyo/). It was called the 'Skyliner and Tokyo Subway Ticket Combo', which worked great for us.
 
