@@ -19,11 +19,11 @@ excerpt: |
 
 We went to two different snow festivals today via the excellent subway system. 
 
-The first was the Sun Island International Snow Sculpture Art Expo that features only snow sculptures.  They ranged in size from three meters square to hundreds of meters in length and perhaps 30 meters in hight.  There were also slides and strange vehicles on frozen lakes to ride.  Well worth a few hours visit.  Then, just one (free) stop away on the subway was the next festival.
+The first was the Sun Island International Snow Sculpture Art Expo that features only snow sculptures.  They ranged in size from three meters square to hundreds of meters in length and perhaps 30 meters in height.  There were also slides and strange vehicles on frozen lakes to ride.  Well worth a few hours visit.  Then, just one (free) stop away on the subway was the next festival.
 
 The second was the much bigger Harbin Ice & Snow World and has ice sculptures and buildings. Most were the size of a house and some were as big as a large building. All had incredible details. 
 
-The ice buildings ones had loads of LED lights and glowed with colour at night. It was absolutely amazing. Very cold, but worth the trip here.  There was also an excellent food hall with many restuarants.  Loads of ice slides, a ferris wheel, an arena for a car and motorcycle demonstration, rides, reindeer, and outdoor music shows.
+The ice buildings ones had loads of LED lights and glowed with colour at night. It was absolutely amazing. Very cold, but worth the trip here.  There was also an excellent food hall with many restaurants.  Loads of ice slides, a ferris wheel, an arena for a car and motorcycle demonstration, rides, reindeer, and outdoor music shows.
 
 We stayed until dark just to witness it at night.  It was amazing.
 
