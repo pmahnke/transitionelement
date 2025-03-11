@@ -7,27 +7,25 @@ category: travel
 date: 2025-02-17 06:24:00
 image: "/assets/images/insta/tmp/480250019_18492982204047535_241161594742827272_n_18060126862802770.jpg"
 excerpt: |
-  We visited St Sophia Church, which was from when the Russians opened a train to Harbin.
+  We visited St Sophia Church, which was built at the time the Russians opened a train to Harbin.
 ---
 
-|            |                                                              |
-| ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  Xana Deluxe Hotel | No. 9, Xisandao Street, 道外区哈尔滨市黑龙江省 China, 150020|
-| **Ate**    | _Lunch_                                                      |  Daoli Vegetable Market (道里菜市场)        |
-|            | _Dinner_                                                     |      Harbin 1907    |
-| **Travel** | _Walking_                                                    |   5.8 km       |
+|            |                   |
+| ---------- | ----------------- | ------------------------------------------------------------ |
+| **Stayed** | Xana Deluxe Hotel | No. 9, Xisandao Street, 道外区哈尔滨市黑龙江省 China, 150020 |
+| **Ate**    | _Lunch_           | Daoli Vegetable Market (道里菜市场)                          |
+|            | _Dinner_          | Harbin 1907                                                  |
+| **Travel** | _Walking_         | 5.8 km                                                       |
 
+Today we visited St Sophia Church, which was built at the time the Russians opened a train to Harbin. There must be a snow princess/angel story as loads of people rented costumes and were having professional photo shoots outside.
 
-Today we visited St Sophia Church, which was from when the Russians opened a train to Harbin. There must be a snow princess/angel story as loads of people rented costumes and were having professional photo shoots outside.
+Then we ate our way through the _Daoli Vegetable Market_ for lunch. Everything was amazing. We already cannot get over how much better the food is than thirty years ago. We also visited one of the many Russian food stores just to see what was available. Then we had a tea tasting and Owen bought a bunch of nice tea.
 
-Then we ate our way through the Daoli Vegetable Market for lunch. Everything was amazing. We already cannot get over how much better the food is than thirty years ago. We also visited one of the many Russian food stores just to see what was available.  Then we had a tea tasting and Owen bought a bunch of nice tea.
+For dinner we ate at the well respected Harbin 1907 and tried the famous sweet and sour pork. Everything was excellent.
 
-For dinner we ate at the well respected Harbin 1907 and tried the famous sweet and sour pork.  Everything was excellent.
-
-At night we visited another park with ice sculptures that were much smaller but very intricate. 
+At night we visited another park with ice sculptures that were much smaller but very intricate.
 
 Tomorrow we head to Beijing.
-
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -168,7 +166,4 @@ Tomorrow we head to Beijing.
       <label for="img-12" class="nav-dot" id="img-dot-12"></label>
 
 </li>
-</ul>        
-             
-
-		
+</ul>
