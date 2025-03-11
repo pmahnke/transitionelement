@@ -60,7 +60,6 @@ Now off to bed.
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
-
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
 
 </li>
