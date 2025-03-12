@@ -13,21 +13,21 @@ excerpt: |
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Datong Pipa Old Inn (大同琵琶老店客栈) ||
-| **Travel** | _Train_                                                      |    Bullet train from Beijing to Datong      |
-|            | _Walking_                                                    |      11 km    |
+| **Travel** | _Train_ |    Bullet train from Beijing to Datong      |
+|            | _Walking_ |      11 km    |
 
 
-After a very early train to Datong, which is only one hour by bullet train from Beijing, we drove to Hengshan Hanging Temple. It was built at a holy mountain where a major river emerges, to allow to monks pray for the spring floods to be gentle. The buildings ‘hang’ from the cliff face. Pretty amazing. 
+After a very early train to Datong, which is only one hour by bullet train from Beijing, we drove to Hengshan Hanging Temple. It was built on a holy mountain where a major river emerges to allow monks to pray for gentle spring floods. The buildings ‘hang’ from the cliff face. Pretty amazing. 
 
-> Hengshan Hanging Temple has stood the test of time. Against all odds, and due to regular maintenance efforts, however, the temple has been standing (or hanging, as it were) for more than 1,500 years. Xuankong Temple was first constructed during the Northern Wei Dynasty (386-534 AD), undergoing a major restoration in 1900.
+> Hengshan Hanging Temple has stood the test of time. Against all odds and due to regular maintenance efforts, however, the temple has been standing (or hanging, as it were) for more than 1,500 years. Xuankong Temple was first constructed during the Northern Wei Dynasty (386-534 AD) and underwent a major restoration in 1900.
 
-Then we drove to Yungang Grottoes, with tens of thousands of Buddhas carved into man made grottoes and cliff face. They were a public works project by an emperor based in Datong who tried to use Buddhism to get people to except their rule. 
+Then, we drove to Yungang Grottoes, with tens of thousands of Buddhas carved into artificial grottoes and cliff faces. They were a public works project by an emperor based in Datong who tried to use Buddhism to get people to accept their rule. 
 
-> The Yungang Grottoes are home to the oldest Buddhist cave art in China.  Over 50 caves have been excavated, revealing over 50,000 stone statues carved right into the rock face. 
+> The Yungang Grottoes are home to China's oldest Buddhist cave art. Over 50 caves have been excavated, revealing over 50,000 stone statues carved into the rock face. 
 
-After, we drove back to Datong and visited the Nine Dragon Wall and walked around the old town. It is very pretty. In 2008, the government put a lot of money improving the town and upgrading the tourist buildings, and you really can tell. 
+After that, we drove back to Datong, visited the Nine Dragon Wall, and walked around the old town. It is very pretty. In 2008, the government spent a lot of money improving the town and upgrading the tourist buildings, and you can really tell. 
 
-It’s amazing and well worth a day’s visit from Beijing.
+It’s incredible and well worth a day’s visit from Beijing.
 
 
 <ul class="slides">
@@ -132,17 +132,17 @@ It’s amazing and well worth a day’s visit from Beijing.
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-11" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/481482097_18494046409047535_7941161050706058786_n_17862597417351051.jpg"><img src="/assets/images/insta/tmp/481482097_18494046409047535_7941161050706058786_n_17862597417351051.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-10" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-11" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/481482097_18494046409047535_7941161050706058786_n_17862597417351051.jpg"><img src="/assets/images/insta/tmp/481482097_18494046409047535_7941161050706058786_n_17862597417351051.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-10" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -155,10 +155,10 @@ It’s amazing and well worth a day’s visit from Beijing.
       <label for="img-9" class="nav-dot" id="img-dot-9"></label>
       <label for="img-10" class="nav-dot" id="img-dot-10"></label>
 
-      <label for="img-11" class="nav-dot" id="img-dot-11"></label>
+ <label for="img-11" class="nav-dot" id="img-dot-11"></label>
 
 </li>
 </ul>        
              
 
-		
+    

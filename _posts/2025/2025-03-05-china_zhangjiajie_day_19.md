@@ -7,20 +7,20 @@ category: travel
 date: 2025-03-05 07:03:00
 image: "/assets/images/insta/tmp/482878466_18495953887047535_7437822304143147232_n_17901726690110250.jpg"
 excerpt: |
-  We spent the day in Zhangjiajie National Forest Park, the place that inspired Avatar.
+  We spent the day in Zhangjiajie National Forest Park, which inspired Avatar.
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | All Season Lodge (壹年四季主题客栈) | West 150m Baofeng Bridge, Tianzi Rd, Wulingyuan District, Zhangjiajie (武陵源区天子路宝峰桥西 150m) |
-| **Ate**    | _Lunch_                                                      |   Zhai Zi Li De Bo Bo Cai (寨子里的钵钵菜)       |
-|            | _Dinner_                                                     |   Sheng Shi Wu Ling Restaurant (盛世武陵酒楼)       |
-| **Travel** |_Walking_                                                    |       14.3 km   |
+| **Ate** | _Lunch_ |   Zhai Zi Li De Bo Bo Cai (寨子里的钵钵菜)       |
+|            | _Dinner_ |   Sheng Shi Wu Ling Restaurant (盛世武陵酒楼)       |
+| **Travel** |_Walking_ |       14.3 km   |
 
 
-We spent the day in Zhangjiajie National Forest Park, the place that inspired Avatar. Unfortunately we timed the visit with a blizzard. The worst in several years. Not that it deterred our guide to take us miles up and down ice stairs with hundreds of meter falls and no visibility. What we did see was amazing. But I was happed to get back to our hotel.
+We spent the day in Zhangjiajie National Forest Park, which inspired Avatar. Unfortunately, we timed the visit with a blizzard—the worst in several years. Not that it deterred our guide from taking us miles up and down ice stairs with hundreds of meter falls and no visibility. What we did see was amazing, but I was happy to get back to our hotel.
 
-> Famous for its unique peaks and stunning scenery, Zhangjiajie National  Forest Park is China's first national forest park inaugurated in 1982 and  was listed as a UNESCO geopark in 2004. The park is part of the much larger  397.5 km2 (153.5 sq mi) Wulingyuan Scenic Area, which was officially  recognized as a UNESCO World Heritage Site in 1992. 
+> Famous for its unique peaks and stunning scenery, Zhangjiajie National  Forest Park is China's first national forest park, which was inaugurated in 1982 and  was listed as a UNESCO geopark in 2004. The park is part of the much larger  397.5 km2 (153.5 sq mi) Wulingyuan Scenic Area, which was officially recognized as a UNESCO World Heritage Site in 1992. 
 
 
 <ul class="slides">
@@ -115,17 +115,17 @@ We spent the day in Zhangjiajie National Forest Park, the place that inspired Av
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-10" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/482878466_18495953887047535_7437822304143147232_n_17901726690110250.jpg"><img src="/assets/images/insta/tmp/482878466_18495953887047535_7437822304143147232_n_17901726690110250.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-9" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-10" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/482878466_18495953887047535_7437822304143147232_n_17901726690110250.jpg"><img src="/assets/images/insta/tmp/482878466_18495953887047535_7437822304143147232_n_17901726690110250.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-9" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -137,10 +137,10 @@ We spent the day in Zhangjiajie National Forest Park, the place that inspired Av
       <label for="img-8" class="nav-dot" id="img-dot-8"></label>
       <label for="img-9" class="nav-dot" id="img-dot-9"></label>
 
-      <label for="img-10" class="nav-dot" id="img-dot-10"></label>
+ <label for="img-10" class="nav-dot" id="img-dot-10"></label>
 
 </li>
 </ul>        
              
 
-		
+    

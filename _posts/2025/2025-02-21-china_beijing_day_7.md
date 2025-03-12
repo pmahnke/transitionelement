@@ -13,18 +13,18 @@ excerpt: |
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Happy Dragon City Culture Hotel (北京映向城严选酒店王府井故宫店)| 9, Shijia Hutong, South Street, Chaoyangmen, Dongcheng|
-| **Travel** | _Walking_                                                    |      21 km    |
+| **Travel** | _Walking_ |      21 km    |
 
 
-Today we started at one of my favourite places, the Temple of Heaven. I love the round temples, the spaces surrounding, and the round & square walls. This was where the Emperor prayed and gave sacrifices for good harvests each year. 
+Today, we started at one of my favourite places, the Temple of Heaven. I love the round temples, the surrounding spaces, and the round and square walls. This was where the emperor prayed and offered sacrifices for good harvests each year. 
 
->  The Temple is of Heaven, designated as a UNESCO World Heritage Site in 1998, occupies an area three times bigger than the Forbidden City and is the largest existing complex of ancient sacrificial buildings in China. The Temple was built for the ceremonies carried out by the Chinese emperor, who was, according to the ancient beliefs, the Son of Heaven. The emperor had to offer sacrifices to heaven in order to pray for a good harvest. 
+> The Temple of Heaven, designated as a UNESCO World Heritage Site in 1998, occupies an area three times bigger than the Forbidden City and is the largest existing complex of ancient sacrificial buildings in China. The Temple was built for the ceremonies carried out by the Chinese emperor, who was, according to the ancient beliefs, the Son of Heaven. The emperor had to offer sacrifices to heaven in order to pray for a good harvest. 
 
-After the temple, we went to a pedestrian area/mall called Qianmen Old Street that was fun.  It looks old, but is pretty new.
+After the Temple, we went to a fun pedestrian area/mall called Qianmen Old Street. It looks old but is pretty new.
 
-And finally, the 798 Art District, which are old factories that became artist studios that became art galleries that added food and tourist shops. It is a bit odd, but fine for an hour. 
+Finally, we visited the 798 Art District, which consists of old factories that have become artist studios, art galleries, and food and tourist shops. It is a bit odd, but it was fine for an hour. 
 
-In the evening, we went to the white Miaoying Temple and dinner near back in the the Drum Tower area. A busy and fun day.
+In the evening, we went to the white Miaoying Temple and had dinner near the Drum Tower area. It was a busy and fun day.
 
 
 <ul class="slides">
@@ -129,17 +129,17 @@ In the evening, we went to the white Miaoying Temple and dinner near back in the
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-11" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/481147382_18493687582047535_650017619153439745_n_18005347871546793.jpg"><img src="/assets/images/insta/tmp/481147382_18493687582047535_650017619153439745_n_18005347871546793.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-10" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-11" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/481147382_18493687582047535_650017619153439745_n_18005347871546793.jpg"><img src="/assets/images/insta/tmp/481147382_18493687582047535_650017619153439745_n_18005347871546793.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-10" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -152,10 +152,10 @@ In the evening, we went to the white Miaoying Temple and dinner near back in the
       <label for="img-9" class="nav-dot" id="img-dot-9"></label>
       <label for="img-10" class="nav-dot" id="img-dot-10"></label>
 
-      <label for="img-11" class="nav-dot" id="img-dot-11"></label>
+ <label for="img-11" class="nav-dot" id="img-dot-11"></label>
 
 </li>
 </ul>        
              
 
-		
+    

@@ -7,26 +7,26 @@ category: travel
 date: 2025-03-01 05:16:00
 image: "/assets/images/insta/tmp/482065220_18495134593047535_5474576295675024771_n_18068915449867943.jpg"
 excerpt: |
-  Today was about kung fu, mostly. 
+  Today was mostly about kung fu. 
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Qichi Waterfront B&B Hotel (洛阳栖迟水岸宾馆) | No. 5, Tongtuo Muyu Pedestrian Street, Dongguan Street, Zhanghe District(洛阳瀍河回族区铜驼暮雨 5 号楼) |
-| **Travel** | _Walking_                                                    | 10.4 km |
+| **Travel** | _Walking_ | 10.4 km |
 
 
-Today was about kung fu, mostly. 
+Today was mostly about kung fu. 
 
-We started at a martial arts based boarding school and had a painful lesson with two teens. When we left was walked by some of the 40,000 students in outdoor assembly. It was wild. 
+We started at a martial arts-based boarding school and had a painful lesson with two teens. When we left, we were walked by some of the 40,000 students in outdoor assembly. It was wild. 
 
-Then we went to Songyang Academy, a former Confucian school that educated many important people over the centuries. Songshan is a UNESCO Global Geopark and one  of the five sacred mountains in China.
+Then, we went to Songyang Academy, a former Confucian school that educated many important people over the centuries. Songshan is a UNESCO Global Geopark and one of the five sacred mountains in China.
 
 Lunch was noodles at a Muslim shop. 
 
-The afternoon was at the Shaolin Temple and Pagoda Forest. The temple was very commercial, but the martial arts display impressive. And the Pagoda Forest was neat, dozens of mini pagodas for influential monks.
+We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The temple was very commercial, but the martial arts display was impressive. The pagodaa Forest was neat,wit  dozens of mini pagodas for influential monks.
 
-> The Shaolin Temple and its Pagoda Forest were inscribed  as a UNESCO World Heritage Site in 2010.  Believed to have been founded in the 5th century, the Shaolin Temple  consists of a complex rebuilt in the 20th century adjoined to a Pagoda  Forest.  The temple complex, with its picturesque gardens, is pleasant to stroll in.  While the buildings are similar to many others in China, the unique Pagoda  Forest is perhaps the most interesting part of the Shaolin Temple.  The Pagoda Forest, about 0.19 miles (300 m) from the complex, was a burial  ground for eminent monks in the long history of the temple. Each pagoda  holds a tomb and there are so many scattered close together that the site  resembles a forest.  What makes the Shaolin Temple extremely famous in China and abroad is its  Shaolin Kungfu, one of the largest and best-known sects of Chinese Kungfu
+> The Shaolin Temple and its Pagoda Forest were inscribed as a UNESCO World Heritage Site in 2010. Believed to have been founded in the 5th century, the Shaolin Temple consists of a complex rebuilt in the 20th century adjoined to a Pagoda  Forest. The temple complex, with its picturesque gardens, is pleasant to stroll in. While the buildings are similar to many others in China, the unique Pagoda  Forest is perhaps the most interesting part of the Shaolin Temple. The Pagoda Forest, about 0.19 miles (300 m) from the complex, was a burial  ground for eminent monks in the long history of the temple. Each pagoda  holds a tomb and there are so many scattered close together that the site  resembles a forest. What makes the Shaolin Temple extremely famous in China and abroad is its  Shaolin Kungfu, one of the largest and best-known sects of Chinese Kungfu
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -160,17 +160,17 @@ The afternoon was at the Shaolin Temple and Pagoda Forest. The temple was very c
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-14" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/482065220_18495134593047535_5474576295675024771_n_18068915449867943.jpg"><img src="/assets/images/insta/tmp/482065220_18495134593047535_5474576295675024771_n_18068915449867943.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-13" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-14" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/482065220_18495134593047535_5474576295675024771_n_18068915449867943.jpg"><img src="/assets/images/insta/tmp/482065220_18495134593047535_5474576295675024771_n_18068915449867943.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-13" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -186,10 +186,10 @@ The afternoon was at the Shaolin Temple and Pagoda Forest. The temple was very c
       <label for="img-12" class="nav-dot" id="img-dot-12"></label>
       <label for="img-13" class="nav-dot" id="img-dot-13"></label>
 
-      <label for="img-14" class="nav-dot" id="img-dot-14"></label>
+ <label for="img-14" class="nav-dot" id="img-dot-14"></label>
 
 </li>
 </ul>        
              
 
-		
+    

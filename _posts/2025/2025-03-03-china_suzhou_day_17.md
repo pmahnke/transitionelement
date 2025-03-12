@@ -13,9 +13,9 @@ excerpt: |
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** |  Central Hotel Shanghai (上海王宝和大酒店) | No. 555 Jiujiang Road, Huangpu District, Shanghai (上海黄浦区九江路 555 号) |
-| **Ate**    | _Lunch_                                                      |    Tangyufang Chinese Restaurant (棠雨舫·中餐厅)      |
-|            | _Dinner_                                                     |  Yoshinoya        |
-| **Travel** | _Walking_                                                    |   14.2 km       |
+| **Ate** | _Lunch_ |    Tangyufang Chinese Restaurant (棠雨舫·中餐厅)      |
+|            | _Dinner_ |  Yoshinoya        |
+| **Travel** | _Walking_ |   14.2 km       |
 
 
 
@@ -23,19 +23,19 @@ It rained most of today.
 
 We drove to nearby Suzhou and started at the very pretty and large Humble Administrator’s Garden. There was very little in bloom, or even in leaf, but still awesome to see again. 
 
-> Initially built in 1509 by a former government servant and poet, the Humble  Administrator's Garden is the largest garden in Suzhou at nearly 52,000  square meters and is considered one of the most beautiful classical gardens  in all of China. As is typical of gardens of the Ming Dynasty, the Humble  Administrator’s Garden is home to ancient arched bridges and pavilions and  a stunning array of trees and plants, all situated among a collection of  charming ponds and islands. 
+> Initially built in 1509 by a former government servant and poet, the Humble  Administrator's Garden is the largest in Suzhou at nearly 52,000  square meters and is considered one of the most beautiful classical gardens in China. As is typical of gardens of the Ming Dynasty, the Humble  Administrator’s Garden is home to ancient arched bridges and pavilions and  a stunning array of trees and plants, all situated among a collection of  charming ponds and islands. 
 
-Then we walked down Pingjiang Street, an old shopping street and had a local specialty, fresh water crab noodles.
+Then we walked down Pingjiang Street, an old shopping street, and had a local specialty: freshwater crab noodles.
 
-As we drove to our next stop, we dropped into the Silk Museum where we learned the entire process of making silk. 
+As we drove to our next stop, we stopped at the Silk Museum, where we learned about the entire process of making silk. 
 
-Then on to Tongli Water Town, a town with loads of canals and bridges and another impressive garden. It was pouring.
+Then on to Tongli Water Town, a town with many canals, bridges, and another impressive garden. It was pouring.
 
-> Tuisi Garden,  also known as the Retreat and Reflection Garden, which was recognized as a  UNESCO World Heritage Site along with  Suzhou’s many gardens  in 2001. As its name suggests, this elegant garden is a pretty place to  stroll and appreciate some traditional architecture, including pavilions,  pagodas, and bridges.  Tongli Water Town also boasts stunning examples of historic architecture  dating back to the Ming and Qing Dynasties
+> Tuisi Garden,  also known as the Retreat and Reflection Garden, was recognized as a  UNESCO World Heritage Site along with  Suzhou’s many gardens  in 2001. As its name suggests, this elegant garden is a pretty place to  stroll and appreciate some traditional architecture, including pavilions,  pagodas, and bridges. Tongli Water Town also boasts stunning examples of historic architecture  dating back to the Ming and Qing Dynasties
 
-Back in Shanghai, we just walked down Nanjing Road. Owen bought a bunch of manga stuff at a pop up Sega store and we had dinner. 
+Back in Shanghai, we just walked down Nanjing Road. Owen bought a bunch of manga stuff at a pop-up Sega store, and we had dinner. 
 
-A WET, but nice day.
+A WET but pleasant day.
 
 
 <ul class="slides">
@@ -150,17 +150,17 @@ A WET, but nice day.
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-12" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/482450994_18495533848047535_4165638568938464541_n_17999579861592562.jpg"><img src="/assets/images/insta/tmp/482450994_18495533848047535_4165638568938464541_n_17999579861592562.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-11" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-12" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/482450994_18495533848047535_4165638568938464541_n_17999579861592562.jpg"><img src="/assets/images/insta/tmp/482450994_18495533848047535_4165638568938464541_n_17999579861592562.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-11" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -174,10 +174,10 @@ A WET, but nice day.
       <label for="img-10" class="nav-dot" id="img-dot-10"></label>
       <label for="img-11" class="nav-dot" id="img-dot-11"></label>
 
-      <label for="img-12" class="nav-dot" id="img-dot-12"></label>
+ <label for="img-12" class="nav-dot" id="img-dot-12"></label>
 
 </li>
 </ul>        
              
 
-		
+    
