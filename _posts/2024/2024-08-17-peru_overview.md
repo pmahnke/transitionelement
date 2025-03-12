@@ -61,6 +61,8 @@ Peruvian food is excellent in quality and generally reasonably priced. Of course
 
 There are also a lot of burgers, pizza and Chinese restaurants in most towns.
 
+Also, tap water isn't safe to drink, so you need to buy bottled water, or bring a filter.  We brough a Sawyer Squeeze that we use camping and it was very easy to refill bottles every other day or so.
+
 ### Costs
 
 Peru is fairly inexpensive for American and European tourists. You could do things very cheaply with hostels and street food, or go higher end, but it is all reasonable.
@@ -74,8 +76,8 @@ Peru is fairly inexpensive for American and European tourists. You could do thin
 | Intercity bus | ~$20 |
 | Taxi | ~$4 |
 | Museums | ~$4 |
-| Day tour | ~$10 |
-| Laundry | ~$5 per kilo |
+| Day tour | ~$25 |
+| Laundry | ~$4 per kilo |
 
 ### Altitude
 
