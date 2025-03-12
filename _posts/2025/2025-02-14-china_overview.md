@@ -49,6 +49,8 @@ You can also use Didi for a car, but you need to put in a destination, which we 
 
 You can also use a bus, but we didn't try this. Apple Maps appeared to give directions with buses (but oddly didn't with subways). You can use the 'transport cards' to pay and I think cash as well.
 
+Another thing on planes and trains.  We were unable to check-in online for flights.  Also, you cannot use the turnstiles to go to security in airports or to the train platforms; however, your passport is your ticket.  At every set of turnstiles, there is a guard on the side that can scan your passport.  It works well and usually quicker than waiting in line.
+
 ### Hotels
 
 We booked all our hotels before we went via [booking.com](https://booking.com/) and [agoda.com](https://agoda.com/). And we created a spreadsheet listing the city and hotel each day, including what each hotel offered for breakfast, dinner, laundry, etc. Then, closer to the trip, I put them all in Google Calendar so we could know what to expect and easily show our driver the name. I highly recommend this approach as it is quick and easy to look up what's next and load a map or web page.
@@ -98,5 +100,22 @@ Here is a rough guide to what we spent for three adults per day (averaged over 2
 | Tips                       |   ¥400.00 |  $56.00 |  £44.00 |
 | Transport                  |    ¥18.57 |   $2.60 |   £2.04 |
 | Total per day for 3 adults | ¥1,718.76 | $240.63 | £189.06 |
+
+As for the travel company costs, which included four bullet trains, three internal flights, guides for 15 days and drivers for 17 days, we paid: ¥37,650 ($5,271 or £4,141) or about ¥1,882.50 ($264 or £207) per day for three of us.
+
+### Visas
+
+You will need a visa to enter China.  We were lucky to be able to go into a centre in London.  The process was very quick once there.  You need to bring:
+
+* a copy of hotel confirmations
+* a letter from your travel company saying you are going with them
+* your passport, which you leave, as they add a full page stamp
+* an application, which you fill out in a form on the website that takes ages to fill in and asks for a lot of information about where you are staying, etc... 
+
+There was really no 'interview' just a check of the paperwork.  You pay and then you pick up your passports in a few days.
+
+I am not sure if you if you even _could_ do this remotely.
+
+I hope this helps someone.
 
 [Read our day by day notes on our 2025 trip to China >]({%link _posts/2025/2025-02-15-china_harbin_day_1.md %})
