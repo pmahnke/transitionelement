@@ -7,23 +7,23 @@ category: travel
 date: 2025-02-28 05:20:00
 image: "/assets/images/insta/tmp/481641006_18494949283047535_6972491251840116242_n_18170876275325542.jpg"
 excerpt: |
-  We started the morning by going up the Xi'an wall from the East Gate. We visited on of the giant arrow towers and then walked to a corner.
+  We started the morning by climbing the Xi'an Wall from the East Gate. We visited one of the giant arrow towers and then walked to a corner.
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Qichi Waterfront B&B Hotel (洛阳栖迟水岸宾馆) | No. 5, Tongtuo Muyu Pedestrian Street, Dongguan Street, Zhanghe District(洛阳瀍河回族区铜驼暮雨 5 号楼) |
-| **Travel** | _Train_                                                      |     Bullet train from Xi'an to Luoyang     |
-|            | _Walking_                                                    |    11.8 km      |
+| **Travel** | _Train_ |     Bullet train from Xi'an to Luoyang     |
+|            | _Walking_ |    11.8 km      |
 
 
-We started the morning going up the Xi'an wall from the East Gate. We visited on of the giant arrow towers and then walked to a corner.
+We started the morning by climbing the Xi'an wall from the East Gate. We visited one of the giant arrow towers and then walked to a corner.
 
-> Originally built in the 14th century by the first emperor of the Ming Dynasty. It is considered the best preserved city  wall in China and is a UNESCO World Heritage Site. With the old portion of  downtown Xi'an within and modern buildings lining the outside, the rectangular-shaped city wall is  13.7 kilometers long and completely encloses the old city center.
+> Originally built in the 14th century by the first emperor of the Ming Dynasty. It is considered the best preserved city wall in China and is a UNESCO World Heritage Site. With the old portion of downtown Xi'an within and modern buildings lining the outside, the rectangular-shaped city wall is  13.7 kilometers long and completely encloses the old city center.
 
-After the wall, we headed to the Muslim quarter and visited the Great Mosque. The minaret was a pagoda, which was interesting. 
+After the wall, we headed to the Muslim Quarter and visited the Great Mosque. The minaret was a pagoda, which was interesting. 
 
-For lunch, we tried a tasty ‘bread soup’.  Then we took our final bullet train to Luoyang.  After checking in to our hotel we walked to the drum tower in the old town and had a delicious hot pot dinner.
+For lunch, we tried a tasty ‘bread soup’. Then, we took our final bullet train to Luoyang. After checking in to our hotel, we walked to the drum tower in the old town and had a delicious hot pot dinner.
 
 
 <ul class="slides">
@@ -168,17 +168,17 @@ For lunch, we tried a tasty ‘bread soup’.  Then we took our final bullet tra
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-15" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/481641006_18494949283047535_6972491251840116242_n_18170876275325542.jpg"><img src="/assets/images/insta/tmp/481641006_18494949283047535_6972491251840116242_n_18170876275325542.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-14" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-15" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/481641006_18494949283047535_6972491251840116242_n_18170876275325542.jpg"><img src="/assets/images/insta/tmp/481641006_18494949283047535_6972491251840116242_n_18170876275325542.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-14" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -195,10 +195,10 @@ For lunch, we tried a tasty ‘bread soup’.  Then we took our final bullet tra
       <label for="img-13" class="nav-dot" id="img-dot-13"></label>
       <label for="img-14" class="nav-dot" id="img-dot-14"></label>
 
-      <label for="img-15" class="nav-dot" id="img-dot-15"></label>
+ <label for="img-15" class="nav-dot" id="img-dot-15"></label>
 
 </li>
 </ul>        
              
 
-		
+    

@@ -13,16 +13,16 @@ excerpt: |
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** |  Joke Inn (西安樂客民宿(钟楼永宁门地铁站店)) | Room 10102, Unit 1, Building 8, Dajichang Lane, Shuyuanmen, Beilin District (碑林区书院门大吉昌巷 8 幢一单元 10102 室)|
-| **Travel** | _Walking_                                                    |   20.5 km       |
+| **Travel** | _Walking_ |   20.5 km       |
 
 
-Today was our only 'free day' of the trip, aka no tours. We still woke up early to see the morning market along the wall. There was loads of food to buy both prepared and fresh.  We had some fried buns and mini pork dumplings for breakfast.
+Today was our only 'free day' of the trip, aka no tours. We still woke up early to see the morning market along the wall. There was loads of food to buy, both prepared and fresh. For breakfast, we had some fried buns and mini pork dumplings.
 
-Then we went back to our hotel via the park outside the wall with all the retired people doing exercise, dance, music and calligraphy with water.  Back at the hotel, did laundry on the roof, overlooking the wall. 
+Then we went back to our hotel via the park outside the wall, where all the retired people were doing exercise, dancing, music, and calligraphy with water. Back at the hotel, we did laundry on the roof, overlooking the wall. 
 
-Then we walked to a the large antique market, but we found that a bit disappointing.  We took the metro home. 
+Then we walked to a large antique market, which was a bit disappointing. We took the metro home. 
 
-In the evening, we walked to the bell and drum towers and the Muslim quarter. 
+We walked to the bell and drum towers and the Muslim quarter in the evening. 
 
 We love it here.
 
@@ -139,17 +139,17 @@ We love it here.
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-12" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/481330624_18494789257047535_5759792556231482575_n_17973514109696458.jpg"><img src="/assets/images/insta/tmp/481330624_18494789257047535_5759792556231482575_n_17973514109696458.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-11" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-12" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/481330624_18494789257047535_5759792556231482575_n_17973514109696458.jpg"><img src="/assets/images/insta/tmp/481330624_18494789257047535_5759792556231482575_n_17973514109696458.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-11" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -163,10 +163,10 @@ We love it here.
       <label for="img-10" class="nav-dot" id="img-dot-10"></label>
       <label for="img-11" class="nav-dot" id="img-dot-11"></label>
 
-      <label for="img-12" class="nav-dot" id="img-dot-12"></label>
+ <label for="img-12" class="nav-dot" id="img-dot-12"></label>
 
 </li>
 </ul>        
              
 
-		
+    

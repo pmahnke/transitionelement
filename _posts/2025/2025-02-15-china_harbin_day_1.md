@@ -7,19 +7,19 @@ category: travel
 date: 2025-02-15 12:24:00
 image: "/assets/images/insta/tmp/472586971_18492692452047535_7548602970272364994_n_18271285117271731.jpg"
 excerpt: |
-  After a very long set of flights, we made it to Harbin around 8:30pm. 
+  After a very long set of flights, we made it to Harbin around 8:30 pm. 
 ---
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** |  Xana Deluxe Hotel | No. 9, Xisandao Street, 道外区哈尔滨市黑龙江省 China, 150020|
-| **Ate**    | _Dinner_                                                     |  On 
+| **Ate** | _Dinner_ |  On 
 Zhongyang Pedestrian Street       |
-| **Travel** | _Flying_                                                     |    London to Beijing, Beijing to Harbin      |
+| **Travel** | _Flying_ |    London to Beijing, Beijing to Harbin      |
 
 
-After a very long set of flights, we made it to Harbin around 8:30pm. 
+After a very long set of flights, we made it to Harbin around 8:30 pm. 
 
-We went for a walk along the Zhongyang Pedestrian Street near our hotel and grabbed a bunch of roasted meats and sausages for dinner. We skipped the very popular ice cream bars that everyone was eating as it is well below zero.  
+We walked along the Zhongyang Pedestrian Street near our hotel and grabbed a bunch of roasted meats and sausages for dinner. As it was well below zero, we skipped the very popular ice cream bars that everyone was eating.  
 
 Now off to bed.
 
@@ -46,24 +46,21 @@ Now off to bed.
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-3" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/472586971_18492692452047535_7548602970272364994_n_18271285117271731.jpg"><img src="/assets/images/insta/tmp/472586971_18492692452047535_7548602970272364994_n_18271285117271731.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-2" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-3" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/472586971_18492692452047535_7548602970272364994_n_18271285117271731.jpg"><img src="/assets/images/insta/tmp/472586971_18492692452047535_7548602970272364994_n_18271285117271731.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-2" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
-
 </li>
 </ul>        
              
-
-		

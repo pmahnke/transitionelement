@@ -7,20 +7,20 @@ category: travel
 date: 2025-02-20 06:46:00
 image: "/assets/images/insta/tmp/475142653_18493507573047535_3189626233351727881_n_18051796412135172.jpg"
 excerpt: |
-  Ming Tombs via the Sacred Way with these amazing animals and servants liking the way. Then we went to the Dingling tomb 27 meters underground. Then the Mutianyu section of the Great Wall.
+  We visited the Ming Tombs via the Sacred Way, which was accompanied by these amazing animals and servants. Then we went to the Dingling tomb, which is 27 meters underground, and then to the Mutianyu section of the Great Wall.
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Happy Dragon City Culture Hotel (北京映向城严选酒店王府井故宫店)| 9, Shijia Hutong, South Street, Chaoyangmen, Dongcheng|
-| **Travel** | _Walking_                                                    |      14.7 km    |
+| **Travel** | _Walking_ |      14.7 km    |
 
 
-We started today at the Ming Tombs. We first walked the Sacred Way with these amazing animals and servants lining the way. Then we went to the Dingling Tomb, 27 meters underground. It is one of the 13 tombs on the site.
+We started today at the Ming Tombs. First, we walked the Sacred Way, which was lined with amazing animals and servants. Then we went to the Dingling Tomb, which is 27 meters underground and one of the 13 tombs on the site.
 
-> The Ming Tombs complex houses the mausoleums of thirteen Ming Dynasty emperors, situated within a valley 50 km outside of Beijing . Because of its rich history and beautiful architecture, the Ming Tombs were designated a UNESCO World Heritage Site in 2003. 
+> The Ming Tombs complex houses the mausoleums of thirteen Ming Dynasty emperors situated within a valley 50 km outside of Beijing. Because of its rich history and beautiful architecture, the Ming Tombs were designated a UNESCO World Heritage Site in 2003. 
 
-After lunch, we went to the Mutianyu section of the Great Wall. This was a new section of the wall for Angela and me, and it was as awesome as any other we have been to. We even got to alpine slide down at the end. And, interestingly,  there is now an entire 'town' at the base with loads of restaurants, souvenir shops, art galleries and more... very commercial.
+After lunch, we went to the Mutianyu section of the Great Wall. This was a new section of the wall for Angela and me, and it was as fantastic as any other we have been to. We even got to go down an alpine slide at the end. And interestingly, there is now an entire 'town' at the base with loads of restaurants, souvenir shops, art galleries, and more—very commercial.
 
 
 <ul class="slides">
@@ -125,17 +125,17 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-11" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/475142653_18493507573047535_3189626233351727881_n_18051796412135172.jpg"><img src="/assets/images/insta/tmp/475142653_18493507573047535_3189626233351727881_n_18051796412135172.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-10" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-11" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/475142653_18493507573047535_3189626233351727881_n_18051796412135172.jpg"><img src="/assets/images/insta/tmp/475142653_18493507573047535_3189626233351727881_n_18051796412135172.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-10" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -148,10 +148,10 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
       <label for="img-9" class="nav-dot" id="img-dot-9"></label>
       <label for="img-10" class="nav-dot" id="img-dot-10"></label>
 
-      <label for="img-11" class="nav-dot" id="img-dot-11"></label>
+ <label for="img-11" class="nav-dot" id="img-dot-11"></label>
 
 </li>
 </ul>        
              
 
-		
+    

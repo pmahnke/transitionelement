@@ -7,25 +7,25 @@ category: travel
 date: 2025-03-02 06:43:00
 image: "/assets/images/insta/tmp/482529785_18495334972047535_3830628841535836548_n_17845593516412205.jpg"
 excerpt: |
- It was raining hard in Luoyang. We started with a tour of the old town, which isn’t very developed like in other cities. But it is lively and very active at night. Then we drove to the UNESCO Longmen Grottoes.
+ It was raining hard in Luoyang. We started with a tour of the old town, which isn’t significantly developed like other cities, but it is lively and very active at night. Then, we drove to the UNESCO Longmen Grottoes.
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** |  Central Hotel Shanghai (上海王宝和大酒店) | No. 555 Jiujiang Road, Huangpu District, Shanghai (上海黄浦区九江路 555 号) |
 | **Travel** | _Flying_ | Flew from Luoyang to Shanghai |
-|            | _Walking_                                                    |    14.2 km      |
+|            | _Walking_ |    14.2 km      |
 
 
-It was raining hard in Luoyang. We started with a tour of the old town, which isn’t very developed like in other cities. But it is lively and very active at night. 
+It was raining hard in Luoyang. We started with a tour of the old town, which isn’t significantly developed like other cities, but it is lively and very active at night. 
 
-Then we drove to the UNESCO Longmen Grottoes. They were commissioned by the same emperor as the Yungang Grottoes, but felt very different. So many tiny niches and the limestone allowed for more details, but you cannot enter any of them.
+Then we drove to the UNESCO Longmen Grottoes. They were commissioned by the same emperor as the Yungang Grottoes, but they felt very different. There were so many tiny niches, and the limestone allowed for more details, but you cannot enter any of them.
 
-> The Longmen Grottoes or Longmen Caves feature some of the finest examples  of Chinese Buddhist sculptures. In 2000 the site was inscribed as a UNESCO  World Heritage site for its outstanding manifestation of human artistic  creativity.  Housing tens of thousands of statues of Buddha, ranging from 1 inch (25 mm)  to 57 feet (17 m) in height, the Longmen Caves were mainly carved off a  0.62 mile (1 km) stretch of cliff running along the west bank of the Yihe  river. Most of the caves date from the early Tang dynasty (618-907 AD),  with some from the Northern Wei dynasty (493-534 AD). 
+> The Longmen Grottoes or Longmen Caves feature some of the finest examples  of Chinese Buddhist sculptures. In 2000, the site was named a UNESCO  World Heritage site for its outstanding manifestation of human artistic creativity. Housing tens of thousands of statues of Buddha, ranging from 1 inch (25 mm)  to 57 feet (17 m) in height, the Longmen Caves were mainly carved off a  0.62 mile (1 km) stretch of cliff running along the west bank of the Yihe river. Most of the caves date from the early Tang dynasty (618-907 AD),  with some from the Northern Wei dynasty (493-534 AD). 
 
-After some lunch, we flew to Shanghai. After a quick check-in at our hotel, we walked down the pedestrianised Nanjing Road and onto the Bund on the river, overlooking the Pudong side. It is so different than our trip 30 years ago. 
+After lunch, we flew to Shanghai. After a quick check-in at our hotel, we walked down the pedestrianised Nanjing Road and onto the Bund on the river, overlooking the Pudong side. It was so different from our trip 30 years ago. 
 
-Really nicely done.
+Nicely done.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -119,17 +119,17 @@ Really nicely done.
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-10" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/482529785_18495334972047535_3830628841535836548_n_17845593516412205.jpg"><img src="/assets/images/insta/tmp/482529785_18495334972047535_3830628841535836548_n_17845593516412205.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-9" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-10" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/482529785_18495334972047535_3830628841535836548_n_17845593516412205.jpg"><img src="/assets/images/insta/tmp/482529785_18495334972047535_3830628841535836548_n_17845593516412205.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-9" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -141,10 +141,10 @@ Really nicely done.
       <label for="img-8" class="nav-dot" id="img-dot-8"></label>
       <label for="img-9" class="nav-dot" id="img-dot-9"></label>
 
-      <label for="img-10" class="nav-dot" id="img-dot-10"></label>
+ <label for="img-10" class="nav-dot" id="img-dot-10"></label>
 
 </li>
 </ul>        
              
 
-		
+    

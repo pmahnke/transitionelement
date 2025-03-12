@@ -13,19 +13,19 @@ excerpt: |
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Happy Dragon City Culture Hotel (北京映向城严选酒店王府井故宫店)| 9, Shijia Hutong, South Street, Chaoyangmen, Dongcheng|
-| **Travel** | _Walking_                                                    |    18.7 km      |
+| **Travel** | _Walking_ |    18.7 km      |
 
-Today we started at Tiananmen Square with Mao’s mausoleum and the Great Hall of the People.  It is really just a big paved square, but it is the center of modern China's government and there has been so much history here.
+Today, we started at Tiananmen Square, which includes Mao’s mausoleum and the Great Hall of the People. Although it is really just a big paved square, it is the centre of modern China's government, and there is so much history here.
 
-Then was walked to the Forbidden City across the street, which is as impressive now as it was 600 years ago.  Built as the center of the ancient government, it was meant to impress anyone entering, and it still does.
+Then we walked to the Forbidden City across the street, which is as impressive now as it was 600 years ago. Built as the center of the ancient government, the palace was meant to impress anyone entering, and it still does.
 
 > As the seat of power for hundreds of years, the Forbidden City, also known as the Palace Museum or gu gong in Chinese. This immense complex, with its seemingly endless red and gold buildings, sits at the heart of Beijing and was the home of the emperors and their households, as well as the center of Chinese government, for almost 500 years, from 1420 of the Ming Dynasty to the end of the Qing Dynasty in 1912. It was declared a World Heritage Site in 1987 and is listed by UNESCO as the largest collection of preserved ancient wooden structures in the world. The Palace Museum is massive; it covers an area of approximately 150,000 square meters and is surrounded by a moat 3,800 meters long and 52 meters wide. 
 
-Then we had lunch and walked to Beihai Park and Houhai Lake and the Hutong neighbourhoods nearby. Ending at the Drum and Bell Towers. 
+Then we had lunch and walked to Beihai Park, Houhai Lake, and the Hutong neighbourhoods nearby, ending at the Drum and Bell Towers. 
 
-In the evening we saw a play of the Golden Mask. It was... just odd. 
+In the evening we saw a play of The Golden Mask. It was just odd. 
 
-But a great day overall.
+But it was a great day overall.
 
 <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
@@ -129,17 +129,17 @@ But a great day overall.
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-11" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/480284997_18493323577047535_1583411806480619130_n_18034928222616121.jpg"><img src="/assets/images/insta/tmp/480284997_18493323577047535_1583411806480619130_n_18034928222616121.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-10" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-11" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/480284997_18493323577047535_1583411806480619130_n_18034928222616121.jpg"><img src="/assets/images/insta/tmp/480284997_18493323577047535_1583411806480619130_n_18034928222616121.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-10" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -152,10 +152,10 @@ But a great day overall.
       <label for="img-9" class="nav-dot" id="img-dot-9"></label>
       <label for="img-10" class="nav-dot" id="img-dot-10"></label>
 
-      <label for="img-11" class="nav-dot" id="img-dot-11"></label>
+ <label for="img-11" class="nav-dot" id="img-dot-11"></label>
 
 </li>
 </ul>        
              
 
-		
+    

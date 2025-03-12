@@ -7,25 +7,25 @@ category: travel
 date: 2025-02-16 06:17:00
 image: "/assets/images/insta/tmp/480252520_18492798091047535_7563361430475523750_n_17945277326950122.jpg"
 excerpt: |
-  Today we went to two different snow festivals.
+  Today, we went to two different snow festivals.
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** |  Xana Deluxe Hotel | No. 9, Xisandao Street, 道外区哈尔滨市黑龙江省 China, 150020|
-| **Ate**    | _Lunch_                                                      | At Harbin Ice & Snow World         |
-|            | _Dinner_                                                     |   Oriental Dumpling King       |
-| **Travel** | _Walking_                                                    |      23.7 km    |
+| **Ate** | _Lunch_ | At Harbin Ice & Snow World         |
+|            | _Dinner_ |   Oriental Dumpling King       |
+| **Travel** | _Walking_ |      23.7 km    |
 
 We went to two different snow festivals today via the excellent subway system. 
 
-The first was the Sun Island International Snow Sculpture Art Expo that features only snow sculptures.  They ranged in size from three meters square to hundreds of meters in length and perhaps 30 meters in height.  There were also slides and strange vehicles on frozen lakes to ride.  Well worth a few hours visit.  Then, just one (free) stop away on the subway was the next festival.
+The first was the Sun Island International Snow Sculpture Art Expo, which featured only snow sculptures. They ranged in size from three meters square to hundreds of meters in length and perhaps 30 meters in height. There were also slides and strange vehicles on frozen lakes to ride. It was well worth a few hours' visit. The next festival was just one (free) stop away on the subway.
 
-The second was the much bigger Harbin Ice & Snow World and has ice sculptures and buildings. Most were the size of a house and some were as big as a large building. All had incredible details. 
+The second was the much bigger Harbin Ice & Snow World, which had ice sculptures and buildings. Most were the size of a house, and some were as big as a large building. All had incredible details. 
 
-The ice buildings ones had loads of LED lights and glowed with colour at night. It was absolutely amazing. Very cold, but worth the trip here.  There was also an excellent food hall with many restaurants.  Loads of ice slides, a ferris wheel, an arena for a car and motorcycle demonstration, rides, reindeer, and outdoor music shows.
+The ice buildings had loads of LED lights and glowed with colour at night. It was absolutely amazing. It was very cold, but worth the trip. There was also an excellent food hall with many restaurants, loads of ice slides, a Ferris wheel, an arena for a car and motorcycle demonstration, rides, reindeer, and outdoor music shows.
 
-We stayed until dark just to witness it at night.  It was amazing.
+We stayed until dark to witness it at night. It was amazing.
 
 
 <ul class="slides">
@@ -110,17 +110,17 @@ We stayed until dark just to witness it at night.  It was amazing.
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-9" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/480252520_18492798091047535_7563361430475523750_n_17945277326950122.jpg"><img src="/assets/images/insta/tmp/480252520_18492798091047535_7563361430475523750_n_17945277326950122.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-8" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-9" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/480252520_18492798091047535_7563361430475523750_n_17945277326950122.jpg"><img src="/assets/images/insta/tmp/480252520_18492798091047535_7563361430475523750_n_17945277326950122.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-8" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -131,10 +131,8 @@ We stayed until dark just to witness it at night.  It was amazing.
       <label for="img-7" class="nav-dot" id="img-dot-7"></label>
       <label for="img-8" class="nav-dot" id="img-dot-8"></label>
 
-      <label for="img-9" class="nav-dot" id="img-dot-9"></label>
+ <label for="img-9" class="nav-dot" id="img-dot-9"></label>
 
 </li>
 </ul>        
              
-
-		

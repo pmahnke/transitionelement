@@ -7,22 +7,22 @@ category: travel
 date: 2025-03-04 06:37:00
 image: "/assets/images/insta/tmp/482274812_18495751159047535_2896124365794876657_n_18027161282359450.jpg"
 excerpt: |
-  China - Shanghai - Day 18 - We toured some highlights of Shanghai today, starting with the French  Concession. Then we walked the Bund in daylight. Then we walked through the busy, but pretty Yuyang Garden followed by the bazaar/mall next to it. The over to the Pudong side of the river and up Jin Mao Tower as the taller Shanghai Tower was in cloud. Now we have flown to Zhangjiajie. A long day.
+  We toured some highlights of Shanghai today, starting with the French  Concession.
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | All Season Lodge (壹年四季主题客栈) | West 150m Baofeng Bridge, Tianzi Rd, Wulingyuan District, Zhangjiajie (武陵源区天子路宝峰桥西 150m) |
-| **Ate**    | _Lunch_                                                      |  Dahuchun Restaurant (大壶春食府)        |
-| **Travel** | _Flying_                                                     |  Fly from Shanghai to Zhangjiajie        |
-|            | _Walking_                                                    |    16.3 km      |
+| **Ate** | _Lunch_ |  Dahuchun Restaurant (大壶春食府)        |
+| **Travel** | _Flying_ |  Fly from Shanghai to Zhangjiajie        |
+|            | _Walking_ |    16.3 km      |
 
 
-Today we toured some highlights of Shanghai today, starting with the French Concession. Then we walked the Bund in daylight. Then we walked through the busy, but pretty Yuyang Garden followed by the bazaar/mall next to it.
+Today, we toured some highlights of Shanghai, starting with the French Concession. Then, we walked the Bund in daylight. Then we walked through the busy but pretty Yuyang Garden, followed by the bazaar/mall next to it.
 
 > Yuyuan Garden, also known as Hu Yu Garden, is an ancient garden built over 400 years ago during the Ming Dynasty
 
- Then over to the Pudong side of the river and up Jin Mao Tower as the taller Shanghai Tower was in cloud. Now we have flown to Zhangjiajie. 
+Then we went to the Pudong side of the river and went up Jin Mao Tower, as the taller Shanghai Tower was in a cloud. Now we have flown to Zhangjiajie. 
  
  A long day.
 
@@ -129,17 +129,17 @@ Today we toured some highlights of Shanghai today, starting with the French Conc
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-11" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/482274812_18495751159047535_2896124365794876657_n_18027161282359450.jpg"><img src="/assets/images/insta/tmp/482274812_18495751159047535_2896124365794876657_n_18027161282359450.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-10" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-11" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/482274812_18495751159047535_2896124365794876657_n_18027161282359450.jpg"><img src="/assets/images/insta/tmp/482274812_18495751159047535_2896124365794876657_n_18027161282359450.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-10" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -152,10 +152,10 @@ Today we toured some highlights of Shanghai today, starting with the French Conc
       <label for="img-9" class="nav-dot" id="img-dot-9"></label>
       <label for="img-10" class="nav-dot" id="img-dot-10"></label>
 
-      <label for="img-11" class="nav-dot" id="img-dot-11"></label>
+ <label for="img-11" class="nav-dot" id="img-dot-11"></label>
 
 </li>
 </ul>        
              
 
-		
+    
