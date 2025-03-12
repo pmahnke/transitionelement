@@ -7,26 +7,26 @@ category: travel
 date: 2025-03-06 03:00:00
 image: "/assets/images/insta/tmp/483138469_18496114726047535_3854423302487688460_n_18076039147667809.jpg"
 excerpt: |
-  This was our last full day in China. We started at Baofeng Lake with a boat trip. Then we went up the very snowy Tianmen Mountain.
+  Today was our last full day in China. We started with a boat trip to Baofeng Lake and then went up the very snowy Tianmen Mountain.
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Shanghai Hongqiao Airport Hotel (上海中航泊悦酒店) | 上海市闵行区 邮政编码: 200335 |
-| **Ate**    | _Lunch_                                                      |  Zongyexiang Restuarant - Huatiancheng Branch        |
-| **Travel** | _Flying_                                                     | Flight from Zhangjiajie to  Shanghai |
-|            | _Walking_                                                    |   10.9 km       |
+| **Ate** | _Lunch_ |  Zongyexiang Restuarant - Huatiancheng Branch        |
+| **Travel** | _Flying_ | Flight from Zhangjiajie to  Shanghai |
+|            | _Walking_ |   10.9 km       |
 
 
-This was our last full day in China. 
+Today was our last full day in China. 
 
-We started at Baofeng Lake with a boat trip. It was pretty and a bit touristy with singers on boats in the lake, but nice enough. 
+We started at Baofeng Lake with a boat trip. It was pretty, a bit touristy, with singers on boats in the lake, but nice enough. 
 
-Then we went up the very snowy Tianmen Mountain. The famous glass bridge and sky walks were closed because of the snow, but the ice and snow make the trees look very pretty.  Then we went down 12 super long escalators to get views of the Heaven’s Gate, a natural window in the mountain. 
+Then we went up the very snowy Tianmen Mountain. The famous glass bridge and skywalks were closed because of the snow, but the ice and snow made the trees look very pretty. Then we went down 12 super long escalators to get views of Heaven’s Gate, a natural window into the mountain. 
 
-> Tianmen Mountain features a large natural hole in its base and a scenic  garden at its summit. Tianmen Gate, a natural hole in the mountain that is 131.5 m in height, 57 m in width, and 60 m in depth, looks like a gate to the heavens, thus  giving the mountain the name Tianmen, which literally means Heavenly Gate. 
+> Tianmen Mountain features a large natural hole in its base and a scenic garden at its summit. Tianmen Gate, a natural hole 131.5 m in height, 57 m in width, and 60 m in depth, looks like a gate to the heavens, thus giving the mountain the name Tianmen, which literally means Heavenly Gate. 
 
-Then we had a six our wait for a flight to Shanghai, a cross town taxi to the other airport, a four hour sleep and then a long day of flying back to London. 
+Then, we had a six-hour wait for a flight to Shanghai, a cross-town taxi to the other airport, a four-hour sleep, and then a long day of flying back to London. 
 
 What a great trip.
 
@@ -143,17 +143,17 @@ What a great trip.
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-12" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/483138469_18496114726047535_3854423302487688460_n_18076039147667809.jpg"><img src="/assets/images/insta/tmp/483138469_18496114726047535_3854423302487688460_n_18076039147667809.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-11" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-12" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/483138469_18496114726047535_3854423302487688460_n_18076039147667809.jpg"><img src="/assets/images/insta/tmp/483138469_18496114726047535_3854423302487688460_n_18076039147667809.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-11" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -167,10 +167,10 @@ What a great trip.
       <label for="img-10" class="nav-dot" id="img-dot-10"></label>
       <label for="img-11" class="nav-dot" id="img-dot-11"></label>
 
-      <label for="img-12" class="nav-dot" id="img-dot-12"></label>
+ <label for="img-12" class="nav-dot" id="img-dot-12"></label>
 
 </li>
 </ul>        
              
 
-		
+    

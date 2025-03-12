@@ -7,23 +7,23 @@ category: travel
 date: 2025-02-25 02:08:00
 image: "/assets/images/insta/tmp/481575890_18494381086047535_3080431993145535437_n_18055895093107366.jpg"
 excerpt: |
-  We visited the Wang Family Courtyard, a city within walls, all for members of a single family with 230 courtyards (homes) and over 2,000 rooms. The second stop was a much older Zhangbi Underground Castle. A planned, fortified city with a huge network of tunnels for storage and defence. Now we are heading to Xian.
+  We visited the Wang Family Courtyard, a city within walls, all for members of a single family with 230 courtyards (homes) and over 2,000 rooms. The second stop was a much older Zhangbi Underground Castle.
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** |  Joke Inn (西安樂客民宿(钟楼永宁门地铁站店)) | Room 10102, Unit 1, Building 8, Dajichang Lane, Shuyuanmen, Beilin District (碑林区书院门大吉昌巷 8 幢一单元 10102 室)|
-| **Travel** | _Train_                                                      |   Bullet train from Pingyao to Xi'an       |
-|            | _Walking_                                                    |     9.4 km     |
+| **Travel** | _Train_ |   Bullet train from Pingyao to Xi'an       |
+|            | _Walking_ |     9.4 km     |
 
 
 Today we visited the Wang Family Courtyard, a city within walls, all for members of a single family with over 230 courtyards (homes) and over 2,000 rooms. It was very cool and almost hard to comprehend the scale of the compounds.
 
-> The  Wang Family Compound, or Wang’s Grand Courtyard, was originally built  between 1762 and 1811 and is the largest of the Shanxi Courtyard Houses. It  was inscribed in the UNESCO World Heritage Tentative List in 2008 as part  of the Ancient Residences in Shanxi and Shaanxi Provinces.  Built by the Wang family with the wealth they had accumulated in business,  the fortress compound is a tight arrangement of courtyard residences and  more like an ancient mini-city with its own protective wall and many  structures within.
+> The  Wang Family Compound, or Wang’s Grand Courtyard, was originally built between 1762 and 1811 and is the largest of the Shanxi Courtyard Houses. It was inscribed in the UNESCO World Heritage Tentative List in 2008 as part of the Ancient Residences in Shanxi and Shaanxi Provinces. Built by the Wang family with the wealth they had accumulated in business,  the fortress compound is a tight arrangement of courtyard residences and  more like an ancient mini-city with its own protective wall and many  structures within.
 
-The second stop of the day was a much older Zhangbi Underground Castle. A planned, fortified city with a huge network of tunnels for food storage and defence. 
+The second stop of the day was a much older Zhangbi Underground Castle. It was a planned, fortified city with a huge network of tunnels for food storage and defence. 
 
-> The ancient town of Zhangbi, about 40km outside of  Pingyao , is a rare and unique display of traditional urban planning in Chinese  history. The site is also referred to as Zhangbi Ancient Castle, with the  town’s residential, shopping, and religious areas all built within a  beautifully designed, Chinese-style castle complex.  The small village features some old architecture as well as an extensive,  restored labyrinth of mysterious tunnels that meander underneath the town.
+> The ancient town of Zhangbi, about 40km outside of  Pingyao, is a rare and unique display of traditional urban planning in Chinese history. The site is also referred to as Zhangbi Ancient Castle, with the town’s residential, shopping, and religious areas all built within a beautifully designed, Chinese-style castle complex. The small village features some old architecture and an extensive,  restored labyrinth of mysterious tunnels that meander underneath the town.
 
 In the late afternoon, we headed to Xian.
 
@@ -130,17 +130,17 @@ In the late afternoon, we headed to Xian.
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-11" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/481575890_18494381086047535_3080431993145535437_n_18055895093107366.jpg"><img src="/assets/images/insta/tmp/481575890_18494381086047535_3080431993145535437_n_18055895093107366.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-10" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-11" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/481575890_18494381086047535_3080431993145535437_n_18055895093107366.jpg"><img src="/assets/images/insta/tmp/481575890_18494381086047535_3080431993145535437_n_18055895093107366.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-10" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -153,10 +153,10 @@ In the late afternoon, we headed to Xian.
       <label for="img-9" class="nav-dot" id="img-dot-9"></label>
       <label for="img-10" class="nav-dot" id="img-dot-10"></label>
 
-      <label for="img-11" class="nav-dot" id="img-dot-11"></label>
+ <label for="img-11" class="nav-dot" id="img-dot-11"></label>
 
 </li>
 </ul>        
              
 
-		
+    

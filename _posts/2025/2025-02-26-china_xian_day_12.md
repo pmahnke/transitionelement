@@ -13,23 +13,23 @@ excerpt: |
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** |  Joke Inn (西安樂客民宿(钟楼永宁门地铁站店)) | Room 10102, Unit 1, Building 8, Dajichang Lane, Shuyuanmen, Beilin District (碑林区书院门大吉昌巷 8 幢一单元 10102 室)|
-| **Ate**    | _Lunch_                                                      | Biang Biang Mien noodles         |
-| **Travel** |_Walking_                                                    |   14.5 km       |
+| **Ate** | _Lunch_ | Biang Biang Mien noodles         |
+| **Travel** |_Walking_ |   14.5 km       |
 
 
-Every visit to Xi’an starts with a visit to the Terracotta Army. Today was no exception. And it was amazing as ever. This time there were a lot more warriors at visitor level so you could really look at the details. 
+Every visit to Xi’an starts with a visit to the Terracotta Army. Today was no exception, and it was as amazing as ever. This time, there were a lot more warriors at visitor level, so you could really look at the details. 
 
->  This underground,  life-size terracotta army was constructed by China's first emperor, Qin Shi  Huang, in the 3rd century BCE to serve as his guardians during the  afterlife.  The buried army remained undisturbed underground until its accidental  discovery in 1974 by a local farmer. Since then, it has become known as one  of the most important archaeological finds of the 20th century and has been  designated as a UNESCO World Heritage Site.
+> China's first emperor constructed this underground,  life-size terracotta army, Qin Shi  Huang, in the 3rd century BCE to serve as his guardian during the  afterlife. The buried army remained undisturbed underground until its accidental  discovery in 1974 by a local farmer. Since then, it has become known as one  of the most important archaeological finds of the 20th century and has been  designated as a UNESCO World Heritage Site.
 
-For lunch we had the biang biang noodles. They were exceptionally good. 
+For lunch, we had the biang biang noodles. They were outstanding. 
 
-The afternoon was spend walking around the Big Wild Goose Pagoda and streets nearby. 
+We spent the afternoon walking around the Big Wild Goose Pagoda and the streets nearby. 
 
 > The Big Wild Goose Pagoda, also called Great Wild Goose Pagoda, is one of the most famous Buddhist structures in China due to its religious and historical relevance. First built over a millennium ago, it is one of Xi'an s most ancient and iconic landmarks and was added to UNESCO's World Heritage list as a part of the ancient Silk Road. The pagoda is remarkably well preserved given its age, other than a slight lean to one side. Originally built in 652 CE as a five-story brick structure, about 53 meters high, the pagoda is said to be where the Tang dynasty monk Xuan Zang translated the Buddhist scriptures he brought back from his journey to India, which is described in the 16th-century novel Journey to the West. 
 
-In the evening we saw a Tang Dynasty play about an empress. 
+In the evening, we saw a Tang Dynasty play about an empress. 
 
-And finally ended the night walking through the illuminations on the city wall. A great day.
+Finally, we ended the night by walking through the giant lantern illuminations on top of the city wall. It was a great day.
 
 
 <ul class="slides">
@@ -124,17 +124,17 @@ And finally ended the night walking through the illuminations on the city wall. 
     </div>
     </li>
     
-    <input type="radio" name="radio-btn" id="img-10" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/481860897_18494605135047535_8314928531848261994_n_18053397430914457.jpg"><img src="/assets/images/insta/tmp/481860897_18494605135047535_8314928531848261994_n_18053397430914457.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-9" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
+ <input type="radio" name="radio-btn" id="img-10" />
+ <li class="slide-container">
+ <div class="slide">
+ <a href="/assets/images/insta/tmp/481860897_18494605135047535_8314928531848261994_n_18053397430914457.jpg"><img src="/assets/images/insta/tmp/481860897_18494605135047535_8314928531848261994_n_18053397430914457.jpg" /></a>
+ </div>
+ <div class="nav">
+ <label for="img-9" class="prev">&#x2039;</label>
+ <label for="img-1" class="next">&#x203a;</label>
+ </div>
+ </li>
+      
 <li class="nav-dots">
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
@@ -146,10 +146,10 @@ And finally ended the night walking through the illuminations on the city wall. 
       <label for="img-8" class="nav-dot" id="img-dot-8"></label>
       <label for="img-9" class="nav-dot" id="img-dot-9"></label>
 
-      <label for="img-10" class="nav-dot" id="img-dot-10"></label>
+ <label for="img-10" class="nav-dot" id="img-dot-10"></label>
 
 </li>
 </ul>        
              
 
-		
+    
