@@ -5,7 +5,7 @@ permalink: /archives/2025/02/2025-02-24-china_pingyao_day_10.html
 commentfile: 2025-02-24-china_pingyao_day_10
 category: travel
 date: 2025-02-24 07:17:00
-image: "/assets/images/insta/tmp/481894377_18494250865047535_6948782373363299933_n_18162936964332880.jpg"
+image: "/assets/images/insta/481894377_18494250865047535_6948782373363299933_n_18162936964332880.jpg"
 excerpt: |
   Shuanglin Temple is a Buddhist temple with amazing clay statues. Then we drove to the old town and checked into our hotel. The afternoon was spent walking around and exploring.
 ---
@@ -34,7 +34,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481480031_18494250922047535_4421564409590669295_n_17908384325998524.jpg"><img src="/assets/images/insta/tmp/481480031_18494250922047535_4421564409590669295_n_17908384325998524.jpg" /></a>
+          <a href="/assets/images/insta/481480031_18494250922047535_4421564409590669295_n_17908384325998524.jpg"><img src="/assets/images/insta/481480031_18494250922047535_4421564409590669295_n_17908384325998524.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-13" class="prev">&#x2039;</label>
@@ -44,7 +44,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481490116_18494250979047535_4402348589184132701_n_17939247044971131.jpg"><img src="/assets/images/insta/tmp/481490116_18494250979047535_4402348589184132701_n_17939247044971131.jpg" /></a>
+          <a href="/assets/images/insta/481490116_18494250979047535_4402348589184132701_n_17939247044971131.jpg"><img src="/assets/images/insta/481490116_18494250979047535_4402348589184132701_n_17939247044971131.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -54,7 +54,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481565519_18494250991047535_1073092136525251494_n_18093619840535693.jpg"><img src="/assets/images/insta/tmp/481565519_18494250991047535_1073092136525251494_n_18093619840535693.jpg" /></a>
+          <a href="/assets/images/insta/481565519_18494250991047535_1073092136525251494_n_18093619840535693.jpg"><img src="/assets/images/insta/481565519_18494250991047535_1073092136525251494_n_18093619840535693.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -64,7 +64,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481858273_18494251006047535_43032231656954432_n_18491032897051161.jpg"><img src="/assets/images/insta/tmp/481858273_18494251006047535_43032231656954432_n_18491032897051161.jpg" /></a>
+          <a href="/assets/images/insta/481858273_18494251006047535_43032231656954432_n_18491032897051161.jpg"><img src="/assets/images/insta/481858273_18494251006047535_43032231656954432_n_18491032897051161.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -74,7 +74,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481590571_18494251015047535_2815978795097143738_n_17855793462329465.jpg"><img src="/assets/images/insta/tmp/481590571_18494251015047535_2815978795097143738_n_17855793462329465.jpg" /></a>
+          <a href="/assets/images/insta/481590571_18494251015047535_2815978795097143738_n_17855793462329465.jpg"><img src="/assets/images/insta/481590571_18494251015047535_2815978795097143738_n_17855793462329465.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -84,7 +84,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481438411_18494251024047535_1203030055139670792_n_18270301456265450.jpg"><img src="/assets/images/insta/tmp/481438411_18494251024047535_1203030055139670792_n_18270301456265450.jpg" /></a>
+          <a href="/assets/images/insta/481438411_18494251024047535_1203030055139670792_n_18270301456265450.jpg"><img src="/assets/images/insta/481438411_18494251024047535_1203030055139670792_n_18270301456265450.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -94,7 +94,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
         <input type="radio" name="radio-btn" id="img-7"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481496511_18494251033047535_5632705654411233905_n_18390219499105433.jpg"><img src="/assets/images/insta/tmp/481496511_18494251033047535_5632705654411233905_n_18390219499105433.jpg" /></a>
+          <a href="/assets/images/insta/481496511_18494251033047535_5632705654411233905_n_18390219499105433.jpg"><img src="/assets/images/insta/481496511_18494251033047535_5632705654411233905_n_18390219499105433.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -104,7 +104,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
         <input type="radio" name="radio-btn" id="img-8"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481602500_18494251042047535_1051490528320696435_n_18078738511724434.jpg"><img src="/assets/images/insta/tmp/481602500_18494251042047535_1051490528320696435_n_18078738511724434.jpg" /></a>
+          <a href="/assets/images/insta/481602500_18494251042047535_1051490528320696435_n_18078738511724434.jpg"><img src="/assets/images/insta/481602500_18494251042047535_1051490528320696435_n_18078738511724434.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -114,7 +114,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
         <input type="radio" name="radio-btn" id="img-9"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481844720_18494251063047535_5225502116008948435_n_17946572720952338.jpg"><img src="/assets/images/insta/tmp/481844720_18494251063047535_5225502116008948435_n_17946572720952338.jpg" /></a>
+          <a href="/assets/images/insta/481844720_18494251063047535_5225502116008948435_n_17946572720952338.jpg"><img src="/assets/images/insta/481844720_18494251063047535_5225502116008948435_n_17946572720952338.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-8" class="prev">&#x2039;</label>
@@ -124,7 +124,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
         <input type="radio" name="radio-btn" id="img-10"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481402602_18494251084047535_4221638659073402463_n_18482815714056357.jpg"><img src="/assets/images/insta/tmp/481402602_18494251084047535_4221638659073402463_n_18482815714056357.jpg" /></a>
+          <a href="/assets/images/insta/481402602_18494251084047535_4221638659073402463_n_18482815714056357.jpg"><img src="/assets/images/insta/481402602_18494251084047535_4221638659073402463_n_18482815714056357.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-9" class="prev">&#x2039;</label>
@@ -134,7 +134,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
         <input type="radio" name="radio-btn" id="img-11"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481360559_18494251099047535_2418394430465040940_n_18270437632253845.jpg"><img src="/assets/images/insta/tmp/481360559_18494251099047535_2418394430465040940_n_18270437632253845.jpg" /></a>
+          <a href="/assets/images/insta/481360559_18494251099047535_2418394430465040940_n_18270437632253845.jpg"><img src="/assets/images/insta/481360559_18494251099047535_2418394430465040940_n_18270437632253845.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-10" class="prev">&#x2039;</label>
@@ -144,7 +144,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
         <input type="radio" name="radio-btn" id="img-12"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481869502_18494251186047535_2114620956804683906_n_17958216434877182.jpg"><img src="/assets/images/insta/tmp/481869502_18494251186047535_2114620956804683906_n_17958216434877182.jpg" /></a>
+          <a href="/assets/images/insta/481869502_18494251186047535_2114620956804683906_n_17958216434877182.jpg"><img src="/assets/images/insta/481869502_18494251186047535_2114620956804683906_n_17958216434877182.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-11" class="prev">&#x2039;</label>
@@ -155,7 +155,7 @@ After dinner, we stopped at a nightclub and heard some amazing, karaoke-type sin
  <input type="radio" name="radio-btn" id="img-13" />
  <li class="slide-container">
  <div class="slide">
- <a href="/assets/images/insta/tmp/481894377_18494250865047535_6948782373363299933_n_18162936964332880.jpg"><img src="/assets/images/insta/tmp/481894377_18494250865047535_6948782373363299933_n_18162936964332880.jpg" /></a>
+ <a href="/assets/images/insta/481894377_18494250865047535_6948782373363299933_n_18162936964332880.jpg"><img src="/assets/images/insta/481894377_18494250865047535_6948782373363299933_n_18162936964332880.jpg" /></a>
  </div>
  <div class="nav">
  <label for="img-12" class="prev">&#x2039;</label>

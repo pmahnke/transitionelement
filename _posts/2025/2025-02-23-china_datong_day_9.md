@@ -5,7 +5,7 @@ permalink: /archives/2025/02/2025-02-23-china_datong_day_9.html
 commentfile: 2025-02-23-china_datong_day_9
 category: travel
 date: 2025-02-23 05:29:00
-image: "/assets/images/insta/tmp/481482097_18494046409047535_7941161050706058786_n_17862597417351051.jpg"
+image: "/assets/images/insta/481482097_18494046409047535_7941161050706058786_n_17862597417351051.jpg"
 excerpt: |
   Hengshan Hanging Temple and Yungang Grottoes.
 ---
@@ -34,7 +34,7 @@ It’s incredible and well worth a day’s visit from Beijing.
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481151954_18494046466047535_2674392937176713754_n_18033840551257222.jpg"><img src="/assets/images/insta/tmp/481151954_18494046466047535_2674392937176713754_n_18033840551257222.jpg" /></a>
+          <a href="/assets/images/insta/481151954_18494046466047535_2674392937176713754_n_18033840551257222.jpg"><img src="/assets/images/insta/481151954_18494046466047535_2674392937176713754_n_18033840551257222.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-11" class="prev">&#x2039;</label>
@@ -44,7 +44,7 @@ It’s incredible and well worth a day’s visit from Beijing.
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480906959_18494046562047535_6357485470328143816_n_18064310122921148.jpg"><img src="/assets/images/insta/tmp/480906959_18494046562047535_6357485470328143816_n_18064310122921148.jpg" /></a>
+          <a href="/assets/images/insta/480906959_18494046562047535_6357485470328143816_n_18064310122921148.jpg"><img src="/assets/images/insta/480906959_18494046562047535_6357485470328143816_n_18064310122921148.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -54,7 +54,7 @@ It’s incredible and well worth a day’s visit from Beijing.
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480920839_18494047195047535_8620886887261903073_n_17848381080387881.jpg"><img src="/assets/images/insta/tmp/480920839_18494047195047535_8620886887261903073_n_17848381080387881.jpg" /></a>
+          <a href="/assets/images/insta/480920839_18494047195047535_8620886887261903073_n_17848381080387881.jpg"><img src="/assets/images/insta/480920839_18494047195047535_8620886887261903073_n_17848381080387881.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -64,7 +64,7 @@ It’s incredible and well worth a day’s visit from Beijing.
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481168022_18494047402047535_2762434138346770387_n_18062490640941241.jpg"><img src="/assets/images/insta/tmp/481168022_18494047402047535_2762434138346770387_n_18062490640941241.jpg" /></a>
+          <a href="/assets/images/insta/481168022_18494047402047535_2762434138346770387_n_18062490640941241.jpg"><img src="/assets/images/insta/481168022_18494047402047535_2762434138346770387_n_18062490640941241.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -74,7 +74,7 @@ It’s incredible and well worth a day’s visit from Beijing.
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481411115_18494047258047535_194272418063089952_n_17960951588893113.jpg"><img src="/assets/images/insta/tmp/481411115_18494047258047535_194272418063089952_n_17960951588893113.jpg" /></a>
+          <a href="/assets/images/insta/481411115_18494047258047535_194272418063089952_n_17960951588893113.jpg"><img src="/assets/images/insta/481411115_18494047258047535_194272418063089952_n_17960951588893113.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -84,7 +84,7 @@ It’s incredible and well worth a day’s visit from Beijing.
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481193177_18494047492047535_3090258647749662138_n_18270846301252443.jpg"><img src="/assets/images/insta/tmp/481193177_18494047492047535_3090258647749662138_n_18270846301252443.jpg" /></a>
+          <a href="/assets/images/insta/481193177_18494047492047535_3090258647749662138_n_18270846301252443.jpg"><img src="/assets/images/insta/481193177_18494047492047535_3090258647749662138_n_18270846301252443.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -94,7 +94,7 @@ It’s incredible and well worth a day’s visit from Beijing.
         <input type="radio" name="radio-btn" id="img-7"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481376569_18494046997047535_4788098376971713125_n_18157547932345046.jpg"><img src="/assets/images/insta/tmp/481376569_18494046997047535_4788098376971713125_n_18157547932345046.jpg" /></a>
+          <a href="/assets/images/insta/481376569_18494046997047535_4788098376971713125_n_18157547932345046.jpg"><img src="/assets/images/insta/481376569_18494046997047535_4788098376971713125_n_18157547932345046.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -104,7 +104,7 @@ It’s incredible and well worth a day’s visit from Beijing.
         <input type="radio" name="radio-btn" id="img-8"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481717761_18494046937047535_243607354710611913_n_17957295533864243.jpg"><img src="/assets/images/insta/tmp/481717761_18494046937047535_243607354710611913_n_17957295533864243.jpg" /></a>
+          <a href="/assets/images/insta/481717761_18494046937047535_243607354710611913_n_17957295533864243.jpg"><img src="/assets/images/insta/481717761_18494046937047535_243607354710611913_n_17957295533864243.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -114,7 +114,7 @@ It’s incredible and well worth a day’s visit from Beijing.
         <input type="radio" name="radio-btn" id="img-9"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480659118_18494047618047535_9034199649347915408_n_18343097008144097.jpg"><img src="/assets/images/insta/tmp/480659118_18494047618047535_9034199649347915408_n_18343097008144097.jpg" /></a>
+          <a href="/assets/images/insta/480659118_18494047618047535_9034199649347915408_n_18343097008144097.jpg"><img src="/assets/images/insta/480659118_18494047618047535_9034199649347915408_n_18343097008144097.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-8" class="prev">&#x2039;</label>
@@ -124,7 +124,7 @@ It’s incredible and well worth a day’s visit from Beijing.
         <input type="radio" name="radio-btn" id="img-10"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481328875_18494047747047535_7805451756186148903_n_17980836950814140.jpg"><img src="/assets/images/insta/tmp/481328875_18494047747047535_7805451756186148903_n_17980836950814140.jpg" /></a>
+          <a href="/assets/images/insta/481328875_18494047747047535_7805451756186148903_n_17980836950814140.jpg"><img src="/assets/images/insta/481328875_18494047747047535_7805451756186148903_n_17980836950814140.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-9" class="prev">&#x2039;</label>
@@ -135,7 +135,7 @@ It’s incredible and well worth a day’s visit from Beijing.
  <input type="radio" name="radio-btn" id="img-11" />
  <li class="slide-container">
  <div class="slide">
- <a href="/assets/images/insta/tmp/481482097_18494046409047535_7941161050706058786_n_17862597417351051.jpg"><img src="/assets/images/insta/tmp/481482097_18494046409047535_7941161050706058786_n_17862597417351051.jpg" /></a>
+ <a href="/assets/images/insta/481482097_18494046409047535_7941161050706058786_n_17862597417351051.jpg"><img src="/assets/images/insta/481482097_18494046409047535_7941161050706058786_n_17862597417351051.jpg" /></a>
  </div>
  <div class="nav">
  <label for="img-10" class="prev">&#x2039;</label>

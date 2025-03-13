@@ -5,7 +5,7 @@ permalink: /archives/2025/03/2025-03-03-china_suzhou_day_17.html
 commentfile: 2025-03-03-china_suzhou_day_17
 category: travel
 date: 2025-03-03 05:30:00
-image: "/assets/images/insta/tmp/482450994_18495533848047535_4165638568938464541_n_17999579861592562.jpg"
+image: "/assets/images/insta/482450994_18495533848047535_4165638568938464541_n_17999579861592562.jpg"
 excerpt: |
   We travelled to nearby Suzhou and started at the very pretty and large Humble Administrator’s Garden.
 ---
@@ -42,7 +42,7 @@ A WET but pleasant day.
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482972407_18495533914047535_7817926674798657028_n_17871019107221539.jpg"><img src="/assets/images/insta/tmp/482972407_18495533914047535_7817926674798657028_n_17871019107221539.jpg" /></a>
+          <a href="/assets/images/insta/482972407_18495533914047535_7817926674798657028_n_17871019107221539.jpg"><img src="/assets/images/insta/482972407_18495533914047535_7817926674798657028_n_17871019107221539.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-12" class="prev">&#x2039;</label>
@@ -52,7 +52,7 @@ A WET but pleasant day.
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482394373_18495533944047535_1254508201302451006_n_18046146800065706.jpg"><img src="/assets/images/insta/tmp/482394373_18495533944047535_1254508201302451006_n_18046146800065706.jpg" /></a>
+          <a href="/assets/images/insta/482394373_18495533944047535_1254508201302451006_n_18046146800065706.jpg"><img src="/assets/images/insta/482394373_18495533944047535_1254508201302451006_n_18046146800065706.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -62,7 +62,7 @@ A WET but pleasant day.
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482588490_18495533932047535_7772092352423437228_n_18092877241533372.jpg"><img src="/assets/images/insta/tmp/482588490_18495533932047535_7772092352423437228_n_18092877241533372.jpg" /></a>
+          <a href="/assets/images/insta/482588490_18495533932047535_7772092352423437228_n_18092877241533372.jpg"><img src="/assets/images/insta/482588490_18495533932047535_7772092352423437228_n_18092877241533372.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -72,7 +72,7 @@ A WET but pleasant day.
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482956429_18495534202047535_8748218653240679560_n_18052334773959317.jpg"><img src="/assets/images/insta/tmp/482956429_18495534202047535_8748218653240679560_n_18052334773959317.jpg" /></a>
+          <a href="/assets/images/insta/482956429_18495534202047535_8748218653240679560_n_18052334773959317.jpg"><img src="/assets/images/insta/482956429_18495534202047535_8748218653240679560_n_18052334773959317.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -82,7 +82,7 @@ A WET but pleasant day.
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482332785_18495534097047535_1009252555997695253_n_17974075790819142.jpg"><img src="/assets/images/insta/tmp/482332785_18495534097047535_1009252555997695253_n_17974075790819142.jpg" /></a>
+          <a href="/assets/images/insta/482332785_18495534097047535_1009252555997695253_n_17974075790819142.jpg"><img src="/assets/images/insta/482332785_18495534097047535_1009252555997695253_n_17974075790819142.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -92,7 +92,7 @@ A WET but pleasant day.
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482446059_18495534181047535_3745176592703590548_n_17874793149277952.jpg"><img src="/assets/images/insta/tmp/482446059_18495534181047535_3745176592703590548_n_17874793149277952.jpg" /></a>
+          <a href="/assets/images/insta/482446059_18495534181047535_3745176592703590548_n_17874793149277952.jpg"><img src="/assets/images/insta/482446059_18495534181047535_3745176592703590548_n_17874793149277952.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -102,7 +102,7 @@ A WET but pleasant day.
         <input type="radio" name="radio-btn" id="img-7"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482618291_18495534238047535_8123321743562146667_n_18088119349577414.jpg"><img src="/assets/images/insta/tmp/482618291_18495534238047535_8123321743562146667_n_18088119349577414.jpg" /></a>
+          <a href="/assets/images/insta/482618291_18495534238047535_8123321743562146667_n_18088119349577414.jpg"><img src="/assets/images/insta/482618291_18495534238047535_8123321743562146667_n_18088119349577414.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -112,7 +112,7 @@ A WET but pleasant day.
         <input type="radio" name="radio-btn" id="img-8"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482679414_18495534046047535_4076313504145886409_n_17959102676767984.jpg"><img src="/assets/images/insta/tmp/482679414_18495534046047535_4076313504145886409_n_17959102676767984.jpg" /></a>
+          <a href="/assets/images/insta/482679414_18495534046047535_4076313504145886409_n_17959102676767984.jpg"><img src="/assets/images/insta/482679414_18495534046047535_4076313504145886409_n_17959102676767984.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -122,7 +122,7 @@ A WET but pleasant day.
         <input type="radio" name="radio-btn" id="img-9"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482795236_18495534229047535_5175467607576425663_n_18128520616413891.jpg"><img src="/assets/images/insta/tmp/482795236_18495534229047535_5175467607576425663_n_18128520616413891.jpg" /></a>
+          <a href="/assets/images/insta/482795236_18495534229047535_5175467607576425663_n_18128520616413891.jpg"><img src="/assets/images/insta/482795236_18495534229047535_5175467607576425663_n_18128520616413891.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-8" class="prev">&#x2039;</label>
@@ -132,7 +132,7 @@ A WET but pleasant day.
         <input type="radio" name="radio-btn" id="img-10"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482574599_18495534262047535_7789903752722505435_n_18066134689730940.jpg"><img src="/assets/images/insta/tmp/482574599_18495534262047535_7789903752722505435_n_18066134689730940.jpg" /></a>
+          <a href="/assets/images/insta/482574599_18495534262047535_7789903752722505435_n_18066134689730940.jpg"><img src="/assets/images/insta/482574599_18495534262047535_7789903752722505435_n_18066134689730940.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-9" class="prev">&#x2039;</label>
@@ -142,7 +142,7 @@ A WET but pleasant day.
         <input type="radio" name="radio-btn" id="img-11"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482701098_18495534169047535_659505044452184654_n_18058149962010520.jpg"><img src="/assets/images/insta/tmp/482701098_18495534169047535_659505044452184654_n_18058149962010520.jpg" /></a>
+          <a href="/assets/images/insta/482701098_18495534169047535_659505044452184654_n_18058149962010520.jpg"><img src="/assets/images/insta/482701098_18495534169047535_659505044452184654_n_18058149962010520.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-10" class="prev">&#x2039;</label>
@@ -153,7 +153,7 @@ A WET but pleasant day.
  <input type="radio" name="radio-btn" id="img-12" />
  <li class="slide-container">
  <div class="slide">
- <a href="/assets/images/insta/tmp/482450994_18495533848047535_4165638568938464541_n_17999579861592562.jpg"><img src="/assets/images/insta/tmp/482450994_18495533848047535_4165638568938464541_n_17999579861592562.jpg" /></a>
+ <a href="/assets/images/insta/482450994_18495533848047535_4165638568938464541_n_17999579861592562.jpg"><img src="/assets/images/insta/482450994_18495533848047535_4165638568938464541_n_17999579861592562.jpg" /></a>
  </div>
  <div class="nav">
  <label for="img-11" class="prev">&#x2039;</label>

@@ -6,7 +6,7 @@ commentfile: 2025-03-01-china_overview
 category: travel
 tag: overview
 date: 2025-02-14 05:22:00
-image: "/assets/images/insta/tmp/481139186_18493687642047535_6350839429507154935_n_18060128263953955.jpg"
+image: "/assets/images/insta/481139186_18493687642047535_6350839429507154935_n_18060128263953955.jpg"
 excerpt: |
   About our trip to China from February to March 2025
 ---

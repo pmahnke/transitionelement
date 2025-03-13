@@ -5,7 +5,7 @@ permalink: /archives/2025/02/2025-02-20-china_beijing_day_6.html
 commentfile: 2025-02-20-china_beijing_day_6
 category: travel
 date: 2025-02-20 06:46:00
-image: "/assets/images/insta/tmp/475142653_18493507573047535_3189626233351727881_n_18051796412135172.jpg"
+image: "/assets/images/insta/475142653_18493507573047535_3189626233351727881_n_18051796412135172.jpg"
 excerpt: |
   We visited the Ming Tombs via the Sacred Way, which was accompanied by these amazing animals and servants. Then we went to the Dingling tomb, which is 27 meters underground, and then to the Mutianyu section of the Great Wall.
 ---
@@ -27,7 +27,7 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480988703_18493507600047535_67664439257342067_n_18034990076237541.jpg"><img src="/assets/images/insta/tmp/480988703_18493507600047535_67664439257342067_n_18034990076237541.jpg" /></a>
+          <a href="/assets/images/insta/480988703_18493507600047535_67664439257342067_n_18034990076237541.jpg"><img src="/assets/images/insta/480988703_18493507600047535_67664439257342067_n_18034990076237541.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-11" class="prev">&#x2039;</label>
@@ -37,7 +37,7 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480889278_18493507612047535_2391467451017609228_n_18096151288516583.jpg"><img src="/assets/images/insta/tmp/480889278_18493507612047535_2391467451017609228_n_18096151288516583.jpg" /></a>
+          <a href="/assets/images/insta/480889278_18493507612047535_2391467451017609228_n_18096151288516583.jpg"><img src="/assets/images/insta/480889278_18493507612047535_2391467451017609228_n_18096151288516583.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -47,7 +47,7 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480633524_18493507624047535_4491401718301977335_n_17939691713973240.jpg"><img src="/assets/images/insta/tmp/480633524_18493507624047535_4491401718301977335_n_17939691713973240.jpg" /></a>
+          <a href="/assets/images/insta/480633524_18493507624047535_4491401718301977335_n_17939691713973240.jpg"><img src="/assets/images/insta/480633524_18493507624047535_4491401718301977335_n_17939691713973240.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -57,7 +57,7 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480660054_18493507636047535_2741739931135378063_n_18092957707527251.jpg"><img src="/assets/images/insta/tmp/480660054_18493507636047535_2741739931135378063_n_18092957707527251.jpg" /></a>
+          <a href="/assets/images/insta/480660054_18493507636047535_2741739931135378063_n_18092957707527251.jpg"><img src="/assets/images/insta/480660054_18493507636047535_2741739931135378063_n_18092957707527251.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -67,7 +67,7 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480635728_18493507651047535_4594734415039956144_n_18111749476460121.jpg"><img src="/assets/images/insta/tmp/480635728_18493507651047535_4594734415039956144_n_18111749476460121.jpg" /></a>
+          <a href="/assets/images/insta/480635728_18493507651047535_4594734415039956144_n_18111749476460121.jpg"><img src="/assets/images/insta/480635728_18493507651047535_4594734415039956144_n_18111749476460121.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -77,7 +77,7 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481325633_18493507660047535_3249464161048268922_n_17895955974151219.jpg"><img src="/assets/images/insta/tmp/481325633_18493507660047535_3249464161048268922_n_17895955974151219.jpg" /></a>
+          <a href="/assets/images/insta/481325633_18493507660047535_3249464161048268922_n_17895955974151219.jpg"><img src="/assets/images/insta/481325633_18493507660047535_3249464161048268922_n_17895955974151219.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -87,7 +87,7 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
         <input type="radio" name="radio-btn" id="img-7"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480539143_18493507669047535_1658113604630807124_n_18082190095554913.jpg"><img src="/assets/images/insta/tmp/480539143_18493507669047535_1658113604630807124_n_18082190095554913.jpg" /></a>
+          <a href="/assets/images/insta/480539143_18493507669047535_1658113604630807124_n_18082190095554913.jpg"><img src="/assets/images/insta/480539143_18493507669047535_1658113604630807124_n_18082190095554913.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -97,7 +97,7 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
         <input type="radio" name="radio-btn" id="img-8"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481128036_18493507681047535_5600136995182972565_n_18076240240734000.jpg"><img src="/assets/images/insta/tmp/481128036_18493507681047535_5600136995182972565_n_18076240240734000.jpg" /></a>
+          <a href="/assets/images/insta/481128036_18493507681047535_5600136995182972565_n_18076240240734000.jpg"><img src="/assets/images/insta/481128036_18493507681047535_5600136995182972565_n_18076240240734000.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -107,7 +107,7 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
         <input type="radio" name="radio-btn" id="img-9"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481167147_18493507699047535_4545008698784318563_n_18071936560811184.jpg"><img src="/assets/images/insta/tmp/481167147_18493507699047535_4545008698784318563_n_18071936560811184.jpg" /></a>
+          <a href="/assets/images/insta/481167147_18493507699047535_4545008698784318563_n_18071936560811184.jpg"><img src="/assets/images/insta/481167147_18493507699047535_4545008698784318563_n_18071936560811184.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-8" class="prev">&#x2039;</label>
@@ -117,7 +117,7 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
         <input type="radio" name="radio-btn" id="img-10"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481155239_18493507690047535_6367654251838995918_n_18489004201056662.jpg"><img src="/assets/images/insta/tmp/481155239_18493507690047535_6367654251838995918_n_18489004201056662.jpg" /></a>
+          <a href="/assets/images/insta/481155239_18493507690047535_6367654251838995918_n_18489004201056662.jpg"><img src="/assets/images/insta/481155239_18493507690047535_6367654251838995918_n_18489004201056662.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-9" class="prev">&#x2039;</label>
@@ -128,7 +128,7 @@ After lunch, we went to the Mutianyu section of the Great Wall. This was a new s
  <input type="radio" name="radio-btn" id="img-11" />
  <li class="slide-container">
  <div class="slide">
- <a href="/assets/images/insta/tmp/475142653_18493507573047535_3189626233351727881_n_18051796412135172.jpg"><img src="/assets/images/insta/tmp/475142653_18493507573047535_3189626233351727881_n_18051796412135172.jpg" /></a>
+ <a href="/assets/images/insta/475142653_18493507573047535_3189626233351727881_n_18051796412135172.jpg"><img src="/assets/images/insta/475142653_18493507573047535_3189626233351727881_n_18051796412135172.jpg" /></a>
  </div>
  <div class="nav">
  <label for="img-10" class="prev">&#x2039;</label>

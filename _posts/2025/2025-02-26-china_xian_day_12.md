@@ -5,7 +5,7 @@ permalink: /archives/2025/02/2025-02-26-china_xian_day_12.html
 commentfile: 2025-02-26-china_xian_day_12
 category: travel
 date: 2025-02-26 06:48:00
-image: "/assets/images/insta/tmp/481860897_18494605135047535_8314928531848261994_n_18053397430914457.jpg"
+image: "/assets/images/insta/481860897_18494605135047535_8314928531848261994_n_18053397430914457.jpg"
 excerpt: |
   Every visit to Xi’an starts with a visit to the Terracotta Army.
 ---
@@ -36,7 +36,7 @@ Finally, we ended the night by walking through the giant lantern illuminations o
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481861442_18494605150047535_5344785206577672413_n_18350525221183631.jpg"><img src="/assets/images/insta/tmp/481861442_18494605150047535_5344785206577672413_n_18350525221183631.jpg" /></a>
+          <a href="/assets/images/insta/481861442_18494605150047535_5344785206577672413_n_18350525221183631.jpg"><img src="/assets/images/insta/481861442_18494605150047535_5344785206577672413_n_18350525221183631.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-10" class="prev">&#x2039;</label>
@@ -46,7 +46,7 @@ Finally, we ended the night by walking through the giant lantern illuminations o
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482060477_18494605210047535_2354831882492839626_n_17957885282907737.jpg"><img src="/assets/images/insta/tmp/482060477_18494605210047535_2354831882492839626_n_17957885282907737.jpg" /></a>
+          <a href="/assets/images/insta/482060477_18494605210047535_2354831882492839626_n_17957885282907737.jpg"><img src="/assets/images/insta/482060477_18494605210047535_2354831882492839626_n_17957885282907737.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -56,7 +56,7 @@ Finally, we ended the night by walking through the giant lantern illuminations o
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481981803_18494605273047535_4305721670960435436_n_17896029591159210.jpg"><img src="/assets/images/insta/tmp/481981803_18494605273047535_4305721670960435436_n_17896029591159210.jpg" /></a>
+          <a href="/assets/images/insta/481981803_18494605273047535_4305721670960435436_n_17896029591159210.jpg"><img src="/assets/images/insta/481981803_18494605273047535_4305721670960435436_n_17896029591159210.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -66,7 +66,7 @@ Finally, we ended the night by walking through the giant lantern illuminations o
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482148912_18494605324047535_3645485215409438252_n_18015936095680611.jpg"><img src="/assets/images/insta/tmp/482148912_18494605324047535_3645485215409438252_n_18015936095680611.jpg" /></a>
+          <a href="/assets/images/insta/482148912_18494605324047535_3645485215409438252_n_18015936095680611.jpg"><img src="/assets/images/insta/482148912_18494605324047535_3645485215409438252_n_18015936095680611.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -76,7 +76,7 @@ Finally, we ended the night by walking through the giant lantern illuminations o
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482052264_18494605360047535_1093749526156835905_n_18020184971653721.jpg"><img src="/assets/images/insta/tmp/482052264_18494605360047535_1093749526156835905_n_18020184971653721.jpg" /></a>
+          <a href="/assets/images/insta/482052264_18494605360047535_1093749526156835905_n_18020184971653721.jpg"><img src="/assets/images/insta/482052264_18494605360047535_1093749526156835905_n_18020184971653721.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -86,7 +86,7 @@ Finally, we ended the night by walking through the giant lantern illuminations o
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481875533_18494605669047535_3841478515592251197_n_17898297948148725.jpg"><img src="/assets/images/insta/tmp/481875533_18494605669047535_3841478515592251197_n_17898297948148725.jpg" /></a>
+          <a href="/assets/images/insta/481875533_18494605669047535_3841478515592251197_n_17898297948148725.jpg"><img src="/assets/images/insta/481875533_18494605669047535_3841478515592251197_n_17898297948148725.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -96,7 +96,7 @@ Finally, we ended the night by walking through the giant lantern illuminations o
         <input type="radio" name="radio-btn" id="img-7"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481809409_18494605765047535_5600816122303689047_n_17949773225933278.jpg"><img src="/assets/images/insta/tmp/481809409_18494605765047535_5600816122303689047_n_17949773225933278.jpg" /></a>
+          <a href="/assets/images/insta/481809409_18494605765047535_5600816122303689047_n_17949773225933278.jpg"><img src="/assets/images/insta/481809409_18494605765047535_5600816122303689047_n_17949773225933278.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -106,7 +106,7 @@ Finally, we ended the night by walking through the giant lantern illuminations o
         <input type="radio" name="radio-btn" id="img-8"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481755887_18494605798047535_4578714706634730329_n_18072840550785738.jpg"><img src="/assets/images/insta/tmp/481755887_18494605798047535_4578714706634730329_n_18072840550785738.jpg" /></a>
+          <a href="/assets/images/insta/481755887_18494605798047535_4578714706634730329_n_18072840550785738.jpg"><img src="/assets/images/insta/481755887_18494605798047535_4578714706634730329_n_18072840550785738.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -116,7 +116,7 @@ Finally, we ended the night by walking through the giant lantern illuminations o
         <input type="radio" name="radio-btn" id="img-9"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481973472_18494605978047535_9032769242827150390_n_17858618325310881.jpg"><img src="/assets/images/insta/tmp/481973472_18494605978047535_9032769242827150390_n_17858618325310881.jpg" /></a>
+          <a href="/assets/images/insta/481973472_18494605978047535_9032769242827150390_n_17858618325310881.jpg"><img src="/assets/images/insta/481973472_18494605978047535_9032769242827150390_n_17858618325310881.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-8" class="prev">&#x2039;</label>
@@ -127,7 +127,7 @@ Finally, we ended the night by walking through the giant lantern illuminations o
  <input type="radio" name="radio-btn" id="img-10" />
  <li class="slide-container">
  <div class="slide">
- <a href="/assets/images/insta/tmp/481860897_18494605135047535_8314928531848261994_n_18053397430914457.jpg"><img src="/assets/images/insta/tmp/481860897_18494605135047535_8314928531848261994_n_18053397430914457.jpg" /></a>
+ <a href="/assets/images/insta/481860897_18494605135047535_8314928531848261994_n_18053397430914457.jpg"><img src="/assets/images/insta/481860897_18494605135047535_8314928531848261994_n_18053397430914457.jpg" /></a>
  </div>
  <div class="nav">
  <label for="img-9" class="prev">&#x2039;</label>

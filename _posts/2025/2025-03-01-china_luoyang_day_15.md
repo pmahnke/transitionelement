@@ -5,7 +5,7 @@ permalink: /archives/2025/03/2025-03-01-china_luoyang_day_15.html
 commentfile: 2025-03-01-china_luoyang_day_15
 category: travel
 date: 2025-03-01 05:16:00
-image: "/assets/images/insta/tmp/482065220_18495134593047535_5474576295675024771_n_18068915449867943.jpg"
+image: "/assets/images/insta/482065220_18495134593047535_5474576295675024771_n_18068915449867943.jpg"
 excerpt: |
   Today was mostly about kung fu. 
 ---
@@ -32,7 +32,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481504004_18495134608047535_1485082863004513401_n_18027787658636705.jpg"><img src="/assets/images/insta/tmp/481504004_18495134608047535_1485082863004513401_n_18027787658636705.jpg" /></a>
+          <a href="/assets/images/insta/481504004_18495134608047535_1485082863004513401_n_18027787658636705.jpg"><img src="/assets/images/insta/481504004_18495134608047535_1485082863004513401_n_18027787658636705.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-14" class="prev">&#x2039;</label>
@@ -42,7 +42,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481788637_18495134629047535_6535001342005478202_n_18054976061116864.jpg"><img src="/assets/images/insta/tmp/481788637_18495134629047535_6535001342005478202_n_18054976061116864.jpg" /></a>
+          <a href="/assets/images/insta/481788637_18495134629047535_6535001342005478202_n_18054976061116864.jpg"><img src="/assets/images/insta/481788637_18495134629047535_6535001342005478202_n_18054976061116864.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -52,7 +52,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481967381_18495134641047535_5481046348317901971_n_18037427639206673.jpg"><img src="/assets/images/insta/tmp/481967381_18495134641047535_5481046348317901971_n_18037427639206673.jpg" /></a>
+          <a href="/assets/images/insta/481967381_18495134641047535_5481046348317901971_n_18037427639206673.jpg"><img src="/assets/images/insta/481967381_18495134641047535_5481046348317901971_n_18037427639206673.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -62,7 +62,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482361699_18495134653047535_5669982928710467844_n_18497770801000104.jpg"><img src="/assets/images/insta/tmp/482361699_18495134653047535_5669982928710467844_n_18497770801000104.jpg" /></a>
+          <a href="/assets/images/insta/482361699_18495134653047535_5669982928710467844_n_18497770801000104.jpg"><img src="/assets/images/insta/482361699_18495134653047535_5669982928710467844_n_18497770801000104.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -72,7 +72,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481947631_18495134662047535_5818267310309173342_n_18042690266582481.jpg"><img src="/assets/images/insta/tmp/481947631_18495134662047535_5818267310309173342_n_18042690266582481.jpg" /></a>
+          <a href="/assets/images/insta/481947631_18495134662047535_5818267310309173342_n_18042690266582481.jpg"><img src="/assets/images/insta/481947631_18495134662047535_5818267310309173342_n_18042690266582481.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -82,7 +82,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482177235_18495134674047535_4998380219394438777_n_18293399563172778.jpg"><img src="/assets/images/insta/tmp/482177235_18495134674047535_4998380219394438777_n_18293399563172778.jpg" /></a>
+          <a href="/assets/images/insta/482177235_18495134674047535_4998380219394438777_n_18293399563172778.jpg"><img src="/assets/images/insta/482177235_18495134674047535_4998380219394438777_n_18293399563172778.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -92,7 +92,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-7"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481851935_18495134686047535_7375622829081390743_n_18001366694587421.jpg"><img src="/assets/images/insta/tmp/481851935_18495134686047535_7375622829081390743_n_18001366694587421.jpg" /></a>
+          <a href="/assets/images/insta/481851935_18495134686047535_7375622829081390743_n_18001366694587421.jpg"><img src="/assets/images/insta/481851935_18495134686047535_7375622829081390743_n_18001366694587421.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -102,7 +102,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-8"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482154419_18495134695047535_6964643286219241641_n_18037914098395695.jpg"><img src="/assets/images/insta/tmp/482154419_18495134695047535_6964643286219241641_n_18037914098395695.jpg" /></a>
+          <a href="/assets/images/insta/482154419_18495134695047535_6964643286219241641_n_18037914098395695.jpg"><img src="/assets/images/insta/482154419_18495134695047535_6964643286219241641_n_18037914098395695.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -112,7 +112,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-9"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482378865_18495134704047535_2785998812843962169_n_18041968829584643.jpg"><img src="/assets/images/insta/tmp/482378865_18495134704047535_2785998812843962169_n_18041968829584643.jpg" /></a>
+          <a href="/assets/images/insta/482378865_18495134704047535_2785998812843962169_n_18041968829584643.jpg"><img src="/assets/images/insta/482378865_18495134704047535_2785998812843962169_n_18041968829584643.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-8" class="prev">&#x2039;</label>
@@ -122,7 +122,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-10"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481945553_18495134719047535_90574604307411917_n_17850224043378672.jpg"><img src="/assets/images/insta/tmp/481945553_18495134719047535_90574604307411917_n_17850224043378672.jpg" /></a>
+          <a href="/assets/images/insta/481945553_18495134719047535_90574604307411917_n_17850224043378672.jpg"><img src="/assets/images/insta/481945553_18495134719047535_90574604307411917_n_17850224043378672.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-9" class="prev">&#x2039;</label>
@@ -132,7 +132,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-11"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481841031_18495134728047535_2812171936011518204_n_18078305128659038.jpg"><img src="/assets/images/insta/tmp/481841031_18495134728047535_2812171936011518204_n_18078305128659038.jpg" /></a>
+          <a href="/assets/images/insta/481841031_18495134728047535_2812171936011518204_n_18078305128659038.jpg"><img src="/assets/images/insta/481841031_18495134728047535_2812171936011518204_n_18078305128659038.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-10" class="prev">&#x2039;</label>
@@ -142,7 +142,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-12"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482380527_18495134737047535_8576553271591920739_n_18036909470199850.jpg"><img src="/assets/images/insta/tmp/482380527_18495134737047535_8576553271591920739_n_18036909470199850.jpg" /></a>
+          <a href="/assets/images/insta/482380527_18495134737047535_8576553271591920739_n_18036909470199850.jpg"><img src="/assets/images/insta/482380527_18495134737047535_8576553271591920739_n_18036909470199850.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-11" class="prev">&#x2039;</label>
@@ -152,7 +152,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
         <input type="radio" name="radio-btn" id="img-13"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481808350_18495134749047535_1490319274145969274_n_18061836604949226.jpg"><img src="/assets/images/insta/tmp/481808350_18495134749047535_1490319274145969274_n_18061836604949226.jpg" /></a>
+          <a href="/assets/images/insta/481808350_18495134749047535_1490319274145969274_n_18061836604949226.jpg"><img src="/assets/images/insta/481808350_18495134749047535_1490319274145969274_n_18061836604949226.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-12" class="prev">&#x2039;</label>
@@ -163,7 +163,7 @@ We spent the afternoon was spent at the Shaolin Temple and Pagoda Forest. The te
  <input type="radio" name="radio-btn" id="img-14" />
  <li class="slide-container">
  <div class="slide">
- <a href="/assets/images/insta/tmp/482065220_18495134593047535_5474576295675024771_n_18068915449867943.jpg"><img src="/assets/images/insta/tmp/482065220_18495134593047535_5474576295675024771_n_18068915449867943.jpg" /></a>
+ <a href="/assets/images/insta/482065220_18495134593047535_5474576295675024771_n_18068915449867943.jpg"><img src="/assets/images/insta/482065220_18495134593047535_5474576295675024771_n_18068915449867943.jpg" /></a>
  </div>
  <div class="nav">
  <label for="img-13" class="prev">&#x2039;</label>
