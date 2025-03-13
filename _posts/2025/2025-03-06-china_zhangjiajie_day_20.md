@@ -5,7 +5,7 @@ permalink: /archives/2025/03/2025-03-06-china_zhangjiajie_day_20.html
 commentfile: 2025-03-06-china_zhangjiajie_day_20
 category: travel
 date: 2025-03-06 03:00:00
-image: "/assets/images/insta/tmp/483138469_18496114726047535_3854423302487688460_n_18076039147667809.jpg"
+image: "/assets/images/insta/483138469_18496114726047535_3854423302487688460_n_18076039147667809.jpg"
 excerpt: |
   Today was our last full day in China. We started with a boat trip to Baofeng Lake and then went up the very snowy Tianmen Mountain.
 ---
@@ -35,7 +35,7 @@ What a great trip.
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482646579_18496114819047535_8871457929050901126_n_18039104570171897.jpg"><img src="/assets/images/insta/tmp/482646579_18496114819047535_8871457929050901126_n_18039104570171897.jpg" /></a>
+          <a href="/assets/images/insta/482646579_18496114819047535_8871457929050901126_n_18039104570171897.jpg"><img src="/assets/images/insta/482646579_18496114819047535_8871457929050901126_n_18039104570171897.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-12" class="prev">&#x2039;</label>
@@ -45,7 +45,7 @@ What a great trip.
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482894068_18496114831047535_646705987378681359_n_18494225980028790.jpg"><img src="/assets/images/insta/tmp/482894068_18496114831047535_646705987378681359_n_18494225980028790.jpg" /></a>
+          <a href="/assets/images/insta/482894068_18496114831047535_646705987378681359_n_18494225980028790.jpg"><img src="/assets/images/insta/482894068_18496114831047535_646705987378681359_n_18494225980028790.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -55,7 +55,7 @@ What a great trip.
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482334680_18496114879047535_3100817869772964693_n_17860294191365859.jpg"><img src="/assets/images/insta/tmp/482334680_18496114879047535_3100817869772964693_n_17860294191365859.jpg" /></a>
+          <a href="/assets/images/insta/482334680_18496114879047535_3100817869772964693_n_17860294191365859.jpg"><img src="/assets/images/insta/482334680_18496114879047535_3100817869772964693_n_17860294191365859.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -65,7 +65,7 @@ What a great trip.
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482680867_18496114897047535_357795353801816417_n_17868179202334770.jpg"><img src="/assets/images/insta/tmp/482680867_18496114897047535_357795353801816417_n_17868179202334770.jpg" /></a>
+          <a href="/assets/images/insta/482680867_18496114897047535_357795353801816417_n_17868179202334770.jpg"><img src="/assets/images/insta/482680867_18496114897047535_357795353801816417_n_17868179202334770.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -75,7 +75,7 @@ What a great trip.
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482430990_18496114912047535_2541396608613162537_n_17949219623806534.jpg"><img src="/assets/images/insta/tmp/482430990_18496114912047535_2541396608613162537_n_17949219623806534.jpg" /></a>
+          <a href="/assets/images/insta/482430990_18496114912047535_2541396608613162537_n_17949219623806534.jpg"><img src="/assets/images/insta/482430990_18496114912047535_2541396608613162537_n_17949219623806534.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -85,7 +85,7 @@ What a great trip.
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482787467_18496114933047535_2201652426090525669_n_17938544540860601.jpg"><img src="/assets/images/insta/tmp/482787467_18496114933047535_2201652426090525669_n_17938544540860601.jpg" /></a>
+          <a href="/assets/images/insta/482787467_18496114933047535_2201652426090525669_n_17938544540860601.jpg"><img src="/assets/images/insta/482787467_18496114933047535_2201652426090525669_n_17938544540860601.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -95,7 +95,7 @@ What a great trip.
         <input type="radio" name="radio-btn" id="img-7"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/483011605_18496114942047535_6291014548051747771_n_18140604508346986.jpg"><img src="/assets/images/insta/tmp/483011605_18496114942047535_6291014548051747771_n_18140604508346986.jpg" /></a>
+          <a href="/assets/images/insta/483011605_18496114942047535_6291014548051747771_n_18140604508346986.jpg"><img src="/assets/images/insta/483011605_18496114942047535_6291014548051747771_n_18140604508346986.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -105,7 +105,7 @@ What a great trip.
         <input type="radio" name="radio-btn" id="img-8"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/483017469_18496114954047535_9139693841237425574_n_18078542947726125.jpg"><img src="/assets/images/insta/tmp/483017469_18496114954047535_9139693841237425574_n_18078542947726125.jpg" /></a>
+          <a href="/assets/images/insta/483017469_18496114954047535_9139693841237425574_n_18078542947726125.jpg"><img src="/assets/images/insta/483017469_18496114954047535_9139693841237425574_n_18078542947726125.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -115,7 +115,7 @@ What a great trip.
         <input type="radio" name="radio-btn" id="img-9"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482734527_18496114993047535_7004775086575212543_n_18018823898491073.jpg"><img src="/assets/images/insta/tmp/482734527_18496114993047535_7004775086575212543_n_18018823898491073.jpg" /></a>
+          <a href="/assets/images/insta/482734527_18496114993047535_7004775086575212543_n_18018823898491073.jpg"><img src="/assets/images/insta/482734527_18496114993047535_7004775086575212543_n_18018823898491073.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-8" class="prev">&#x2039;</label>
@@ -125,7 +125,7 @@ What a great trip.
         <input type="radio" name="radio-btn" id="img-10"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/483164165_18496115011047535_7578412810538432219_n_18043158620121195.jpg"><img src="/assets/images/insta/tmp/483164165_18496115011047535_7578412810538432219_n_18043158620121195.jpg" /></a>
+          <a href="/assets/images/insta/483164165_18496115011047535_7578412810538432219_n_18043158620121195.jpg"><img src="/assets/images/insta/483164165_18496115011047535_7578412810538432219_n_18043158620121195.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-9" class="prev">&#x2039;</label>
@@ -135,7 +135,7 @@ What a great trip.
         <input type="radio" name="radio-btn" id="img-11"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/483025106_18496115056047535_2456998775719244237_n_17901789051137430.jpg"><img src="/assets/images/insta/tmp/483025106_18496115056047535_2456998775719244237_n_17901789051137430.jpg" /></a>
+          <a href="/assets/images/insta/483025106_18496115056047535_2456998775719244237_n_17901789051137430.jpg"><img src="/assets/images/insta/483025106_18496115056047535_2456998775719244237_n_17901789051137430.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-10" class="prev">&#x2039;</label>
@@ -146,7 +146,7 @@ What a great trip.
  <input type="radio" name="radio-btn" id="img-12" />
  <li class="slide-container">
  <div class="slide">
- <a href="/assets/images/insta/tmp/483138469_18496114726047535_3854423302487688460_n_18076039147667809.jpg"><img src="/assets/images/insta/tmp/483138469_18496114726047535_3854423302487688460_n_18076039147667809.jpg" /></a>
+ <a href="/assets/images/insta/483138469_18496114726047535_3854423302487688460_n_18076039147667809.jpg"><img src="/assets/images/insta/483138469_18496114726047535_3854423302487688460_n_18076039147667809.jpg" /></a>
  </div>
  <div class="nav">
  <label for="img-11" class="prev">&#x2039;</label>

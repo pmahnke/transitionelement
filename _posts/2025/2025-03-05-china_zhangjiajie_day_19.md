@@ -5,7 +5,7 @@ permalink: /archives/2025/03/2025-03-05-china_zhangjiajie_day_19.html
 commentfile: 2025-03-05-china_zhangjiajie_day_19
 category: travel
 date: 2025-03-05 07:03:00
-image: "/assets/images/insta/tmp/482878466_18495953887047535_7437822304143147232_n_17901726690110250.jpg"
+image: "/assets/images/insta/482878466_18495953887047535_7437822304143147232_n_17901726690110250.jpg"
 excerpt: |
   We spent the day in Zhangjiajie National Forest Park, which inspired Avatar.
 ---
@@ -27,7 +27,7 @@ We spent the day in Zhangjiajie National Forest Park, which inspired Avatar. Unf
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482776901_18495953941047535_2013600445046603698_n_18052596370953077.jpg"><img src="/assets/images/insta/tmp/482776901_18495953941047535_2013600445046603698_n_18052596370953077.jpg" /></a>
+          <a href="/assets/images/insta/482776901_18495953941047535_2013600445046603698_n_18052596370953077.jpg"><img src="/assets/images/insta/482776901_18495953941047535_2013600445046603698_n_18052596370953077.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-10" class="prev">&#x2039;</label>
@@ -37,7 +37,7 @@ We spent the day in Zhangjiajie National Forest Park, which inspired Avatar. Unf
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482684699_18495953953047535_319598760688681658_n_17886130281230293.jpg"><img src="/assets/images/insta/tmp/482684699_18495953953047535_319598760688681658_n_17886130281230293.jpg" /></a>
+          <a href="/assets/images/insta/482684699_18495953953047535_319598760688681658_n_17886130281230293.jpg"><img src="/assets/images/insta/482684699_18495953953047535_319598760688681658_n_17886130281230293.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -47,7 +47,7 @@ We spent the day in Zhangjiajie National Forest Park, which inspired Avatar. Unf
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/483038007_18495953962047535_6208735919083166824_n_17906370975015619.jpg"><img src="/assets/images/insta/tmp/483038007_18495953962047535_6208735919083166824_n_17906370975015619.jpg" /></a>
+          <a href="/assets/images/insta/483038007_18495953962047535_6208735919083166824_n_17906370975015619.jpg"><img src="/assets/images/insta/483038007_18495953962047535_6208735919083166824_n_17906370975015619.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -57,7 +57,7 @@ We spent the day in Zhangjiajie National Forest Park, which inspired Avatar. Unf
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482841654_18495953971047535_7627158732138879485_n_17962585646856555.jpg"><img src="/assets/images/insta/tmp/482841654_18495953971047535_7627158732138879485_n_17962585646856555.jpg" /></a>
+          <a href="/assets/images/insta/482841654_18495953971047535_7627158732138879485_n_17962585646856555.jpg"><img src="/assets/images/insta/482841654_18495953971047535_7627158732138879485_n_17962585646856555.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -67,7 +67,7 @@ We spent the day in Zhangjiajie National Forest Park, which inspired Avatar. Unf
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482738262_18495953980047535_7266311703841119592_n_18057928085098036.jpg"><img src="/assets/images/insta/tmp/482738262_18495953980047535_7266311703841119592_n_18057928085098036.jpg" /></a>
+          <a href="/assets/images/insta/482738262_18495953980047535_7266311703841119592_n_18057928085098036.jpg"><img src="/assets/images/insta/482738262_18495953980047535_7266311703841119592_n_18057928085098036.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -77,7 +77,7 @@ We spent the day in Zhangjiajie National Forest Park, which inspired Avatar. Unf
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/483008962_18495953989047535_6029972387069185068_n_17903231634105760.jpg"><img src="/assets/images/insta/tmp/483008962_18495953989047535_6029972387069185068_n_17903231634105760.jpg" /></a>
+          <a href="/assets/images/insta/483008962_18495953989047535_6029972387069185068_n_17903231634105760.jpg"><img src="/assets/images/insta/483008962_18495953989047535_6029972387069185068_n_17903231634105760.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -87,7 +87,7 @@ We spent the day in Zhangjiajie National Forest Park, which inspired Avatar. Unf
         <input type="radio" name="radio-btn" id="img-7"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482731984_18495954112047535_7577719694878112372_n_17902123017038065.jpg"><img src="/assets/images/insta/tmp/482731984_18495954112047535_7577719694878112372_n_17902123017038065.jpg" /></a>
+          <a href="/assets/images/insta/482731984_18495954112047535_7577719694878112372_n_17902123017038065.jpg"><img src="/assets/images/insta/482731984_18495954112047535_7577719694878112372_n_17902123017038065.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -97,7 +97,7 @@ We spent the day in Zhangjiajie National Forest Park, which inspired Avatar. Unf
         <input type="radio" name="radio-btn" id="img-8"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482690326_18495954136047535_8265144893161173195_n_17852385327361961.jpg"><img src="/assets/images/insta/tmp/482690326_18495954136047535_8265144893161173195_n_17852385327361961.jpg" /></a>
+          <a href="/assets/images/insta/482690326_18495954136047535_8265144893161173195_n_17852385327361961.jpg"><img src="/assets/images/insta/482690326_18495954136047535_8265144893161173195_n_17852385327361961.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -107,7 +107,7 @@ We spent the day in Zhangjiajie National Forest Park, which inspired Avatar. Unf
         <input type="radio" name="radio-btn" id="img-9"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482917453_18495954145047535_6107815551561378951_n_17858321640379990.jpg"><img src="/assets/images/insta/tmp/482917453_18495954145047535_6107815551561378951_n_17858321640379990.jpg" /></a>
+          <a href="/assets/images/insta/482917453_18495954145047535_6107815551561378951_n_17858321640379990.jpg"><img src="/assets/images/insta/482917453_18495954145047535_6107815551561378951_n_17858321640379990.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-8" class="prev">&#x2039;</label>
@@ -118,7 +118,7 @@ We spent the day in Zhangjiajie National Forest Park, which inspired Avatar. Unf
  <input type="radio" name="radio-btn" id="img-10" />
  <li class="slide-container">
  <div class="slide">
- <a href="/assets/images/insta/tmp/482878466_18495953887047535_7437822304143147232_n_17901726690110250.jpg"><img src="/assets/images/insta/tmp/482878466_18495953887047535_7437822304143147232_n_17901726690110250.jpg" /></a>
+ <a href="/assets/images/insta/482878466_18495953887047535_7437822304143147232_n_17901726690110250.jpg"><img src="/assets/images/insta/482878466_18495953887047535_7437822304143147232_n_17901726690110250.jpg" /></a>
  </div>
  <div class="nav">
  <label for="img-9" class="prev">&#x2039;</label>

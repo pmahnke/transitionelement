@@ -5,7 +5,7 @@ permalink: /archives/2025/02/2025-02-21-china_beijing_day_7.html
 commentfile: 2025-02-21-china_beijing_day_7
 category: travel
 date: 2025-02-21 06:20:00
-image: "/assets/images/insta/tmp/481147382_18493687582047535_650017619153439745_n_18005347871546793.jpg"
+image: "/assets/images/insta/481147382_18493687582047535_650017619153439745_n_18005347871546793.jpg"
 excerpt: |
   One of my favourite places, the Temple of Heaven. 
 ---
@@ -31,7 +31,7 @@ In the evening, we went to the white Miaoying Temple and had dinner near the Dru
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481001799_18493687612047535_4282423417018789087_n_18487418449056541.jpg"><img src="/assets/images/insta/tmp/481001799_18493687612047535_4282423417018789087_n_18487418449056541.jpg" /></a>
+          <a href="/assets/images/insta/481001799_18493687612047535_4282423417018789087_n_18487418449056541.jpg"><img src="/assets/images/insta/481001799_18493687612047535_4282423417018789087_n_18487418449056541.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-11" class="prev">&#x2039;</label>
@@ -41,7 +41,7 @@ In the evening, we went to the white Miaoying Temple and had dinner near the Dru
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481139186_18493687642047535_6350839429507154935_n_18060128263953955.jpg"><img src="/assets/images/insta/tmp/481139186_18493687642047535_6350839429507154935_n_18060128263953955.jpg" /></a>
+          <a href="/assets/images/insta/481139186_18493687642047535_6350839429507154935_n_18060128263953955.jpg"><img src="/assets/images/insta/481139186_18493687642047535_6350839429507154935_n_18060128263953955.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -51,7 +51,7 @@ In the evening, we went to the white Miaoying Temple and had dinner near the Dru
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480737776_18493687651047535_1767220273474233569_n_18043786244355290.jpg"><img src="/assets/images/insta/tmp/480737776_18493687651047535_1767220273474233569_n_18043786244355290.jpg" /></a>
+          <a href="/assets/images/insta/480737776_18493687651047535_1767220273474233569_n_18043786244355290.jpg"><img src="/assets/images/insta/480737776_18493687651047535_1767220273474233569_n_18043786244355290.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -61,7 +61,7 @@ In the evening, we went to the white Miaoying Temple and had dinner near the Dru
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481384207_18493687669047535_7286920892858423877_n_17848890243408930.jpg"><img src="/assets/images/insta/tmp/481384207_18493687669047535_7286920892858423877_n_17848890243408930.jpg" /></a>
+          <a href="/assets/images/insta/481384207_18493687669047535_7286920892858423877_n_17848890243408930.jpg"><img src="/assets/images/insta/481384207_18493687669047535_7286920892858423877_n_17848890243408930.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -71,7 +71,7 @@ In the evening, we went to the white Miaoying Temple and had dinner near the Dru
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481379611_18493687696047535_687176576428034630_n_17862875826347946.jpg"><img src="/assets/images/insta/tmp/481379611_18493687696047535_687176576428034630_n_17862875826347946.jpg" /></a>
+          <a href="/assets/images/insta/481379611_18493687696047535_687176576428034630_n_17862875826347946.jpg"><img src="/assets/images/insta/481379611_18493687696047535_687176576428034630_n_17862875826347946.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -81,7 +81,7 @@ In the evening, we went to the white Miaoying Temple and had dinner near the Dru
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481000473_18493687732047535_2645018513166947802_n_17937723830986000.jpg"><img src="/assets/images/insta/tmp/481000473_18493687732047535_2645018513166947802_n_17937723830986000.jpg" /></a>
+          <a href="/assets/images/insta/481000473_18493687732047535_2645018513166947802_n_17937723830986000.jpg"><img src="/assets/images/insta/481000473_18493687732047535_2645018513166947802_n_17937723830986000.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -91,7 +91,7 @@ In the evening, we went to the white Miaoying Temple and had dinner near the Dru
         <input type="radio" name="radio-btn" id="img-7"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481224788_18493687957047535_8070013507103184866_n_18071843344751974.jpg"><img src="/assets/images/insta/tmp/481224788_18493687957047535_8070013507103184866_n_18071843344751974.jpg" /></a>
+          <a href="/assets/images/insta/481224788_18493687957047535_8070013507103184866_n_18071843344751974.jpg"><img src="/assets/images/insta/481224788_18493687957047535_8070013507103184866_n_18071843344751974.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -101,7 +101,7 @@ In the evening, we went to the white Miaoying Temple and had dinner near the Dru
         <input type="radio" name="radio-btn" id="img-8"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480676493_18493687972047535_43202697396929702_n_18071187457771815.jpg"><img src="/assets/images/insta/tmp/480676493_18493687972047535_43202697396929702_n_18071187457771815.jpg" /></a>
+          <a href="/assets/images/insta/480676493_18493687972047535_43202697396929702_n_18071187457771815.jpg"><img src="/assets/images/insta/480676493_18493687972047535_43202697396929702_n_18071187457771815.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -111,7 +111,7 @@ In the evening, we went to the white Miaoying Temple and had dinner near the Dru
         <input type="radio" name="radio-btn" id="img-9"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481152357_18493687993047535_3891630003182532366_n_18032369459561718.jpg"><img src="/assets/images/insta/tmp/481152357_18493687993047535_3891630003182532366_n_18032369459561718.jpg" /></a>
+          <a href="/assets/images/insta/481152357_18493687993047535_3891630003182532366_n_18032369459561718.jpg"><img src="/assets/images/insta/481152357_18493687993047535_3891630003182532366_n_18032369459561718.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-8" class="prev">&#x2039;</label>
@@ -121,7 +121,7 @@ In the evening, we went to the white Miaoying Temple and had dinner near the Dru
         <input type="radio" name="radio-btn" id="img-10"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481090640_18493688005047535_3122788586463774220_n_17904162060102945.jpg"><img src="/assets/images/insta/tmp/481090640_18493688005047535_3122788586463774220_n_17904162060102945.jpg" /></a>
+          <a href="/assets/images/insta/481090640_18493688005047535_3122788586463774220_n_17904162060102945.jpg"><img src="/assets/images/insta/481090640_18493688005047535_3122788586463774220_n_17904162060102945.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-9" class="prev">&#x2039;</label>
@@ -132,7 +132,7 @@ In the evening, we went to the white Miaoying Temple and had dinner near the Dru
  <input type="radio" name="radio-btn" id="img-11" />
  <li class="slide-container">
  <div class="slide">
- <a href="/assets/images/insta/tmp/481147382_18493687582047535_650017619153439745_n_18005347871546793.jpg"><img src="/assets/images/insta/tmp/481147382_18493687582047535_650017619153439745_n_18005347871546793.jpg" /></a>
+ <a href="/assets/images/insta/481147382_18493687582047535_650017619153439745_n_18005347871546793.jpg"><img src="/assets/images/insta/481147382_18493687582047535_650017619153439745_n_18005347871546793.jpg" /></a>
  </div>
  <div class="nav">
  <label for="img-10" class="prev">&#x2039;</label>
