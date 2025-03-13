@@ -5,7 +5,7 @@ permalink: /archives/2025/02/2025-02-27-china_xian_day_13.html
 commentfile: 2025-02-27-china_xian_day_13
 category: travel
 date: 2025-02-27 07:30:00
-image: "/assets/images/insta/tmp/481330624_18494789257047535_5759792556231482575_n_17973514109696458.jpg"
+image: "/assets/images/insta/481330624_18494789257047535_5759792556231482575_n_17973514109696458.jpg"
 excerpt: |
   Today was our only 'free day', aka no tours. We woke early to see the morning market along the wall.
 ---
@@ -31,7 +31,7 @@ We love it here.
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480987177_18494789359047535_1732831982350001033_n_17922604419045951.jpg"><img src="/assets/images/insta/tmp/480987177_18494789359047535_1732831982350001033_n_17922604419045951.jpg" /></a>
+          <a href="/assets/images/insta/480987177_18494789359047535_1732831982350001033_n_17922604419045951.jpg"><img src="/assets/images/insta/480987177_18494789359047535_1732831982350001033_n_17922604419045951.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-12" class="prev">&#x2039;</label>
@@ -41,7 +41,7 @@ We love it here.
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481876081_18494789323047535_4206235024422486572_n_18076498864664305.jpg"><img src="/assets/images/insta/tmp/481876081_18494789323047535_4206235024422486572_n_18076498864664305.jpg" /></a>
+          <a href="/assets/images/insta/481876081_18494789323047535_4206235024422486572_n_18076498864664305.jpg"><img src="/assets/images/insta/481876081_18494789323047535_4206235024422486572_n_18076498864664305.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -51,7 +51,7 @@ We love it here.
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482165537_18494789314047535_8992801329882220580_n_18047807258337153.jpg"><img src="/assets/images/insta/tmp/482165537_18494789314047535_8992801329882220580_n_18047807258337153.jpg" /></a>
+          <a href="/assets/images/insta/482165537_18494789314047535_8992801329882220580_n_18047807258337153.jpg"><img src="/assets/images/insta/482165537_18494789314047535_8992801329882220580_n_18047807258337153.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -61,7 +61,7 @@ We love it here.
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482228089_18494789350047535_5841591637213824608_n_18285806038222482.jpg"><img src="/assets/images/insta/tmp/482228089_18494789350047535_5841591637213824608_n_18285806038222482.jpg" /></a>
+          <a href="/assets/images/insta/482228089_18494789350047535_5841591637213824608_n_18285806038222482.jpg"><img src="/assets/images/insta/482228089_18494789350047535_5841591637213824608_n_18285806038222482.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -71,7 +71,7 @@ We love it here.
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481787117_18494789332047535_4153996861997670578_n_18145308466372616.jpg"><img src="/assets/images/insta/tmp/481787117_18494789332047535_4153996861997670578_n_18145308466372616.jpg" /></a>
+          <a href="/assets/images/insta/481787117_18494789332047535_4153996861997670578_n_18145308466372616.jpg"><img src="/assets/images/insta/481787117_18494789332047535_4153996861997670578_n_18145308466372616.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -81,7 +81,7 @@ We love it here.
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481453000_18494789368047535_4942275701737865214_n_18061156177989982.jpg"><img src="/assets/images/insta/tmp/481453000_18494789368047535_4942275701737865214_n_18061156177989982.jpg" /></a>
+          <a href="/assets/images/insta/481453000_18494789368047535_4942275701737865214_n_18061156177989982.jpg"><img src="/assets/images/insta/481453000_18494789368047535_4942275701737865214_n_18061156177989982.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -91,7 +91,7 @@ We love it here.
         <input type="radio" name="radio-btn" id="img-7"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481920731_18494789341047535_1329698256413590776_n_18081848101626761.jpg"><img src="/assets/images/insta/tmp/481920731_18494789341047535_1329698256413590776_n_18081848101626761.jpg" /></a>
+          <a href="/assets/images/insta/481920731_18494789341047535_1329698256413590776_n_18081848101626761.jpg"><img src="/assets/images/insta/481920731_18494789341047535_1329698256413590776_n_18081848101626761.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -101,7 +101,7 @@ We love it here.
         <input type="radio" name="radio-btn" id="img-8"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481477980_18494789269047535_9083831807604825658_n_17890582584093248.jpg"><img src="/assets/images/insta/tmp/481477980_18494789269047535_9083831807604825658_n_17890582584093248.jpg" /></a>
+          <a href="/assets/images/insta/481477980_18494789269047535_9083831807604825658_n_17890582584093248.jpg"><img src="/assets/images/insta/481477980_18494789269047535_9083831807604825658_n_17890582584093248.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -111,7 +111,7 @@ We love it here.
         <input type="radio" name="radio-btn" id="img-9"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482369895_18494789290047535_944309761385835307_n_17982334601660712.jpg"><img src="/assets/images/insta/tmp/482369895_18494789290047535_944309761385835307_n_17982334601660712.jpg" /></a>
+          <a href="/assets/images/insta/482369895_18494789290047535_944309761385835307_n_17982334601660712.jpg"><img src="/assets/images/insta/482369895_18494789290047535_944309761385835307_n_17982334601660712.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-8" class="prev">&#x2039;</label>
@@ -121,7 +121,7 @@ We love it here.
         <input type="radio" name="radio-btn" id="img-10"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/481946946_18494789287047535_1780994382719741125_n_18256136920302865.jpg"><img src="/assets/images/insta/tmp/481946946_18494789287047535_1780994382719741125_n_18256136920302865.jpg" /></a>
+          <a href="/assets/images/insta/481946946_18494789287047535_1780994382719741125_n_18256136920302865.jpg"><img src="/assets/images/insta/481946946_18494789287047535_1780994382719741125_n_18256136920302865.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-9" class="prev">&#x2039;</label>
@@ -131,7 +131,7 @@ We love it here.
         <input type="radio" name="radio-btn" id="img-11"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/482356048_18494789302047535_3726435895429544747_n_17853374280351458.jpg"><img src="/assets/images/insta/tmp/482356048_18494789302047535_3726435895429544747_n_17853374280351458.jpg" /></a>
+          <a href="/assets/images/insta/482356048_18494789302047535_3726435895429544747_n_17853374280351458.jpg"><img src="/assets/images/insta/482356048_18494789302047535_3726435895429544747_n_17853374280351458.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-10" class="prev">&#x2039;</label>
@@ -142,7 +142,7 @@ We love it here.
  <input type="radio" name="radio-btn" id="img-12" />
  <li class="slide-container">
  <div class="slide">
- <a href="/assets/images/insta/tmp/481330624_18494789257047535_5759792556231482575_n_17973514109696458.jpg"><img src="/assets/images/insta/tmp/481330624_18494789257047535_5759792556231482575_n_17973514109696458.jpg" /></a>
+ <a href="/assets/images/insta/481330624_18494789257047535_5759792556231482575_n_17973514109696458.jpg"><img src="/assets/images/insta/481330624_18494789257047535_5759792556231482575_n_17973514109696458.jpg" /></a>
  </div>
  <div class="nav">
  <label for="img-11" class="prev">&#x2039;</label>

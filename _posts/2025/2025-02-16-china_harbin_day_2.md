@@ -5,7 +5,7 @@ permalink: /archives/2025/02/2025-02-16-china_harbin_day_2.html
 commentfile: 2025-02-16-china_harbin_day_2
 category: travel
 date: 2025-02-16 06:17:00
-image: "/assets/images/insta/tmp/480252520_18492798091047535_7563361430475523750_n_17945277326950122.jpg"
+image: "/assets/images/insta/480252520_18492798091047535_7563361430475523750_n_17945277326950122.jpg"
 excerpt: |
   Today, we went to two different snow festivals.
 ---
@@ -32,7 +32,7 @@ We stayed until dark to witness it at night. It was amazing.
     <input type="radio" name="radio-btn" id="img-1" checked="checked" />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480182303_18492798127047535_3067152991115307280_n_18052116866473364.jpg"><img src="/assets/images/insta/tmp/480182303_18492798127047535_3067152991115307280_n_18052116866473364.jpg" /></a>
+          <a href="/assets/images/insta/480182303_18492798127047535_3067152991115307280_n_18052116866473364.jpg"><img src="/assets/images/insta/480182303_18492798127047535_3067152991115307280_n_18052116866473364.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-9" class="prev">&#x2039;</label>
@@ -42,7 +42,7 @@ We stayed until dark to witness it at night. It was amazing.
         <input type="radio" name="radio-btn" id="img-2"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/476898952_18492798142047535_4396785522496128872_n_18048666218189537.jpg"><img src="/assets/images/insta/tmp/476898952_18492798142047535_4396785522496128872_n_18048666218189537.jpg" /></a>
+          <a href="/assets/images/insta/476898952_18492798142047535_4396785522496128872_n_18048666218189537.jpg"><img src="/assets/images/insta/476898952_18492798142047535_4396785522496128872_n_18048666218189537.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-1" class="prev">&#x2039;</label>
@@ -52,7 +52,7 @@ We stayed until dark to witness it at night. It was amazing.
         <input type="radio" name="radio-btn" id="img-3"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480266148_18492798151047535_9029681228905503086_n_18045840356048583.jpg"><img src="/assets/images/insta/tmp/480266148_18492798151047535_9029681228905503086_n_18045840356048583.jpg" /></a>
+          <a href="/assets/images/insta/480266148_18492798151047535_9029681228905503086_n_18045840356048583.jpg"><img src="/assets/images/insta/480266148_18492798151047535_9029681228905503086_n_18045840356048583.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-2" class="prev">&#x2039;</label>
@@ -62,7 +62,7 @@ We stayed until dark to witness it at night. It was amazing.
         <input type="radio" name="radio-btn" id="img-4"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/479963305_18492798163047535_6784238895594491973_n_17903247654100175.jpg"><img src="/assets/images/insta/tmp/479963305_18492798163047535_6784238895594491973_n_17903247654100175.jpg" /></a>
+          <a href="/assets/images/insta/479963305_18492798163047535_6784238895594491973_n_17903247654100175.jpg"><img src="/assets/images/insta/479963305_18492798163047535_6784238895594491973_n_17903247654100175.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-3" class="prev">&#x2039;</label>
@@ -72,7 +72,7 @@ We stayed until dark to witness it at night. It was amazing.
         <input type="radio" name="radio-btn" id="img-5"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/480039162_18492798172047535_7018482610729033501_n_18047574107194356.jpg"><img src="/assets/images/insta/tmp/480039162_18492798172047535_7018482610729033501_n_18047574107194356.jpg" /></a>
+          <a href="/assets/images/insta/480039162_18492798172047535_7018482610729033501_n_18047574107194356.jpg"><img src="/assets/images/insta/480039162_18492798172047535_7018482610729033501_n_18047574107194356.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-4" class="prev">&#x2039;</label>
@@ -82,7 +82,7 @@ We stayed until dark to witness it at night. It was amazing.
         <input type="radio" name="radio-btn" id="img-6"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/479585008_18492798181047535_4368334723719497288_n_17943756872824966.jpg"><img src="/assets/images/insta/tmp/479585008_18492798181047535_4368334723719497288_n_17943756872824966.jpg" /></a>
+          <a href="/assets/images/insta/479585008_18492798181047535_4368334723719497288_n_17943756872824966.jpg"><img src="/assets/images/insta/479585008_18492798181047535_4368334723719497288_n_17943756872824966.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-5" class="prev">&#x2039;</label>
@@ -92,7 +92,7 @@ We stayed until dark to witness it at night. It was amazing.
         <input type="radio" name="radio-btn" id="img-7"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/478674894_18492798193047535_5430315811658306020_n_18024183266640761.jpg"><img src="/assets/images/insta/tmp/478674894_18492798193047535_5430315811658306020_n_18024183266640761.jpg" /></a>
+          <a href="/assets/images/insta/478674894_18492798193047535_5430315811658306020_n_18024183266640761.jpg"><img src="/assets/images/insta/478674894_18492798193047535_5430315811658306020_n_18024183266640761.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-6" class="prev">&#x2039;</label>
@@ -102,7 +102,7 @@ We stayed until dark to witness it at night. It was amazing.
         <input type="radio" name="radio-btn" id="img-8"  />
     <li class="slide-container">
         <div class="slide">
-          <a href="/assets/images/insta/tmp/479714299_18492798202047535_2824382501729635703_n_18303881608239505.jpg"><img src="/assets/images/insta/tmp/479714299_18492798202047535_2824382501729635703_n_18303881608239505.jpg" /></a>
+          <a href="/assets/images/insta/479714299_18492798202047535_2824382501729635703_n_18303881608239505.jpg"><img src="/assets/images/insta/479714299_18492798202047535_2824382501729635703_n_18303881608239505.jpg" /></a>
         </div>
     <div class="nav">
       <label for="img-7" class="prev">&#x2039;</label>
@@ -113,7 +113,7 @@ We stayed until dark to witness it at night. It was amazing.
  <input type="radio" name="radio-btn" id="img-9" />
  <li class="slide-container">
  <div class="slide">
- <a href="/assets/images/insta/tmp/480252520_18492798091047535_7563361430475523750_n_17945277326950122.jpg"><img src="/assets/images/insta/tmp/480252520_18492798091047535_7563361430475523750_n_17945277326950122.jpg" /></a>
+ <a href="/assets/images/insta/480252520_18492798091047535_7563361430475523750_n_17945277326950122.jpg"><img src="/assets/images/insta/480252520_18492798091047535_7563361430475523750_n_17945277326950122.jpg" /></a>
  </div>
  <div class="nav">
  <label for="img-8" class="prev">&#x2039;</label>
