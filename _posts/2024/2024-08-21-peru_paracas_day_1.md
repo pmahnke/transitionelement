@@ -54,7 +54,6 @@ After checking in, we headed to the sea front and had a few cocktails and then d
       <label for="img-4" class="next">&#x203a;</label>
     </div>
     </li>
-    
     <input type="radio" name="radio-btn" id="img-4" />
     <li class="slide-container">
         <div class="slide">
@@ -70,8 +69,6 @@ After checking in, we headed to the sea front and had a few cocktails and then d
       <label for="img-1" class="nav-dot" id="img-dot-1"></label>
       <label for="img-2" class="nav-dot" id="img-dot-2"></label>
       <label for="img-3" class="nav-dot" id="img-dot-3"></label>
-
       <label for="img-4" class="nav-dot" id="img-dot-4"></label>
-
 </li>
 </ul>
