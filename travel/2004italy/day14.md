@@ -21,4 +21,4 @@ Sicily. What a lovely place.
 
 A great trip overall!
 
-\[ [back to the homepage](https://www.transitionelement.com/) \]
+\[ [back to the homepage](https://transitionelement.com/) \]
