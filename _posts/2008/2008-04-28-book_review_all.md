@@ -3,7 +3,7 @@ layout: post
 title: "Book Review - All Lee Child's books"
 permalink: /archives/2008/04/book_review_all.html
 commentfile: 2008-04-28-book_review_all
-image: "/assets/images/lee_child_covers1.jpg"
+image: "/assets/images/lee_child_covers.jpg"
 category: culture
 date: 2008-04-28 13:17:43
 ---
