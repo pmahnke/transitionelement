@@ -76,7 +76,7 @@ foreach my $file (@file) {
         s/$img/\/assets\/images\/$imgfilename/g;
 
         # make full page to wget
-        $img = qq |https://www.transitionelement.com\/$img|;
+        $img = qq |https://transitionelement.com\/$img|;
         $wget{$img} = $imgfilename;
 
       } else {

@@ -9,7 +9,7 @@ date: 2004-02-01 21:36:42
 
 Well, in general I haven't really been missing much from the US over the last 2+ years. Really its been confined to things from Wisconsin that I used to be able to occasionally get in NYC from visitors, or specialty stores.
 
-However today my [brother](https://www.mahnke.net/john) hit me with a double wammie, his breakfast which had in it two of my absolute favorites.
+However today my [brother](https://mahnke.net/john) hit me with a double wammie, his breakfast which had in it two of my absolute favorites.
 
 - [Nueskes Bacon](http://www.nueskes.com/index.cfm<br) /&gt;what can I say, my second favorite bacon in the world, the first isn't made anymore (Sheboygan bacon my grandfather used to get with THE best Kaiser Rolls the world has ever known). John even sent me a NYTime article on how Nueskes came in second in a big NYC top chef taste test.
 
