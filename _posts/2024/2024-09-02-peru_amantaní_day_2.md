@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Peru - Amantaní - Day 2"
-permalink: /archives/2024/09/2024-09-02-peru_amantaní_day_2.html
-commentfile: 2024-09-02-peru_amantaní_day_2
+permalink: /archives/2024/09/2024-09-02-peru_amantani_day_2.html
+commentfile: 2024-09-02-peru_amantani_day_2
 category: travel
 date: 2024-09-02 12:26:00
 image: "/assets/images/insta/457806842_18460896475047535_3801119936342713486_n_18055669264743552.jpg"
