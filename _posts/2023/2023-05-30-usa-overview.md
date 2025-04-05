@@ -39,4 +39,4 @@ We mostly cooked meals for ourselves. I find eating out day after day pretty hor
 
 On the hikes, we had dehydrated meals.
 
-[Read our day by day notes on our 2023 trip to the USA >](% link _posts/2023/2023-05-31-milwaukee_day_1.md %)
+[Read our day by day notes on our 2023 trip to the USA >]({% link _posts/2023/2023-05-31-milwaukee_day_1.md %})
