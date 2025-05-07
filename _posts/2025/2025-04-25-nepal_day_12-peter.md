@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Nepal - Kathmandu - Day 10"
-permalink: /archives/2025/04/2025-04-25-nepal_day_10.html
-commentfile: 2025-04-25-nepal_day_10
+title: "Nepal - Kathmandu - Day 10 - Peter"
+permalink: /archives/2025/04/2025-04-25-nepal_day_10_peter.html
+commentfile: 2025-04-25-nepal_day_10_peter
 category: travel
 date: 2025-04-25 06:31:00
 image: "/assets/images/insta/491427274_18506125882047535_1049941395217950374_n_17974633874814645.jpg"
