@@ -8,7 +8,7 @@ tag: overview
 date: 2025-04-13 06:37:00
 image: "/assets/images/insta/491519197_18506481934047535_3475275873289803780_n_18048153389589983.jpg"
 excerpt: |
-  About our trip to Nepal from April to May 2025.
+  About our trip to Nepal and Gokyo Lakes trek from April to May 2025.
 ---
 This was our first trip to Nepal.  The travellers were, me, my wife Angela and her sister, Robin. The purpose of the trip is to hike from Lukla to Gokyo Lakes and back with a side trip to the Ama Dablam base camp. Unfortunately, eight days into the trek, I had to go back down to Kathmandu, as I caught some kind of virus that made my breathing very constricted.  Angela, Robin and Akash, our guide, all caught this virus a few days later, but made it back before it knocked them out.
 
