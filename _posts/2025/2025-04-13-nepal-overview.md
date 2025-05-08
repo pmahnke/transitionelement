@@ -59,7 +59,7 @@ Tips were USD $200 for our guide and USD $150 for each of our two porters.
 
 Additional costs where:
 
-| Item                                             | Cost (rupees)                            | Cost USD $ |
+| Item                                             | Cost (Nepal rupee रू)                            | Cost USD $ |
 | ------------------------------------------------ | -------------------------------- | --- |
 | Shower                                           | 500 - 750 rupees                 | $3.69 - 5.53 | 
 | WiFi (24 hours)                                  | 500 - 1,000 rupees               | $3.69 - 7.38 |
