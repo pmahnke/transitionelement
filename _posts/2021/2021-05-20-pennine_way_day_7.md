@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Pennine Way - Day 7 - Malham to Horton in Ribblesdale"
-permalink: /archives/2021/05/2021-05-20-pennine_way_day_6.html
-commentfile: 2021-05-20-pennine_way_day_6
+permalink: /archives/2021/05/2021-05-20-pennine_way_day_7.html
+commentfile: 2021-05-20-pennine_way_day_7
 category: [travel, hiking]
 date: 2021-05-20 08:40:00
 image: "/assets/images/insta/188671126_302006874895395_2225657077721620455_n_17885799107281706.jpg"
