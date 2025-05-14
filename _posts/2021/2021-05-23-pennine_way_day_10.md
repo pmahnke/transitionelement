@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Pennine Way - Day 10 - Tan Hill to Middleton in Teesdale"
-permalink: /archives/2021/05/2021-05-23-pennine_way_day_9.html
-commentfile: 2021-05-23-pennine_way_day_9
+permalink: /archives/2021/05/2021-05-23-pennine_way_day_10.html
+commentfile: 2021-05-23-pennine_way_day_10
 category: [travel, hiking]
 date: 2021-05-23 10:59:00
 image: "/assets/images/insta/190135323_3864511107009448_4910870156847094425_n_17936772961492899.jpg"
