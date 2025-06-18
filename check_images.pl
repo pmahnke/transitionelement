@@ -24,7 +24,8 @@ foreach $file (@img) {
 
     if (!$count) {
         print "$i BAD $file\n";
-        `mv $dir/$file $mvdir`;
+        #`mv $dir/$file $mvdir`;
+	print "mv $dir/$file $mvdir\n";
         $count = "";
         $i++;
     } else {
