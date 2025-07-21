@@ -1,0 +1,452 @@
+<!doctype html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+<!-- Basic Page Needs
+  ================================================== -->
+<meta charset="utf-8">
+<meta name="author" content="Peter Mahnke"/>
+<meta name="copyright" content="&copy; Copyright 2004-2016 by Peter Mahnke. All rights reserved."/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<!-- Mobile Specific Metas
+  ================================================== -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!-- CSS
+  ================================================== -->
+<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/A.main.css.pagespeed.cf.leMP6JZ5M8.css">
+<!--[if lt IE 9]>
+    <script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<!-- Favicons
+  ================================================== -->
+<link rel="shortcut icon" href="data:image/gif;base64,R0lGODlhEAAQALMAALy82bS00ZmZzMHB3cXF4aWl0f///6ury6KixK2t07i41Z6ezrCwz6Ghz7Cw15SUvSH5BAAAAAAALAAAAAAQABAAAAR6UMhJq13tpLKsbAkAECSwdFShDAEiKoASFJRCDIeiIDAwDDSBYcg4DA0DgIEASAxHgCJi+XsOncjogxpAGhYGRMDInK4GhgDBcUyrCQZfV6Z8AFoBRiBJCPhyDgIOMoQEMAM9QYI+IzcKDgkNFw0FlAooHhQNgZmdFREAOw==">
+<link rel="apple-touch-icon" href="data:image/jpeg;base64,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">
+<link rel="apple-touch-icon" sizes="72x72" href="data:image/jpeg;base64,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">
+<link rel="apple-touch-icon" sizes="114x114" href="/xapple-touch-icon-114x114.png.pagespeed.ic.JLd5P_qdeO.jpg">
+<!-- Fonts -->
+<!--link  rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300&amp;subset=latin,latin-ext" -->
+<!-- RSS -->
+<link rel="alternate" type="application/rss+xml" title="St Margarets Community Website" href="http://stmgrts.org.uk/feed.xml">
+<!-- FROM JEKYLL -->
+<title>St Margarets Community Website</title>
+<meta name="description" content="St Margarets Community Website provides residents and visitors great information about local news, events and resources.  St Margarets is in Greater London and located between Twickenham and Richmond.
+">
+<link rel="canonical" href="http://stmgrts.org.uk/">
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MXJB5Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MXJB5Z');</script>
+<!-- End Google Tag Manager -->
+<!-- banner -->
+<div id="banner">
+<div class="container">
+<div class="row">
+<div class="eight columns">
+<div id="logo"><a href="/" accesskey="1" title="St Margarets Community Website"><script data-pagespeed-no-defer>//<![CDATA[
+(function(){var g=this;function h(b,d){var a=b.split("."),c=g;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===d?c[e]?c=c[e]:c=c[e]={}:c[e]=d};function l(b){var d=b.length;if(0<d){for(var a=Array(d),c=0;c<d;c++)a[c]=b[c];return a}return[]};function m(b){var d=window;if(d.addEventListener)d.addEventListener("load",b,!1);else if(d.attachEvent)d.attachEvent("onload",b);else{var a=d.onload;d.onload=function(){b.call(this);a&&a.call(this)}}};var n;function p(b,d,a,c,e){this.h=b;this.j=d;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=c;this.b={};this.a=[];this.c={}}function q(b,d){var a,c,e=d.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=d.offsetWidth&&0>=d.offsetHeight)a=!1;else{c=d.getBoundingClientRect();var f=document.body;a=c.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);c=c.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+c;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&c<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}p.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&q(this,b)};h("pagespeed.CriticalImages.checkImageForCriticality",function(b){n.checkImageForCriticality(b)});h("pagespeed.CriticalImages.checkCriticalImages",function(){r(n)});function r(b){b.b={};for(var d=["IMG","INPUT"],a=[],c=0;c<d.length;++c)a=a.concat(l(document.getElementsByTagName(d[c])));if(0!=a.length&&a[0].getBoundingClientRect){for(c=0;d=a[c];++c)q(b,d);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(d=0!=b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),c=1;c<b.a.length;++c){var e=","+encodeURIComponent(b.a[c]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(t())),131072>=a.length+e.length&&(a+=e),d=!0);u=a;if(d){c=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(k){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(v){}}f&&(f.open("POST",c+(-1==c.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function t(){var b={},d=document.getElementsByTagName("IMG");if(0==d.length)return{};var a=d[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var c=0;a=d[c];++c){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var u="";h("pagespeed.CriticalImages.getBeaconData",function(){return u});h("pagespeed.CriticalImages.Run",function(b,d,a,c,e,f){var k=new p(b,d,a,e,f);n=k;c&&m(function(){window.setTimeout(function(){r(k)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','http://stmgrts.org.uk/','lEkuLxKH-Q',true,false,'STuNSpKdR0Q');
+//]]></script><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAABNCAMAAADgrtieAAAC+lBMVEX///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8VN6D4AAAA/XRSTlMA/v32/Pr79/P49fTf+fDu7fHr6Onq8uDn79zmy+Ls3uPk3dfbxOXO0qzhAdEDk9m708HPrda0yrnUlMW3IJebVRajp9rItb2Rto7YBWuGqYWZAjgJ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" width="85" height="77" alt="St Margarets Community Website" data-pagespeed-url-hash="4243125826" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div><!-- /logo -->
+<div id="sitename"><h1><a href="/" accesskey="1" title="St Margarets Community Website">St Margarets<br/><span>Community Website</span></a></h1></div><!-- /sitename -->
+</div><!-- /eight columns -->
+<div id="search" class="four columns">
+<form id="searchbox_011552492105320257021:aklyesuuk5c" action="http://www.google.com/cse">
+<input type="hidden" name="cx" value="011552492105320257021:aklyesuuk5c"/>
+<input class="searchtext" name="q" type="text" size="20" placeholder="Search"/>
+<input type="hidden" name="cof" value="FORID:0"/>
+</form>
+</div><!-- /search -->
+</div><!-- /row -->
+</div><!-- /container -->
+</div><!-- /banner -->
+<!-- navigation -->
+<div id="navigation">
+<div class="container">
+<div class="row">
+<nav class="twelve columns">
+<ul>
+<li><a href="/" class="nav">home</a></li>
+<li><a href="/archives/news/" class="nav">news</a></li>
+<li><a href="/archives/editorial/" class="nav">editorial</a></li>
+<li><a href="/archives/around-town/" class="nav">around town</a></li>
+<li><a href="/event" class="nav">events</a></li>
+<li><a href="/directory" class="nav">local info</a></li>
+<li><a href="/forum" class="nav">forums</a></li>
+<li><a href="/colophon" class="nav">about</a></li>
+<li><a href="/cgi-bin/newsletter.cgi" class="nav">newsletter</a></li>
+</ul>
+</nav>
+</div><!-- /row -->
+</div><!-- /container -->
+</div><!-- /navigation -->
+<div class="container">
+<div class="row">
+<div id="center" class="six columns">
+<div id="homepage" class="content">
+<!-- eight main stories -->
+<h2><a href="/archives/2016/11/virol-the-food-for-health.html">Virol. The Food For Health!</a></h2>
+<p><a href="https://stmargarets.london/assets/images/2016/VIROL_Virol_Lady.png" title="See larger version of - Virol Lady"><img src="https://stmargarets.london/assets/images/2016/VIROL_Virol_Lady_thumb.png" width="150" height="78" alt="Virol Lady" class="photo right" data-pagespeed-url-hash="2321755689" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p>
+<p>When I was child living in Tufnell Park in the late 1940s a regular feature of my Primary School week was the arrival of the Virol Lady. She would turn up every Monday morning and dole out to anyone with a penny in their pocket a spoonful of Virol, a brown, sweet and incredibly sticky Malt Extract. She came equipped for the job with a jumbo sized jar of the miracle cure along with a massive key ring strung with hundreds of battered spoons.</p>
+<p class="post-link"><a href="/archives/2016/11/virol-the-food-for-health.html">Continue reading &#8230;</a></p>
+<p class="posted u-cf u-full-width">12 November 2016 | around_town</p>
+<h2><a href="/archives/2016/11/event-music-twickenham.html">Free music on the streets of Twickenham - 19 to 20 November 2016</a></h2>
+<p>Twickenham will come alive with free music on Saturday 19 and Sunday 20 November as &#8216;The Streets&#8217; hits the town centre with a series of vibrant &#8216;pop-up&#8217; musical performances in some unusual locations.</p>
+<p class="post-link"><a href="/archives/2016/11/event-music-twickenham.html">Continue reading &#8230;</a></p>
+<p class="posted u-cf u-full-width">12 November 2016 | around_town</p>
+<h2><a href="/archives/2016/11/carriage-rides-in-richmond-park.html">Festive Horse Drawn Carriage Rides in Richmond Park</a></h2>
+<p><a href="https://stmargarets.london/assets/images/2016/horse-drawn-carraige.jpg" title="See larger version of - horse drawn carraige"><img src="https://stmargarets.london/assets/images/2016/horse-drawn-carraige_thumb.jpg" width="150" height="150" alt="horse drawn carraige" class="photo right" data-pagespeed-url-hash="3739900540" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p>
+<p>This Festive Season, the Royal Parks Foundation has teamed up with Operation Centaur to bring you a six-person Park Brake drawn by our majestic Shire Horses, allowing you to experience Richmond Park like never before.</p>
+<p class="post-link"><a href="/archives/2016/11/carriage-rides-in-richmond-park.html">Continue reading &#8230;</a></p>
+<p class="posted u-cf u-full-width">12 November 2016 | around_town</p>
+<h2><a href="/archives/2016/11/buckingham-palace-ley-line.html">The Buckingham Palace Ley Line</a></h2>
+<p><a href="https://stmargarets.london/assets/images/2016/BUCKINGHAMLEY_The_Mall.png" title="See larger version of - The Mall"><img src="https://stmargarets.london/assets/images/2016/BUCKINGHAMLEY_The_Mall_thumb.png" width="150" height="224" alt="The Mall" class="photo right" data-pagespeed-url-hash="148170723" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p>
+<p>There are some people who believe that our planet is interlaced with an invisible matrix of magnetic &#8211; and perhaps magical &#8211; lines of energy. In China they are called <em>&#8216;Dragon Paths&#8217;</em>, in Ireland <em>&#8216;fairy paths&#8217;</em>. In Peru they are <em>&#8216;Spirit Lines&#8217;</em> and in Australia <em>&#8216;Song Paths&#8217;</em>. In Germany they are <em>&#8216;Heilige Linien&#8217;</em> and in Britain they are <em>&#8216;Ley Lines&#8217;</em>, a name conjured up in 1921 by amateur archaeologist Alfred Watkins.</p>
+<p class="post-link"><a href="/archives/2016/11/buckingham-palace-ley-line.html">Continue reading &#8230;</a></p>
+<p class="posted u-cf u-full-width">5 November 2016 | around_town</p>
+<h2><a href="/archives/2016/11/register-to-vote.html">Countdown to Richmond Park by-election</a></h2>
+<p>Richmond Council is encouraging any local residents who live in the Richmond Park constituency, to check they are registered to vote in the by-election on 1 December 2016.</p>
+<p class="post-link"><a href="/archives/2016/11/register-to-vote.html">Continue reading &#8230;</a></p>
+<p class="posted u-cf u-full-width">5 November 2016 | news</p>
+<h2><a href="/archives/2016/11/singinghands_xmas-singalong.html">Singing Hands Christmas Singalong Sessions</a></h2>
+<p>Singing Hands are running three fun family Christmas Singalong sessions at the beginning of December The sessions will be at our usual Singing Hands venues and all are welcome.</p>
+<p class="post-link"><a href="/archives/2016/11/singinghands_xmas-singalong.html">Continue reading &#8230;</a></p>
+<p class="posted u-cf u-full-width">5 November 2016 | around_town</p>
+<h2><a href="/archives/2016/10/1stmar-leader-search.html">Want a New Purpose in Life? Become a Leader!</a></h2>
+<p><a href="https://stmargarets.london/assets/images/2016/1STMARLEADERS_The_entire_crew_at_the_Station.jpg" title="See larger version of - The entire crew at the Station"><img src="https://stmargarets.london/assets/images/2016/1STMARLEADERS_The_entire_crew_at_the_Station_thumb.jpg" width="150" height="100" alt="The entire crew at the Station" class="photo right" data-pagespeed-url-hash="901327014" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p>
+<p>The 1<sup>st</sup> St Margarets Scout Group is rapidly approaching an important anniversary in its history. For nearly 100 years young people, Beavers, Cubs and Scouts, have been parading our streets, running stalls at local fairs, going away camping and hiking, singing songs around campfires and learning skills like First Aid, Fire Lighting, Fotography (sorry) and Fencing and generally having one good time.</p>
+<p class="post-link"><a href="/archives/2016/10/1stmar-leader-search.html">Continue reading &#8230;</a></p>
+<p class="posted u-cf u-full-width">29 October 2016 | around_town</p>
+<h2><a href="/archives/2016/10/event-family-art-classes-autumn-2016.html">Autumn 2016 Family Art Classes</a></h2>
+<p><a href="https://stmargarets.london/assets/images/2016/Family_Explorers_Poster_Autumn_2016.jpg" title="See larger version of - Family Explorers Poster Autumn 2016"><img src="https://stmargarets.london/assets/images/2016/Family_Explorers_Poster_Autumn_2016_thumb.jpg" width="150" height="212" alt="Family Explorers Poster Autumn 2016" class="photo right" data-pagespeed-url-hash="1693132243" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p>
+<p>Three great family art sessions from Richmond Council this Autumn; Family Explorers at the <span class="caps">OSO</span> Art Centre in Barnes and the ever popular See Saw for Under 5s plus Dad Days!</p>
+<p class="post-link"><a href="/archives/2016/10/event-family-art-classes-autumn-2016.html">Continue reading &#8230;</a></p>
+<p class="posted u-cf u-full-width">27 October 2016 | around_town</p>
+<!-- /end eight main stories -->
+<div id="recent">
+<h2>Recent Entries</h2>
+<ul id="entry_list">
+<li><strong><a href="/archives/2016/10/planning-radnor-garden-christmas-rink.html">Planning: Christmas Ice Rink in Radnor Gardens</a></strong><br/>27 October 2016 | news</li>
+<li><strong><a href="/archives/2016/10/planning-twickenham-stadium-east-stand.html">Planning: Twickenham Stadium East Stand </a></strong><br/>27 October 2016 | news</li>
+<li><strong><a href="/archives/2016/10/the-kilmorey-coincidence2.html">The Kilmorey Coincidence Continues</a></strong><br/>22 October 2016 | around_town</li>
+<li><strong><a href="/archives/2016/10/event-richmond-upon-thames-literature-festival-2016.html">Richmond upon Thames Literature Festival - 4 to 27 November 2016</a></strong><br/>22 October 2016 | around_town</li>
+<li><strong><a href="/archives/2016/10/museumofrichmond-poetry-group.html">Museum of Richmond Poetry Group </a></strong><br/>22 October 2016 | around_town</li>
+<li><strong><a href="/archives/2016/10/orleans-adult-programme-autumn-2016-2.html">Adult Workshops at Orleans House Gallery - Late Autumn 2016</a></strong><br/>22 October 2016 | around_town</li>
+<li><strong><a href="/archives/2016/10/event-museumofrichmond-family-events-autumn-2016.html">Museum of Richmond - Events for Families - Autumn 2016</a></strong><br/>22 October 2016 | around_town</li>
+<li><strong><a href="/archives/2016/10/event-orleans-lost-library.html">Event Reminder: The Story of the Lost Library</a></strong><br/>22 October 2016 | around_town</li>
+<li><strong><a href="/archives/2016/10/consultation-cycling-strategy.html">Richmond Cycling Strategy Consultation</a></strong><br/>22 October 2016 | news</li>
+<li><strong><a href="/archives/2016/10/lbrut-feel-good-fitness-offer-autumn-2016.html">Pay Nothing until 2017 at Feel Good Fitness</a></strong><br/>22 October 2016 | around_town</li>
+</ul>
+</div><!-- end div recent -->
+</div><!-- end div content -->
+</div><!-- end div center -->
+<div id="middle" class="three columns">
+<!-- start div weather -->
+<div id="weather" class="infobox">
+<h3>Weather</h3>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAACSVBMVEWIOMz///9LTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExLTExqzHbWAAAAwnRSTlMAAAECAwQFBgcICQoLDQ4PEBESFBUWFxgZHB0eHyAiIyQlJigpKywtLi8wMTIzNDU3ODk6Oz0+QERFRkdJSkxQUVJUVVdYWVpbXl9gYWJjZWdoa2xvcHFzdXh7fH1+gIGChoeIioyPkJGTlJeZmpucnZ6foKGjpKWmp6ipqquur7Cztba4ubq7vcDBwsTFxsfIysvNzs/Q0dLT1dbX2Nna29zd3t/g4eLj5OXm5+jp6uvs7e7v8PHy8/T3+Pn6+/z9/shp04gAAAVzSURBVHja7dv/XxN1HAfwV5M2Rnw5MCORMyiyXIVKxbSEpSRJyy99WUTpKhLXN7NYFpbloFIHfRGpVZYVxcLCSLNLQga3z1/WDxsxx32+3O0+UY/u/ROK+7yf97n3ffa5u7e4aokDDsABOAAH4AAcgAPI/Vk0FH84Ek+QvyMRj4T9CsyGNYASiOakzo1EJKBIBwRjhBmxoEyAGtFoiacuz/+kRVRJADVKP2wFUAORZPbPUVUCQKGlT4YX0qnhrCGq2A0IUSY/mX/O/RmoFrIV4EsIps85VQmffYAQZfbDlIlW42KTIAhQKFce6xADSZFKEAOolOkPg1+zCbVwgM+4+jQ/d8nSCCGar1AAJb9AhWUqlykQANDyC13mCk/ABxSUH0CULeACCs3PE/AAasH5swLVGkBJFJ4fiDE+wgEYrz+aaip/5jCiVgCU9dcPk6FohJCQeYDPyvpnvB5QC5EJMC6AOCxEiBCSMAsI21IA2YhTTgIDQLkCQ5byQ9WM7QxA1L4TAACu2paDL5gBqDZdAblRW2UCYDwBUdgcVABlAkxW4K17hsZThBAylxzYudwUwI4JUA9NX7F9faxIHKBohVfAxvH8j5+oEwYEjb+EzOTfNLV4gLH1ogDjRbAj+9vyDTtf+/hC9i/HP+19sqVhUf4bJoxG+OlGMYBxCf7qAQDUPXF8Ov9XP765I6fGapqam48ZV/FIqRDA8AycrQeA6/b9YDz06U5vZnoeH76g02/eu4UARvuALxsBXL3le/rYg9UA6kfYTw/+rBMBGFwDX9QCuPYgc+x6QPmccOJZAYCPkn/lMHPorzzAXl5+crqED1hcApONANacYg89DJSe4QJmVvEBkfwPpTYDuCVJuICGGS6AvPToA3eUsgFxo9JdwTv+tkpgHRGK1Ngrd7IA+Yf6WRngfo895oFiALhJJ4Kh96l0QP5Z2wqgi5MfALD6kVkiHD+30gBK3r887gF8l5iD9QHAuiMXiZlIbaUA/FdMla7vAjzvMIfSVAC7LhOTcelmPkDX9e+uBzayq/stAO3EfBwVArwOuA6wB+oEKsYsAGYamIB0Op3Wdb0dqJtgD9QO3E+sxG4WIJ0F1AMdhAvosQR4jg0YffeZYGurG67DfECfJUAPHTCT6Gqs9GZvKkb5gFctAbqpgP62nC1sRYoPCFkCbKMAkk/P7+zu29Pb338yzRlnB7DynIX8Z8qNV8IeFQA8a7tPXRRbXPYDuPtb0/knmhi3ZsWtR+aERzpbDaAq9MHk7ybim+dXM+6M1vebOpahanvvDd2dkyZnc6jeTkDV2+br6bf996xQjKKiuMi18LhKUUr4gOpBYm989FTTwsOqIBdQ9SGxPc6/WAMAmwkhPi7gEJERX98FoHKEaNwa2D4rBUB+aQbQkorxALzNr/WYuB1wDwR5gO1EWgy4gWAtB+B5Qx4g1QLU8NaBmnPyAKTXAxcPcJvE/GS0hr8SbpMJmPPxAUGZAHIvH9AhFbCbD3hwqQFbpAI28QEiTxisLwRr+IDyQYmAT0Qe1z8kEfCwyI6o6Ki0/Ic9QluyVSfkpNdfvkZwT7h835SE/O+3mdiUru06+ce0jXH+2N4N5XY2s/0T74z+PYBl3pIypazEmxfFLsHXhW6v1+td9l/uIaF2EWkiXTRJG7poqH0UGrdx0aY+InofH7tPK9P/ZUcnFfVVPkkyXiQGNL7RxGXop7wsiFEO0GdvNx2joc6woU9CPyFjEha1sPozVps7KgEgTOuojQUW5j4iracUgEIlaJEAoAaiUrtqAUAJUV9dzaaoJ8XeLyN/VGN+88vtrM4aIkvZWz6PCEnprnf+g4MDcAAOwAE4AAfgAP6fgL8AG2YfHrk5eTAAAAAASUVORK5CYII=" alt="scattered clouds" data-pagespeed-url-hash="4248292993" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><br/>
+scattered clouds<br/>
+9&deg;C / 48&deg;F<br/>
+12:50pm</p>
+<p><a href="http://forecast.io/#/f/51.4555,-0.3248" title="7 day forecast">forecast</a></p>
+</div><!-- end div weather -->
+<!-- end div weather -->
+<!-- start div upcoming events -->
+<div id="events" class="infobox">
+<h3>Upcoming Events</h3>
+<p>Here are the events coming up in the next few weeks in our area. For all events, check out our <a href="/event">events section</a>.</p>
+<ul class="vcalendar">
+<li class="vevent">
+<a class="url summary" href="event/event/200705145924">Richmond Ramblers : CHELSEA to PUTNEY
+</a><br/>
+<abbr class="dtstart" title="20161113T1030">Sunday, 13 November 10:30am</abbr><span class="dtend" title="T0000"></span>
+<br/>
+<span class="location">
+Sloane Square station (District, Circle Lines)
+</span>
+</li>
+<li class="vevent">
+<a class="url summary" href="event/event/200705145891">Richmond upon Thames Literature Festival : Sebastian Barry: In Conversation with Erica Wagner- Days Without End
+</a><br/>
+<abbr class="dtstart" title="20161113T1900">Sunday, 13 November 7pm</abbr><span class="dtend" title="T0000"></span>
+<br/>
+<span class="location">
+Riverside Room, Old Town Hall
+</span>
+</li>
+<li class="vevent">
+<a class="url summary" href="event/event/200705145890">Richmond upon Thames Literature Festival : Simon Bradley- The Railways: Nation, Network and People
+</a><br/>
+<abbr class="dtstart" title="20161113T1500">Sunday, 13 November 3pm</abbr><span class="dtend" title="T0000"></span>
+<br/>
+<span class="location">
+Riverside Room, Old Town Hall
+</span>
+</li>
+<li class="vevent">
+<a class="url summary" href="event/concert/200705145815">TwickFolk : Singaround: bring a song or two, join in, or just come and listen!
+</a><br/>
+<abbr class="dtstart" title="20161113T1945">Sunday, 13 November 7:45pm</abbr><span class="dtend" title="T0000"></span>
+<br/>
+<span class="location">
+The Cabbage Patch Public House
+</span>
+</li>
+<li class="vevent">
+<a class="url summary" href="event/event/200705145892">Richmond upon Thames Literature Festival : An Evening with Twickenham Stanza
+</a><br/>
+<abbr class="dtstart" title="20161114T1930">Monday, 14 November 7:30pm</abbr><span class="dtend" title="T0000"></span>
+<br/>
+<span class="location">
+Coach House, Orleans House Gallery
+</span>
+</li>
+<li class="vevent">
+<a class="url summary" href="event/show/200705145918">Twickenham Jazz Club : Damon Brown/Ed Jones Band
+</a><br/>
+<abbr class="dtstart" title="20161115T2000">Tuesday, 15 November 8pm</abbr><span class="dtend" title="T0000"></span>
+<br/>
+<span class="location">
+The Cabbage Patch Public House
+</span>
+</li>
+<li class="vevent">
+<a class="url summary" href="event/event/200705145893">Richmond upon Thames Literature Festival : Margaret Drabble- The Dark Flood Rises
+</a><br/>
+<abbr class="dtstart" title="20161115T0000">Tuesday, 15 November </abbr><span class="dtend" title="T0000"></span>
+<br/>
+<span class="location">
+Richmond Adult Community College - Parkshot
+</span>
+</li>
+<li class="vevent">
+<a class="url summary" href="event/show/200705145745">Richmond Film Society : SLOW WEST
+</a><br/>
+<abbr class="dtstart" title="20161115T2000">Tuesday, 15 November 8pm</abbr><span class="dtend" title="T0000"></span>
+<br/>
+<span class="location">
+St Mary&#39;s University College
+</span>
+</li>
+</ul>
+</div>
+<!-- end div upcoming events -->
+<!-- start div upcoming plays -->
+<div id="plays" class="infobox">
+<h3>Upcoming plays</h3>
+<p>Here are the plays that are currently running or happening soon in our area. For all plays, check out the <a href="/event/play">events play section</a>.</p>
+<ul class="vcalendar">
+<li class="vevent">
+<a class="url summary" href="event/play/200705145790">Orange Tree Theatre : Blue Heart
+</a><br/>
+<abbr class="dtstart" title="20161013-19T0000">13-19 Oct-Nov &nbsp;</abbr><span class="dtend" title="20161119T0000"></span>
+<br/>
+<span class="location">
+Orange Tree Theatre
+</span>
+</li>
+<li class="vevent">
+<a class="url summary" href="event/play/200705145873">Teddington Theatre Club : STEVIE
+</a><br/>
+<abbr class="dtstart" title="20161113-19T0000">13-19 November &nbsp;</abbr><span class="dtend" title="20161119T0000"></span>
+<br/>
+<span class="location">
+Hampton Hill Theater
+</span>
+</li>
+<li class="vevent">
+<a class="url summary" href="event/play/200705145791">Orange Tree Theatre : Sheppey
+</a><br/>
+<abbr class="dtstart" title="20161124-7T0000">24-7 Nov-Jan &nbsp;</abbr><span class="dtend" title="201717T0000"></span>
+<br/>
+<span class="location">
+Orange Tree Theatre
+</span>
+</li>
+<li class="vevent">
+<a class="url summary" href="event/play/200705145916">Teddington Theatre Club : CINDERELLA
+</a><br/>
+<abbr class="dtstart" title="2016123-10T0000">3-10 December &nbsp;</abbr><span class="dtend" title="20161210T0000"></span>
+<br/>
+<span class="location">
+Hampton Hill Theater
+</span>
+</li>
+<li class="vevent">
+<a class="url summary" href="event/play/200705145803">Richmond Shakespeare Society : Oh! What a Lovely War
+</a><br/>
+<abbr class="dtstart" title="20161210-17T0000">10-17 December &nbsp;</abbr><span class="dtend" title="20161217T0000"></span>
+<br/>
+<span class="location">
+Mary Wallace Theatre
+</span>
+</li>
+</ul>
+</div>
+<!-- end div upcoming plays -->
+<!-- start div forum -->
+<div id="latest_forum" class="infobox">
+<h3>Recent Forum Posts</h3>
+<ul>
+<li>
+<a href="https://stmargarets.london/forum?action=single&amp;message_id=3424&amp;topic_id=3&amp;page=1">FREE 60 minutes consultation to check in on your overall health.</a><br/>
+<span class="comm">Dear All, I am in training to become a Health Coach. I help people re-design their &#8230;</span><br/>
+<em> &#8212; 2016-11-04 by MARIA in <a href="https://stmargarets.london/forum?action=jump&amp;topic_id=3">Classifieds</a></em>
+</li>
+<li>
+<a href="https://stmargarets.london/forum?action=single&amp;message_id=3423&amp;topic_id=3&amp;page=1">Found - Ring in Kenley Road</a><br/>
+<span class="comm">Found a ring in Kenley Rd near Moormead Park and wondered if anyone recognises it. Not &#8230;</span><br/>
+<em> &#8212; 2016-09-03 by Peter in <a href="https://stmargarets.london/forum?action=jump&amp;topic_id=3">Classifieds</a></em>
+</li>
+<li>
+<a href="https://stmargarets.london/forum?action=single&amp;message_id=3422&amp;topic_id=3&amp;page=1">Looking for Part-time PR assistant (Twickenham)</a><br/>
+<span class="comm">I am a freelance musician/promoter: I&#39;m looking for someone to research and target &#8230;</span><br/>
+<em> &#8212; 2016-09-02 by Emily in <a href="https://stmargarets.london/forum?action=jump&amp;topic_id=3">Classifieds</a></em>
+</li>
+</ul>
+<p><a href="https://stmargarets.london/forum">Go to the Forum</a></p>
+<!-- latest_forum --></div>
+<!-- end div forum -->
+</div><!-- end div middle -->
+<div id="right" class="sidebar three columns">
+<div id="twitter" class="infobox">
+<h3>twitter <a href="http://twitter.com/intent/user?screen_name=stmgrts">@stmgrts</a></h3>
+<ul>
+<li>
+Virol. The Food For Health! <a href="https://t.co/YJr6oyT69P">t.co/YJr6oyT69P</a><br/>
+<span class="date"><a href="http://twitter.com/stmgrts/status/797444115910840320" title="see tweet on twitter.com">Sat Nov 12 14:21:07</a></span><br/>
+</li>
+<li>
+Free music on the streets of Twickenham - 19 to 20 November 2016 <a href="https://t.co/mKOsz6qpG0">t.co/mKOsz6qpG0</a><br/>
+<span class="date"><a href="http://twitter.com/stmgrts/status/797444112593129472" title="see tweet on twitter.com">Sat Nov 12 14:21:06</a></span><br/>
+</li>
+<li>
+Festive Horse Drawn Carriage Rides in Richmond Park <a href="https://t.co/uw0sDfBBKx">t.co/uw0sDfBBKx</a><br/>
+<span class="date"><a href="http://twitter.com/stmgrts/status/797444109954912256" title="see tweet on twitter.com">Sat Nov 12 14:21:06</a></span><br/>
+</li>
+</ul>
+</div><!-- /end div twitter -->
+<div id="newsletter" class="infobox">
+<h3>Newsletter Sign-Up</h3>
+<p>Please sign-up for our weekly Newsletter to let you know all the current news and upcoming events in the St Margarets area.</p>
+<form method="post" action="/cgi-bin/newsletter.cgi">
+<p><label for="newsletteremailinline">Your Email Address:</label></p>
+<p><input type="text" id="newsletteremailinline" name="email" value="" size="25"/></p>
+<p><input type="submit" name="topage" value="register"/></p>
+</form>
+<p class="message">We will never sell your email address, or let third parties use it. Your privacy is important to us.</p>
+</div><!-- /end div newsletter -->
+<div id="traininfo" class="infobox">
+<h3>Current Train Information</h3>
+<ul>
+<li> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
+<li> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
+<li> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+</ul>
+</div><!-- /end div traininfo -->
+<div id="localinfo" class="infobox">
+<h3>Local Websites</h3>
+<dl>
+<dt><a href="http://www.englandrugby.com//">Rugby Football Union</a></dt>
+<dd>Twickenham is home to the RFU and they are big supporters of events in the local community.</dd>
+<dt><a href="http://www.stmargaretsfair.org/">St Margarets Fair</a></dt>
+<dd>For everything you need to know about the St Margarets Fair</dd>
+<dt><a href="http://www.mystmargarets.com/">mystmargarets.com</a></dt>
+<dd>St Margarets Traders Association website, brimming with news and information from your local businesses.</dd>
+<dt><a href="http://easttwickenham.org/">easttwickenham.org</a></dt>
+<dd>East Twickenham Village website</dd>
+<dt><a href="https://nsmra.wordpress.com/">NSMRA</a></dt>
+<dd>North St Margarets Resident&#8217;s Association</dd>
+<dt><a href="http://www.smera.co.uk/home-page">SMERA</a></dt>
+<dd>St Margarets Estate Resident&#8217;s Association</dd>
+<dt><a href="http://www.twickenhampark.co.uk/">TPRA</a></dt>
+<dd>Twickenham Park Residents Association</dd>
+<dt><a href="http://www.richmond.gov.uk/">Richmond Council Website</a></dt>
+<dd>Important news, events and planning/licensing information.</dd>
+<dt><a href="https://twickerati.wordpress.com/" title="twickerati">twickerati</a></dt>
+<dd>The premier hyperlocal website for Twickenham.</dd>
+<!--
+        <dt><a href="http://www.webarchive.org.uk/wayback/archive/20100114165728/http://oncomarchive.com/">Online Communities</a></dt>
+            <dd>A community network for Richmond Borough, including these well known community portals:  <a href="http://www.webarchive.org.uk/wayback/archive/20100114165808/http://oncomarchive.com/newsdev/news/archive.php?sheet_name=Twickenham">Twickenham Journal</a>, <a href="http://www.webarchive.org.uk/wayback/archive/20100114165812/http://oncomarchive.com/newsdev/news/archive.php?sheet_name=Richmond">Richmond Journal</a></dd>
+-->
+<dt><a href="http://www.visitrichmond.co.uk/">Visit Richmond</a></dt>
+<dd>Richmond Council&#8217;s Tourist Information Site</dd>
+<dt><a href="http://www.richmondandtwickenhamtimes.co.uk/">Richmond &amp; Twickenham Times</a></dt>
+<dd>Our local newspaper</dd>
+<dt>Travel information</dt>
+<dd><a href="https://stmargarets.london/cgi-bin/train_parser.cgi?station=SMG">Trains</a>, <a href="http://www.tfl.gov.uk/">tubes and buses.</a></dd>
+</dl>
+</div><!-- end div localinfo -->
+<div id="archives" class="infobox">
+<h2><a href="/archives/">Archives</a></h2>
+<ul>
+<li><a href="/archives/2016/11/">November 2016</a></li>
+<li><a href="/archives/2016/10/">October 2016</a></li>
+<li><a href="/archives/2016/09/">September 2016</a></li>
+<li><a href="/archives/2016/08/">August 2016</a></li>
+<li><a href="/archives/2016/07/">July 2016</a></li>
+<li><a href="/archives/2016/06/">June 2016</a></li>
+<li><a href="/archives/2016/05/">May 2016</a></li>
+<li><a href="/archives/2016/04/">April 2016</a></li>
+<li><a href="/archives/2016/03/">March 2016</a></li>
+<li><a href="/archives/2016/02/">February 2016</a></li>
+<li><a href="/archives/2016/01/">January 2016</a></li>
+<li><a href="/archives/2015/12/">December 2015</a></li>
+</ul>
+</div><!-- end div archives -->
+</div><!-- end div right -->
+</div><!-- end div row -->
+</div><!-- end div container -->
+<div id="footer">
+<div class="container">
+<div class="row">
+<div id="footer_nav" class="three columns">
+<h2>Navigation</h2>
+<ul>
+<li><a href="/">homepage</a></li>
+<li><a href="/event">events</a></li>
+<li><a href="/directory">local info</a></li>
+<li><a href="/forum">forums</a></li>
+<li><a href="/cgi-bin/newsletter.cgi">newsletter</a></li>
+<li><a href="/poll">polls</a></li>
+<li><a href="/contact">contact</a></li>
+<li><a href="/colophon">about</a></li>
+</ul>
+</div><!-- end div footer_nav -->
+<div id="footer_archives" class="three columns">
+<h2><a href="/archives" title="Archives">Archives</a></h2>
+<ul>
+<li><a href="/archives/news">news</a></li>
+<li><a href="/archives/editorial">editorial</a></li>
+<li><a href="/archives/around-town">around town</a></li>
+</ul>
+<h2>News Feed</h2>
+<ul>
+<li><a href="/feed.xml">atom</a></li>
+</ul>
+</div><!-- end div footer_archives -->
+<div id="footer_search" class="four columns">
+<!-- Search Google -->
+<h2>Search</h2>
+<form id="searchbox_011552492105320257021:aklyesuuk5c" action="http://www.google.com/cse">
+<input type="hidden" name="cx" value="011552492105320257021:aklyesuuk5c"/>
+<p><input name="q" type="text" size="20"/></p>
+<p><input type="submit" name="sa" value="Search" class="button-primary"/></p>
+<input type="hidden" name="cof" value="FORID:0"/>
+</form>
+<!-- Search Google -->
+<h2>Train Schedules</h2>
+<ul>
+<li> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
+<li> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
+<li> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+</ul>
+</div><!-- end div footer_search -->
+<p class="copyright">Copyright &copy; 2005-2016 St Margarets Community Website<br/>Some rights reserved <a href="https://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAPCAYAAACbSf2kAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAOxAAADsQBlSsOGwAAA6hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDUuNC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyIKICAgICAgICAgICAgeG1sbnM6ZXhpZj0iaHR0cDovL25zLmFkb2JlLmNvbS9leGlmLzEuMC8iPgogICAgICAgICA8eG1wOk1vZGlmeURhdGU+MjAxNi0wMi0yM1QwOTowMjo5MDwveG1wOk1vZGlmeURhdGU+CiAgICAgICAgIDx4bXA6Q3JlYXRvclRvb2w+UGl4ZWxtYXRvciAzLjQuMjwveG1wOkNyZWF0b3JUb29sPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICAgICA8dGlmZjpDb21wcmVzc2lvbj41PC90aWZmOkNvbXByZXNzaW9uPgogICAgICAgICA8dGlmZjpSZXNvbHV0aW9uVW5pdD4yPC90aWZmOlJlc29sdXRpb25Vbml0PgogICAgICAgICA8dGlmZjpZUmVzb2x1dGlvbj45NjwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+OTY8L3RpZmY6WFJlc29sdXRpb24+CiAgICAgICAgIDxleGlmOlBpeGVsWERpbWVuc2lvbj40NjwvZXhpZjpQaXhlbFhEaW1lbnNpb24+CiAgICAgICAgIDxleGlmOkNvbG9yU3BhY2U+MTwvZXhpZjpDb2xvclNwYWNlPgogICAgICAgICA8ZXhpZjpQaXhlbFlEaW1lbnNpb24+MTU8L2V4aWY6UGl4ZWxZRGltZW5zaW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KbQ9zKwAAA2dJREFUSA3dlstLVFEcx53GfDWZ2MtNi9BMzYoeFJSVpVaIuIoggkJqE7SJ3ogRFFRikFQUakG1KTdtgkiyJCu1DMzsoZsei4geFFpoUU2f7+2c6525M39A/eDD73V+554593fOnYSEf1QC8dYdDodzyZWB9CDchbZAIPAdHVeom0KyBBaYQY/QrdS9N35MRV0yiZWwFNJhAG5S14/2iW/hTDCeUXUwD3rgLaTCHNCER5jsGton1O4kuBH00GdmQAF6BlyG49T+NnFXUbcapwa+QC+MQBZoDZpnF3XKxRYmyIAWOAWZ0aOIlUIvbPHm8ANwAm5DnnLoXGHsmdg3oBEiNgt/PfRBqXdOU5dOvBbuwMTovOuTPAcn3UAMg3weDMAsm8augvsQ8sSa8Zs9fgp+O2z1xArwn4M7l815NfljcNEbc20S+dADahXtWDGUwViYABVQaHI12I3G1oIeQJF8CXY27DFk/4068SXENDbFjDuDvc+TT8RP8zDGjLPPULs6kmgN9Fp4SC8NUViNrUHqt6+wH7ohi5x67iqcx9bETjugO8DKAYxNxtFubjZ2FzoMaqM+tHq4HqzswKg0jsYdhhbWNMJ4PX8NaE0J3oVPx/+kIFIO1RS0UaBdzsG2E2pHh4gFDSH0MPlfaCvOjhrHtTWG2mHiqlG9nv8NrDRgXDGOFv7BJtA6nNOs7134S4JzTeI6ehsPka9deo19CK0r7SzowVqo0I/Qqwx6Ft9ETG9QItsRjcHQDaW3qNqfMA6saMMqjKPbpw4eGz8DrTVGCpOqx3VjpCuDLoYiCEImVIJziNB7wfZ4MnYneHs8CV8/ViTZJ2Evgi5w3gI6usc1l86TxdlY/FToBrWvX0g0wWl/ZjRCfjb0g/MjlMHWrdIB9mDrgL0zpJkxIfzoW0WbpVulcPQJfot8HVzyZ0yEpH6p7vEGmBw9kFg5vIANMXK1xNsgXzn0cmFsLVC5eoi+x9cRewL6SkcIMX1X9H3w3eMRk6iKQdq1o7AYnsIbUB/qBtCrO0gvt6J9Qu12glXwCtSbOmB6MzlwgbqY3wjqSsjrJlLv69bQAZ4K842/m9pBbFd8C7cZJsvGXgUF8Bna4R4T/EDHFeomkdRCFoIW3g23qPuIjivU6SysgGWgc2b/q0j/P/IHm2aboVmz45YAAAAASUVORK5CYII=" width="46" height="15" class="inline" style="padding: 0; margin: 0;" data-pagespeed-url-hash="3181451193" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p>
+</div><!-- /row -->
+</div><!-- /container -->
+</div><!-- /footer -->
+<!-- Fonts -->
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300&amp;subset=latin,latin-ext">
+</body>
+</html>

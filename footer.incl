@@ -1,0 +1,7 @@
+---
+---
+  <!-- footer -->
+  {% include footer_new.html %}
+
+</body>
+</html>

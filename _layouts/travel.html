@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+<section class="p-strip">
+  <div class="row">
+    <div class="col-4 col-start-large-1">
+      {% include header.html %}
+    </div><!-- end pagenavigation -->
+
+    <div class="col-6 col-start-large-6">
+
+      <!-- content -->
+      {{ content }}
+
+    </div>
+  </div>
+</section>

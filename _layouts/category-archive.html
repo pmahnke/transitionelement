@@ -1,0 +1,46 @@
+---
+layout: default-empty
+---
+<div class="grid-container two-thirds">
+  <div>
+
+    {% include header_new.html %} 
+  
+  </div><!-- /end 2/3 -->
+  <div>
+    
+    <h2 class="post-title">{{ page.title }}</h2>
+ 
+    {% for post in site.tags['overview'] %}
+      {% if post.categories contains page.title %}
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {% if post.image %}<p><img src="{{ post.image }}" width="536" alt="" /></p>{% endif %}
+        {{ post.excerpt | textilize }}
+        <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }}</p>
+      {% endif %}
+    {% endfor %}
+
+    <hr />      
+ 
+    {% for post in page.posts limit: 1 %}
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {% if post.image %}<p><img src="{{ post.image }}" width="536" alt="" /></p>{% endif %}
+      {{ post.excerpt | textilize }}
+      <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }}</p>
+    {% endfor %}
+    {% for post in page.posts limit: 3 offset: 1%}
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt | textilize }}
+      <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }}</p>
+    {% endfor %}
+    {% if page.posts.size > 10 %}
+    <h3>Older Articles</h3>
+    <ul>
+      {% for post in page.posts offset: 4 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+      
+  </div>
+</div><!-- /grid-container two-thirds-->
