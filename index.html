@@ -1,0 +1,31 @@
+---
+layout: default-empty
+---
+
+<div class="grid-container two-thirds">
+  <div>
+
+    {% include header_new.html %} 
+  
+  </div><!-- /end 2/3 -->
+  <div>
+    
+    <!-- latest story - big -->
+    {% for post in site.posts limit: 1 %}
+    <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {% if post.image %}<p><img src="{{ post.image | escape }}" width="536" alt="" /></p>{% endif %}
+    {{ post.excerpt | textilize }}
+    <p class="post-link"><a href="{{ post.url }}">Continue reading &#8230;</a></p>
+    <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} | <a href="{{ site.baseurl }}/archives/{{ post.categories[0] | downcase }}">{{ post.categories[0] }}</a></p>
+    {% endfor %}
+
+    <!-- next stories - big -->
+    {% for post in site.posts limit: 3 offset: 1 %}
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    {{ post.excerpt | textilize }}
+    <p class="post-link"><a href="{{ post.url }}">Continue reading &#8230;</a></p>
+    <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} | <a href="{{ site.baseurl }}/archives/{{ post.categories[0] | downcase }}">{{ post.categories[0] }}</a></p>
+    {% endfor %}
+
+  </div>
+</div><!-- /end grid-container two-thirds -->

@@ -1,0 +1,16 @@
+---
+---
+<!DOCTYPE html>
+<html>
+
+{% include head_new.html %}
+
+<body>
+
+  <div class="grid-container two-thirds">
+    <div>
+  
+      {% include header_new.html %} 
+    
+    </div><!-- /end 2/3 -->
+    <div>
