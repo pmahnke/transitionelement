@@ -4,8 +4,25 @@ use strict;
 use warnings;
 use File::Basename;
 
-my $dir = "/home/peter/src/personal/transitionelement/assets/images/insta";
-my $outdir = "/home/peter/src/personal/transitionelement/assets/images/insta/smaller";
+
+print "what directory?\n";
+my $input = <STDIN>;
+chop($input);
+if (!$input) {
+    print "Nothing to do\n";
+    exit;
+} 
+
+my $dir = "/home/peter/src/personal/transitionelement/assets/images/$input";
+if ( ! -d $dir ) {
+    print "Directory does not exist: $dir\n";
+    exit;
+} else {
+    print "looking at |$dir|\n";
+#    exit;
+}
+
+my $outdir = "/home/peter/src/personal/transitionelement/assets/images/smaller";
 
 opendir(my $dh, $dir) or die "Can't open $dir: $!";
 while (my $file = readdir($dh)) {
