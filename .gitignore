@@ -2,7 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 !_site/static
-db/*
+db/
 *.yaml~
 *.*~
 sitemap.xml.gz
@@ -10,4 +10,5 @@ robots.txt
 .DS_store
 .jekyll-cache
 Gemfile.lock
-vendor/*
+vendor/
+GPUCache/
