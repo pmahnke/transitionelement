@@ -14,7 +14,7 @@ layout: default-empty
     {% for post in site.tags['overview'] %}
       {% if post.categories contains page.title %}
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {% if post.image %}<p><img src="{{ post.image }}" width="536" alt="" /></p>{% endif %}
+        {% if post.image %}<p><img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/mahnke/image/fetch/q_auto:best,f_auto/{% endif %}{% if post.image contains 'googleusercontent' %}{% else %}{{ site.url }}{% endif %}{{ post.image }}" width="536" alt="" /></p>{% endif %}
         {{ post.excerpt | textilize }}
         <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }}</p>
       {% endif %}
@@ -24,7 +24,7 @@ layout: default-empty
  
     {% for post in page.posts limit: 1 %}
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {% if post.image %}<p><img src="{{ post.image }}" width="536" alt="" /></p>{% endif %}
+      {% if post.image %}<p><img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/mahnke/image/fetch/q_auto:best,f_auto/{% endif %}{% if post.image contains 'googleusercontent' %}{% else %}{{ site.url }}{% endif %}{{ post.image }}" width="536" alt="" /></p>{% endif %}
       {{ post.excerpt | textilize }}
       <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }}</p>
     {% endfor %}

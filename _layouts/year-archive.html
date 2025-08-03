@@ -15,7 +15,7 @@ layout: default-empty
     <!-- latest story - big -->
     {% for post in page.posts limit: 1 %}
     <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    {% if post.image %}<p><img src="{{ post.image | escape }}" width="536" alt="" /></p>{% endif %}
+    {% if post.image %}<p><img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/mahnke/image/fetch/q_auto:best,f_auto/{% endif %}{% if post.image contains 'googleusercontent' %}{% else %}{{ site.url }}{% endif %}{{ post.image | escape }}" width="536" alt="" /></p>{% endif %}
     {{ post.excerpt | textilize }}
     <p class="post-link"><a href="{{ post.url }}">Continue reading &#8230;</a></p>
     <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} | <a href="{{ site.baseurl }}/archives/{{ post.categories[0] | downcase }}">{{ post.categories[0] }}</a></p>
