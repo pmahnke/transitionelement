@@ -1,0 +1,118 @@
+{%- comment -%}
+  This include generates a dynamic slideshow from images defined in the page's front matter.
+  It uses simplified IDs (img-1, img-2, etc.) assuming uniqueness per page.
+
+  Cloudinary integration is enabled only in the 'production' environment.
+  In other environments (e.g., 'development'), it uses the url directly.
+
+  If there is only one image in slideshow_images, it outputs a plain <a><img></a> tag.
+
+  Usage:
+  {%- include slideshow.html page=page -%}
+
+  Parameters:
+  - page: (Required) The current page object (e.g., `page` in a post/page layout).
+          It expects `page.slideshow_images` to be an array of image objects in the front matter.
+
+  Page Front Matter Structure (e.g., in your post.md):
+  ---
+  layout: post
+  title: My Post
+  slideshow_images:
+    - url: "https://external.com/image1.jpg" # Full external URL
+      alt: "Description for image 1"
+    - url: "/assets/images/my-local-image.jpg" # Local path
+      alt: "Description for local image"
+  ---
+
+  Cloudinary Integration:
+  - Requires `site.cloudinary_cloud_name` and `site.url` to be set in your _config.yml
+    for production builds.
+  - Transformations used: `q_auto:best` (auto quality, best setting), `f_auto` (auto format).
+    You can customize these or add more transformations (e.g., `w_800,h_450,c_fill`)
+    by adding them to the `cloudinary_transformations` variable.
+{%- endcomment -%}
+
+{%- assign current_page = include.page -%}
+{%- assign images = current_page.slideshow_images -%}
+
+{%- if images and images.size > 0 -%}
+  {%- assign num_images = images.size -%}
+  {%- assign cloudinary_cloud_name = site.cloudinary_cloud_name -%}
+  {%- assign cloudinary_transformations = "q_auto:best,f_auto" -%}
+
+  {%- if num_images == 1 -%}
+    {%- comment -%} Output a single image link {%- endcomment -%}
+    {%- assign single_image = images.first -%}
+    
+    {%- comment -%} Determine the final image source for the single image {%- endcomment -%}
+    {%- assign final_image_src = single_image.url -%}
+    {%- if jekyll.environment == "production" and cloudinary_cloud_name -%}
+      {%- assign image_source_for_cloudinary = "" -%}
+      {%- if single_image.url contains "/" and single_image.url | slice: 0 == "/" -%}
+        {%- assign image_source_for_cloudinary = site.url | append: single_image.url -%}
+      {%- else -%}
+        {%- assign image_source_for_cloudinary = single_image.url -%}
+      {%- endif -%}
+      {%- assign final_image_src = "https://res.cloudinary.com/" | append: cloudinary_cloud_name | append: "/image/fetch/" | append: cloudinary_transformations | append: "/" | append: image_source_for_cloudinary -%}
+    {%- endif -%}
+
+    <div class="single-slideshow-image">
+      <a href="{{ final_image_src | relative_url }}">
+        <img src="{{ final_image_src | relative_url }}" alt="{{ single_image.alt | default: 'Image' }}" />
+      </a>
+    </div>
+  {%- else -%}
+    {%- comment -%} Output the full slideshow for multiple images {%- endcomment -%}
+    <ul class="slides">
+      {%- for image in images -%}
+        {%- assign current_index = forloop.index -%}
+        {%- assign prev_index = current_index | minus: 1 -%}
+        {%- assign next_index = current_index | plus: 1 -%}
+
+        {%- comment -%} Handle wrapping for navigation (prev/next) {%- endcomment -%}
+        {%- if forloop.first -%}
+          {%- assign prev_index = num_images -%}
+        {%- endif -%}
+        {%- if forloop.last -%}
+          {%- assign next_index = 1 -%}
+        {%- endif -%}
+
+        {%- comment -%} Determine the final image source for the current image in the loop {%- endcomment -%}
+        {%- assign final_image_src = image.url -%}
+        {%- if jekyll.environment == "production" and cloudinary_cloud_name -%}
+          {%- assign image_source_for_cloudinary = "" -%}
+          {%- if image.url contains "/" and image.url | slice: 0 == "/" -%}
+            {%- assign image_source_for_cloudinary = site.url | append: image.url -%}
+          {%- else -%}
+            {%- assign image_source_for_cloudinary = image.url -%}
+          {%- endif -%}
+          {%- assign final_image_src = "https://res.cloudinary.com/" | append: cloudinary_cloud_name | append: "/image/fetch/" | append: cloudinary_transformations | append: "/" | append: image_source_for_cloudinary -%}
+        {%- endif -%}
+
+        <input type="radio" name="radio-btn" id="img-{{ current_index }}" {%- if forloop.first -%}checked="checked"{%- endif -%} />
+        <li class="slide-container">
+          <div class="slide">
+            <a href="{{ final_image_src | relative_url }}">
+              <img src="{{ final_image_src | relative_url }}" alt="{{ image.alt | default: 'Slideshow image' }}" />
+            </a>
+          </div>
+          <div class="nav">
+            <label for="img-{{ prev_index }}" class="prev">&#x2039;</label>
+            <label for="img-{{ next_index }}" class="next">&#x203a;</label>
+          </div>
+        </li>
+      {%- endfor -%}
+
+      <li class="nav-dots">
+        {%- for image in images -%}
+          {%- assign current_index = forloop.index -%}
+          <label for="img-{{ current_index }}" class="nav-dot" id="img-dot-{{ current_index }}"></label>
+        {%- endfor -%}
+      </li>
+    </ul>
+  {%- endif -%}
+{%- else -%}
+  {%- comment -%} Optional: Output a message if no slideshow data is found for this page {%- endcomment -%}
+  <p>No slideshow images defined in front matter for this page.</p>
+{%- endif -%}
