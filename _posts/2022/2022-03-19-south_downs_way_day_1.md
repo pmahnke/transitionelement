@@ -6,6 +6,13 @@ commentfile: 2022-03-20-south_downs_way_day_1
 category: [travel, hiking]
 date: 2022-03-20 12:26:00
 image: "/assets/images/insta/276140177_485837473027148_8606343828212467204_n_17910405779447416.webp"
+slideshow_images:
+- alt: ''
+  url: /assets/images/insta/IMG_20220319_063718.jpg
+- alt: ''
+  url: /assets/images/insta/IMG_20220319_091619.jpg
+- alt: ''
+  url: /assets/images/insta/276140177_485837473027148_8606343828212467204_n_17910405779447416.webp
 excerpt: |
   Winchester to East Meon. 21 miles. Great weather.
 ---
@@ -34,38 +41,3 @@ We spent the night in the [South Downs Eco Lodge](https://maps.app.goo.gl/UyP1SB
 
 Great weather.
 
-<ul class="slides">
-    <input type="radio" name="radio-btn" id="img-1" checked="checked" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/IMG_20220319_063718.jpg"><img src="/assets/images/insta/IMG_20220319_063718.jpg" /></a>
-        </div>
-        <div class="nav">
-             <label for="img-3" class="prev">&#x2039;</label>
-             <label for="img-2" class="next">&#x203a;</label>
-         </div>
-    </li>    <input type="radio" name="radio-btn" id="img-2"  />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/IMG_20220319_091619.jpg"><img src="/assets/images/insta/IMG_20220319_091619.jpg" /></a>
-        </div>
-        <div class="nav">
-             <label for="img-1" class="prev">&#x2039;</label>
-             <label for="img-3" class="next">&#x203a;</label>
-         </div>
-    </li>
-    <input type="radio" name="radio-btn" id="img-3" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/276140177_485837473027148_8606343828212467204_n_17910405779447416.webp"><img src="/assets/images/insta/276140177_485837473027148_8606343828212467204_n_17910405779447416.webp" /></a>
-        </div>
-        <div class="nav">
-             <label for="img-2" class="prev">&#x2039;</label>
-             <label for="img-1" class="next">&#x203a;</label>
-         </div>
-    </li>
-  <li class="nav-dots">
-      <label for="img-1" class="nav-dot" id="img-dot-1"></label>      <label for="img-2" class="nav-dot" id="img-dot-2"></label>
-      <label for="img-3" class="nav-dot" id="img-dot-3"></label>
-  </li>
-</ul>

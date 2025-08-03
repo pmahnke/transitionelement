@@ -6,6 +6,13 @@ commentfile: 2020-09-02-coast_to_coast_day_5
 categories: ["travel", "hiking"]
 date: 2020-09-02 09:51:00
 image: "/assets/images/insta/IMG_20200902_115053.jpg"
+slideshow_images:
+- alt: ''
+  url: /assets/images/insta/IMG_20200902_113247.jpg
+- alt: ''
+  url: /assets/images/insta/IMG_20200902_202121.jpg
+- alt: ''
+  url: /assets/images/insta/IMG_20200902_115053.jpg
 excerpt: |
   So my foot was much better, but we decided to be careful.
 ---
@@ -21,38 +28,3 @@ So my foot was much better, but we decided to be careful. We took a cab to short
 
 In retrospect, I wish we had gone over Kidsty Pike, but it would have been a very long day and I wasn't sure about my foot.
 
-<ul class="slides">
-    <input type="radio" name="radio-btn" id="img-1" checked="checked" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/IMG_20200902_113247.jpg"><img src="/assets/images/insta/IMG_20200902_113247.jpg" /></a>
-        </div>
-        <div class="nav">
-             <label for="img-3" class="prev">&#x2039;</label>
-             <label for="img-2" class="next">&#x203a;</label>
-         </div>
-    </li>    <input type="radio" name="radio-btn" id="img-2"  />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/IMG_20200902_202121.jpg"><img src="/assets/images/insta/IMG_20200902_202121.jpg" /></a>
-        </div>
-        <div class="nav">
-             <label for="img-1" class="prev">&#x2039;</label>
-             <label for="img-3" class="next">&#x203a;</label>
-         </div>
-    </li>
-    <input type="radio" name="radio-btn" id="img-3" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/IMG_20200902_115053.jpg"><img src="/assets/images/insta/IMG_20200902_115053.jpg" /></a>
-        </div>
-        <div class="nav">
-             <label for="img-2" class="prev">&#x2039;</label>
-             <label for="img-1" class="next">&#x203a;</label>
-         </div>
-    </li>
-  <li class="nav-dots">
-      <label for="img-1" class="nav-dot" id="img-dot-1"></label>      <label for="img-2" class="nav-dot" id="img-dot-2"></label>
-      <label for="img-3" class="nav-dot" id="img-dot-3"></label>
-  </li>
-</ul>
