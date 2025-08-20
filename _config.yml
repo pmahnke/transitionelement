@@ -24,6 +24,11 @@ plugins:
   - jekyll-archives
   - jekyll-textile-converter
 
+# sass
+sass:
+  sass_dir: _sass
+  style: :compressed
+
 # Build settings
 markdown: kramdown
 textile_ext: "textile,txtl,tl"
