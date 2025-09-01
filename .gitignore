@@ -6,7 +6,6 @@ db/
 *.yaml~
 *.*~
 sitemap.xml.gz
-robots.txt
 .DS_store
 .jekyll-cache
 Gemfile.lock
