@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Argentina day 0"
+title: "Argentina day 0 - London to Buenos Aires"
 permalink: /archives/2013/12/2013-12-13-argentina-day-0.html
 commentfile: 2013-12-13-argentina-day-0
 category: travel
@@ -12,13 +12,7 @@ excerpt: |
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+| **Travel** | _Flying_                                                     | London - Madrid - Buenos Aires         |
 
 
-Goodbye England. Hello Argentina (via Madrid)
-
+Today we flew to Buenos Aires via Madrid. We left in the evening and had a layover, so we don't arrive until 8:30am local time on the 14 December 2013.
