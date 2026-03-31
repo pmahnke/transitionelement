@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Argentina day"
-permalink: /archives/2014/01/2014-01-04-argentina-day-.html
-commentfile: 2014-01-04-argentina-day-
+title: "Argentina day 22 - Buenos Aires"
+permalink: /archives/2014/01/2014-01-04-argentina-day-22.html
+commentfile: 2014-01-04-argentina-day-22
 category: travel
 date: 2014-01-04 03:47:00
 image: "/assets/images/insta/tmp/1516168_751690738194216_1585393325_n_17842831246047535.jpg"

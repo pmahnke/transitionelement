@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Argentina day 3"
+title: "Argentina day 3 - Buenos Aires"
 permalink: /archives/2013/12/2013-12-16-argentina-day-3.html
 commentfile: 2013-12-16-argentina-day-3
 category: travel
@@ -8,11 +8,36 @@ date: 2013-12-16 12:12:00
 image: "/assets/images/insta/tmp/1517144_560364080707274_784680042_n_17842825177047535.jpg"
 excerpt: |
   Argentina&#039;s Navy insignia.
+slideshow_images:
+  - alt: "dsc00277"
+    url: "/assets/images/2013/dsc00277.jpg"
+  - alt: "el_cid_and_perone"
+    url: "/assets/images/2013/el_cid_and_perone.jpg"
+  - alt: "ba_-_port"
+    url: "/assets/images/2013/ba_-_port.jpg"
+  - alt: "ba_-_port_bridge"
+    url: "/assets/images/2013/ba_-_port_bridge.jpg"
+  - alt: "ba_-_goverment_building"
+    url: "/assets/images/2013/ba_-_goverment_building.jpg"
+  - alt: "ryan_and_my_pizza"
+    url: "/assets/images/2013/ryan_and_my_pizza.jpg"
+  - alt: "dsc00282"
+    url: "/assets/images/2013/dsc00282.jpg"
+  - alt: "ba_-_palacio_barolo_-_kiosk"
+    url: "/assets/images/2013/ba_-_palacio_barolo_-_kiosk.jpg"
+  - alt: "ba_-_hotel_didi_nina"
+    url: "/assets/images/2013/ba_-_hotel_didi_nina.jpg"
+  - alt: "ba_-_recoleta_-_ryan_and_angela_at_a_big_tree"
+    url: "/assets/images/2013/ba_-_recoleta_-_ryan_and_angela_at_a_big_tree.jpg"
+  - alt: "dsc00244"
+    url: "/assets/images/2013/dsc00244.jpg"
+  - alt: "dsc00250"
+    url: "/assets/images/2013/dsc00250.jpg"
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
+| **Stayed** |  Buenos Aires  http://www.ninahotelbuenosaires.com|
 | **Ate**    | _Lunch_                                                      |          |
 |            | _Dinner_                                                     |          |
 | **Travel** | _Flying_                                                     |          |
@@ -21,27 +46,5 @@ excerpt: |
 
 
 Argentina&#039;s Navy insignia.
-
-
-<ul class="slides">
-
-    <input type="radio" name="radio-btn" id="img-1" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/1517144_560364080707274_784680042_n_17842825177047535.jpg"><img src="/assets/images/insta/tmp/1517144_560364080707274_784680042_n_17842825177047535.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-0" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
-<li class="nav-dots">
-
-      <label for="img-1" class="nav-dot" id="img-dot-1"></label>
-
-</li>
-</ul>        
-             
 
 		
