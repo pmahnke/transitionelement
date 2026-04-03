@@ -5,29 +5,27 @@ permalink: /archives/2014/01/2014-01-03-argentina-day-21.html
 commentfile: 2014-01-03-argentina-day-21
 category: travel
 date: 2014-01-03 02:26:00
-image: "/assets/images/insta/tmp/1530771_793780610649136_1224578686_n_17842830946047535.jpg"
+image: "/assets/images/2014/ryan_loving_don_julios.jpg"
 excerpt: |
-  Odd combo of Christmas and native paintings.
+  Back to Buenos Aires and one last dinner at Don Julios.
 slideshow_images:
-  - alt: "img_3090"
+  - alt: "img 3090"
     url: "/assets/images/2014/img_3090.jpg"
-  - alt: "img_3083"
+  - alt: "img 3083"
     url: "/assets/images/2014/img_3083.jpg"
-  - alt: "owen_s_empenada"
+  - alt: "owen s empenada"
     url: "/assets/images/2014/owen_s_empenada.jpg"
-  - alt: "ryan_loving_don_julios"
+  - alt: "ryan loving don julios"
     url: "/assets/images/2014/ryan_loving_don_julios.jpg"
-  - alt: "hotel_hallef_lobby_-_xmas_time"
-    url: "/assets/images/2014/hotel_hallef_lobby_-_xmas_time.jpg"
-  - alt: "my_don_julio_sirloin"
+  - alt: "my don julio sirloin"
     url: "/assets/images/2014/my_don_julio_sirloin.jpg"
-  - alt: "don_julios_-_ba"
+  - alt: "don julios - ba"
     url: "/assets/images/2014/don_julios_-_ba.jpg"
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
+| **Stayed** | Nina Suites -  Malabia 1568 - Palermo Soho | _now closed_ |
 | **Ate**    | _Lunch_                                                      |          |
 |            | _Dinner_                                                     |          |
 | **Travel** | _Flying_                                                     |          |
@@ -35,4 +33,3 @@ slideshow_images:
 |            | _Walking_                                                    |          |
 
 
-Odd combo of Christmas and native paintings.

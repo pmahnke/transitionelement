@@ -5,43 +5,24 @@ permalink: /archives/2014/01/2014-01-04-argentina-day-22.html
 commentfile: 2014-01-04-argentina-day-22
 category: travel
 date: 2014-01-04 03:47:00
-image: "/assets/images/insta/tmp/1516168_751690738194216_1585393325_n_17842831246047535.jpg"
+image: "/assets/images/2014/dsc01647.jpg"
 excerpt: |
-  Almost hate to wake my little Packer backers.
+  Back to London via Mardrid and a second Christmas.
+slideshow_images:
+  - alt: "dsc01647"
+    url: "/assets/images/2014/dsc01647.jpg"
+  - alt: "dsc01653"
+    url: "/assets/images/2014/dsc01653.jpg"
+  - alt: "dsc01651_1024"
+    url: "/assets/images/2014/dsc01651_1024.jpg"
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+| **Travel** | _Flying_ |  Buenos Aires to Madrid to London        |
 
 
-Almost hate to wake my little Packer backers.
 
-
-<ul class="slides">
-
-    <input type="radio" name="radio-btn" id="img-1" />
-    <li class="slide-container">
-        <div class="slide">
-          <a href="/assets/images/insta/tmp/1516168_751690738194216_1585393325_n_17842831246047535.jpg"><img src="/assets/images/insta/tmp/1516168_751690738194216_1585393325_n_17842831246047535.jpg" /></a>
-        </div>
-    <div class="nav">
-      <label for="img-0" class="prev">&#x2039;</label>
-      <label for="img-1" class="next">&#x203a;</label>
-    </div>
-    </li>
-			
-<li class="nav-dots">
-
-      <label for="img-1" class="nav-dot" id="img-dot-1"></label>
-
-</li>
-</ul>        
-             
+Back to London via Mardrid and a second Christmas.
 
 		

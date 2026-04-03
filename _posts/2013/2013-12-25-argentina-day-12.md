@@ -11,17 +11,17 @@ excerpt: |
 slideshow_images:
   - alt: "dsc01219"
     url: "/assets/images/2013/dsc01219.jpg"
-  - alt: "el_calafate_-_lynda_vista_-_our_room"
+  - alt: "el calafate - lynda vista - our room"
     url: "/assets/images/2013/el_calafate_-_lynda_vista_-_our_room.jpg"
-  - alt: "el_calafate_-_lynda_vista_-_loft"
+  - alt: "el calafate - lynda vista - loft"
     url: "/assets/images/2013/el_calafate_-_lynda_vista_-_loft.jpg"
-  - alt: "el_calafate_-_xmas_-_helado"
+  - alt: "el calafate - xmas - helado"
     url: "/assets/images/2013/el_calafate_-_xmas_-_helado.jpg"
-  - alt: "el_calafate_-_lynda_vista_-_main_room"
+  - alt: "el calafate - lynda vista - main room"
     url: "/assets/images/2013/el_calafate_-_lynda_vista_-_main_room.jpg"
-  - alt: "img_3029"
+  - alt: "img 3029"
     url: "/assets/images/2013/img_3029.jpg"
-  - alt: "el_calafate_-_lynda_vista_-_kitchen"
+  - alt: "el calafate - lynda vista - kitchen"
     url: "/assets/images/2013/el_calafate_-_lynda_vista_-_kitchen.jpg"
   - alt: "dsc01212"
     url: "/assets/images/2013/dsc01212.jpg"
@@ -32,12 +32,12 @@ slideshow_images:
 | **Stayed** |  |
 | **Ate**    | _Lunch_                                                      |          |
 |            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+| **Travel** | _Driving_                                                    |    Drive to El Calafate (199km)      |
 
 
 Merry Christmas from El Chalten and Ryan and Mt FitzRoy!
+
+Visit Los Glaciares National Park
 
 
  El Calafate http://www.lindavistahotel.com.ar/indexen.html

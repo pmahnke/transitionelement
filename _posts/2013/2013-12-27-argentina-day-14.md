@@ -9,28 +9,26 @@ image: "/assets/images/insta/tmp/1538585_1433458783550608_12121018_n_17842829083
 excerpt: |
   Made it to Chile. Torres tomorrow. Wish us luck!
 slideshow_images:
-  - alt: "11786198533_7b933fa268_o"
+  - alt: "11786198533 7b933fa268 o"
     url: "/assets/images/2013/11786198533_7b933fa268_o.jpg"
-  - alt: "img_3067"
+  - alt: "img 3067"
     url: "/assets/images/2013/img_3067.jpg"
-  - alt: "img_3066"
+  - alt: "img 3066"
     url: "/assets/images/2013/img_3066.jpg"
-  - alt: "img_3062"
+  - alt: "img 3062"
     url: "/assets/images/2013/img_3062.jpg"
-  - alt: "img_3063"
+  - alt: "img 3063"
     url: "/assets/images/2013/img_3063.jpg"
-  - alt: "img_3061"
+  - alt: "img 3061"
     url: "/assets/images/2013/img_3061.jpg"
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** | Puerto Natales Chile http://www.booking.com/hotel/cl/hallef.en-gb.html?aid |
+| **Stayed** | [Hotel Hallef](https://maps.app.goo.gl/hYTdHESF7K72Kj388) |
 | **Ate**    | _Lunch_                                                      |          |
 |            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+| **Travel** | _Bus_                                                    |     to Puerto Natales (156km)     |
 
 
 Made it to Chile. Torres tomorrow. Wish us luck!

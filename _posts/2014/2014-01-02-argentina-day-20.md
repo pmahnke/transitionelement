@@ -5,7 +5,7 @@ permalink: /archives/2014/01/2014-01-02-argentina-day-20.html
 commentfile: 2014-01-02-argentina-day-20
 category: travel
 date: 2014-01-02 12:11:00
-image: "/assets/images/insta/tmp/1527486_280873792066736_153226780_n_17842830820047535.jpg"
+image: "/assets/images/2014/dsc01630.jpg"
 excerpt: |
   We did the &#039;W&#039;. Boys did amazingly well. Weather was pretty good. Refugios were nice, but expensive!
 slideshow_images:
@@ -15,22 +15,25 @@ slideshow_images:
     url: "/assets/images/2014/dsc01630.jpg"
   - alt: "dsc01632"
     url: "/assets/images/2014/dsc01632.jpg"
-  - alt: "chilano_to_hotel_lt_-_family_leaving"
+  - alt: "chilano to hotel lt - family leaving"
     url: "/assets/images/2014/chilano_to_hotel_lt_-_family_leaving.jpg"
-  - alt: "boys_on_the_final_bridge"
+  - alt: "boys on the final bridge"
     url: "/assets/images/2014/boys_on_the_final_bridge.jpg"
-  - alt: "valley_towards_chileno_from_las_torres"
+  - alt: "valley towards chileno from las torres"
     url: "/assets/images/2014/valley_towards_chileno_from_las_torres.jpg"
+  - alt: "hotel hallef lobby - xmas time"
+    url: "/assets/images/2014/hotel_hallef_lobby_-_xmas_time.jpg"
 ---
-Puerto Natales http://www.booking.com/hotel/cl/hallef.en-gb.html?aid
+
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
+| **Stayed** | [Hotel Hallef](https://maps.app.goo.gl/hYTdHESF7K72Kj388) |
 | **Ate**    | _Lunch_                                                      |          |
 |            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+| **Travel** | _Walk_| Out of the park|
+|| _Bus_                                                    |     to Puerto Natales (156km)     |
 
 
 We did the &#039;W&#039;. Boys did amazingly well. Weather was pretty good. Refugios were nice, but expensive!
+
+Back to Holet Hallef with its odd combonation of Christmas and native paintings.
