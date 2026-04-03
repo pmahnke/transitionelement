@@ -9,44 +9,42 @@ image: "/assets/images/insta/tmp/1527743_496111120505305_2146332841_n_1784282591
 excerpt: |
   Should be off the grid. Walked with sea lions today.
 slideshow_images:
-  - alt: "tomba_-_nest"
+  - alt: "tomba - nest"
     url: "/assets/images/2013/tomba_-_nest.jpg"
-  - alt: "tomba_-_chicks_following"
+  - alt: "tomba - chicks following"
     url: "/assets/images/2013/tomba_-_chicks_following.jpg"
-  - alt: "tomba_-_boys_at_the_sign"
+  - alt: "tomba - boys at the sign"
     url: "/assets/images/2013/tomba_-_boys_at_the_sign.jpg"
-  - alt: "tomba_-_owen_ryan_penguin_selfie"
+  - alt: "tomba - owen ryan penguin selfie"
     url: "/assets/images/2013/tomba_-_owen_ryan_penguin_selfie.jpg"
-  - alt: "tomba_-_angela_with_penguin"
+  - alt: "tomba - angela with penguin"
     url: "/assets/images/2013/tomba_-_angela_with_penguin.jpg"
-  - alt: "tomba_-_hungry_chick"
+  - alt: "tomba - hungry chick"
     url: "/assets/images/2013/tomba_-_hungry_chick.jpg"
-  - alt: "sarmeinto_-_oil_well"
+  - alt: "sarmeinto - oil well"
     url: "/assets/images/2013/sarmeinto_-_oil_well.jpg"
   - alt: "dsc00740"
     url: "/assets/images/2013/dsc00740.jpg"
-  - alt: "img_2875"
+  - alt: "img 2875"
     url: "/assets/images/2013/img_2875.jpg"
-  - alt: "sarminento_-_cherry_picking"
+  - alt: "sarminento - cherry picking"
     url: "/assets/images/2013/sarminento_-_cherry_picking.jpg"
-  - alt: "sarminento_-_dinner_in_town"
+  - alt: "sarminento - dinner in town"
     url: "/assets/images/2013/sarminento_-_dinner_in_town.jpg"
-  - alt: "tomba_-_peter"
+  - alt: "tomba - peter"
     url: "/assets/images/2013/tomba_-_peter.jpg"
-  - alt: "owen_in_sarminento"
+  - alt: "owen in sarminento"
     url: "/assets/images/2013/owen_in_sarminento.jpg"
-  - alt: "tomba_-_guanaco_side"
+  - alt: "tomba - guanaco side"
     url: "/assets/images/2013/tomba_-_guanaco_side.jpg"
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
+| **Stayed** | Hosteria Labrador |
 | **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+|            | _Dinner_                                                     |   La Tranquera       |
+| **Travel** | _Driving_                                                    |    to Punta del Gada to Punta Tombo (300km) then to Sarmiento (448km)    |
 
 
 Should be off the grid. Walked with sea lions today.

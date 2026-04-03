@@ -9,9 +9,9 @@ image: ""
 excerpt: |
   Torres del Paine
 slideshow_images:
-  - alt: "angela_owen_on_the_beach"
+  - alt: "angela owen on the beach"
     url: "/assets/images/2013/angela_owen_on_the_beach.jpg"
-  - alt: "owen_on_the_beach"
+  - alt: "owen on the beach"
     url: "/assets/images/2013/owen_on_the_beach.jpg"
   - alt: "dsc01485"
     url: "/assets/images/2013/dsc01485.jpg"
@@ -21,10 +21,21 @@ slideshow_images:
     url: "/assets/images/2013/dsc01480.jpg"
   - alt: "dsc01469"
     url: "/assets/images/2013/dsc01469.jpg"
-  - alt: "owen_on_a_plank_bridge"
+  - alt: "owen on a plank bridge"
     url: "/assets/images/2013/owen_on_a_plank_bridge.jpg"
-  - alt: "owen_in_glacier_frances"
+  - alt: "owen in glacier frances"
     url: "/assets/images/2013/owen_in_glacier_frances.jpg"
 ---
+
+
+|            |                                                              |
+| ---------- | ------------------------------------------------------------ | ----------------------------- |
+| **Stayed** | Refugio los Cuernos |4 people * 2 nights = USD$720 |
+| **Ate**    | _Lunch_                                                      |          |
+|            | _Dinner_                                                     |          |
+| **Travel** |  _Walking_                                                    |     Valley de Frances     |
+
+
+
 
 Chile hiking/camping  the “W” circuit in torres del Paine national park   http://abcnews.go.com/Travel/chiles-torres-del-paine-voted-8th-world/story?id=20754762

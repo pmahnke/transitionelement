@@ -9,25 +9,25 @@ image: "/assets/images/insta/tmp/1515761_553789664707881_1480513205_n_1784282496
 excerpt: |
   &#064;luca_paulina &#064;aobregon &#064;jamiedawsonyoung &#064;anthonydillon and Spencer, can you make it a little more...
 slideshow_images:
-  - alt: "cowboy_market_-_icecream_break"
+  - alt: "cowboy market - icecream break"
     url: "/assets/images/2013/cowboy_market_-_icecream_break.jpg"
-  - alt: "ba_-_cool_trees"
+  - alt: "ba - cool trees"
     url: "/assets/images/2013/ba_-_cool_trees.jpg"
   - alt: "dsc00169"
     url: "/assets/images/2013/dsc00169.jpg"
-  - alt: "gadel_vive_street_singer"
+  - alt: "gadel vive street singer"
     url: "/assets/images/2013/gadel_vive_street_singer.jpg"
   - alt: "dsc00150"
     url: "/assets/images/2013/dsc00150.jpg"
-  - alt: "lots_of_mata_cups"
+  - alt: "lots of mata cups"
     url: "/assets/images/2013/lots_of_mata_cups.jpg"
-  - alt: "cowboy_market_-_performance"
+  - alt: "cowboy market - performance"
     url: "/assets/images/2013/cowboy_market_-_performance.jpg"
 ---
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** | Buenos Aires  http://www.ninahotelbuenosaires.com |
+| **Stayed** | Nina Suites -  Malabia 1568 - Palermo Soho | _now closed_ |
 | **Ate**    | _Lunch_                                                      |          |
 |            | _Dinner_                                                     |          |
 | **Travel** | _Flying_                                                     |          |
