@@ -5,9 +5,9 @@ permalink: /archives/2013/12/2013-12-15-argentina-day-2.html
 commentfile: 2013-12-15-argentina-day-2
 category: travel
 date: 2013-12-15 12:46:00
-image: "/assets/images/insta/tmp/1515761_553789664707881_1480513205_n_17842824967047535.jpg"
+image: "/assets/images/2013/cowboy_market_-_icecream_break.jpg"
 excerpt: |
-  &#064;luca_paulina &#064;aobregon &#064;jamiedawsonyoung &#064;anthonydillon and Spencer, can you make it a little more...
+  Today we walk to the Mataderos neighbourhood to visit the Feira de Mataderos (Cowboy Market) and then the markets in the El Molino neighbourhood.
 slideshow_images:
   - alt: "cowboy market - icecream break"
     url: "/assets/images/2013/cowboy_market_-_icecream_break.jpg"
@@ -28,11 +28,10 @@ slideshow_images:
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Nina Suites -  Malabia 1568 - Palermo Soho | _now closed_ |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+| **Ate**    | _Lunch_                                                      |    Feira de Mataderos      |
+|            | _Dinner_                                                     |    [La Hormiga](https://maps.app.goo.gl/U2frRRG9hAm3txS86)      |
 
 
-&#064;luca_paulina &#064;aobregon &#064;jamiedawsonyoung &#064;anthonydillon and Spencer, can you make it a little more...
+Today we walk to the Mataderos neighbourhood to visit the Feira de Mataderos (Cowboy Market) and then the markets in the El Molino neighbourhood.  There was a lot of music and food.  The El Molino had loads of people doing the Tango as buskers, or for fun.
+
+In the afternoon we went back to our neighbourhood and ate pizza at a local place.

@@ -7,7 +7,7 @@ category: travel
 date: 2013-12-16 12:12:00
 image: "/assets/images/insta/tmp/1517144_560364080707274_784680042_n_17842825177047535.jpg"
 excerpt: |
-  Argentina&#039;s Navy insignia.
+  Today we walked to the riverside with a stop at the famous Recoleta Cemetery.
 slideshow_images:
   - alt: "dsc00277"
     url: "/assets/images/2013/dsc00277.jpg"
@@ -38,13 +38,7 @@ slideshow_images:
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** |  Nina Suites -  Malabia 1568 - Palermo Soho | _now closed_ |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
 
 
-Argentina&#039;s Navy insignia.
-
+Today we walked to the Puerto Madero riverside with a stop at the famous [Recoleta Cemetery](https://maps.app.goo.gl/vpEite8oCAsVZfBG6). We also walked around the Monserrat downtown area with the Plaza de Mayo.
 		
