@@ -23,7 +23,6 @@ layout: default-empty
       <h2 class="post-title">{{ page.title }}</h2>
       {% if page.image %}
         <img  src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/mahnke/image/fetch/q_auto:best,f_auto/{% endif %}{% if page.image contains 'googleusercontent' %}{% else %}{{ site.url }}{% endif %}{{ page.image }}" width="600" {% if jekyll.environment == "development" %}{% endif %}alt="" />
-      </a>
       {% endif %}
       {{ content }}
 
