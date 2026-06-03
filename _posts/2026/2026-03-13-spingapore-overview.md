@@ -8,6 +8,7 @@ tags: overview
 image: /assets/images/2026/img_2466.jpg
 date: 2026-03-13 16:26:19
 excerpt: |
+  An overview of our trip to Singapore in March 2026.
 ---
 
 In March 2026 we spent little over a week visiting Singapore.  It was really Owen's holiday that we invited ourselves along to.
