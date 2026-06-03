@@ -53,8 +53,7 @@ slideshow_images:
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | [Faro Punta Delgada Hotel](https://www.puntadelgada.com/)||
-| **Ate**    | _Dinner_                                                     |  [Don Julio Parrilla](https://maps.app.goo.gl/Wbwud6io5mxxLm7Q8)       |
-| **Travel** | _\Driving_                                                     | Trelew to Punta del Gada (204 kms)         |
+| **Travel** | _Driving_                                                     | Trelew to Punta del Gada (204 kms)         |
 
 Today we flew from Buenos Ares to Trelew, rented a car and then drove to Punta del Gada
 
