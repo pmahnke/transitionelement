@@ -1,19 +1,18 @@
 ---
-
 layout: post
 title: "Concert: Jerron Paxton with Martin Harley"
 permalink: /archives/2025/05/concert_jerron_paxton.html
 commentfile: 2025-05-15-concert_jerron_paxton
 category: culture
-image: "https://lh3.googleusercontent.com/pw/AP1GczOReICleHSapZ4sZr4ZGQsWUmUEXNScwndys9a4PV3qU3mabX_cG-BeR6xIVdo_oiGneBgDiILzgbk7nwZv51cIb0TAmHMtSgf6aDF-xXjl5VjEG0Mt=w1920-h1080"
+image: /assets/images/2025/img_8282-edit.jpg
 date: 2025-05-15 23:58:51
 slideshow_images:
-- alt: ''
-  url: https://lh3.googleusercontent.com/pw/AP1GczNajhWrkGdD8R6qB2yUI5nFSzm8tTZcwVY8JMvd8MA9TQD-qGIw3pONs1Rbh_vauG00w8Ku20_iJ6HEVmkwBxrF1bwAhZ9T6xhUFyY2j3tFrCexGjuu=w1920-h1080
-- alt: ''
-  url: https://lh3.googleusercontent.com/pw/AP1GczOReICleHSapZ4sZr4ZGQsWUmUEXNScwndys9a4PV3qU3mabX_cG-BeR6xIVdo_oiGneBgDiILzgbk7nwZv51cIb0TAmHMtSgf6aDF-xXjl5VjEG0Mt=w1920-h1080
-- alt: ''
-  url: https://lh3.googleusercontent.com/pw/AP1GczMUMh7WjMfYUPZhP5Mf2aKo6_-G5Pt0w6VHUFE4OaugUsuLFA1VLz4Sdo-Kvh_dcf96dvEg62_swxPexUFXV4jfP8C9Dd1b5fOubMdoK7Pzcix4dIjP=w1920-h1080
+  - alt: "img_8274"
+    url: "/assets/images/2025/img_8274.jpg"
+  - alt: "img_8275"
+    url: "/assets/images/2025/img_8275.jpg"
+  - alt: "img_8282-edit"
+    url: "/assets/images/2025/img_8282-edit.jpg"
 
 excerpt: |
   Tonight we saw Jerron Paxton at the Union Chapel in Islington.
