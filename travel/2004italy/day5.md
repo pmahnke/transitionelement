@@ -1,15 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 5 - Rome to Sorrento"
+date: 2004-04-06 12:00:00
 ---
-
-Southern Italy & Sicily
-=======================
-
-Day 5 - Rome to Sorrento
-------------------------
-
-*Tuesday, 6 April 2004*
 
 After a leasurely start to the morning, we took a cab to the Terminal
 Station to pick up our rental car. Than after walking another 3/4 mile,

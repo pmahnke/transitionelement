@@ -1,13 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 1 - London to Rome"
+date: 2004-04-02 12:00:00
 ---
-
-# Southern Italy & Sicily
-
-## Day 1 - London to Rome
-
-_Friday, 2 April 2004_
 
 Flight delayed one hour.
 

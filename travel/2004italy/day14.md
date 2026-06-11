@@ -1,15 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 14 - Palermo to London via Naples"
+date: 2004-04-15 12:00:00
 ---
-
-Southern Italy & Sicily
-=======================
-
-Day 14 - Palermo to London via Naples
--------------------------------------
-
-*Friday, 16 April 2004*
 
 We woke up early as we arrive in Naples… too early to see the town and
 just enough time to drive to the airport and go home. I have to admit, I

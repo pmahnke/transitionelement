@@ -1,15 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 9 - Sorrento & Pompeii"
+date: 2004-04-09 12:00:00
 ---
-
-Southern Italy & Sicily
-=======================
-
-Day 8 - Sorrento & Pompeii
---------------------------
-
-*Friday, 9 April 2004*
 
 Again, to avoid the traffic and the car, we opted for the light rail to
 Pompeii. The station is a mere 100 meters from the entrance, so it was a

@@ -1,15 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 7 - Sorrento & The Amalfi Coast"
+date: 2004-04-08 12:00:00
 ---
-
-Southern Italy & Sicily
-=======================
-
-Day 7 - Sorrento & The Amalfi Coast
------------------------------------
-
-*Thursday, 8 April 2004*
 
 After seeing the roads and parking issues that we would experience on
 the other side of the Sorrento Peninsula, the Amalfi Coast, we decided

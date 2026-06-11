@@ -1,15 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 13 - Taormina to Palermo via Celafu"
+date: 2004-04-14 12:00:00
 ---
-
-Southern Italy & Sicily
-=======================
-
-Day 13 - Taormina to Palermo via Celafu
----------------------------------------
-
-*Thursday, 15 April 2004*
 
 Today we had to end up in Palermo for a night ferry to Naples. So we
 took one more walk through Taormina, a trip to the sandy beach, then

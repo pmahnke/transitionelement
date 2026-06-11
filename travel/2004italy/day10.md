@@ -1,15 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 10 - Taormina"
+date: 2004-04-11 12:00:00
 ---
-
-Southern Italy & Sicily
-=======================
-
-Day 10 - Taormina (Easter Sunday)
----------------------------------
-
-*Sunday, 11 April 2004*
 
 Today was Easter Sunday.
 

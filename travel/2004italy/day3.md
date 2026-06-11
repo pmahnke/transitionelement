@@ -1,16 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 3 - 'Modern' Rome"
+date: 2004-04-04 12:00:00
 ---
-
-Southern Italy & Sicily
-=======================
-
-Day 3 - “Modern” Rome
-
----
-
-_Easter Sunday, 4 April 2004_
 
 #### Palazzo dei Quirinale
 

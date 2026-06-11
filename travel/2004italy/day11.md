@@ -1,15 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 11 - Taormina & Siracusa "
+date: 2004-04-12 12:00:00
 ---
-
-Southern Italy & Sicily
-=======================
-
-Day 11 - Taormina & Siracusa
-----------------------------
-
-*Monday, 12 April 2004*
 
 My whole life I have heard about Siracusa — from Greek myths to my
 Sicilian barber to watching all those WWII films to going to school in

@@ -1,13 +1,9 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 2 - Ancient Rome"
+date: 2004-04-03 12:00:00
+excerpt: 
 ---
-
-# Southern Italy & Sicily
-
-## Day 2 - Ancient Rome
-
-_Saturday, 3 April 2004_
 
 After breakfast at the hotel, we walked the 1/4 mile to the Colosseum. It is very impressive to see; however, we saw the one in Pula, Slovenia — which I have to say is nearly as impressive and took some of the awe out of it — but not much.
 

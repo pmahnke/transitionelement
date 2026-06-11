@@ -1,15 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 12 - Taormina & Casale"
+date: 2004-04-13 12:00:00
 ---
-
-Southern Italy & Sicily
-=======================
-
-Day 12 - Taormina & Casale
---------------------------
-
-*Tuesday, 13 April 2004*
 
 Today we drove to a more central area of Sicily to see the ancient hotel
 of Casale. It was unbelievable.

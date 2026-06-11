@@ -1,13 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 9 - Sorrento to Taromina"
+date: 2004-04-10 12:00:00
 ---
-
-# Southern Italy & Sicily
-
-## Day 9 - Sorrento to Taormina
-
-_Saturday, 10 April 2004_
 
 Today we drove from Sorrento to Reggio di Calabaria, took the ferry to Messina, then down to Taormina. All parts of the trip were about 100% better than we expected and where told to expect. The traffic and the quality of the road on the A3 was fine considering the level of traffic.
 

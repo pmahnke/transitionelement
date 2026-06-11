@@ -1,15 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 4 - The Vatican"
+date: 2004-04-05 12:00:00
 ---
-
-Southern Italy & Sicily
-=======================
-
-Day 4 - The Vatican
--------------------
-
-*Monday, 5 April 2004*
 
 ##### Tip: You Can’t Get to the Vatican Early Enough!
 

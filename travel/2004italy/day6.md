@@ -1,15 +1,8 @@
 ---
-layout: travel
+layout: post
 title: "Southern Italy & Sicily : Day 6 - Sorrento & Isle of Capri"
+date: 2004-04-07 12:00:00
 ---
-
-Southern Italy & Sicily
-=======================
-
-Day 6 - Sorrento & Isle of Capri
---------------------------------
-
-*Wednesday, 7 April 2004*
 
 Bright and early we head down to the Marina Piccolo and the ferries to
 Capri. After figuring out the poorly marked boat signs, we get the
