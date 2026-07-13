@@ -8,7 +8,7 @@ tags: overview
 image: /assets/images/2026/img_4053.jpg
 date: 2026-06-28 20:55:20
 excerpt: |
-    Lago di Braies to Passo Duran. 60 miles (97 kilometers) - 8 days
+   Lago di Braies to Passo Duran. 60 miles (97 kilometers) - 8 days
 ---
 
 ### 29 June to 10 July 2026
