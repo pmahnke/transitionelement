@@ -27,7 +27,7 @@ The trails are really well marked and go along both sides of the Rätikon range.
 
 ### Preparation
 
-There is nothing technical, unless you want to do some mountaineering. However, there was a lot of snow, even in early June. Enough snow that I am very glad we bought and brough [mircospikes](https://kahtoola.com/traction/microspikes-footwear-traction/).
+There is nothing technical, unless you want to do some mountaineering. However, there was a lot of snow, even in early June. Enough snow that I am very glad we bought and brought [mircospikes](https://kahtoola.com/traction/microspikes-footwear-traction/).
 
 ### Huttes
 

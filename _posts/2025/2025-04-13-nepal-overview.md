@@ -10,9 +10,9 @@ image: "/assets/images/insta/491519197_18506481934047535_3475275873289803780_n_1
 excerpt: |
   About our trip to Nepal and Gokyo Lakes trek from April to May 2025.
 ---
-This was our first trip to Nepal.  The travellers were, me, my wife Angela and her sister, Robin. The purpose of the trip is to hike from Lukla to Gokyo Lakes and back with a side trip to the Ama Dablam base camp. Unfortunately, eight days into the trek, I had to go back down to Kathmandu, as I caught some kind of virus that made my breathing very constricted.  Angela, Robin and Akash, our guide, all caught this virus a few days later, but made it back before it knocked them out.
+This was our first trip to Nepal.  The travelers were, me, my wife Angela and her sister, Robin. The purpose of the trip is to hike from Lukla to Gokyo Lakes and back with a side trip to the Ama Dablam base camp. Unfortunately, eight days into the trek, I had to go back down to Kathmandu, as I caught some kind of virus that made my breathing very constricted.  Angela, Robin and Akash, our guide, all caught this virus a few days later, but made it back before it knocked them out.
 
-The trip was very good and very civilised. You are not walking in the wilderness, you are walking through Nepalese communities and it is lovely.  If feels very safe and comfortable.  The challenges are all physical with the altitude.
+The trip was excellent and very civilised. You are not walking in the wilderness, you are walking through Nepalese communities and it is lovely.  If feels very safe and comfortable.  The challenges are all physical with the altitude.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1pWaQ7E0z6Voxy2-0DCQf1ejymFlJkJ8&ehbc=2E312F" width="640" height="480"></iframe>
 
@@ -30,7 +30,7 @@ I used Airalo and purchased an esim. This worked well for most of our trek. Only
 
 ### Hotels & Tea Houses
 
-The hotel in Kathmandu was fantastic.  Most are smaller and have excellent restaurants.  Our hotel in Kathmandu, Taleju Boutique Hotel, was really pretty, clean and well located in the Thamel area.  The Tea Houses are the only style of hotel on the hikes.  They generally have small, unheated bedrooms with two twin beds. Most have power, but not all.  Often there is an ensuite toilet, but sometimes not.  Some are very clean, some are not.  All have comfy beds with a pillow and thick blanket.  We brought a sleeping bag and silk liner to cover the bed and pillow and stay even warmer.
+The hotel in Kathmandu was fantastic.  Most are smaller and have excellent restaurants.  Our hotel in Kathmandu, Taleju Boutique Hotel, was really pretty, clean, and well located in the Thamel area.  The Tea Houses are the only style of hotel on the hikes.  They generally have small, unheated bedrooms with two twin beds. Most have power, but not all.  Often there is an ensuite toilet, but sometimes not.  Some are very clean, some are not.  All have comfy beds with a pillow and thick blanket.  We brought a sleeping bag and silk liner to cover the bed and pillow and stay even warmer.
 
 The Tea Houses all have a large common room with a yak poo/wood burner to keep the room warm.  They have power as well to charge phones and anything else, at higher altitudes, they charge for charging.  They also serve food, and you are basically required to eat breakfast and dinner here.  They also sell boiled water, which I bought just before bed and put in my Nalgen bottle and used it as a hot water bottle.
 
@@ -63,8 +63,8 @@ Additional costs where:
 | ------------------------------------------------ | -------------------------------- | --- |
 | Shower                                           | 500 - 750 rupees                 | $3.69 - 5.53 | 
 | WiFi (24 hours)                                  | 500 - 1,000 rupees               | $3.69 - 7.38 |
-| 1 litre of boiling water (as a hot water bottle) | 500 rupees                       | $3.69 |
-| Dinner per person in Kathmandu, including a beer                   | ~ 1,500 rupees | $11.07 |
+| 1 liter of boiling water (as a hot water bottle) | 500 rupees                       | $3.69 |
+| Dinner per person in Kathmandu, including a beer | ~ 1,500 rupees                   | $11.07 |
 
 
 I hope this helps someone.  If you have questions, please ask.
