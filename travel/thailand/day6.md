@@ -18,25 +18,25 @@ hot season right before the rainy season. Of course one couple lives on
 John’s block in NYC, small world. The other was a wonderful couple from
 Melbourne, AU. We ended up travelling with them for three days.
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/WAT_MHS.jpg"  alt="Wat in central Mae Hong San">  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/WAT_MHS.JPG"  alt="Wat in central Mae Hong San">  
 This is the Wat in the center of Mae Hong San
 
 We saw the town and then rented scooters and went out of town to a Fish
 Cave where fish grow fat in this cave that goes for 16 mile with a
 divable waterfall and beautiful farms.
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/COUNTRY.jpg" title="rice paddies" >  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/COUNTRY.JPG" title="rice paddies" >  
 This was a scene typical of what we rode through, really lovely
 mountains and rice paddies and homes on stilts.
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/FISH_CAVE.jpg"  alt="an underground cave teaming with fish">  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/FISH_CAVE.JPG"  alt="an underground cave teaming with fish">  
 This was a ‘magical cave’ teaming with fish — really interesting.
 
 Then we took off through the country side to see farming and went to a
 waterfall to swim. Very nice. Except these three westerners staring at
 Angela swimming… The only other three westerners we saw. Bastards.
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/ANG_MHS.jpg" title="Angela at the lake in town" >  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/ANG_MHS.JPG" title="Angela at the lake in town" >  
 Angela at the lake in the center of town.
 
 \[ [Chaing Mai - Day 5](/travel/thailand/day5.html) \| [Mae Hong San -

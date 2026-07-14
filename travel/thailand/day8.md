@@ -13,7 +13,7 @@ Pai to Chaing Mai \~ Day 8
 
 We took another eight hour bus ride for two dollars to Chaing Mai.
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/RIVER_PING3.jpg" alt="balcony at the River Ping Guesthouse" >  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/RIVER_PING3.JPG" alt="balcony at the River Ping Guesthouse" >  
 The balcony at the River Ping Guesthouse
 
 Another wonderful dinner at the River Ping Palace.

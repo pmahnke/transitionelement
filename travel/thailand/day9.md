@@ -17,22 +17,22 @@ air, they saw some lines in the jungle that suggested walls. The whole
 place is a mass of temples, but was really the heart of a palace and a
 city. Really worth the trip.
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B1.jpg"  alt="Sukothai Ruins">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B1.JPG"  alt="Sukothai Ruins">
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_ELE.jpg" title="Sukothai Ruins" >
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_ELE.JPG" title="Sukothai Ruins" >
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B2.jpg" title="Sukothai Ruins" >
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B2.JPG" title="Sukothai Ruins" >
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B3.jpg" title="Sukothai Ruins" >  
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B4A.jpg" title="Sukothai Ruins" >
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B3.JPG" title="Sukothai Ruins" >  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B4A.JPG" title="Sukothai Ruins" >
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B4.jpg" title="Sukothai Ruins" >
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B4.JPG" title="Sukothai Ruins" >
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_KHMER.jpg" title="Sukothai Ruins" >
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_KHMER.JPG" title="Sukothai Ruins" >
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_K2.jpg" title="Sukothai Ruins" >
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_K2.JPG" title="Sukothai Ruins" >
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B5.jpg"  alt="Sukothai Ruins" >
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B5.JPG"  alt="Sukothai Ruins" >
 
 We met a wonderful English couple that we spent a lot of time with just
 wandering around. They told us all about the south, and Koh Samui.

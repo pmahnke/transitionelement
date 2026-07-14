@@ -18,42 +18,42 @@ elephant climb up and down 45 degree inclines with 3 people. We kept
 thinking it was going to go over ass over tea kettle…… and crush us
 comically into the deep mud.
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/ELE_RIDE.jpg"  alt="Off we go...">  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/ELE_RIDE.JPG"  alt="Off we go...">  
 Here we are heading out for a very uncomfortable 30 minutes
 
 They also had a show that showed how elephants were used in the Teak
 plantations that made Thailand famous (no more forestry, they are
 ecologically very protective in Thailand).
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/ELE_SIT.jpg" title="Sitting Elephant" >  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/ELE_SIT.JPG" title="Sitting Elephant" >  
 An elephant just sitting
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/ELE_BATH.jpg"  alt="Elephants Bathing">  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/ELE_BATH.JPG"  alt="Elephants Bathing">  
 Part of the show, the elephants take a bath
 
 Then we went to a hydroponic Orchid Farm that was cool it also had
 butterflies and moths.
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/MOTH.jpg"  alt="Giant Moth">  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/MOTH.JPG"  alt="Giant Moth">  
 A huge moth from the orchid farm
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/ORCHID.jpg" title="Orchid" >  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/ORCHID.JPG" title="Orchid" >  
 A lovely flower
 
 Then a Wat with 2,000 stairs up a mountain. It was amazing, the Wat was
 so nice and the views of Chaing Mai below and the mountains was
 wonderful.
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/WAT_STEPS_CM.jpg" title="Steps up to the Wat" >  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/WAT_STEPS_CM.JPG" title="Steps up to the Wat" >  
 The start of 2,000 steps with the snake dragon banister
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/WAT_HILL_CM.jpg" title="Golden Chedi" >  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/WAT_HILL_CM.JPG" title="Golden Chedi" >  
 The golden Chedi at the top of the hill
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/PETER_CM.jpg" title="Me by the Chedi" >  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/PETER_CM.JPG" title="Me by the Chedi" >  
 Me in the lovely borrowed trousers
 
-<img src="https://media.transitionelement.com/assets/images/travel/thailand/ANG_CM.jpg" title="Angela with Chaing Mai below" >  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/ANG_CM.JPG" title="Angela with Chaing Mai below" >  
 Angela with Chaing Mai below
 
 We then got dropped off in town and ate lunch at a wonderful place that
