@@ -17,7 +17,7 @@ This morning we drove to both places, they are only about 300 meters apart, and 
 
 |                                                                                                                                           |                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="/assets/images/5192599114_8280e8d2bf_m.jpg" width="240" height="180" class="photo" alt="Selection from Hansel &amp; Pretzel" /> | <img src="/assets/images/5192605096_810dae8840_m.jpg" width="240" height="180" class="photo" alt="Selection from _Back Haus_e" /> |
+| <img src="https://media.transitionelement.com/assets/images/5192599114_8280e8d2bf_m.jpg" alt="Selection from Hansel &amp; Pretzel" /> | <img src="https://media.transitionelement.com/assets/images/5192605096_810dae8840_m.jpg" alt="Selection from _Back Haus_e" /> |
 | Hansel & Pretzel                                                                                                                          | Back Haus                                                                                                                         |
 
 Well, _Hansel & Pretzel_ really wins hands down. I will say, _Back Haus_ was having an _off day_ overall, everything was a little less than perfect, but they do have those days.
@@ -32,8 +32,8 @@ _The overall winner:_ **Back Haus**
 
 |                                                                                                        |                                                                                                       |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| <img src="/assets/images/5192012507_ef378b5960_m.jpg" width="200" class="photo" alt="Ryan's vote" />   | <img src="/assets/images/5192016313_d4dc09d034_m.jpg" width="200" class="photo" alt="Owen's vote" />  |
-| <img src="/assets/images/5192641244_fac6bca0b5_m.jpg" width="200" class="photo" alt="Angela's Vote" /> | <img src="/assets/images/5192048247_94911950f0_m.jpg" width="200" class="photo" alt="Peter's vote" /> |
+| <img src="https://media.transitionelement.com/assets/images/5192012507_ef378b5960_m.jpg"  alt="Ryan's vote" />   | <img src="https://media.transitionelement.com/assets/images/5192016313_d4dc09d034_m.jpg"  alt="Owen's vote" />  |
+| <img src="https://media.transitionelement.com/assets/images/5192641244_fac6bca0b5_m.jpg"  alt="Angela's Vote" /> | <img src="https://media.transitionelement.com/assets/images/5192048247_94911950f0_m.jpg"  alt="Peter's vote" /> |
 
 Even on an off day, the _Back Haus_ won 3 votes to 1.
 

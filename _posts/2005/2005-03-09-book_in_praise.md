@@ -8,7 +8,7 @@ category: culture
 date: 2005-03-09 16:50:33
 ---
 
-\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/006054578X/qid=1110381819/sr=8-1/ref=pd_csp_1/102-0954856-9373727?v=glance&s=books&n=507846" target="_blank">US</a> | <a href="/assets/images/026-9397782-1298062" target="_blank">UK</a>\]
+\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/006054578X/qid=1110381819/sr=8-1/ref=pd_csp_1/102-0954856-9373727?v=glance&s=books&n=507846" target="_blank">US</a> | <a href="https://media.transitionelement.com/assets/images/026-9397782-1298062" target="_blank">UK</a>\]
 
 **In Praise of Slow**
 

@@ -7,7 +7,7 @@ category: on technology
 date: 2011-06-22 18:46:02
 ---
 
-<a href="/assets/images/Google-Chrome-icon.png"><img alt="Google-Chrome-icon.png" src="/assets/images/Google-Chrome-icon-thumb.png" width="150" height="150" class="span-4 right" /></a>
+<a href="https://media.transitionelement.com/assets/images/Google-Chrome-icon.png"><img alt="Google-Chrome-icon.png" src="https://media.transitionelement.com/assets/images/Google-Chrome-icon-thumb.png" class="span-4 right" /></a>
 
 I love [Google Chrome](http://www.google.com/chrome/intl/en-GB/more/features.html). It has just introduced a new super-fast page loading feature called [Prerendering](http://blog.chromium.org/2011/06/prerendering-in-chrome.html) that tries to guess what you are looking for and gets it in the background. It is really fast. However, if you type a bit slow, it does have a tendency to just try and get whatever bit of the url you have typed.
 

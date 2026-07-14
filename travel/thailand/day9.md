@@ -17,22 +17,22 @@ air, they saw some lines in the jungle that suggested walls. The whole
 place is a mass of temples, but was really the heart of a palace and a
 city. Really worth the trip.
 
-<img src="/assets/images/travel/thailand/SUK_B1.jpg" width="500" alt="Sukothai Ruins">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B1.jpg"  alt="Sukothai Ruins">
 
-<img src="/assets/images/travel/thailand/SUK_ELE.jpg" title="Sukothai Ruins" width="500">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_ELE.jpg" title="Sukothai Ruins" >
 
-<img src="/assets/images/travel/thailand/SUK_B2.jpg" title="Sukothai Ruins" width="500">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B2.jpg" title="Sukothai Ruins" >
 
-<img src="/assets/images/travel/thailand/SUK_B3.jpg" title="Sukothai Ruins" width="500">  
-<img src="/assets/images/travel/thailand/SUK_B4A.jpg" title="Sukothai Ruins" width="500">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B3.jpg" title="Sukothai Ruins" >  
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B4A.jpg" title="Sukothai Ruins" >
 
-<img src="/assets/images/travel/thailand/SUK_B4.jpg" title="Sukothai Ruins" width="500">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B4.jpg" title="Sukothai Ruins" >
 
-<img src="/assets/images/travel/thailand/SUK_KHMER.jpg" title="Sukothai Ruins" width="500">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_KHMER.jpg" title="Sukothai Ruins" >
 
-<img src="/assets/images/travel/thailand/SUK_K2.jpg" title="Sukothai Ruins" width="500">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_K2.jpg" title="Sukothai Ruins" >
 
-<img src="/assets/images/travel/thailand/SUK_B5.jpg" width="500" alt="Sukothai Ruins" width="500">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/SUK_B5.jpg"  alt="Sukothai Ruins" >
 
 We met a wonderful English couple that we spent a lot of time with just
 wandering around. They told us all about the south, and Koh Samui.

@@ -14,4 +14,4 @@ Learning from previous experience, we got the boys 'kids' audio guides which gav
 
 If you have a chance to see this, make the effort. Its worth it.
 
-<a href="/assets/images/threeemperors.jpg"><img src="/assets/images/threeemperors-thumb.jpg" width="150" height="249" alt="emperor" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/threeemperors.jpg"><img src="https://media.transitionelement.com/assets/images/threeemperors-thumb.jpg" alt="emperor" /></a>

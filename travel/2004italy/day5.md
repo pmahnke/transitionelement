@@ -15,7 +15,7 @@ looked pretty grim. Not poor, just concreate.
 Little did I know, that much of the south is like this, specially around
 Naples.
 
-<a href="/assets/images/travel/2004italy/map_rome_sorrento.gif"><img src="/assets/images/travel/2004italy/map_rome_sorrento.gif" width="500"  alt="Map - Rome to Sorrento" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/map_rome_sorrento.gif"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/map_rome_sorrento.gif"   alt="Map - Rome to Sorrento" /></a>
 
 The drive wasn’t really too painful, driving is really very easy and
 well enough marked (just keep going straight until you are told
@@ -27,7 +27,7 @@ made me want to turn back. Its grim and not well looked after. However,
 by the time we made it to Sorrento, things were looking up. The towns
 were towns, not urban Naples sprawl.
 
-<a href="/assets/images/travel/2004italy/Sorrento-LemonGrove.jpg" title="See larger version of - View from House - Lemon Grove"><img src="/assets/images/travel/2004italy/Sorrento-LemonGrove.jpg" width="500" alt="View from House - Lemon Grove" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/Sorrento-LemonGrove.jpg" title="See larger version of - View from House - Lemon Grove"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/Sorrento-LemonGrove.jpg"  alt="View from House - Lemon Grove" /></a>
 
 The rental people were very nice and even drove us to the house we
 rented. It was a two bedroom flat in a large home with a pool and
@@ -35,7 +35,7 @@ surrounded by a lovely commercial lemon grove. However, I don’t think
 they were picking the current crop of lemons as they were perfect and
 still on the trees.
 
-<a href="/assets/images/travel/2004italy/sorrento_street.jpg"><img src="/assets/images/travel/2004italy/sorrento_street.jpg" width="500"  alt="Sorrento's Pedistrian Street at Night" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/sorrento_street.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/sorrento_street.jpg"   alt="Sorrento's Pedistrian Street at Night" /></a>
 
 The boys wanted to swim so badly that we let them try. The water was
 about 50F. We ended up just splashing a little and running around… which

@@ -8,7 +8,7 @@ category: culture
 date: 2004-09-07 10:14:14
 ---
 
-\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0380727501/ref=pd_sim_books_4/002-2086719-4992017?v=glance&s=books" target="_blank">US</a> | <a href="/assets/images/202-1507132-2035829" target="_blank">UK</a>\]
+\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0380727501/ref=pd_sim_books_4/002-2086719-4992017?v=glance&s=books" target="_blank">US</a> | <a href="https://media.transitionelement.com/assets/images/202-1507132-2035829" target="_blank">UK</a>\]
 
 **Notes from a Small Island**
 

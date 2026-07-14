@@ -11,7 +11,7 @@ Sukothai to Koh Samui \~ Day 10
 
 *HOT HOT HOT 99F 100% HUMIDITY*
 
-<img src="/assets/images/travel/thailand/KOH_NUDE.jpg" width="500" alt="Couple on the Beach" >
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/KOH_NUDE.jpg"  alt="Couple on the Beach" >
 
 We flew all day to Koh Samui an island way in the South. Got a really
 nice beach and bungalow.

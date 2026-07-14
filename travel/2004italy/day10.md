@@ -9,7 +9,7 @@ Today was Easter Sunday.
 Unbelievably, the Easter Bunny remembered we were on holiday and brought
 along candy to hide for the boys! What a time they had.
 
-<a href="/assets/images/travel/2004italy/P1010092.JPG" title="See larger version of - Easter Baskets"><img src="/assets/images/travel/2004italy/P1010092.JPG" width="500" alt="Easter Baskets" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/P1010092.JPG" title="See larger version of - Easter Baskets"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/P1010092.JPG"  alt="Easter Baskets" /></a>
 
 The first day we spent exploring itself. We were staying just below the
 town, which is on the top of a huge cliff and had to take the funicular
@@ -20,7 +20,7 @@ It is really very long, with a single main street, but several sections
 that wander off. Everything was jammed with people. The grocery store
 was all the way at the other end of town, so a good reason to explore.
 
-<a href="/assets/images/travel/2004italy/taormina_street.jpg" title="See larger version of - Taormina main street"><img src="/assets/images/travel/2004italy/taormina_street.jpg" width="500" alt="Taormina main street" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/taormina_street.jpg" title="See larger version of - Taormina main street"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/taormina_street.jpg"  alt="Taormina main street" /></a>
 
 Locals loved the boys and kept stopping to play. We found a place with
 wonderful cannolis and bread and other cookies. Quite a few stores to
@@ -39,7 +39,7 @@ that he was abandoned or just to say ‘hello’. Owen hated the attention
 and both times started crying, adding to the panic. We had to swoop in
 and save the day.
 
-<a href="/assets/images/travel/2004italy/taormina_greek_view2.jpg" title="See larger version of - View from Teatro Greco"><img src="/assets/images/travel/2004italy/taormina_greek_view2.jpg" width="500" alt="View from Teatro Greco" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/taormina_greek_view2.jpg" title="See larger version of - View from Teatro Greco"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/taormina_greek_view2.jpg"  alt="View from Teatro Greco" /></a>
 
 After the Theater we went food shopping and then to one of the two
 beaches with the boys. It was a lovely closed harbor that had a few
@@ -54,7 +54,7 @@ The water was cold, but we played in it a little. We mostly dug and
 climbed around on the rocks and rock pools at the cove’s edge. It was a
 lovely time.
 
-<a href="/assets/images/travel/2004italy/taromina_greek_family.jpg" title="See larger version of - Us in the Greek Theater with Mt Etna behind."><img src="/assets/images/travel/2004italy/taromina_greek_family.jpg" width="500" alt="Us in the Greek Theater with Mt Etna behind." class="photo left" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/taromina_greek_family.jpg" title="See larger version of - Us in the Greek Theater with Mt Etna behind."><img src="https://media.transitionelement.com/assets/images/travel/2004italy/taromina_greek_family.jpg"  alt="Us in the Greek Theater with Mt Etna behind."  /></a>
 
 In the evening, before dinner our neighbour, who spoke no English passed
 me a handful of herbs to cook with — mint, basil and parsley, all

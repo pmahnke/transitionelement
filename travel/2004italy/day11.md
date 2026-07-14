@@ -10,7 +10,7 @@ upstate New York near Syracuse — I had to go. Its all the way in the
 south-east corner of Sicily and so lovely and rundown. The streets were
 nearly empty, but still, real people lived there.
 
-<a href="/assets/images/travel/2004italy/siracusa_duomo_piazza.jpg" title="See larger version of - Siracusa's Piazza around the Duomo"><img src="/assets/images/travel/2004italy/siracusa_duomo_piazza.jpg" width="500" alt="Siracusa's Piazza around the Duomo" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/siracusa_duomo_piazza.jpg" title="See larger version of - Siracusa's Piazza around the Duomo"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/siracusa_duomo_piazza.jpg"  alt="Siracusa's Piazza around the Duomo" /></a>
 
 It took a little work to find out how to park legally, I finally had to
 go into a massage parlor to ask a lovely bartender to explain how the
@@ -29,7 +29,7 @@ suggested we share and negotiate together. Worked perfectly, we all
 piled on and got a great two hour trip around to see the city walls, the
 old port and the duomo.
 
-<a href="/assets/images/travel/2004italy/siracusa_duomo_statue.jpg" title="See larger version of - Statue on the Siracusa Duomo" ><img src="/assets/images/travel/2004italy/siracusa_duomo_statue.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/siracusa_duomo_statue.jpg" title="See larger version of - Statue on the Siracusa Duomo" ><img src="https://media.transitionelement.com/assets/images/travel/2004italy/siracusa_duomo_statue.jpg"  /></a>
 
 The church was fairly small, with massive columns, but really lovely and
 cool inside. The piazza was so sun-baked it was difficult to see. The
@@ -40,7 +40,7 @@ On the way out of the old town we found another market closing down,
 more like a car boot sale really. The kids loved all the junked radios
 and electronic stuff.
 
-<a href="/assets/images/travel/2004italy/Siracusa_Duomo.jpg" title="See larger version of - Siracusa Duomo"><img src="/assets/images/travel/2004italy/Siracusa_Duomo.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/Siracusa_Duomo.jpg" title="See larger version of - Siracusa Duomo"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/Siracusa_Duomo.jpg"  /></a>
 
 Then we found a nice park in the new city with a cafe selling gelato and
 drinks. It was the first playground in a week and the boys had a ball.

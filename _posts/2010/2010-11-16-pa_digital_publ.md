@@ -49,9 +49,9 @@ Now there is an explosion of library users with modern e-book devices. The entir
 
 </p>
 <p>
-<img alt="wikipedia.png" src="/assets/images/wikipedia.png" width="844" height="416" style="margin-left: -200px;"  alt="from wikipedia"/>
+<img alt="wikipedia.png" src="https://media.transitionelement.com/assets/images/wikipedia.png" style="margin-left: -200px;"  alt="from wikipedia"/>
 <br />
-<em><a href="/assets/images/Comparison_of_e-book_readers">wikipedia's page on e-readers</a></em>
+<em><a href="https://media.transitionelement.com/assets/images/Comparison_of_e-book_readers">wikipedia's page on e-readers</a></em>
 
 </p>
 <p>
@@ -220,7 +220,7 @@ system allows for inter-library loans (<em>PRM my GOD how messed up is that!</em
 
 </li>
 </ul>
-<!--p><img src="/assets/images/1157.jpg"  alt="" /></p-->
+<!--p><img src="https://media.transitionelement.com/assets/images/1157.jpg"  alt="" /></p-->
 <h3>
 Mark Majurey, Digital Development Director, Taylor & Francis
 
@@ -244,7 +244,7 @@ all consumer models are highly dangerous if you make them simple.
 </li>
 </ul>
 <p>
-<img src="/assets/images/the_brads_drm-548x1024.png"  style="margin-left: -100px;" alt="" />
+<img src="https://media.transitionelement.com/assets/images/the_brads_drm-548x1024.png"  style="margin-left: -100px;" alt="" />
 
 </p>
 <h3>
@@ -300,7 +300,7 @@ My recommendation
 
 </h4>
 <p>
-Libraries should create a e-book rental model like <a href="/assets/images/">www.lovefilm.com</a> where users can download up to X e-books, they must return them before getting a new one. They will <em>charge</em> their readers £4 a month with concessions.
+Libraries should create a e-book rental model like <a href="https://media.transitionelement.com/assets/images/">www.lovefilm.com</a> where users can download up to X e-books, they must return them before getting a new one. They will <em>charge</em> their readers £4 a month with concessions.
 
 </p>
 <ul>

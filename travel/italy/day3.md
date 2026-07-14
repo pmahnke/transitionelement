@@ -21,7 +21,7 @@ Then we wandered over to the Rialto Bridge. We walked over to the San
 Polo side and rambled back toward our hotel on Dorsoduro Island. On the
 way we stopped for lunch in St Tomasso Square.
 
-<a href="/assets/images/travel/italy/venice_grand_canal.jpg"><img src="/assets/images/travel/italy/venice_grand_canal.jpg" width="500"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/italy/venice_grand_canal.jpg"><img src="https://media.transitionelement.com/assets/images/travel/italy/venice_grand_canal.jpg" ></a>
 
 We had toasts. Owen devoured a hot dog toast and generally shook all the
 plant holders and chairs in the place. He loved running around the

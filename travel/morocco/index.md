@@ -16,7 +16,7 @@ Day 1 - London to ~~Fez~~ Casablanca
 When we arrived at Heathrow the plane so delayed that they wouldn’t even
 check us in — might not even be a flight at all.
 
-<a href="/assets/images/travel/morocco/0_mosaic.jpg"><img src="/assets/images/travel/morocco/0_mosaic.jpg" width="500"  alt="Mosaic Floor" class="photo" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/morocco/0_mosaic.jpg"><img src="https://media.transitionelement.com/assets/images/travel/morocco/0_mosaic.jpg"   alt="Mosaic Floor" /></a>
 
 Two hours later we learned there was a problem with the aircraft and a
 different plane was coming, but four hours late — **at 10pm** — with no

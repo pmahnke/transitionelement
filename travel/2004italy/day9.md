@@ -10,7 +10,7 @@ We were passed by about 100 cars going well over 100 mph, but who cares.
 
 The boys did well. we only stopped twice on the trip, for lunch and gas.
 
-<a href="/assets/images/travel/2004italy/Isola_Bella.jpg" title="See larger version of - Taormina's Isola Bella"><img src="/assets/images/travel/2004italy/Isola_Bella.jpg" width="500" alt="Taormina's Isola Bella" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/Isola_Bella.jpg" title="See larger version of - Taormina's Isola Bella"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/Isola_Bella.jpg"  alt="Taormina's Isola Bella" /></a>
 
 On the ferry Owen and I had some local rice and meat ball (which I now know is arancini) and met a cook who used to work in New York. He told us to be careful in Sicily, but only in Palermo, everyplace else was fine. Well, we only had to drive into Palermo to get a ferry to Naples, so it wasn’t a real worry.
 

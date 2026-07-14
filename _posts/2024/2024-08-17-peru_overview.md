@@ -19,7 +19,7 @@ Angela and I have wanted to go to Peru for ages; now that we are retired, we put
 
 For the rest of the trip, we would either manage on our own or buy one-day guided tours for various sites, like the Scared Valley near Cusco.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1QV_wKfjo3UIt9o1kITKXVGeHfLXP104&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1QV_wKfjo3UIt9o1kITKXVGeHfLXP104&ehbc=2E312F"  ></iframe>
 
 ### Money
 Most places accept credit cards (Master Card and Visa, less American Express). Cash is pretty common as well and easy to get at ATMs. We found a national bank that always worked for us and just kept going there. Withdrawing cash felt very safe. Often, there were guards, and even if there wasn't a guard, it still felt fine.

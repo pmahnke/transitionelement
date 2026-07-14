@@ -19,7 +19,7 @@ We got off to a slow start this year. We dug and covered and dug and covered and
 
 However, all this might be fine, we just haven't been doing this long enough to know. Because we still have:
 
-<a href="/assets/images/lettuce.jpg"><img src="/assets/images/lettuce-thumb.jpg" width="150" height="150" alt="lettuce" class="right" /></a>
+<a href="https://media.transitionelement.com/assets/images/lettuce.jpg"><img src="https://media.transitionelement.com/assets/images/lettuce-thumb.jpg" alt="lettuce"  /></a>
 
 - An amazing raspberry crop
 - Huge promise with blackberries

@@ -12,13 +12,13 @@ I love lifestyle and business photography. Most of us don't even realize what we
 
 This image...
 
-<a href="/assets/images/getty_women_on_phone_image.jpg"><img src="/assets/images/getty_women_on_phone_image-thumb.jpg" width="200" height="274" alt="ray lifestyle image" border="0" /></a>
+<a href="https://media.transitionelement.com/assets/images/getty_women_on_phone_image.jpg"><img src="https://media.transitionelement.com/assets/images/getty_women_on_phone_image-thumb.jpg" alt="ray lifestyle image"  /></a>
 
 was selected by the lead designer on one of the websites I work with professionally.
 
 and he turned it into...
 
-<a href="/assets/images/20040714_fp_homepage.jpg"><img src="/assets/images/20040714_fp_homepage-thumb.jpg" width="100" height="68" border="0" alt="resulting lifestyle image"  class="img_plain"/></a>
+<a href="https://media.transitionelement.com/assets/images/20040714_fp_homepage.jpg"><img src="https://media.transitionelement.com/assets/images/20040714_fp_homepage-thumb.jpg"    alt="resulting lifestyle image"  /></a>
 
 this... for an article on *outsourcing*.
 
@@ -26,6 +26,6 @@ I *love* it... nothing says "outsourcing" to me than two attractive women in the
 
 Actually I recommended this image, but it was rejected...
 
-<a href="/assets/images/sweatshop_mumbai.jpg"><img src="/assets/images/sweatshop_mumbai-thumb.jpeg" width="100" height="65" alt="sweat shop image" border="0" /></a>
+<a href="https://media.transitionelement.com/assets/images/sweatshop_mumbai.jpg"><img src="https://media.transitionelement.com/assets/images/sweatshop_mumbai-thumb.jpeg"   alt="sweat shop image"  /></a>
 
 Now, I think that **screams** outsourcing!

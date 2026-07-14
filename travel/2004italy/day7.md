@@ -18,20 +18,20 @@ play on the beach for a good hour before exploring the town.
 <tr>
 <td>
 
-<a href="/assets/images/travel/2004italy/amalfi_family.jpg">
-<img src="/assets/images/travel/2004italy/amalfi_family.jpg" alt="Family in Amalfi" width="200" class="right" style="float:right"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_family.jpg">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_family.jpg" alt="Family in Amalfi"  ></a>
 
 </td>
 <td>
 
-<a href="/assets/images/travel/2004italy/amalfi_beach_owen1.jpg">
-<img src="/assets/images/travel/2004italy/amalfi_beach_owen1.jpg" alt="Boys on Beach in Amalfi" width="200" class="right" style="float:right"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_beach_owen1.jpg">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_beach_owen1.jpg" alt="Boys on Beach in Amalfi"  ></a>
 
 </td>
 <td>
 
-<a href="/assets/images/travel/2004italy/amalfi_beach_angela.jpg">
-<img src="/assets/images/travel/2004italy/amalfi_beach_angela.jpg" alt="Angela on Beach in Amalfi" width="200" class="right" style="float:right"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_beach_angela.jpg">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_beach_angela.jpg" alt="Angela on Beach in Amalfi"  ></a>
 
 </td>
 </tr>
@@ -49,20 +49,20 @@ The mail church is amazingly ornate, yet still light and airy.
 <tr>
 <td>
 
-<a href="/assets/images/travel/2004italy/amalfi_duomo.jpg">
-<img src="/assets/images/travel/2004italy/amalfi_duomo.jpg" alt="Amalfi Duomo"  width="150" class="right" style="float:right"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_duomo.jpg">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_duomo.jpg" alt="Amalfi Duomo"   ></a>
 
 </td>
 <td>
 
-<a href="/assets/images/travel/2004italy/amalfi_duomo_inside.jpg">
-<img src="/assets/images/travel/2004italy/amalfi_duomo_inside.jpg" alt="Amalfi Duomo -- Inside" width="200" class="right" style="float:right"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_duomo_inside.jpg">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_duomo_inside.jpg" alt="Amalfi Duomo -- Inside"  ></a>
 
 </td>
 <td>
 
-<a href="/assets/images/travel/2004italy/amalfi_duomo_mosaic1.jpg">
-<img src="/assets/images/travel/2004italy/amalfi_duomo_mosaic1.jpg" alt="Amalfi Duomo Fresco" width="150" class="right" style="float:right"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_duomo_mosaic1.jpg">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/amalfi_duomo_mosaic1.jpg" alt="Amalfi Duomo Fresco"  ></a>
 
 </td>
 </tr>
@@ -75,7 +75,7 @@ sunglasses. They loved them (basically, all the hats were too big) and
 wore them non-stop for the rest of the trip, or until Owen lost his in
 Sicily at Isola Bella. This picture is my favorite of the whole trip.
 
-<a href="/assets/images/travel/2004italy/cool_dudes.jpg"><img src="/assets/images/travel/2004italy/cool_dudes.jpg" width="500"  alt="Cool Dudes" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/cool_dudes.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/cool_dudes.jpg"   alt="Cool Dudes" /></a>
 
 After lunch, we took a quick walk through town and then took a bus to
 the truly vertical town of Positano. Again we wandered down to the beach
@@ -87,7 +87,7 @@ however, I walked over to make sure they did an early dinner — sadly,
 they didn’t. We basically ran back up the hill to get on a VERY FULL bus
 home, where I had both boys on my lap and Angela had to stand.
 
-<a href="/assets/images/travel/2004italy/positano2.jpg"><img src="/assets/images/travel/2004italy/positano2.jpg" width="500" alt="Positano" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/positano2.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/positano2.jpg"  alt="Positano" /></a>
 
 What a nice day out, what lovely views and towns.
 

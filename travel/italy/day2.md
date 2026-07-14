@@ -15,7 +15,7 @@ After breakfast on the terrace we got a taxi to the Hertz rental car
 place. After an hour figuring out the car seat, we were off to Bergamo,
 1 1/2 hours away.
 
-<a href="/assets/images/travel/italy/bergamo_church.jpg"><img src="/assets/images/travel/italy/bergamo_church.jpg" width="500" alt="Bergamo Church" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/italy/bergamo_church.jpg"><img src="https://media.transitionelement.com/assets/images/travel/italy/bergamo_church.jpg"  alt="Bergamo Church" /></a>
 
 Bergamo is an old fortified hill town. It was really small, but lovely.
 We had pizza in a park and walked through the town’s streets, stores and

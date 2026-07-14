@@ -20,7 +20,7 @@ and took a tour of 3 of the 5 synagogues there. Its a pretty poor tour
 and Owen was in no mood to be infoors, so we took turns staying outside
 with him playing in the public water fountain.
 
-<a href="/assets/images/travel/italy/venice_side_canal.jpg" title="Venice Side Canal"><img src="/assets/images/travel/italy/venice_side_canal.jpg" width="500" alt="Venice Side Canal"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/italy/venice_side_canal.jpg" title="Venice Side Canal"><img src="https://media.transitionelement.com/assets/images/travel/italy/venice_side_canal.jpg"  alt="Venice Side Canal"></a>
 
 Throughout the trip, Owen would take half hour breaks and play in these
 fountains that you find in nearly every square in the city. Its very

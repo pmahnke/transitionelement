@@ -50,4 +50,4 @@ So this might seem like a lot of complaining, but here are the things I would te
 
 If you want to ask me more about my experience, please drop a comment below.
 
-<a href="/assets/images/2021/Closing-down-the-St-Margarets-Community-Website.jpg" title="Click for a larger image"></a>
+<a href="https://media.transitionelement.com/assets/images/2021/Closing-down-the-St-Margarets-Community-Website.jpg" title="Click for a larger image"></a>

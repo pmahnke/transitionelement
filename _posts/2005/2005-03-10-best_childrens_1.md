@@ -17,7 +17,7 @@ _Note: at the time I am writing this, my boys are three and five._
 
 ### Jez Alborough
 
-<img src="/assets/images/BOOK_jez-myfriendbear.jpg" width="300" alt="My Friend Bear" />
+<img src="https://media.transitionelement.com/assets/images/BOOK_jez-myfriendbear.jpg"  alt="My Friend Bear" />
 
 Jez is a wonderful illustrator. His writing is pretty fun and clever too. I highly recommend him.
 
@@ -28,7 +28,7 @@ Jez is a wonderful illustrator. His writing is pretty fun and clever too. I high
 
 ### Julia Donaldson & Axel Scheffler
 
-<img src="/assets/images/BOOK-room-on-the-broom.jpg" width="300" alt="Room on the Broom" />
+<img src="https://media.transitionelement.com/assets/images/BOOK-room-on-the-broom.jpg"  alt="Room on the Broom" />
 
 These are all great. I don't even mind reading them again and again. We have even seen a the Gruffalo as a play.
 
@@ -43,7 +43,7 @@ These are all great. I don't even mind reading them again and again. We have eve
 
 ### Nick Butterworth
 
-<img src="/assets/images/BOOK-stories-jesus-told.jpg" width="300" alt="Stories Jesus Told" />
+<img src="https://media.transitionelement.com/assets/images/BOOK-stories-jesus-told.jpg"  alt="Stories Jesus Told" />
 
 Nick's stories are really fun to read and occasionally interactive (i.e. you have to find the gold coins, or there is a maze). The Percy books are in a wonderful make believe world of humans and talking animals.
 
@@ -56,7 +56,7 @@ Nick's stories are really fun to read and occasionally interactive (i.e. you hav
 
 ### Mick Inkpen
 
-<img src="/assets/images/BOOK-kippers-rainy-day.jpg" width="300" alt="Kipper" />
+<img src="https://media.transitionelement.com/assets/images/BOOK-kippers-rainy-day.jpg"  alt="Kipper" />
 
 The boys love all the Kipper books. They have tons of them for all ages, so choose carefully. I am just giving one pointer, you can browse for the rest.
 
@@ -64,7 +64,7 @@ The boys love all the Kipper books. They have tons of them for all ages, so choo
 
 ### Dr. Suess
 
-<img src="/assets/images/BOOK-cat-in-the-hat.jpg" width="300" alt="The Cat in the Hat"  />
+<img src="https://media.transitionelement.com/assets/images/BOOK-cat-in-the-hat.jpg"  alt="The Cat in the Hat"  />
 
 You can not go wrong with Dr. Suess, our favourites are:
 
@@ -85,7 +85,7 @@ _For Younger Kids_
 
 ### Roald Dahl
 
-<img src="/assets/images/BOOK-enourmous-crocodile.jpg" width="300" alt="The Enormous Crocodile" />
+<img src="https://media.transitionelement.com/assets/images/BOOK-enourmous-crocodile.jpg"  alt="The Enormous Crocodile" />
 
 He is for older kids in general... but always entertaining.
 
@@ -97,7 +97,7 @@ I only picked my top three... and _always get the Quentin Blank illustrated vers
 
 ### Arnold Lobel
 
-<img src="/assets/images/BOOK-owl-at-home.jpg" width="300" alt="Owl at Home" />
+<img src="https://media.transitionelement.com/assets/images/BOOK-owl-at-home.jpg"  alt="Owl at Home" />
 
 These are some of the best stories ever. I seriously choke up reading some of them.
 
@@ -108,7 +108,7 @@ These are some of the best stories ever. I seriously choke up reading some of th
 
 ### Shel Silverstein
 
-<img src="/assets/images/BOOK-where-the-sidewalk-ends.jpg" width="300" alt="Where the Sidewalk Ends" />
+<img src="https://media.transitionelement.com/assets/images/BOOK-where-the-sidewalk-ends.jpg"  alt="Where the Sidewalk Ends" />
 
 These books of poems were my personal favorites in the 3rd grade. I am very glad that my boys love them.
 
@@ -118,7 +118,7 @@ These books of poems were my personal favorites in the 3rd grade. I am very glad
 
 ### Richard Scary
 
-<img src="/assets/images/BOOK-best-mistake-ever.jpg" width="300" alt="The Best Mistake Ever! and Other Stories" />
+<img src="https://media.transitionelement.com/assets/images/BOOK-best-mistake-ever.jpg"  alt="The Best Mistake Ever! and Other Stories" />
 
 Angela and I feel the same here. Huckle Cat ( _see 'The Best Mistake Ever!'_ ) is great... all other books are **painful**. But the kids love them... just wait until they are old enough to do it themselves. If you have to ... just look for goldbug... makes it a little better.
 
@@ -128,18 +128,18 @@ Angela and I feel the same here. Huckle Cat ( _see 'The Best Mistake Ever!'_ ) i
 
 ### OTHER GOOD ONES
 
-- <img src="/assets/images/BOOK-something-else.jpg" width="120" class="inline-image" alt="Something Else" /> [Something Else](http://www.amazon.co.uk/exec/obidos/ASIN/0140549072/qid=1110469565/sr=1-1/ref=sr_1_10_1/202-0714290-5554216) by Kathryn Cave
+- <img src="https://media.transitionelement.com/assets/images/BOOK-something-else.jpg"   alt="Something Else" /> [Something Else](http://www.amazon.co.uk/exec/obidos/ASIN/0140549072/qid=1110469565/sr=1-1/ref=sr_1_10_1/202-0714290-5554216) by Kathryn Cave
   We even saw a play of this. A good story with a great message.
-- <img src="/assets/images/BOOK-pig-a-pancake.jpg" width="120" class="inline-image" alt="If You Give a Pig a Pancake" /> [If You Give a Pig a Pancake](http://www.amazon.co.uk/exec/obidos/ASIN/0060266864/qid=1110469735/sr=1-1/ref=sr_1_10_1/202-0714290-5554216) by Laura Joffe Numeroff
+- <img src="https://media.transitionelement.com/assets/images/BOOK-pig-a-pancake.jpg"   alt="If You Give a Pig a Pancake" /> [If You Give a Pig a Pancake](http://www.amazon.co.uk/exec/obidos/ASIN/0060266864/qid=1110469735/sr=1-1/ref=sr_1_10_1/202-0714290-5554216) by Laura Joffe Numeroff
   A perfect circle and very cute and fun.
-- <img src="/assets/images/BOOK-bill-goats-gruff.jpg" width="120" class="inline-image" alt="The Three Billy Goats Gruff" /> [The Three Billy Goats Gruff](http://www.amazon.com/exec/obidos/tg/detail/-/0899190359/qid=1110472280/sr=8-4/ref=sr_8_xs_ap_i4_xgl14/103-7362928-1760618?v=glance&s=books&n=507846) by Paul Galdone
+- <img src="https://media.transitionelement.com/assets/images/BOOK-bill-goats-gruff.jpg"   alt="The Three Billy Goats Gruff" /> [The Three Billy Goats Gruff](http://www.amazon.com/exec/obidos/tg/detail/-/0899190359/qid=1110472280/sr=8-4/ref=sr_8_xs_ap_i4_xgl14/103-7362928-1760618?v=glance&s=books&n=507846) by Paul Galdone
   I think this is the best version of all.
-- <img src="/assets/images/BOOK-mr-happy.jpg" width="120" class="inline-image" alt="Mr Happy" /> [Mr Men Books](http://www.amazon.com/exec/obidos/search-handle-url/index=books&field-author=Roger%20Hargreaves/103-7362928-1760618) by Roger Hargreaves
+- <img src="https://media.transitionelement.com/assets/images/BOOK-mr-happy.jpg"   alt="Mr Happy" /> [Mr Men Books](http://www.amazon.com/exec/obidos/search-handle-url/index=books&field-author=Roger%20Hargreaves/103-7362928-1760618) by Roger Hargreaves
   We own the entire box set. They are cute and quick reads, each teaching about something good.
-- <img src="/assets/images/BOOK-is-your-mama-a-llama.jpg" width="120" class="inline-image" alt="Is Your Mama A Llama?" /> [Is Your Mama A Llama?](http://www.amazon.com/exec/obidos/ASIN/0590259385/qid=1110476478/sr=2-1/ref=pd_bbs_b_2_1/102-7328101-8570529) by Deborah Guarino
+- <img src="https://media.transitionelement.com/assets/images/BOOK-is-your-mama-a-llama.jpg"   alt="Is Your Mama A Llama?" /> [Is Your Mama A Llama?](http://www.amazon.com/exec/obidos/ASIN/0590259385/qid=1110476478/sr=2-1/ref=pd_bbs_b_2_1/102-7328101-8570529) by Deborah Guarino
   For younger kids a fun, rhyming story.
 
 ### Anthologies
 
-- <img src="/assets/images/BOOK-20th-century-childrens-treasury.jpg" width="120" class="inline-image" class="inline-image" alt="The 20th-Century Children's Book Treasury" /> [The 20th-Century Children's Book Treasury](http://www.amazon.com/exec/obidos/ASIN/0679886478/ref%3Dsib%5Frdr%5Fdp/103-7362928-1760618) I think this is the best purchase ever. It has all my old favourites and many new ones... for kids of all ages too.
-- <img src="/assets/images/BOOK-animals-bedtime-storybook.jpg" width="120" class="inline-image" alt="The Animals' Bedtime Storybook"> [The Animals' Bedtime Storybook](http://www.amazon.com/exec/obidos/tg/detail/-/1842550330/qid=1110472506/sr=1-1/ref=sr_1_1/103-7362928-1760618?v=glance&s=books) The boys love this one and we read it from end to end. Its loosely based on Noah's Ark, each night a different animal tells a different story. It isn't religous at all, but very fun.
+- <img src="https://media.transitionelement.com/assets/images/BOOK-20th-century-childrens-treasury.jpg"    alt="The 20th-Century Children's Book Treasury" /> [The 20th-Century Children's Book Treasury](http://www.amazon.com/exec/obidos/ASIN/0679886478/ref%3Dsib%5Frdr%5Fdp/103-7362928-1760618) I think this is the best purchase ever. It has all my old favourites and many new ones... for kids of all ages too.
+- <img src="https://media.transitionelement.com/assets/images/BOOK-animals-bedtime-storybook.jpg"   alt="The Animals' Bedtime Storybook"> [The Animals' Bedtime Storybook](http://www.amazon.com/exec/obidos/tg/detail/-/1842550330/qid=1110472506/sr=1-1/ref=sr_1_1/103-7362928-1760618?v=glance&s=books) The boys love this one and we read it from end to end. Its loosely based on Noah's Ark, each night a different animal tells a different story. It isn't religous at all, but very fun.

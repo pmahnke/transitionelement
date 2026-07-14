@@ -7,7 +7,7 @@ category: culture
 date: 2004-07-02 11:18:37
 ---
 
-<img alt="holland_park_logo.gif" src="/assets/images/holland_park_logo-thumb.gif" width="100" height="57" border="0" class="img_plain" />
+<img alt="holland_park_logo.gif" src="https://media.transitionelement.com/assets/images/holland_park_logo-thumb.gif"     />
 
 Last night we went to our first Holland Park Opera this year. For the last two years we have gone to 2-3 a year. They are outside, but under a tent roof (good as it rained a little last night). They have a nice bar and its really pretty.
 

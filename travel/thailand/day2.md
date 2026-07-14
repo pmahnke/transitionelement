@@ -19,28 +19,28 @@ Chedi and another across the river called Wat Po with a 150 foot
 reclining Buddha. Angela got a 1/2 traditional Thai massage, I got a new
 sexy Thai massage (just kidding).
 
-<a href="/assets/images/travel/thailand/wat_of_the_dawn1.gif 225w 150h (Wat Po at dawn"><img src="/assets/images/travel/thailand/wat_of_the_dawn1.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/wat_of_the_dawn1.gif 225w 150h (Wat Po at dawn"><img src="https://media.transitionelement.com/assets/images/travel/thailand/wat_of_the_dawn1.jpg" ></a>  
 Across the river there is this Wat of the Dawn.
 
-<a href="/assets/images/travel/thailand/wat_of_the_dawn2.jpg" title="Wat Po at dawn"><img src="/assets/images/travel/thailand/wat_of_the_dawn2.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/wat_of_the_dawn2.jpg" title="Wat Po at dawn"><img src="https://media.transitionelement.com/assets/images/travel/thailand/wat_of_the_dawn2.jpg" ></a>  
 Right now they are restoring it. It was originally built with pottery
 chards donated by the local residents.
 
-<a href="/assets/images/travel/thailand/buddhas_wat_po.jpg" title="buddhas at Wat Po"><img src="/assets/images/travel/thailand/buddhas_wat_po.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/buddhas_wat_po.jpg" title="buddhas at Wat Po"><img src="https://media.transitionelement.com/assets/images/travel/thailand/buddhas_wat_po.jpg" ></a>  
 One courtyard of 75 square yards at Wat Po was lined with Golden
 Buddhas.
 
-<a href="/assets/images/travel/thailand/buddha_wat_po.jpg" title="buddha at Wat Po"><img src="/assets/images/travel/thailand/buddha_wat_po.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/buddha_wat_po.jpg" title="buddha at Wat Po"><img src="https://media.transitionelement.com/assets/images/travel/thailand/buddha_wat_po.jpg" ></a>  
 This is one close up.
 
-<a href="/assets/images/travel/thailand/hermit_wat_po.jpg" title="Wat Po hermits"><img src="/assets/images/travel/thailand/hermit_wat_po.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/hermit_wat_po.jpg" title="Wat Po hermits"><img src="https://media.transitionelement.com/assets/images/travel/thailand/hermit_wat_po.jpg" ></a>  
 There was this neat rock formation with some flowering trees and these
 hermits praying in different positions.
 
-<a href="/assets/images/travel/thailand/recline_buddha_wat_po.gif" title="reclining buddha of Wat Po"><img src="/assets/images/travel/thailand/recline_buddha_wat_po.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/recline_buddha_wat_po.gif" title="reclining buddha of Wat Po"><img src="https://media.transitionelement.com/assets/images/travel/thailand/recline_buddha_wat_po.jpg" ></a>  
 There is a 150 foot long reclining Buddha that dominates Wat Po.
 
-<a href="/assets/images/travel/thailand/recline_buddha_wat_po2.jpg" title="head of reclining buddha"><img src="/assets/images/travel/thailand/recline_buddha_wat_po2.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/recline_buddha_wat_po2.jpg" title="head of reclining buddha"><img src="https://media.transitionelement.com/assets/images/travel/thailand/recline_buddha_wat_po2.jpg" ></a>  
 This is a shot of his head.
 
 That night we went to an awesome, expensive for Thailand ($19) dinner in

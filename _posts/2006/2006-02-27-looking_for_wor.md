@@ -18,4 +18,4 @@ If you are looking for a hard working, strategic, technical, web-savvy manager w
 CV/Resume in:
 
 - [html format](/peter/prm_cv_20060227.html)
-- <a href="/assets/images/petermahnke_cv_200602.pdf">PDF version</a>
+- <a href="https://media.transitionelement.com/assets/images/petermahnke_cv_200602.pdf">PDF version</a>

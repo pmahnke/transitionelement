@@ -11,14 +11,14 @@ as lovely as Taormina. The beach is really something, long, wide and
 sandy. Nearly perfect. The town is on a hill and ambling. There is a
 sea-front with lovely shops and restaurants backing into it.
 
-<a href="/assets/images/travel/2004italy/Sicily-Celafu.jpg" title="See larger version of - Celafu from the beach"><img src="/assets/images/travel/2004italy/Sicily-Celafu.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/Sicily-Celafu.jpg" title="See larger version of - Celafu from the beach"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/Sicily-Celafu.jpg"  /></a>
 
 We spent several hours just on the beach making giant sand octopi.
 However, the rains came and the wind whipped up, so we headed to one of
 the best meals we had on the whole trip. The kids were great, the food
 was wonderful.
 
-<a href="/assets/images/travel/2004italy/celafu_street.jpg" title="See larger version of - Street in Celafu"><img src="/assets/images/travel/2004italy/celafu_street.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/celafu_street.jpg" title="See larger version of - Street in Celafu"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/celafu_street.jpg"  /></a>
 
 After lunch we slowly got back in the car are drove off to Palermo. What
 a mess that city is. We had crazy traffic and massive road junctions

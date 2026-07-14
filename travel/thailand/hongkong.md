@@ -17,7 +17,7 @@ on the back side of the island and look a Sampan Harbor tour which was
 pretty cool, except the rain. There were even Japanese tuna buyer
 standing on shore in-case a ship caught a tuna.
 
-<a href="/assets/images/travel/thailand/im_pei_hong_kong.jpg" title="I.M. Pei Bank of China Building"><img src="/assets/images/travel/thailand/im_pei_hong_kong.jpg" width="500" alt="I.M. Pei Bank of China Building" ></a>
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/im_pei_hong_kong.jpg" title="I.M. Pei Bank of China Building"><img src="https://media.transitionelement.com/assets/images/travel/thailand/im_pei_hong_kong.jpg"  alt="I.M. Pei Bank of China Building" ></a>
 
 Another day in Hong Kong we walked up Nathan Road (the main shopping
 road) and saw a famous park (just okay) an amazing fresh flower market

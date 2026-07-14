@@ -11,7 +11,7 @@ excerpt: |
   About our trip to Japan in October 2015
 ---
 
-<iframe src="https://www.google.com/maps/d/embed?mid=128y6XIWEqxs5vM4EZHacmLCeSGE&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=128y6XIWEqxs5vM4EZHacmLCeSGE&ehbc=2E312F"  ></iframe>
 
 This was our first trip to Japan as a family. We decided to do a pretty conventional trip, visiting Tokyo and Kyoto. However, we did add a four day hike on the Kumano Kodō pilgrimage trail and a visit to the temples and graves in Koyasan. This ended up being a great mix of old and new Japan. Koyasan and the Kumano Kodō felt like visiting the past. Tokyo the modern Japan and Kyoto and Hiroshima, the complete mix of the two.
 

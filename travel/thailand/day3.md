@@ -19,7 +19,7 @@ Then we took an express boat way up the river and they took another boat
 to tour a river that people have built homes on stilts and literally use
 the river as transportation, cleaning, food, etc….
 
-<img src="/assets/images/travel/thailand/river_homes.jpg" width="500" alt="River Homes">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/river_homes.jpg"  alt="River Homes">
 
 These are some of the homes on stilts on the river.
 
@@ -28,7 +28,7 @@ than the real building so that spirits will want to haunt these homes,
 to the real houses. Most are lovely and mass produced, this is one we
 saw on the river that is hand made.
 
-<img src="/assets/images/travel/thailand/spirit_house.jpg" title="Spirit Home" width="500">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/spirit_house.jpg" title="Spirit Home" >
 
 This is apparently a very ancient way of living in Thailand, and it
 makes sense. They go to the bathroom in their back yard gardens, which

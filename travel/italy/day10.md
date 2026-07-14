@@ -17,7 +17,7 @@ Lira. He insisted that we pay the hourly rate, we argued and waited for
 the manager who agreed with us and charged us only 36.000 Lira like we
 thought.
 
-<a href="/assets/images/travel/italy/parma_bapistry.jpg" title="Prama Bapistry"><img src="/assets/images/travel/italy/parma_bapistry.jpg" width="500" alt="Prama Bapistry"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/italy/parma_bapistry.jpg" title="Prama Bapistry"><img src="https://media.transitionelement.com/assets/images/travel/italy/parma_bapistry.jpg"  alt="Prama Bapistry"></a>
 
 We then drove via the coast to Parma. Based on time, interest and Owen’s
 patience we decided to skip Pisa.
@@ -29,7 +29,7 @@ restaurant, Maxim. Lunch was great.
 Then we walked the town, which was simple and lovely; however, nothing
 was open as it was Sunday and in the middle of the August break.
 
-<a href="/assets/images/travel/italy/parma_closed.jpg" title="Italy Closed for August"><img src="/assets/images/travel/italy/parma_closed.jpg" width="500" alt="Italy Closed for August"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/italy/parma_closed.jpg" title="Italy Closed for August"><img src="https://media.transitionelement.com/assets/images/travel/italy/parma_closed.jpg"  alt="Italy Closed for August"></a>
 
 We ended up at the Ducal Garden, a big park and let Owen run around
 collecting ®’ocks and pushing the stroller. We left as we noticed a

@@ -23,7 +23,7 @@ a lovely old riad on the edge of the medina. We sat in the wonderful
 open courtyard, sipping mint tea while checking in and getting our rooms
 together.
 
-<a href="/assets/images/travel/morocco/RiadMaisonBlueRoom.jpg" title="See larger version of -  Riad Maison Blue Room"><img src="/assets/images/travel/morocco/RiadMaisonBlueRoom.jpg" width="500"  alt=" Riad Maison Blue Room" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/morocco/RiadMaisonBlueRoom.jpg" title="See larger version of -  Riad Maison Blue Room"><img src="https://media.transitionelement.com/assets/images/travel/morocco/RiadMaisonBlueRoom.jpg"   alt=" Riad Maison Blue Room" /></a>
 
 The riad, which only has a handful of rooms, has a concierge, who was a
 pleasant fellow who arrange for a guide for us and dinner that evening
@@ -39,7 +39,7 @@ was nice enough, spoke good English, but didn’t exactly burn our ears
 with information about the anything really. However, he did sit down and
 make sure that the time we had would be doing the things we wanted.
 
-<a href="/assets/images/travel/morocco/Fez_Blue_Gate.jpg" title="See larger version of - Fez' Blue Gate"><img src="/assets/images/travel/morocco/Fez_Blue_Gate.jpg" width="500"  alt="Fez' Blue Gate" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/morocco/Fez_Blue_Gate.jpg" title="See larger version of - Fez' Blue Gate"><img src="https://media.transitionelement.com/assets/images/travel/morocco/Fez_Blue_Gate.jpg"   alt="Fez' Blue Gate" /></a>
 
 For the afternoon, as it was pretty quiet, we decided to just wander
 through the Medina and get a sense of it all.
@@ -52,7 +52,7 @@ would still be in there. We stopped at two museums; the **Musée
 Nejjarine Des Arts Et Métiers Du Bois** and **Karim Lamrani**, an old
 medersa (school) that is no longer used.
 
-<a href="/assets/images/travel/morocco/FezMuseumBois.jpg" title="See larger version of - Mus&#233;e Nejjarine Des Arts Et M&#233;tiers Du Bois"><img src="/assets/images/travel/morocco/FezMuseumBois.jpg" width="500" alt="Mus&#233;e Nejjarine Des Arts Et M&#233;tiers Du Bois" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/morocco/FezMuseumBois.jpg" title="See larger version of - Mus&#233;e Nejjarine Des Arts Et M&#233;tiers Du Bois"><img src="https://media.transitionelement.com/assets/images/travel/morocco/FezMuseumBois.jpg"  alt="Mus&#233;e Nejjarine Des Arts Et M&#233;tiers Du Bois" /></a>
 
 The **Musée Nejjarine Des Arts Et Métiers Du Bois** (or Museum of Wood,
 as I like to say) was very nice. The building is excellent. It used to
@@ -65,7 +65,7 @@ praying area. It has lovely Italian marble columns, tiled floor and
 walls, delicate plaster and cedar second floor. In the center of the
 open couryard was a really pretty pool.
 
-<a href="/assets/images/travel/morocco/FezOldSchool2.jpg" title="See larger version of - Old Unsed School in Fez"><img src="/assets/images/travel/morocco/FezOldSchool2.jpg" width="500" alt="Old Unsed School (Karim Lamrani) in Fez" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/morocco/FezOldSchool2.jpg" title="See larger version of - Old Unsed School in Fez"><img src="https://media.transitionelement.com/assets/images/travel/morocco/FezOldSchool2.jpg"  alt="Old Unsed School (Karim Lamrani) in Fez" /></a>
 
 After some more wandering, we headed back to the Riad for some drinks on
 the roof-top terrace.

@@ -17,7 +17,7 @@ the numerous tall towers in the hill town.
 It was small and lovely. There was a nice market and lots of good
 stores.
 
-<a href="/assets/images/travel/italy/sang_towers.jpg" title="Towers of San Gimiganano"><img src="/assets/images/travel/italy/sang_towers.jpg" width="500"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/italy/sang_towers.jpg" title="Towers of San Gimiganano"><img src="https://media.transitionelement.com/assets/images/travel/italy/sang_towers.jpg" ></a>
 
 I bought a 300.000 Lira briefcase like I have always wanted.
 
@@ -30,7 +30,7 @@ After Meleto we went to Volpaia and I bought two bottles in the town
 tower. The lady showed us a back road to Vignamaggio. It was dirt and
 rocks for 10 miles or so. But very quick compared to the normal roads.
 
-<a href="/assets/images/travel/italy/sienna_ang_owen.jpg" title="Angela with Owen"><img src="/assets/images/travel/italy/sienna_ang_owen.jpg" alt="Angela with Owen" width="500"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/italy/sienna_ang_owen.jpg" title="Angela with Owen"><img src="https://media.transitionelement.com/assets/images/travel/italy/sienna_ang_owen.jpg" alt="Angela with Owen" ></a>
 
 The wine wasn’t as good here and the people were certainly less nice, so
 we quickly moved along.

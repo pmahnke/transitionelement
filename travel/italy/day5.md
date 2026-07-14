@@ -15,7 +15,7 @@ We left Venice early and headed for Bologne to climb one of the famous
 towers. Bologne is a really overlooked by tourists. Its a lovely town of
 terra cotta roofs and grand covered walkways.
 
-<a href="/assets/images/travel/italy/bologne.jpg" title="Bologne Rooftops"><img src="/assets/images/travel/italy/bologne.jpg" width="500" alt="Bologne Rooftops"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/italy/bologne.jpg" title="Bologne Rooftops"><img src="https://media.transitionelement.com/assets/images/travel/italy/bologne.jpg"  alt="Bologne Rooftops"></a>
 
 Angela made me climb a huge tower there carrying Owen up all 20 stories
 of these really narrow, worn, rickety stairs. However, the view was
@@ -27,7 +27,7 @@ After Bolgne we drove around Florence to Panzon in Chianti to our hotel
 
 The owners greeted us and gave us a great big room for Owen.
 
-<a href="/assets/images/travel/italy/chiantijpg" title="Chianti View"><img src="/assets/images/travel/italy/chianti.jpg" width="500" alt="Chianti View"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/italy/chiantijpg" title="Chianti View"><img src="https://media.transitionelement.com/assets/images/travel/italy/chianti.jpg"  alt="Chianti View"></a>
 
 We immediately went for a swim. Owen loved it! But the horse flies were
 deadly, so we left.

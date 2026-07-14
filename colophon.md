@@ -28,4 +28,4 @@ This weblog is licensed under a Creative Commons' [CC BY-ND 4.0](https://creativ
 
 I am an American living outside London. I am married and have two grown children. I have been working on the web since 1995 doing everything from design to coding, but mostly as a Product Manager/Managing Editor/Head/VP of Web & Design. However, I retired in 2021, and now we mostly travel.
 
-<a href="/assets/images/bw_self.jpg"><img src="/assets/images/peter_mirror-thumb.jpg" width="116" height="134" border="0" alt="Peter around 2004" /></a>
+<a href="https://media.transitionelement.com/assets/images/bw_self.jpg"><img src="https://media.transitionelement.com/assets/images/peter_mirror-thumb.jpg"  alt="Peter around 2004" /></a>

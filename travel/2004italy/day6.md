@@ -11,7 +11,7 @@ foot rollers. About 1/2 way through, Owen started to show real sings of
 sea sickness. The crew were handing out bags, just in case — we took
 two.
 
-<a href="/assets/images/travel/2004italy/capri_harbour.jpg"><img src="/assets/images/travel/2004italy/capri_harbour.jpg" width="500" alt="Capri Harbor" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/capri_harbour.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/capri_harbour.jpg"  alt="Capri Harbor" /></a>
 
 Poor Owen didn’t really even know what was happening to him and couldn’t
 really explain it. I just picked him up and took him outside and played
@@ -25,7 +25,7 @@ charge gave me the sign language for waves… doh.
 So we decided to join a local man giving a bus tour of Anacapri and
 Capri. He was useless, but it got us up and down.
 
-<a href="/assets/images/travel/2004italy/capri.jpg"><img src="/assets/images/travel/2004italy/capri.jpg" width="500" alt="View Capri from Anacapri" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/capri.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/capri.jpg"  alt="View Capri from Anacapri" /></a>
 
 Anacapri is the “other” town on Capri, at the top of the island really.
 There is nothing there but a shopping center, some restaurants, a ski
@@ -34,7 +34,7 @@ lovely homes, but the real reason to go are the views of the rest of the
 island. We spent a good 40 minutes just looking out over the bay. We
 could even see Naples and Mount Vesuvius, albeit a little fogged in.
 
-<a href="/assets/images/travel/2004italy/capri_ryan_hole1.jpg"><img src="/assets/images/travel/2004italy/capri_ryan_hole1.jpg" width="500"  alt="Ryan at Anacapri" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/capri_ryan_hole1.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/capri_ryan_hole1.jpg"   alt="Ryan at Anacapri" /></a>
 
 Ryan was climbing up and looking in these drainage holes. Loads of other
 tourists couldn’t resist asking him what he was looking at, where he

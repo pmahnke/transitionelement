@@ -12,7 +12,7 @@ I don't know if I will have the energy to keep this up, but I thought that I mig
 
 So here is my first entry:
 
-<a href="/assets/images/eggplantparmplate.jpg"><img src="/assets/images/eggplantparmplate-thumb.jpg" width="150" height="150" alt="Eggplant Aubergine Parmesan" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/eggplantparmplate.jpg"><img src="https://media.transitionelement.com/assets/images/eggplantparmplate-thumb.jpg" alt="Eggplant Aubergine Parmesan" /></a>
 
 ### Eggplant (Aubergine) Parmesan
 

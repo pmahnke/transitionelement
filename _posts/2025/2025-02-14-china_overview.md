@@ -13,7 +13,7 @@ excerpt: |
 
 This was my third trip to China, Angela's second, and Owen's first. Angela and I had visited in 1997 with my (Chinese-speaking) brother and mom in 1997. The main reason for going to this time was to see the Harbin Ice & Snow Festival and see what New China looked like after the economic growth of the past 30 years. Initially, I was a bit worried that it would be 'ruined' and that all the real beauty would have been torn down for urbanisation and progress. Gladly, this hadn't happened; China has moved into the modern era more deftly and comprehensively than I could have imagined. They have maintained their heritage but created a very modern society with high-speed trains, extensive metro systems, and a 5 G-powered, mobile-friendly, nearly cashless society.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zoQ3D1GqbSiFkBE598R4_dP9lK-8nks&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zoQ3D1GqbSiFkBE598R4_dP9lK-8nks&ehbc=2E312F"  ></iframe>
 
 ### Using a guide with a driver
 
@@ -63,13 +63,13 @@ All of our hotels had Western toilets and showers, and a few had baths. They als
 
 Every power outlet we saw accepted both US two prong (type A) and the Asian two/three angled prongs (Type I)
 
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <!-- Background Plate -->
   <rect width="100%" height="100%" fill="#f2f2f2" stroke="#ccc" stroke-width="5" rx="15"/>
 
   <!-- Type A socket: Two vertical slots -->
-  <rect x="50" y="30" width="20" height="50" fill="black" rx="3"/>
-  <rect x="130" y="30" width="20" height="50" fill="black" rx="3"/>
+  <rect x="50" y="30"   fill="black" rx="3"/>
+  <rect x="130" y="30"   fill="black" rx="3"/>
 
   <!-- Type I socket: Two angled prongs and a vertical prong placed completely below -->
   <line x1="50" y1="150" x2="85" y2="100" stroke="black" stroke-width="8" stroke-linecap="round"/>

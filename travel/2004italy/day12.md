@@ -7,7 +7,7 @@ date: 2004-04-13 12:00:00
 Today we drove to a more central area of Sicily to see the ancient hotel
 of Casale. It was unbelievable.
 
-<a href="/assets/images/travel/2004italy/casale_cyclops.jpg" title="See larger version of - Mosaic of Odesseus with the Cyclops in Casale"><img src="/assets/images/travel/2004italy/casale_cyclops.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/casale_cyclops.jpg" title="See larger version of - Mosaic of Odesseus with the Cyclops in Casale"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/casale_cyclops.jpg"  /></a>
 
 First of all, it is huge, you can walk around for hours. Second of all,
 it is so well preserved and protected. It is very famous for the
@@ -18,7 +18,7 @@ us. He wanted a very nominal sum, so we agreed and he carefully took us
 around and gave us a wonderful tour in very broken English — but enough
 to understand.
 
-<a href="/assets/images/travel/2004italy/casale_bikini.jpg" title="See larger version of - Mosaic of women in Bikinis in Casale"><img src="/assets/images/travel/2004italy/casale_bikini.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/casale_bikini.jpg" title="See larger version of - Mosaic of women in Bikinis in Casale"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/casale_bikini.jpg"  /></a>
 
 Originally people thought it was a single manor, but clearly it was a
 hotel or spa. It had been covered in a mudslide which had protected it

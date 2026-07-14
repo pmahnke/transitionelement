@@ -8,7 +8,7 @@ category: culture
 date: 2004-11-20 12:24:36
 ---
 
-\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0380715430/qid=1096881718/sr=1-4/ref=sr_1_4/104-9896320-9963126?v=glance&s=books" target="_blank">US</a> | <a href="/assets/images/202-8209596-2711845" target="_blank">UK</a>\]
+\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0380715430/qid=1096881718/sr=1-4/ref=sr_1_4/104-9896320-9963126?v=glance&s=books" target="_blank">US</a> | <a href="https://media.transitionelement.com/assets/images/202-8209596-2711845" target="_blank">UK</a>\]
 
 **Mother Tongue: The English Language**
 

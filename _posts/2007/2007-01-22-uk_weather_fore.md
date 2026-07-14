@@ -19,15 +19,15 @@ excerpt: |
 
 I really want to know why the British are willing to settle for weather forecasts that are so vague as to be comical, if not dangerous?
 
-<a href="/assets/images/bb_uk_weather.jpg"><img src="/assets/images/bb_uk_weather-thumb.gif" width="200" height="104" alt="bbc main weather blurb" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/bb_uk_weather.jpg"><img src="https://media.transitionelement.com/assets/images/bb_uk_weather-thumb.gif" alt="bbc main weather blurb" /></a>
 
 Last year, the [BBC spent millions on new computer animations](http://www.bbc.co.uk/weather/bbcweather/features/graphics_whychange.shtml) that made the [Scottish feel small and all others dizzy](http://www.mcwetboy.net/maproom/2005/05/bbc_weather_map_overhaul_draws_complaints.phtml) with a virtual flight around the isles looking at clouds. Even looking at a website, you can never know if its going to rain tomorrow, and certainly not when.
 
-<a href="/assets/images/london_5day.gif"><img src="/assets/images/london_5day-thumb.gif" width="200" height="128" alt="BBC 5 Day Look" class="photo left" /></a>
+<a href="https://media.transitionelement.com/assets/images/london_5day.gif"><img src="https://media.transitionelement.com/assets/images/london_5day-thumb.gif" alt="BBC 5 Day Look"  /></a>
 
 When we first moved to the UK, I used to think it must be me. That I didn't fully understand what I was seeing or hearing. I used to listen to others tell me what they thought was going to happen -- often with far more precision than I could ever glean from a forecast. They would say, "oh, its going to rain around 11 o'clock." However, on pressing them, they were sort of making it up, based on their interpretation of the swirling BBC map.
 
-<a href="https://www.stmgrts.co.uk"><img alt="stmgrts.co.uk weather icon" src="/assets/images/stmgrt-weather-thumb.jpg" width="194" height="159" class="photo right"/></a>
+<a href="https://www.stmgrts.co.uk"><img alt="stmgrts.co.uk weather icon" src="https://media.transitionelement.com/assets/images/stmgrt-weather-thumb.jpg"/></a>
 
 When I was building the [St Margarets Community Website](https://stmargarets.london), I found [Met Check](http://www.metcheck.co.uk) and thought they looked a little better; however, over time, I feel they are really just the same as the Met/BBC. (\_Eventually, I ended up parsing the METAR aviation files for the current weather and linking to Met Check.)
 
@@ -35,7 +35,7 @@ When you compare the UK weather forecasts to the United States, you can see what
 
 But its the accuracy, mixed with the detail that makes it better. You can search for your city or post code and get any level of detail that you could possibly want...
 
-<a href="/assets/images/wunderground.jpg"><img src="/assets/images/wunderground-thumb.jpg" width="200" height="134" alt="weather underground detail" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/wunderground.jpg"><img src="https://media.transitionelement.com/assets/images/wunderground-thumb.jpg" alt="weather underground detail" /></a>
 
 - hour by hour, 5 day, extend forecasts
 - text summaries of the forecasts
@@ -46,7 +46,7 @@ But its the accuracy, mixed with the detail that makes it better. You can search
 
 The best a UK site can muster is a tiny phrase like "Widespread frost overnight" and a few basic details:
 
-<a href="/assets/images/met-check.jpg"><img src="/assets/images/met-check-thumb.jpg" width="200" height="137" alt="met check" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/met-check.jpg"><img src="https://media.transitionelement.com/assets/images/met-check-thumb.jpg" alt="met check" /></a>
 
 - Temperature
 - Wind-chill

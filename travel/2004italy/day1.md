@@ -6,7 +6,7 @@ date: 2004-04-02 12:00:00
 
 Flight delayed one hour.
 
-<a href="/assets/images/travel/2004italy/ancient_rome.jpg"><img src="/assets/images/travel/2004italy/ancient_rome.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/ancient_rome.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/ancient_rome.jpg"  /></a>
 
 Push chair missed the flight, even though we told the staff that we could still see it waiting three times.
 

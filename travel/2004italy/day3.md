@@ -14,13 +14,13 @@ Because of that continuous living, it was very well preserved. It was also enorm
 
 #### Spanish Steps
 
-<a href="/assets/images/travel/2004italy/spanish_steps.jpg"><img src="/assets/images/travel/2004italy/spanish_steps.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/spanish_steps.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/spanish_steps.jpg"  /></a>
 
 From there we walked to the Spanish Steps. We first had a so-so lunch in a lovely outdoor cafe. Then the steps… which was so packed with tourists… it was silly. They boys didn’t even notice the steps, they loved this fountain at the bottom in the shape of a boat.
 
 For the whole trip people loved the boys and their hair. The fountain was the first place we had two sets of tourists ask to have their picture taken with them. Owen actually obliged, but not Ryan. Its sort of strange to think that you are so different that someone wants a photo. Personally, I would look at it in a year and think… ‘why did I take that photo again?’
 
-<a href="/assets/images/travel/2004italy/spanish_drink.jpg"><img src="/assets/images/travel/2004italy/spanish_drink.jpg" width="500" alt="Ryan Drinking from Fountain" class="photo right" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/spanish_drink.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/spanish_drink.jpg"  alt="Ryan Drinking from Fountain" /></a>
 
 As for the Steps, its sort of the same as that photo — it is pretty — looks like it should be indoors somewhere — don’t know why its there. We also asked about a horse trip. Toby had promised Angela and Robin a trip there years ago with Robin, I think, was too ill. Well, they wanted €150 for a ‘short ride’… sorry Toby, I couldn’t mentally pay for that… I got the €40 - long version in Siracusa.
 
@@ -28,11 +28,11 @@ As for the Steps, its sort of the same as that photo — it is pretty — looks 
 
 After a gelato, because Owen was, “too hot”, we headed for the Trevi fountain. What can I saw, it is amazing. The only strange thing is, why is it in such a tiny little space, it litterally fills the square it is in. Owen and Ryan played around with the water for ages.
 
-<a href="/assets/images/travel/2004italy/trevi_day.jpg"><img src="/assets/images/travel/2004italy/trevi_day.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/trevi_day.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/trevi_day.jpg"  /></a>
 
 We all tossed a coin in over our shoulder. Owen misunderstood what having to comeback to Rome was. He thought it meant you have to come back to the Trevi fountain again _during_ your current trip to Rome. So he kept wanting to come back… and we did, the next night.
 
-<a href="/assets/images/travel/2004italy/angela_trevi_wish.jpg"><img src="/assets/images/travel/2004italy/angela_trevi_wish.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/angela_trevi_wish.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/angela_trevi_wish.jpg"  /></a>
 
 After two pee breaks Ryan started to like going ‘al fresco’… usually on a scooter’s tire — we quickly had to curb him of this habit. We then took a bus home — ate in the outdoor cafe right outside our Hotel — and took the kids to bed, they were exhausted.
 

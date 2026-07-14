@@ -8,7 +8,7 @@ date: 2004-04-05 12:00:00
 
 We didn’t.
 
-<a href="/assets/images/travel/2004italy/st_peters.jpg"><img src="/assets/images/travel/2004italy/st_peters.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/st_peters.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/st_peters.jpg"  /></a>
 
 We couldn’t find the bus we were told by the hotel. We couldn’t find the
 one the bus conductor told us (it was at a new temporary stop… explained
@@ -17,7 +17,7 @@ sign language, helped us out… they too had problems. We got to St
 Peter’s by 9:30am and got into the queue for the Vatican Museum. **It
 was over 2 hours long! and was nearly a mile long and 10 people wide.**
 
-<a href="/assets/images/travel/2004italy/vatican_museum.jpg"><img src="/assets/images/travel/2004italy/vatican_museum.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/vatican_museum.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/vatican_museum.jpg"  /></a>
 
 The boys were champs! They barely complained. The problem was that we
 had an appointment to see the necropolis and really had to run through
@@ -30,7 +30,7 @@ is the artwork impressive, but the physical building is spectacular.
 The **Map Room** is impressive not just for the beauty of the room, but
 the amazing maps of Italy, with little blow ups of the cities.
 
-<a href="/assets/images/travel/2004italy/vatican_map_room.jpg"><img src="/assets/images/travel/2004italy/vatican_map_room.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/vatican_map_room.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/vatican_map_room.jpg"  /></a>
 
 The **Raphel Rooms** are so much smaller than I imagined and the
 fresco’s really see to extend the rooms into the images.
@@ -48,20 +48,20 @@ impressive, but again, smaller than I imagined.
 <tr>
 <td>
 
-<a href="/assets/images/travel/2004italy/st_peters_owen.jpg">
-<img src="/assets/images/travel/2004italy/st_peters_owen.jpg" alt="Owen at St Peters" width="200"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/st_peters_owen.jpg">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/st_peters_owen.jpg" alt="Owen at St Peters" ></a>
 
 </td>
 <td>
 
-<a href="/assets/images/travel/2004italy/st_peters_porch.jpg">
-<img src="/assets/images/travel/2004italy/st_peters_porch.jpg" alt="St Peters -- View from the Porch" width="200"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/st_peters_porch.jpg">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/st_peters_porch.jpg" alt="St Peters -- View from the Porch" ></a>
 
 </td>
 <td>
 
-<a href="/assets/images/travel/2004italy/st_peters_ryan.jpg">
-<img src="/assets/images/travel/2004italy/st_peters_ryan.jpg" alt="Ryan at St Peters" width="200"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/st_peters_ryan.jpg">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/st_peters_ryan.jpg" alt="Ryan at St Peters" ></a>
 
 </td>
 </tr>
@@ -107,7 +107,7 @@ Not only is the story interesting, seeing the pagan and Christian tombs
 beneath the Basilica was very impressive, you even realize that you are
 walking up a hill.
 
-<a href="/assets/images/travel/2004italy/st_peters_inside.jpg"><img src="/assets/images/travel/2004italy/st_peters_inside.jpg" width="500" /></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/st_peters_inside.jpg"><img src="https://media.transitionelement.com/assets/images/travel/2004italy/st_peters_inside.jpg"  /></a>
 
 After my tour, I took the kids and Angela did the tour. The kids where
 pretty done with sightseeing, so we played near a fountain, drew some
@@ -126,20 +126,20 @@ it at night and the Panthon. Both were well worth the late night.
 <tr>
 <td>
 
-<a href="/assets/images/travel/2004italy/trevi_night.jsp">
-<img src="/assets/images/travel/2004italy/trevi_night.jpg" alt="Trevi Fountain at Night" width="200" class="right" style="float:right"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/trevi_night.jsp">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/trevi_night.jpg" alt="Trevi Fountain at Night"  ></a>
 
 </td>
 <td>
 
-<a href="/assets/images/travel/2004italy/trevi_dad_boys_night.jpg">
-<img src="/assets/images/travel/2004italy/trevi_dad_boys_night.jpg" alt="Trevi Fountain -- Dad and boys" width="200" class="right" style="float:right"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/trevi_dad_boys_night.jpg">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/trevi_dad_boys_night.jpg" alt="Trevi Fountain -- Dad and boys"  ></a>
 
 </td>
 <td>
 
-<a href="/assets/images/travel/2004italy/pantheon_night.jpg">
-<img src="/assets/images/travel/2004italy/pantheon_night.jpg" alt="Pantheon at Night" width="200" class="right" style="float:right"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/2004italy/pantheon_night.jpg">
+<img src="https://media.transitionelement.com/assets/images/travel/2004italy/pantheon_night.jpg" alt="Pantheon at Night"  ></a>
 
 </td>
 </tr>

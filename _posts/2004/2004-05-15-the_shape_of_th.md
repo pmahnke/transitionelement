@@ -12,7 +12,7 @@ date: 2004-05-15 00:57:54
 
 Tonight we saw this play in London. The quick plot is that this woman is an art student and she decides to convince this man to improve himself -- loose weight, eat better, get contacts, exercise and even a nose job. She does it by pretending to be his girlfriend and just doing the normal suggestions that a partner might do.
 
-<a href="/assets/images/27117_shapeofthings.jpg"><img src="/assets/images/27117_shapeofthings-thumb.jpg" width="180" height="144" border="0"  class="img_plain right" alt="The Shape of Things" /></a>
+<a href="https://media.transitionelement.com/assets/images/27117_shapeofthings.jpg"><img src="https://media.transitionelement.com/assets/images/27117_shapeofthings-thumb.jpg"   class="img_plain right" alt="The Shape of Things" /></a>
 
 Of course there are a few things done at the end to make the whole thing more extreme and ends with the man only having one pure, true moment left from the whole relationship. However, while I was shocked by this woman's ability to pretend to be in love, I wasn't really shocked by anything else.
 

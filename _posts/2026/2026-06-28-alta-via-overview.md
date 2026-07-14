@@ -53,4 +53,4 @@ I should also say, they all have excellent bars with beer, wine, coffees, teas, 
 
 Everything is in Euros.  All but one refugio took card, so I would say, bring some cash.  But it was only a single place.
 
-[Read our day by day notes on the Dolomite's Alta Via 1 hike](/archives/2026/06/av1-day--1.html)
+[Read our day by day notes on the Dolomite's Alta Via 1 hike >](/archives/2026/06/av1-day--1.html)

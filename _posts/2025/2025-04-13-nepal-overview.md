@@ -14,7 +14,7 @@ This was our first trip to Nepal.  The travelers were, me, my wife Angela and he
 
 The trip was excellent and very civilised. You are not walking in the wilderness, you are walking through Nepalese communities and it is lovely.  If feels very safe and comfortable.  The challenges are all physical with the altitude.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1pWaQ7E0z6Voxy2-0DCQf1ejymFlJkJ8&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1pWaQ7E0z6Voxy2-0DCQf1ejymFlJkJ8&ehbc=2E312F"  ></iframe>
 
 ### Money
 

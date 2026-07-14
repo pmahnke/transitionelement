@@ -11,13 +11,13 @@ At some point, you have been sent an HTML email with images that are still on th
 
 ### An email with no images, just empty boxes
 
-<img src="/assets/images/Screen%20shot%202010-12-03%20at%2020.17.05.png" width="615" height="98" class="photo center" alt="email, no images"/>
+<img src="https://media.transitionelement.com/assets/images/Screen%20shot%202010-12-03%20at%2020.17.05.png"    alt="email, no images"/>
 
 or,
 
 ### An email with no images, empty boxes and a message asking you if you want to download them.
 
-<img src="/assets/images/Screen%20shot%202010-12-03%20at%2020.19.54.png" width="417" height="45" class="photo center" alt="email, download first"/>
+<img src="https://media.transitionelement.com/assets/images/Screen%20shot%202010-12-03%20at%2020.19.54.png"    alt="email, download first"/>
 
 This is for good reason, nasty marketers can embedded tracking codes and who knows what else (joke)...
 
@@ -25,7 +25,7 @@ Of course, the real solution to this is, _send plain text or rich text emails_; 
 
 So I have ended up coding a web form that allows people add the To:, From:, Subject: and a personal message to our email, but it needs to send our nice corporate image too.
 
-<img src="/assets/images/xmas_image_2010.gif" width="600" height="400" class="photo center" alt=" Scholastic Xmas emailer 2010" />
+<img src="https://media.transitionelement.com/assets/images/xmas_image_2010.gif"  alt=" Scholastic Xmas emailer 2010" />
 
 Using [MIME::Lite](http://search.cpan.org/~rjbs/MIME-Lite-3.027/lib/MIME/Lite.pm), you can easily send these images with a [multipart/mixed](http://en.wikipedia.org/wiki/MIME#Mixed) email. Basically, you make the image source point to a file "cid:&lt;filename&gt;" and then attach that &lt;filename&gt;. However, I figured, you might get a lot of image files in your HTML email and some might not even be local.
 

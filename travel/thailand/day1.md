@@ -17,7 +17,7 @@ stay in the cheapest place in our book in a corner of the city that NO
 ONE can find. $8 bucks doesn’t get you too much in Bangkok. It wasn’t
 clean or nice…. but I got to pick the next hotel.
 
-<a href="/assets/images/travel/thailand/angela_grand_palace.jpg" title="Angela at the Grand Palace - Bangkok"><img src="/assets/images/travel/thailand/angela_grand_palace.jpg" width="500" alt="" ></a>
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/angela_grand_palace.jpg" title="Angela at the Grand Palace - Bangkok"><img src="https://media.transitionelement.com/assets/images/travel/thailand/angela_grand_palace.jpg"  alt="" ></a>
 
 The first minute after we left the hotel, we literally met a man who was
 a tour guide on his way to lunch who told us where everything was and
@@ -38,34 +38,34 @@ For the Grand Palace and a Wat in Chaing Mai, you must cover your legs.
 Angela is wearing a nice sarong, wait for the Chaing Mai pictures to see
 what I had to wear.
 
-<a href="/assets/images/travel/thailand/buddha_grand_palace1.jpg" title="alt view of Statue of Monk at Grand Palace - Bangkok"><img src="/assets/images/travel/thailand/buddha_grand_palace.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/buddha_grand_palace1.jpg" title="alt view of Statue of Monk at Grand Palace - Bangkok"><img src="https://media.transitionelement.com/assets/images/travel/thailand/buddha_grand_palace.jpg" ></a>  
 This is the monk who greets you as you enter the religious area of the
 Grand Palace.
 
-<a href="/assets/images/travel/thailand/golden_prince_grand_palace.jpg" title="Golden Prince"><img src="/assets/images/travel/thailand/golden_prince_grand_palace.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/golden_prince_grand_palace.jpg" title="Golden Prince"><img src="https://media.transitionelement.com/assets/images/travel/thailand/golden_prince_grand_palace.jpg" ></a>  
 We thought this Golden Prince was pretty cool.
 
-<a href="/assets/images/travel/thailand/gold_chedi_grand_palace2.jpg" title="Grand Palace's Main Chedi"><img src="/assets/images/travel/thailand/gold_chedi_grand_palace3.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/gold_chedi_grand_palace2.jpg" title="Grand Palace's Main Chedi"><img src="https://media.transitionelement.com/assets/images/travel/thailand/gold_chedi_grand_palace3.jpg" ></a>  
 The dominate building in this religious area is a giant golden chedi.
 
-<a href="/assets/images/travel/thailand/khmer_grand_palace.jpg" title="scale model of a Khmer temple complex"><img src="/assets/images/travel/thailand/khmer_grand_palace.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/khmer_grand_palace.jpg" title="scale model of a Khmer temple complex"><img src="https://media.transitionelement.com/assets/images/travel/thailand/khmer_grand_palace.jpg" ></a>  
 This is a scale model of a Khmer (Cambodian Style Stupas) Temple
 complex. We don’t know if it is supposed to be Sukothai, Ankor Wat,
 imaginary or some other site.
 
-<a href="/assets/images/travel/thailand/roof_grand_palace.jpg" title="beautifully tiled roof"><img src="/assets/images/travel/thailand/roof_grand_palace.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/roof_grand_palace.jpg" title="beautifully tiled roof"><img src="https://media.transitionelement.com/assets/images/travel/thailand/roof_grand_palace.jpg" ></a>  
 The roofs are alway these beautifully tiled majestic pieces of artwork.
 The blue seems to mean Royal and Green means Holy. Notice the giant
 cranes at the end of the roofs.
 
-<a href="/assets/images/travel/thailand/chinese_soldier_grand_palace.jpg" title="Statue - Chinese Soldier"><img src="/assets/images/travel/thailand/chinese_soldier_grand_palace.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/chinese_soldier_grand_palace.jpg" title="Statue - Chinese Soldier"><img src="https://media.transitionelement.com/assets/images/travel/thailand/chinese_soldier_grand_palace.jpg" ></a>  
 Apparently one of the Rama kings like these status that Chinese traders
 used for boat ballast and collected them. This one is a Chinese Soldier.
 
-<a href="/assets/images/travel/thailand/WSOL_GP.jpg" title="Statue - Western Soldiers"><img src="/assets/images/travel/thailand/WSOL_GP.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/WSOL_GP.jpg" title="Statue - Western Soldiers"><img src="https://media.transitionelement.com/assets/images/travel/thailand/WSOL_GP.jpg" ></a>  
 These are supposed to be Western Soldiers.
 
-<a href="/assets/images/travel/thailand/burial_grand_palace.jpg" title="Royal Family Members are buried under these Chedis"><img src="/assets/images/travel/thailand/burial_grand_palace.jpg" width="500"></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/burial_grand_palace.jpg" title="Royal Family Members are buried under these Chedis"><img src="https://media.transitionelement.com/assets/images/travel/thailand/burial_grand_palace.jpg" ></a>  
 The Royal Family Members are buried under these Chedis.
 
 Dinner, we walked 6 miles, thinking it was only another block after

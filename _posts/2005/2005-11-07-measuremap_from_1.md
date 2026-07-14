@@ -22,7 +22,7 @@ That said, here I go...
 
 ### Colors
 
-<img alt="mm_banner.gif" src="/assets/images/mm_banner-thumb.gif" width="358" height="53" />
+<img alt="mm_banner.gif" src="https://media.transitionelement.com/assets/images/mm_banner-thumb.gif"   />
 
 I like the vibrant red, orange, blue and green icons, but I think it doesn't work well with the brown/grey header and other UI elements. I think that it would be better to stay with more white/black/dark grey there. Same for all the small square icons, get rid of the grey.
 
@@ -30,13 +30,13 @@ I like the vibrant red, orange, blue and green icons, but I think it doesn't wor
 
 First of all, there is no 'home' or 'overview' button/link. You have to click on the logo to get there. I think you should have one.
 
-<a href="/assets/images/mm_visitor_overview.jpg"><img src="/assets/images/mm_visitor_overview-thumb.gif" width="47" height="150" alt="horizontal layout" class="img right" /></a>
+<a href="https://media.transitionelement.com/assets/images/mm_visitor_overview.jpg"><img src="https://media.transitionelement.com/assets/images/mm_visitor_overview-thumb.gif"   alt="horizontal layout"  /></a>
 
 The bigger issue I have is that while I love the horizontal overview on the home page, I think that the individual overview pages change too much to vertical. I would recommend making the homepage vertical as well and leaving the larger buttons up on the left, so that clicking on an individual overview 'opens' up the other options for that page and changed the main content. This would effectively give you 5 main pages (Overview, Visitor Overview, Links Overview, Comments Overview, Posts Overview) that could all borrow the same template and layout.
 
 ### Calls to Action
 
-<a href="/assets/images/mm_cta.jpg"><img src="/assets/images/mm_cta-thumb.gif" width="300" height="66" alt="Calls to Action" class="img_plain" /></a>
+<a href="https://media.transitionelement.com/assets/images/mm_cta.jpg"><img src="https://media.transitionelement.com/assets/images/mm_cta-thumb.gif"   alt="Calls to Action"  /></a>
 
 I am referring to the links at the bottom of the overviews (eg "People come to your blog in lots of ways. Learn how you can grow the number of visitors.")... I think these should be set out from the page more. Perhaps in a shaded box.
 
@@ -46,7 +46,7 @@ I also think that BROWSERS, COUNTRIES, TIMES links should only be on the Visitor
 
 ### Dates and Date Sliders
 
-<img alt="mm_date.gif" src="/assets/images/mm_date-thumb.gif" width="219" height="26" />
+<img alt="mm_date.gif" src="https://media.transitionelement.com/assets/images/mm_date-thumb.gif"   />
 
 Very cool. Perhaps not a big issue, but I would recommend a few tweaks. I would leave the actual date/date range as text, outside the grey box. I would just have the little calendar icon (not even the arrow). I think people will click it.
 
@@ -72,7 +72,7 @@ Example:
 
 "Local links" could be either "St Margaret's Estate Residents Association : Local links" or even "www.smera.freeserve.co.uk : Local links"
 
-<a href="/assets/images/mm_links.jpg"><img src="/assets/images/mm_links-thumb.gif" width="300" height="102" alt="link lists" class="img_plain" /></a>
+<a href="https://media.transitionelement.com/assets/images/mm_links.jpg"><img src="https://media.transitionelement.com/assets/images/mm_links-thumb.gif" alt="link lists"  /></a>
 
 ### Link Lists
 
@@ -80,7 +80,7 @@ You should make the overflow: hidden on these to make sure really long links don
 
 ### Your Titles
 
-<img alt="mm_title.gif" src="/assets/images/mm_title-thumb.gif" width="339" height="24" class="img_plain" />
+<img alt="mm_title.gif" src="https://media.transitionelement.com/assets/images/mm_title-thumb.gif"    />
 
 For bookmarking alone, I would rearrange them from "&lt;Page Name&gt; | MeasureMap" to "MeasureMap | &lt;Page Name&gt;".
 
@@ -90,7 +90,7 @@ This isn't too obvious what it is from the Icon... perhaps just a simple "Links 
 
 ### Link, Comment, Post Sub Pages
 
-<a href="/assets/images/mm_post_title.jpg"><img src="/assets/images/mm_post_title-thumb.gif" width="300" height="32" alt="post titles" class="img_plain" /></a>
+<a href="https://media.transitionelement.com/assets/images/mm_post_title.jpg"><img src="https://media.transitionelement.com/assets/images/mm_post_title-thumb.gif"   alt="post titles"  /></a>
 
 I love these pages, but I think the layout should be better. I see the name of the page appears in the left, under the main icon, but it could be clearer in the main content section.
 

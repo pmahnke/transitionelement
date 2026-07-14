@@ -57,4 +57,4 @@ Every day you will start and end in a town. You might walk through some during t
 
 The Lake District is an amazing part of the UK. It is full of cute villages, amazing mountains, and lakes. If you have time, you should consider spending a few days here at the start or end of the hike. We also love Yorkshire. Whitby, which is very near the end of the trail, is worth a few days visit and nearby York is amazing, you could spend another few days here easily.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1NnEv9kyYeEcH51f4YWIuPqXpazMIFs1N&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1NnEv9kyYeEcH51f4YWIuPqXpazMIFs1N&ehbc=2E312F"  ></iframe>

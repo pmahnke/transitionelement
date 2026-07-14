@@ -11,7 +11,7 @@ excerpt: |
   About our trip to Japan in April 2023
 ---
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1gojA3u_MVp4BVo2rBYW6zbMUKHAQ5KM&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1gojA3u_MVp4BVo2rBYW6zbMUKHAQ5KM&ehbc=2E312F"  ></iframe>
 
 We visited Japan in 2015 and loved it. That time we visited Tokyo and then went south to Kyoto, Hiroshima. Then we walked a few days on the [Kumano Kodo](https://www.tb-kumano.jp/en/kumano-kodo/) and saw the monasteries in Kōyasan.
 

@@ -24,14 +24,14 @@ the previous.
 -   Go to the beach for the day
 -   Swim
 
-<img src="/assets/images/travel/thailand/KOH_B1.jpg" alt="Boat by our Hotel" width="500">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/KOH_B1.jpg" alt="Boat by our Hotel" >
 
 -   Read under a tree
 -   Swim
 -   Nap
 -   Swim
 
-<img src="/assets/images/travel/thailand/KOH_BEACH.jpg" width="500" alt="View from the beack of the Southern end of Koh Samui">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/KOH_BEACH.jpg"  alt="View from the beack of the Southern end of Koh Samui">
 
 -   Read
 -   Swim
@@ -39,7 +39,7 @@ the previous.
     on the island (usually bbq tiger prawn or fish)
 -   Play cards
 
-<img src="/assets/images/travel/thailand/KOH_B2.jpg" width="500" alt="Boat by our Hotel">
+<img src="https://media.transitionelement.com/assets/images/travel/thailand/KOH_B2.jpg"  alt="Boat by our Hotel">
 
 -   Drink beer
 -   Watch world cup
