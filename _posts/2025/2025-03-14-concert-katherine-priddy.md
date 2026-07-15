@@ -4,7 +4,7 @@ title: "Concert: Katherine Priddy"
 permalink: /archives/2025/03/concert_katherine-priddy.html
 commentfile: 2025-03-14-concert_katherine-priddy
 category: culture
-image: "https://lh3.googleusercontent.com/pw/AP1GczNlxrdEEOErzYi2LgAe9EUFIYbmfsNcKKJZHsAmmfNLmOCouVv5zU_yNOvCHnpvHYaNj1ojemdj2NgPvCrerPh5n0uEpXXxuPqTvIq65Pmcci7c8Lwe=w1920-h1080"
+image: "/assets/images/google_photos/img_011.jpg"
 date: 2025-03-14 22:50:19
 excerpt: |
   Tonight I went to the Landmark Art Centre with Tanya and Paul to see Katherine Priddy

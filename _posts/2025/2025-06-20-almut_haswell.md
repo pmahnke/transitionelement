@@ -5,7 +5,7 @@ permalink: /archives/2025/06/almut_haswell.html
 commentfile: 2025-06-20-almut_haswell
 category: of interest
 date: 2025-06-20 11:25:17
-image: "https://lh3.googleusercontent.com/pw/AP1GczO-iq4US85UPj-_8l9jiFrrp9W9twZLPS6Oy1Fpsk25iLgLLdqciilsJC7tUYPZsAWkVq3gAt1f7VNZxGMFd-GwYPKw7tC1TNVKtcUE8TuQnXX60QbE=w2400"
+image: "/assets/images/google_photos/img_006.jpg"
 excerpt: |
   Almut Haswell, 85, of Orange City, Florida, passed away peacefully on June 20, 2025. Almut was born on April 4, 1940, in Bochum, Germany, to Annemarie and Erich Haberkamp, the fourth of five daughters. 
 ---

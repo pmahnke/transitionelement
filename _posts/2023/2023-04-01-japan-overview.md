@@ -6,7 +6,7 @@ commentfile: 2023-04-01-japan-overview
 category: travel
 date: 2023-04-01 16:29:22
 tag: overview
-image: "https://lh3.googleusercontent.com/bNCYdMm3szB9Gi0jpPoSyGA46FOb1qFp9bp-Bjxemuexb__Q-Ck5qdaKvsYUxDbDSDvNjF5Ky2kxS_MxH8642Iv1TLIrtHcVmxL_jL9_vMVVD1HZWu_6psyzs0c3u1lYeLntJOJpwi8=h480"
+image: "/assets/images/google_photos/img_104.jpg"
 excerpt: |
   About our trip to Japan in April 2023
 ---
@@ -17,8 +17,8 @@ We visited Japan in 2015 and loved it. That time we visited Tokyo and then went 
 
 After the trip, we knew we wanted to return and see more. Owen was particularly interested in Japan and has spent much time learning about Japanese culture and language. And now that he has started working, he had a lot of holiday rolled over from 2022, and it was the perfect time to go for three weeks. But unfortunately, Ryan is still at university and couldn't join us.
 
-  <a href="https://lh3.googleusercontent.com/KhwTk0L7mffULaQe-oYx2XFlyvgBePvGeGPya3HjavQgRBeLAdf1TLJc7lFogrfW0E0yGKyCWHUeQwUvRf_cQf9neRtE7HXiUG7OZWc0-yxL5hgwGVkbKI9n9ZkuGmtFxEolywOUPQY=w1920-h1080" target="_blank">
-    <img src="https://lh3.googleusercontent.com/KhwTk0L7mffULaQe-oYx2XFlyvgBePvGeGPya3HjavQgRBeLAdf1TLJc7lFogrfW0E0yGKyCWHUeQwUvRf_cQf9neRtE7HXiUG7OZWc0-yxL5hgwGVkbKI9n9ZkuGmtFxEolywOUPQY=h480" />
+  <a href="https://media.transitionelement.com/assets/images/google_photos/img_105.jpg" target="_blank">
+    <img src="https://media.transitionelement.com/assets/images/google_photos/img_106.jpg" />
   </a>
 
 We started looking at more time in Tokyo and going north. After a few weeks of research, we decided we couldn't get to Hokkaido or even Amori in the far north of Honshu island. So we looked at all the places we wanted to see in that smaller look and decided that renting a car would be better than trains and buses in the more rural north.

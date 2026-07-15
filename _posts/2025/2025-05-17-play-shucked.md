@@ -4,7 +4,7 @@ title: "Play: Shucked"
 permalink: /archives/2025/05/play_shucked.html
 commentfile: 2025-05-17-play_shucked
 category: culture
-image: "https://lh3.googleusercontent.com/pw/AP1GczNGNzOvTD-QTjWdQEj-yKNrXo4btiCByyAvallxTmbe-KM2P0DcE6jo_ybilauqVoDRa4uqrnxfuLRmSqbrgLbdqi_W-3SZnBhkmRNJHXHyroW21m3O=w1920-h1080"
+image: "/assets/images/google_photos/img_019.jpg"
 date: 2025-05-17 11:42:09
 excerpt: |
   We went to the Regent's Park Open Air Theatre for the first time to see the Tony Award-winning musical, Shucked.

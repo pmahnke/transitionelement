@@ -5,7 +5,7 @@ permalink: /archives/2025/02/ryan-moved-out.html
 commentfile: 2025-02-09-ryan-moved-out
 category: life in the UK
 date: 2025-02-09 15:05:24
-image: "https://lh3.googleusercontent.com/pw/AP1GczMj_kbmZGLwcBIYGpa3mM485ILNmFjqFsV0czQoNBD_qRWyECY-cdx_-UGBcgjI7lCt2JAp3piLvq00QaST_rlunsBKl-U8I5UERDeNmK1iTrXD-39l=w600-h315-p-k"
+image: "/assets/images/google_photos/img_010.jpg"
 excerpt: |
   Ryan moved out to Clapham.
 ---

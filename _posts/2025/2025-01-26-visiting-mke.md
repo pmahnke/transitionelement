@@ -4,7 +4,7 @@ title: "Visiting Mom in Milwaukee"
 permalink: /archives/2025/01/visiting_mke.html
 commentfile: 2025-01-26-visiting_mke
 category: travel
-image: "https://lh3.googleusercontent.com/pw/AP1GczPwYt1Jg1as35xGHFa7RPAaQPjFNLO2uu2JRr0e9HNnGfj04r-3lLztRKy_vO5hY8-GOv29TQBZWHuQnX6INQjAa1IGhi5i_s9HmRS9naQ0t2BS4sQO=w1920-h1080"
+image: "/assets/images/google_photos/img_001.jpg"
 date: 2025-01-26 15:11:19
 excerpt: |
   From the 15 to 26 January, I went to Milwaukee to visit my mom.

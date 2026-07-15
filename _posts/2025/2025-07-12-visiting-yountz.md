@@ -4,7 +4,7 @@ title: "Visiting the Yountz's"
 permalink: /archives/2025/07/visit-yountz.html
 commentfile: 2025-07-12-visit-yountz
 category: travel
-image: "https://lh3.googleusercontent.com/pw/AP1GczP9dh7yEKukuqXjsCk9ihXUOT90wID4QwC9LH6t5QPCRkLTBc_RG1EHFzUVh5q6ylOTbt21EKidVGyKaPE1t8cf1vpldLUTKd8MNosspnzae2Lmoqgz=w2400"
+image: "/assets/images/google_photos/img_005.jpg"
 date: 2025-07-12 12:30:11
 excerpt: |
   Our first stop in Massachusetts was with Angela's cousin's family, the Yountz's in Needham Heights.

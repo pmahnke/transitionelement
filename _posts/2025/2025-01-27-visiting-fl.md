@@ -4,7 +4,7 @@ title: "Visiting Florida with Mimi"
 permalink: /archives/2025/01/visiting_fl_with_mimi.html
 commentfile: 2025-01-27-visiting_fl_with_mimi
 category: travel
-image: "https://lh3.googleusercontent.com/pw/AP1GczMAX8FHmsU0wD41iDAFoMlotx83Oxbx7UzyYngKHBydXrjFTGjQZU-TKYECSb2zGGsv81vGUqZveNqNlTAd7_GPo_6UBh0JP3vPvii_3zeXfLNGu2xG=w1920-h1080"
+image: "/assets/images/google_photos/img_018.jpg"
 date: 2025-01-27 15:28:43
 excerpt: |
   Angela visited her parents in Florida with Tante Mimi.

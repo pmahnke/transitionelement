@@ -4,7 +4,7 @@ title: "56 years old"
 permalink: /archives/2025/05/my_56th_birthday.html
 commentfile: 2025-05-04-my_56th_birthday
 category: life in the UK
-image: "https://lh3.googleusercontent.com/pw/AP1GczMytcC8SIM4QktmkVDN8pF6HYC3QoWaJgu9Ndgdlw38SjXlzboQ1UXwJWUXVvasFU372d9FvcwODYBYKM2VeHGJpczEaNPo5s9KSJpAD44iB-fnKtCz=w1920-h1080"
+image: "/assets/images/google_photos/img_007.jpg"
 date: 2025-05-04 14:26:48
 excerpt: |
   I turned 56 today.

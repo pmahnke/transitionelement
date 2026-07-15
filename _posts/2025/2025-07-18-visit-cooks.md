@@ -4,7 +4,7 @@ title: "Visiting Kim & John Cook"
 permalink: /archives/2025/07/visit-cooks.html
 commentfile: 2025-07-18-visit-cooks
 category: travel
-image: "https://lh3.googleusercontent.com/pw/AP1GczOsWu7WwkxyoDfbcpF1vRpdU7DNe8BM5y7st3tsXF-mpTifkO-x2EzTBs0L0CoJjShRKKPViCVhX1IBqQGTAUMQoPgxGHrZJiwY4roWn3urgfdtDidx=w2400"
+image: "/assets/images/google_photos/img_004.jpg"
 date: 2025-07-18 13:38:35
 excerpt: |
   Tonight we had dinner with John & Kim cook at Wu's Wontons and then went back to their apartment to talk more.

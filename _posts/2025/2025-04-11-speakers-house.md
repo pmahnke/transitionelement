@@ -4,7 +4,7 @@ title: "The Speaker's House"
 permalink: /archives/2025/04/speakers_house.html
 commentfile: 2025-04-11-speakers_house
 category: culture
-image: "https://lh3.googleusercontent.com/pw/AP1GczOt4X-W4NbJgq6QlVmnEXKL0SPeRBpRmyViXnxHXmSJ7gvcPd4FQXgitzCWCg5GqV1zrkasA--BnjiVHGptybTRS62E90cpnDYnXrNnMePYnYzZjlnl=w1920-h1080"
+image: "/assets/images/google_photos/img_012.jpg"
 date: 2025-04-11 14:32:29
 excerpt: |
   Today we visited the Speaker's House inside Westminster Palace.
