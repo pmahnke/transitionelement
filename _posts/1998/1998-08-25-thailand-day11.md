@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Thailand : Koh Samui ~ Day 11 to 17" 
-permalink: /travel/thailand/day10.html 
+permalink: /travel/thailand/day11.html 
 commentfile: 1998-08-25-day10
 category: travel 
 image: /assets/images/travel/thailand/KOH_B1.JPG"
