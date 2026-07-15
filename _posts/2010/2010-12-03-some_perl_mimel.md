@@ -11,13 +11,13 @@ At some point, you have been sent an HTML email with images that are still on th
 
 ### An email with no images, just empty boxes
 
-<img src="https://media.transitionelement.com/assets/images/Screen%20shot%202010-12-03%20at%2020.17.05.png"    alt="email, no images"/>
+<img src="https://media.transitionelement.com/assets/images/Screen-shot-202010-12-0-20-2020-17-05.png"    alt="email, no images"/>
 
 or,
 
 ### An email with no images, empty boxes and a message asking you if you want to download them.
 
-<img src="https://media.transitionelement.com/assets/images/Screen%20shot%202010-12-03%20at%2020.19.54.png"    alt="email, download first"/>
+<img src="https://media.transitionelement.com/assets/images/Screen-shot-2010-12-03-2020-19-54.png"    alt="email, download first"/>
 
 This is for good reason, nasty marketers can embedded tracking codes and who knows what else (joke)...
 
