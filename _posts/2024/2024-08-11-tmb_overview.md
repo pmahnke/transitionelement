@@ -25,4 +25,4 @@ Also, obviously, if you sleep in huts and hotels, you don't need to bring campin
 
 [Read our day by day notes from our Tour de Mont Blanc >]({% link _posts/2024/2024-07-31-tmb_day_1.md %})
 
-[!["Map of the Tour de Mont Blanc"](/assets/images/insta/tour-du-mont-blanc-map.jpg "Map of the Tour de Mont Blanc")](/assets/images/insta/tour-du-mont-blanc-map.jpg)
+[!["Map of the Tour de Mont Blanc"](https://media.transitionelement.com/assets/images/insta/tour-du-mont-blanc-map.jpg "Map of the Tour de Mont Blanc")](https://media.transitionelement.com/assets/images/insta/tour-du-mont-blanc-map.jpg)

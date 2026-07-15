@@ -16,5 +16,5 @@ We toured Holden and Wooster and spent a lot of time just catching up. Their dog
 
 The last evening we were there, Jon Paul and all the kids made an appearance. It was nice to see the kids again all as young adults.
 
-![Angela & Katie](/assets/images/google_photos/img_003.jpg
+![Angela & Katie](https://media.transitionelement.com/assets/images/google_photos/img_003.jpg
  "Angela & Katie")

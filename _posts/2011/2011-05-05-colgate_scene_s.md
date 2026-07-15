@@ -46,4 +46,4 @@ This walk is on the South side of the river. Start at the same place, Westminste
 
 </div>
 
-[Here is the full sized version](/assets/images/Spring2011Maroond_big.jpg)
+[Here is the full sized version](https://media.transitionelement.com/assets/images/Spring2011Maroond_big.jpg)

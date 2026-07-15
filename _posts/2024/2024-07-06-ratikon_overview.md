@@ -35,4 +35,4 @@ They are amazing. Better than the ones we found on our [Tour de Mont Blanc hike]
 
 [Read our day by day notes from our Rätikon hike >]({% link _posts/2024/2024-06-29-ratikon_day_0.md %})
 
-[!["Map of the Rätikon"](/assets/images/insta/huayhuash-map.png "Map of the Rätikon")](/assets/images/insta/huayhuash-map.png)
+[!["Map of the Rätikon"](https://media.transitionelement.com/assets/images/insta/huayhuash-map.png "Map of the Rätikon")](https://media.transitionelement.com/assets/images/insta/huayhuash-map.png)

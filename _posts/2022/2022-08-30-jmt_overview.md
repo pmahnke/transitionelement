@@ -51,4 +51,4 @@ We didn't even look into what our permit allowed, or about getting another one, 
 
 [Read our day by day notes from our John Muir Trail hike >]({% link _posts/2022/2022-08-04-jmt_day_1.md %})
 
-[!["Map of the John Muir Trail"](/assets/images/insta/JMT-elevation-and-passes.png "Map of the John Muir Trail")](/assets/images/insta/JMT-elevation-and-passes.png)
+[!["Map of the John Muir Trail"](https://media.transitionelement.com/assets/images/insta/JMT-elevation-and-passes.png "Map of the John Muir Trail")](https://media.transitionelement.com/assets/images/insta/JMT-elevation-and-passes.png)

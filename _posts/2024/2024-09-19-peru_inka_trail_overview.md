@@ -25,4 +25,4 @@ The Inka trail isn't technical and the distances are not long; however, it is at
 
 [Read our day by day notes from our Inka Trail hike >]({% link _posts/2024/2024-09-16-peru_inka_trail_day_1.md %})
 
-[!["Map of the Inka Trail"](/assets/images/insta/inca-trails-altitude-map.jpg "Map of the Inka Trail")](/assets/images/insta/inca-trails-altitude-map.jpg)
+[!["Map of the Inka Trail"](https://media.transitionelement.com/assets/images/insta/inca-trails-altitude-map.jpg "Map of the Inka Trail")](https://media.transitionelement.com/assets/images/insta/inca-trails-altitude-map.jpg)

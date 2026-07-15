@@ -14,4 +14,4 @@ Next was a visit to the McCullough's in New London, New Hampshire. We spent two 
 
 We played, and lost badly to Erica, Boggle.  We had a tour of the gardens from Tim. And we met two of the three sons.
 
-![Angela & Erica](/assets/images/google_photos/img_015.jpg "Angela & Erica")
+![Angela & Erica](https://media.transitionelement.com/assets/images/google_photos/img_015.jpg "Angela & Erica")

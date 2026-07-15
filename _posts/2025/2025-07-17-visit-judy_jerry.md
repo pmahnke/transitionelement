@@ -16,5 +16,5 @@ We met Judy and Jerry at a pub near Sparta, NJ. After lunch we headed to Green P
 
 We even met Kyle and his wife Olivia.
 
-![Judy and Angela](/assets/images/google_photos/img_009.jpg
+![Judy and Angela](https://media.transitionelement.com/assets/images/google_photos/img_009.jpg
  "Judy and Angela")

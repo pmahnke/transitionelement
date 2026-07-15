@@ -41,4 +41,4 @@ So we brought a lot of layers including: rain top and bottom, light fleece, down
 
 [Read our day by day notes from our Huayhuash Circuit hike >]({% link _posts/2024/2024-09-27-peru_huayhuash_hike_day_1.md %})
 
-[!["Map of the Huayhuash Curcuit"](/assets/images/insta/huayhuash-map.png "Map of the Huayhuash Curcuit")](/assets/images/insta/huayhuash-map.png)
+[!["Map of the Huayhuash Curcuit"](https://media.transitionelement.com/assets/images/insta/huayhuash-map.png "Map of the Huayhuash Curcuit")](https://media.transitionelement.com/assets/images/insta/huayhuash-map.png)
