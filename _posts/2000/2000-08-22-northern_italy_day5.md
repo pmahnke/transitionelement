@@ -23,7 +23,7 @@ After Bolgne we drove around Florence to Panzon in Chianti to our hotel
 
 The owners greeted us and gave us a great big room for Owen.
 
-<a href="https://media.transitionelement.com/assets/images/travel/italy/chiantijpg" title="Chianti View"><img src="https://media.transitionelement.com/assets/images/travel/italy/chianti.jpg"  alt="Chianti View"></a>
+<a href="https://media.transitionelement.com/assets/images/travel/italy/chianti.jpg" title="Chianti View"><img src="https://media.transitionelement.com/assets/images/travel/italy/chianti.jpg"  alt="Chianti View"></a>
 
 We immediately went for a swim. Owen loved it! But the horse flies were
 deadly, so we left.
