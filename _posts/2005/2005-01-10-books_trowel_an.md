@@ -8,8 +8,6 @@ category: culture
 date: 2005-01-10 10:51:55
 ---
 
-\[<a href="https://media.transitionelement.com/assets/images/202-5511823-5247050" target="_blank">UK</a>\]
-
 **Trowel and Error**
 
 _by Alan Titchmarsh_

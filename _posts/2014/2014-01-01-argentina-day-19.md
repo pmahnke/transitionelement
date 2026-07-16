@@ -5,9 +5,9 @@ permalink: /archives/2013/12/2014-01-01-argentina-day-19.html
 commentfile: 2014-01-01-argentina-day-19
 category: [travel, hiking]
 date: 2014-01-01 12:12:00
-image: ""
+image: /assets/images/2014/las_torres_hike_-_snowstorm.jpg
 excerpt: |
-  Torres del Paine
+  Today we hiked up to the Mirador Las Torres Base.
 slideshow_images:
   - alt: "las torres hike - lunch at the mirrador"
     url: "/assets/images/2014/las_torres_hike_-_lunch_at_the_mirrador.jpg"
@@ -34,10 +34,13 @@ slideshow_images:
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Refugio el Chileno | 4 people * 2 nights = USD$720 |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** |  _Walking_                                                    |          |
 
 
+Today we hiked up to the Mirador Las Torres Base.
 
-Chile hiking/camping  the “W” circuit in torres del Paine national park   http://abcnews.go.com/Travel/chiles-torres-del-paine-voted-8th-world/story?id=20754762
+From there you can see the spires that make the mountain range so famous.
+
+However, when we arrived and started to have lunch, there was a snowstorm.
+
+We weatherd the storm behind some rocks and it all cleared again.
+

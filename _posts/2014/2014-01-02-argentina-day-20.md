@@ -28,11 +28,10 @@ slideshow_images:
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | [Hotel Hallef](https://maps.app.goo.gl/hYTdHESF7K72Kj388) |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
 | **Travel** | _Walk_| Out of the park|
 || _Bus_                                                    |     to Puerto Natales (156km)     |
 
+Today we walked out of the back to a waiting bus back to Peurto Natales.
 
 We did the &#039;W&#039;. Boys did amazingly well. Weather was pretty good. Refugios were nice, but expensive!
 

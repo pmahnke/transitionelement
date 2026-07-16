@@ -12,13 +12,13 @@ slideshow_images:
   - alt: "more graffiti"
     url: "/assets/images/2013/more_graffiti.jpg"
   - alt: "dsc00140"
-    url: "/assets/images/2013/dsc00140.jpg"
+    url: "/assets/images/2013/DSC00140.JPG"
   - alt: "I hate to wake my Packer backers"
     url: "/assets/images/insta/tmp/1516168_751690738194216_1585393325_n_17842831246047535.jpg"
   - alt: "img 2754"
-    url: "/assets/images/2013/img_2754.jpg"
+    url: "/assets/images/2013/IMG_2754.JPG"
   - alt: "img 2750"
-    url: "/assets/images/2013/img_2750.jpg"
+    url: "/assets/images/2013/IMG_2750.JPG"
 excerpt: |
   We made it!  95f feels a bit different to London right now.
 ---

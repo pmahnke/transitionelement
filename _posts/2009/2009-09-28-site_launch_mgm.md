@@ -22,4 +22,4 @@ This year we have added a lot more to the 'pen pal' like Chattr application. Add
 - Student can launch activity
 - Scholastic want to customise product copy on a per-shop basis
 
-Take a look on [maryglasgowmagazines.com](https://maryglasgowmagazines.com/)
+Take a look on [maryglasgowmagazines.com](https://shop.scholastic.co.uk/series/849)

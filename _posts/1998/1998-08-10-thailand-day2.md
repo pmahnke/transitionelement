@@ -13,7 +13,7 @@ excerpt: The next day we went on a day walk of the old town across the river.
 
 The next day we went on a day walk of the old town across the river. You take these express boats on the river for like 2 cents to travel as far as you want. We feed turtles papaya at a monastery grave yard, saw Dutch style homes, a European church, a famous temple (called Wat) called Wat Chedi and another across the river called Wat Po with a 150 foot reclining Buddha. Angela got a 1/2 traditional Thai massage, I got a new sexy Thai massage (just kidding).
 
-<a href="https://media.transitionelement.com/assets/images/travel/thailand/wat_of_the_dawn1.gif 225w 150h (Wat Po at dawn"><img src="https://media.transitionelement.com/assets/images/travel/thailand/wat_of_the_dawn1.jpg" ></a>  
+<a href="https://media.transitionelement.com/assets/images/travel/thailand/wat_of_the_dawn1.gif"><img src="https://media.transitionelement.com/assets/images/travel/thailand/wat_of_the_dawn1.jpg" ></a>  
 
 Across the river there is this Wat of the Dawn.
 

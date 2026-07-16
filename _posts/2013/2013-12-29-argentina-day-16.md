@@ -5,9 +5,9 @@ permalink: /archives/2013/12/2013-12-29-argentina-day-16.html
 commentfile: 2013-12-29-argentina-day-16
 category: [travel, hiking]
 date: 2013-12-29 12:12:00
-image: ""
+image: /assets/images/2013/dsc01480.jpg
 excerpt: |
-  Torres del Paine
+  From Refugio Grey to Refugio los Cuernos.
 slideshow_images:
   - alt: "owen with the cuernos"
     url: "/assets/images/2013/owen_with_the_cuernos.jpg"
@@ -38,10 +38,9 @@ slideshow_images:
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Refugio los Cuernos | 4 people * 2 nights = USD$720 |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** |  _Walking_                                                    |          |
 
+Today's walk retraced nearly all of the previous day's walk and then it continues on.
 
+It was a bit rainy, but the boys did great.
 
-Chile hiking/camping  the “W” circuit in torres del Paine national park   http://abcnews.go.com/Travel/chiles-torres-del-paine-voted-8th-world/story?id=20754762
+The pack lunches are pretty horrible.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Argentina day 22 - Buenos Aires"
+title: "Argentina day 22 - Buenos Aires to London"
 permalink: /archives/2014/01/2014-01-04-argentina-day-22.html
 commentfile: 2014-01-04-argentina-day-22
 category: travel
@@ -25,4 +25,4 @@ slideshow_images:
 
 Back to London via Mardrid and a second Christmas.
 
-		
+We really enjoyed our hike and the entire trip around Southern Argentina.  It only makes us want to comeback and do more of both Argentina and Chille. 

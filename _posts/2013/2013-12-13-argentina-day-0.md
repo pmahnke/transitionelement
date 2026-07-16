@@ -15,4 +15,8 @@ excerpt: |
 | **Travel** | _Flying_                                                     | London - Madrid - Buenos Aires         |
 
 
-Today we flew to Buenos Aires via Madrid. We left in the evening and had a layover, so we don't arrive until 8:30am local time on the 14 December 2013.
+Today we flew to Buenos Aires via Madrid. We left in the evening and had a layover in Mardid.
+
+We didn't arrive until 8:30am local time on the 14 December 2013.
+
+We were pretty exhausted by the time zone changes and the sheer length of the trip.

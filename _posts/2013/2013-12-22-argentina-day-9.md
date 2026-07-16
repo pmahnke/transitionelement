@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Argentina day 9 - El Chalten"
+title: "Argentina day 9 - El Chaltén"
 permalink: /archives/2013/12/2013-12-22-argentina-day-9.html
 commentfile: 2013-12-22-argentina-day-9
 category: travel
 date: 2013-12-22 12:12:00
-image: ""
+image: /assets/images/2013/dsc01027.jpg
 excerpt: |
-  El Chalten
+   Today we took a pack lunch and did the Tres Lago hike. 
 slideshow_images:
   - alt: "el chaltan - owen and peter"
     url: "/assets/images/2013/el_chaltan_-_owen_and_peter.jpg"
@@ -48,9 +48,13 @@ slideshow_images:
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** | [El Pilar](http://www.hosteriaelpilar.com.ar/) |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |   La Tranquera       |
-| **Travel** | _Driving_                                                    |    to Punta del Gada to Punta Tombo (300km) then to Sarmiento (448km)    |
+| **Stayed** | |[El Pilar](http://www.hosteriaelpilar.com.ar/) |
+| **Travel** | _Hike_ |    Tres Lago hike |
 
- El Chalten 
+
+ Today we took a pack lunch and did the Tres Lago hike.  
+ 
+ There was a lot of snow just above us and it did snow on us a bit.  
+ 
+ But it was very pretty.
+

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Argentina day 10 - El Chalten"
+title: "Argentina day 10 - El Chaltén"
 permalink: /archives/2013/12/2013-12-23-argentina-day-10.html
 commentfile: 2013-12-23-argentina-day-10
 category: travel
 date: 2013-12-23 12:12:00
-image: ""
+image: /assets/images/2013/el_chaltan_-_piedra_del_fraile_trail_-_the_hard_wa.jpg
 excerpt: |
-  El Chalten
+  Today we hiked the Piedra del Fraile trail.
 slideshow_images:
   - alt: "img 2986"
     url: "/assets/images/2013/img_2986.jpg"
@@ -41,7 +41,9 @@ slideshow_images:
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** | [El Pilar](http://www.hosteriaelpilar.com.ar/) |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |   La Tranquera       |
-| **Travel** | _Driving_                                                    |    to Punta del Gada to Punta Tombo (300km) then to Sarmiento (448km)    |
+| **Stayed** || [El Pilar](http://www.hosteriaelpilar.com.ar/) |
+| **Travel** | _Hike_                                                    |   Piedra del Fraile trail.    |
+
+Today we hiked the Piedra del Fraile trail.  It was a bit cloudy, but still very pretty.  We also visited a hut for drinks and a snack.
+
+Afterwards, the boys wanted to chill, so Angela and I went into town and had a drink and some popcorn at a local brew pub, which was fun.

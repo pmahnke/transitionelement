@@ -7,7 +7,9 @@
   <!-- article {{forloop.index}} -->
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
     {{ post.excerpt | textilize }}
-    <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
+    <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {% for category in post.categories %}
+  <a href="/categories/{{ post.category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+{% endfor %}</p>
     {% endfor %}
   </div>
 </div>
@@ -15,7 +17,9 @@
   <h3>Older Articles</h3>
   <ul>
     {% for post in page.posts offset: 10 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {% for category in post.categories %}
+  <a href="/categories/{{ post.category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+{% endfor %}</li>
     {% endfor %}
   </ul>
 </div>

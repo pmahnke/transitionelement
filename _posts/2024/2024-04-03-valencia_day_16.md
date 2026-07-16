@@ -22,10 +22,10 @@ slideshow_images:
   url: /assets/images/insta/435293738_1472764236970445_2428871592752537969_n_18422233000058842.jpg
 
 excerpt: |
-  Today we went back to a really good sandwich shop for lunch, then explored two gardens, Jardins de Monfort and Jardins del Real, which has a track with a set of streets, bridges and traffic lights to teach children how to cycle and scooter around.
+  Today we went back to a really good sandwich shop for lunch, then explored two gardens, Jardins de Monfort and Jardins del Real.
 ---
 
-Today we went back to a that good sandwich shop for lunch, then explored two gardens, [Jardins de Monfort](Jardins de Monfort) and [Jardins del Real](https://maps.app.goo.gl/paUTdPqbW3zpyrxM7), which has a track with a set of streets, bridges and traffic lights to teach children how to cycle and scooter around. What a great idea.
+Today we went back to a that good sandwich shop for lunch, then explored two gardens, [Jardins de Monfort](https://maps.app.goo.gl/tXo3TvmpZ4i8wb2VA) and [Jardins del Real](https://maps.app.goo.gl/paUTdPqbW3zpyrxM7), which has a track with a set of streets, bridges and traffic lights to teach children how to cycle and scooter around. What a great idea.
 
 We spent the afternoon reading in the Turia Park.
 

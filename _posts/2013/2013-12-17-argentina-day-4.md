@@ -5,7 +5,7 @@ permalink: /archives/2013/12/2013-12-17-argentina-day-4.html
 commentfile: 2013-12-17-argentina-day-4
 category: travel
 date: 2013-12-17 12:12:00
-image: ""
+image: /assets/images/2013/sea_lions.jpg
 excerpt: |
   Flew from Buenos Ares to Trelew
 slideshow_images:
@@ -53,8 +53,12 @@ slideshow_images:
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | [Faro Punta Delgada Hotel](https://www.puntadelgada.com/)||
-| **Travel** | _Driving_                                                     | Trelew to Punta del Gada (204 kms)         |
+| **Travel** | _Driving_     | Trelew to Punta del Gada (204 kms)         |
 
-Today we flew from Buenos Ares to Trelew, rented a car and then drove to Punta del Gada
+Today we flew from Buenos Ares to Trelew, rented a car, and then drove to Ponta Delgada.
 
-nights 17-18 Dec - Valdes Peninsula http://www.puntadelgada.com/home.htm
+Punta Delgada is a funny penninsula with a lighthouse, where our hotel was.  We stayed in the old lighthouse keepers home.
+
+There are miles of beaches and it is home to elephant seals and miles of beaches.  It is also very near Puerto Madryn on Golfo Neuvo, where whales come to calve every year.  We are a bit late in the season, but we will check it out.
+
+We went for a few walks, played pool, and relaxed.

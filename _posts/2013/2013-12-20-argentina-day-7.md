@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Argentina day 7 0 Ruta 40"
+title: "Argentina day 7 - Ruta 40"
 permalink: /archives/2013/12/2013-12-20-argentina-day-7.html
 commentfile: 2013-12-20-argentina-day-7
 category: travel
 date: 2013-12-20 12:12:00
-image: ""
+image: /assets/images/2013/dsc00784.jpg
 excerpt: |
-  somewhere in the middle of no where route 40 http://www.cuevadelasmanos.net/
+  Somewhere in the middle of no where route 40.
 slideshow_images:
   - alt: "dsc00882"
     url: "/assets/images/2013/dsc00882.jpg"
@@ -52,12 +52,9 @@ slideshow_images:
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** | Hosteria Labrador |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |   La Tranquera       |
-| **Travel** | _Driving_                                                    |    to Punta del Gada to Punta Tombo (300km) then to Sarmiento (448km)    |
+| **Stayed** | |Estancia Cueva de las Manos |
+| **Travel** | _Driving_                                                    | to Cueva de las Manos (337 km)    |
 
-Visit Bosque Petrifacdo Jose
-Drive to hotel outside Cueva de las Manos
+We started the day with a visit to [Bosque Petrificado Sarmiento](https://maps.app.goo.gl/WoKfFBqfmuARZ7py8) where we did a 2.4 km loop walk around a 75 million year old landscape with amazing rock formations, petrified wood, and lots of wildlife.  It was very impressive, if a bit windy.
 
-somewhere in the middle of no where route 40 http://www.cuevadelasmanos.net/
+Then we drove to our hotel outside Cueva de las Manos.

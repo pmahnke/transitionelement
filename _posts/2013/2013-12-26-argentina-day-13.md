@@ -41,15 +41,12 @@ slideshow_images:
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  El Calafate http://www.lindavistahotel.com.ar/indexen.html |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+| **Stayed** | | [Linda Vista Home Apart Hotel](http://lindavistahotel.com.ar/en/) |
 
 
-The boys at the glacier.
+Today we visited the amazing Perito Moreno.  It was a lovely hike there and back and we spent over an hour just watching the glacier groan and calve.
 
-Merry Christmas and Happy Boxing Day. We are in El Calafate and the Perito Moreno glacier. We saw it calve icebergs a few times. Once out of the driving frozen rain!
+It rained on an off, but wasn't too bad.
+
+Then we went back to town, had a meal and got more ice cream and empenadas.
 

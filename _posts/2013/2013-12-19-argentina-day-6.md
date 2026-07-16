@@ -7,7 +7,7 @@ category: travel
 date: 2013-12-19 12:11:00
 image: "/assets/images/insta/tmp/1527743_496111120505305_2146332841_n_17842825915047535.jpg"
 excerpt: |
-  Should be off the grid. Walked with sea lions today.
+  Walked with sea lions today.
 slideshow_images:
   - alt: "tomba - nest"
     url: "/assets/images/2013/tomba_-_nest.jpg"
@@ -41,18 +41,12 @@ slideshow_images:
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** | Hosteria Labrador |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |   La Tranquera       |
+| **Stayed** || [Hosteria Labrador](https://www.tripadvisor.com/Hotel_Review-g2617015-d1600541-Reviews-Hosteria_Labrador-Sarmiento_Province_of_Chubut_Patagonia.html) |
+| **Ate**    | _Dinner_                                                     |   La Tranquera       |
 | **Travel** | _Driving_                                                    |    to Punta del Gada to Punta Tombo (300km) then to Sarmiento (448km)    |
 
+Today we drove to Punta Tomba and saw a huge penguin nesting site. We walked for miles on a boardwalk over the nests and saw thousands of penguins and their chicks.  It was very cool.
 
-Should be off the grid. Walked with sea lions today.
+Then we drove inland to Sarmiento.  We stayed at a lovely B&B with a cherry orchard!
 
-
-We left Buenos Aires on Tuesday and flew to Trelew, rented a car and drove to Punta Delgada. From there we saw sea lions, elephant seals, whales Abe penguins. Today we drove to Punta Tomba and saw a HUGE penguin nesting site. Then on to Sarmiento where the B&B has a cherry orchard!
-
-
-Sarmiento http://www.hosterialabrador.com/
-
-		
+For dinner, we went to an excellent and every local steakhouse, La Tranquera, recommened by the woman running our B&B.

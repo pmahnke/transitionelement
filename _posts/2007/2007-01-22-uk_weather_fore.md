@@ -19,7 +19,7 @@ excerpt: |
 
 I really want to know why the British are willing to settle for weather forecasts that are so vague as to be comical, if not dangerous?
 
-<a href="https://media.transitionelement.com/assets/images/bb_uk_weather.jpg"><img src="https://media.transitionelement.com/assets/images/bb_uk_weather-thumb.gif" alt="bbc main weather blurb" /></a>
+<a href="https://media.transitionelement.com/assets/images/bb_uk_weather.gif"><img src="https://media.transitionelement.com/assets/images/bb_uk_weather-thumb.gif" alt="bbc main weather blurb" /></a>
 
 Last year, the [BBC spent millions on new computer animations](http://www.bbc.co.uk/weather/bbcweather/features/graphics_whychange.shtml) that made the [Scottish feel small and all others dizzy](http://www.mcwetboy.net/maproom/2005/05/bbc_weather_map_overhaul_draws_complaints.phtml) with a virtual flight around the isles looking at clouds. Even looking at a website, you can never know if its going to rain tomorrow, and certainly not when.
 

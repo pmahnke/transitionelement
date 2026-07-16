@@ -5,7 +5,7 @@ permalink: /archives/2013/12/2013-12-28-argentina-day-15.html
 commentfile: 2013-12-28-argentina-day-15
 category: [travel, hiking]
 date: 2013-12-28 12:12:00
-image: ""
+image: "/assets/images/2013/on_the_boat.jpg"
 excerpt: |
   Torres del Paine
 slideshow_images:
@@ -45,12 +45,13 @@ slideshow_images:
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Refugio Grey | 4 * Bed + full board x 4 USD$ 320 |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
 | **Travel** | _Bus_                                                      |      to Torres del Paine National Park (90km)    |
 |            | _Walking_                                                    |          |
 
+Today was a long day of getting to the start of the hike, via a bus and ferry, and then hiking to our first refugio.
 
+The boys did great.  But we brought way too much stuff.
 
+There was a cool glacier right near the hut.  The food was excellent.
 
-Chile hiking/camping  the “W” circuit in torres del Paine national park   http://abcnews.go.com/Travel/chiles-torres-del-paine-voted-8th-world/story?id=20754762
+Here is [some information about our hike](https://abcnews.com/Travel/chiles-torres-del-paine-voted-8th-world/story?id=20754762), the “W” circuit in Torres del Paine National Park.

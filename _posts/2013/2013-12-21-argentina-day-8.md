@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Argentina day 8 - El Chalten"
+title: "Argentina day 8 - El Chaltén"
 permalink: /archives/2013/12/2013-12-21-argentina-day-8.html
 commentfile: 2013-12-20-argentina-day-8
 category: travel
 date: 2013-12-20 12:12:00
-image: ""
+image: /assets/images/2013/cueva_de_las_manos_-_animals.jpg
 excerpt: |
-  El Chalten
+  We started the day with a visit to the Cueva de las Manos.
 slideshow_images:
   - alt: "ruta 40 - sign guanaco"
     url: "/assets/images/2013/ruta_40_-_sign_guanaco.jpg"
@@ -55,11 +55,15 @@ slideshow_images:
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** | Hosteria Labrador |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |   La Tranquera       |
-| **Travel** | _Driving_                                                    |    to Punta del Gada to Punta Tombo (300km) then to Sarmiento (448km)    |
+| **Stayed** | |[Hostería El Pilar](http://www.hosteriaelpilar.com.ar/) |
+| **Ate**    | _Dinner_                                                     |   La Tranquera       |
+| **Travel** | _Driving_                                                    |    to El Chaltén (451 km)    |
 
-Drive to El Chalten (451km)
 
- El Chalten http://www.hosteriaelpilar.com.ar/
+We started the day with a visit to the [Cueva de las Manos](https://maps.app.goo.gl/hnNxp6Qhxf4i83FJ6), a World Heritage Site cave known for ancient art, including many stenciled paintings of human hands. Created in several waves between 7,300 BC and AD 700.
+
+Some of the pictures on the walls also depicted things like how they used rocks on long ropes to kill guanaco. Amazing.
+
+Then we drove on to El Chaltén (451km).  And we punchured a tire.  And I now know what a gomeria is (one who fixes punctured tires).  Ruta 40 is being rebuilt. We might be the last of the travelers on the old gravel road.  We can see the new asphalt road most of the time.  Only the bridges need finishing, but they are mostly ready.  Annoying. 
+
+In El Chaltén , we stayed a bit out of town, right in front of Mount FitzRoy at a lovely Hosteria with amazing lupins and common rooms overlooking the mountains.

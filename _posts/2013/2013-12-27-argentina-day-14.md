@@ -5,7 +5,7 @@ permalink: /archives/2013/12/2013-12-27-argentina-day-14.html
 commentfile: 2013-12-27-argentina-day-14
 category: travel
 date: 2013-12-27 12:35:00
-image: "/assets/images/insta/tmp/1538585_1433458783550608_12121018_n_17842829083047535.jpg"
+image: "/assets/images/2013/img_3063.jpg"
 excerpt: |
   Made it to Chile. Torres tomorrow. Wish us luck!
 slideshow_images:
@@ -25,10 +25,11 @@ slideshow_images:
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** | [Hotel Hallef](https://maps.app.goo.gl/hYTdHESF7K72Kj388) |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
+| **Stayed** | |[Hotel Hallef](https://maps.app.goo.gl/hYTdHESF7K72Kj388) |
 | **Travel** | _Bus_                                                    |     to Puerto Natales (156km)     |
 
+Today we turned in our rental car and took a bus into Chile.  We are at the hotel we will come back to after our hike.
 
-Made it to Chile. Torres tomorrow. Wish us luck!
+The town is very quiet.
+
+We start Torres del Paine tomorrow. Wish us luck!

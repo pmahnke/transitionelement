@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Argentina day 11 - El Chalten"
+title: "Argentina day 11 - El Chaltén"
 permalink: /archives/2013/12/2013-12-24-argentina-day-11.html
 commentfile: 2013-12-24-argentina-day-11
 category: travel
 date: 2013-12-24 12:12:00
-image: ""
+image: /assets/images/2013/el_chaltan_-_xmas_eve_-_roo_decorating_the_tree.jpg
 excerpt: |
-  El Chalten
+  El Chaltén
 slideshow_images:
   - alt: "img 2968"
     url: "/assets/images/2013/img_2968.jpg"
@@ -41,14 +41,13 @@ slideshow_images:
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** | [Apart El Caburé](https://www.facebook.com/ApartElCabure/) |
+| **Stayed** | | [Apart El Caburé](https://www.facebook.com/ApartElCabure/) |
 | **Ate**    | _Lunch_                                                      |          |
 |            | _Dinner_                                                     |   La Tranquera       |
 | **Travel** | _Driving_                                                    |    to Punta del Gada to Punta Tombo (300km) then to Sarmiento (448km)    |
 
-El Chalten http://www.bedandbreakfast.eu/bed-and-breakfast/el-chalten/apart-el-cabure/197234/
+Today is Christmas Eve.  We moved hotels to a little cabin with a kitchen and two bedrooms.
 
+The people who own the place been been cooking spatchcocked lambs over an open fire right outside our window all day.  We are eating pasta, it is a little depressing.  But we have brought some small gifts and a wooden Christmas tree and are having a nice day.
 
-We are all well in El Chalten. That's Ryan with mount Fitzroy in the back, the only time we have seen it all week. Tomorrow we head to El Calafate and the perito merano glacier.
-
-We have done some long hard hikes here and the boys have done better that us. Fingers crossed for Torres del Painne. 
+We have done some long, hard hikes here and the boys have done better that us. Fingers crossed for Torres del Paine. 

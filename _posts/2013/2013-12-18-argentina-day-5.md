@@ -5,7 +5,7 @@ permalink: /archives/2013/12/2013-12-18-argentina-day-5.html
 commentfile: 2013-12-18-argentina-day-5
 category: travel
 date: 2013-12-18 12:12:00
-image: ""
+image: /assets/images/2013/puerto_piramides_-_boys_on_the_boat.jpg
 excerpt: |
   Valdes Peninsula
 slideshow_images:
@@ -33,4 +33,8 @@ slideshow_images:
     url: "/assets/images/2013/elephant_seals_play_fighting.jpg"
 ---
 
-nights 17-18 Dec - Valdes Peninsula http://www.puntadelgada.com/home.htm
+Today we drove to Puerto Madryn and took a boat tour of the Golfo Neuvo to see the last remaining whale and her calf.  We did see them, it was pretty impressive.  They are protected in this bay from orcas that roam just a bit further north.
+
+No on knew why this mother and calf were still in the bay.
+
+We also took a guided walk down to see the seals basking in the sun and play fighting.

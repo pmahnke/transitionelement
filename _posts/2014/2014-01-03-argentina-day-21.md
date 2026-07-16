@@ -26,10 +26,10 @@ slideshow_images:
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Nina Suites -  Malabia 1568 - Palermo Soho | _now closed_ |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** | _Flying_                                                     |          |
-|            | _Train_                                                      |          |
-|            | _Walking_                                                    |          |
+| **Ate**    | _Dinner_                                                     |    [Don Julio Parrilla](https://maps.app.goo.gl/Wbwud6io5mxxLm7Q8)           |
+| **Travel** | _Flying_                                                     |     El Calafate to Buenos Aires     |
 
+Today we took a bus to El Calafate Airport and flew back to Buenos Aires.
+
+We stayed one more night in the Nina Suites and had one more dinner at the excellent Don Julio Parilla steakhouse.
 

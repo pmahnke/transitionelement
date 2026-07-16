@@ -5,9 +5,9 @@ permalink: /archives/2013/12/2013-12-30-argentina-day-17.html
 commentfile: 2013-12-30-argentina-day-17
 category: [travel, hiking]
 date: 2013-12-30 12:12:00
-image: ""
+image: /assets/images/2013/dsc01469.jpg
 excerpt: |
-  Torres del Paine
+   Ryan and I stayed around Refugio los Cuernos.
 slideshow_images:
   - alt: "angela owen on the beach"
     url: "/assets/images/2013/angela_owen_on_the_beach.jpg"
@@ -37,5 +37,8 @@ slideshow_images:
 
 
 
+Ryan and I stayed around Refugio los Cuernos.
 
-Chile hiking/camping  the “W” circuit in torres del Paine national park   http://abcnews.go.com/Travel/chiles-torres-del-paine-voted-8th-world/story?id=20754762
+Owen and Angela walked to Valley del France, at least a little bit.
+
+We both enjoyed the day.

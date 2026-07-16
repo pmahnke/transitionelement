@@ -8,8 +8,6 @@ category: culture
 date: 2005-01-22 07:11:38
 ---
 
-\[<a href="https://media.transitionelement.com/assets/images/002-7085231-9388802" target="_blank">US</a> | <a href="https://media.transitionelement.com/assets/images/026-9109773-9198023" target="_blank">UK</a>\]
-
 **The Last Lighthouse Keeper**
 
 _by Alan Titchmarsh_

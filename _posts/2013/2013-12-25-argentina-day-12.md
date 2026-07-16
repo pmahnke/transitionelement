@@ -7,7 +7,7 @@ category: travel
 date: 2013-12-25 08:22:00
 image: "/assets/images/insta/tmp/1538361_1442951859252168_715725059_n_17842828261047535.jpg"
 excerpt: |
-  Merry Christmas from El Chalten and Ryan and Mt FitzRoy!
+  Merry Christmas from El Chaltén and Ryan and Mt FitzRoy!
 slideshow_images:
   - alt: "dsc01219"
     url: "/assets/images/2013/dsc01219.jpg"
@@ -29,15 +29,13 @@ slideshow_images:
 
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
-| **Stayed** |  |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
+| **Stayed** | | [Linda Vista Home Apart Hotel](http://lindavistahotel.com.ar/en/) |
 | **Travel** | _Driving_                                                    |    Drive to El Calafate (199km)      |
 
 
-Merry Christmas from El Chalten and Ryan and Mt FitzRoy!
+Merry Christmas.
 
-Visit Los Glaciares National Park
+We headed to El Calafate and we plan to visit Los Glaciares National Park and the Perito Merano Glacier.
 
+Today we just explored the town and ate nice ice cream.
 
- El Calafate http://www.lindavistahotel.com.ar/indexen.html

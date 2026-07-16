@@ -3,7 +3,7 @@ layout: post
 title: "Book - Salmon Fishing in the Yemen"
 permalink: /archives/2007/07/book_salmon_fis.html
 commentfile: 2007-07-17-book_salmon_fis
-image: /assets/images/book_salmonfishing.jpg"
+image: /assets/images/book_salmonfishing.jpg
 category: culture
 date: 2007-07-17 21:57:38
 ---

@@ -5,7 +5,7 @@ permalink: /archives/2013/12/2013-12-31-argentina-day-18.html
 commentfile: 2013-12-31-argentina-day-18
 category: [travel, hiking]
 date: 2013-12-31 12:12:00
-image: ""
+image: /assets/images/2013/new_years_eve_boys.jpg
 excerpt: |
   Torres del Paine
 slideshow_images:
@@ -37,11 +37,7 @@ slideshow_images:
 |            |                                                              |
 | ---------- | ------------------------------------------------------------ | ----------------------------- |
 | **Stayed** | Refugio el Chileno | 4 people * 2 nights = USD$720 |
-| **Ate**    | _Lunch_                                                      |          |
-|            | _Dinner_                                                     |          |
-| **Travel** |  _Walking_                                                    |          |
 
+Today we walked to Regufio el Chileno.  Again we stays in tents on these platforms on a hillside.
 
-
-
-Chile hiking/camping  the “W” circuit in torres del Paine national park   http://abcnews.go.com/Travel/chiles-torres-del-paine-voted-8th-world/story?id=20754762
+We paid to have their New Year's Eve dinner and really enjoyed ourselves and the company.

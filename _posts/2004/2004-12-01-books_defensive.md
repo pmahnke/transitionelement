@@ -8,7 +8,6 @@ category: culture
 date: 2004-12-01 11:48:49
 ---
 
-\[<a href="https://media.transitionelement.com/assets/images/104-3081487-1066303" target="_blank">US</a> | <a href="https://media.transitionelement.com/assets/images/026-3136268-1228467" target="_blank">UK</a>\]
 
 **Defensive Design for the Web** : How to improve error messages, help, forms, and other crisis points
 
