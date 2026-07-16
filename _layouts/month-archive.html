@@ -16,7 +16,7 @@ layout: default-empty
       {% for post in page.posts limit: 1 %}
       <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {% if post.image %}<p><img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/mahnke/image/fetch/q_auto:best,f_auto/{% endif %}{{ site.media-url }}{{ post.image | escape }}" alt="" /></p>{% endif %}
-      {{ post.excerpt | textilize }}
+      {{ post.excerpt | markdownify }}
       <p class="post-link"><a href="{{ post.url }}">Continue reading &#8230;</a></p>
       <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} |  {% for category in post.categories %}
   <a href="/archives/{{ category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}

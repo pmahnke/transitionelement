@@ -15,7 +15,7 @@ layout: default-empty
       {% if post.categories contains page.title %}
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
         {% if post.image %}<p><img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/mahnke/image/fetch/q_auto:best,f_auto/{% endif %}{{ site.media-url }}{{ post.image }}" width="536" alt="" /></p>{% endif %}
-        {{ post.excerpt | textilize }}
+        {{ post.excerpt | markdownify }}
         <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }}</p>
       {% endif %}
     {% endfor %}
@@ -25,12 +25,12 @@ layout: default-empty
     {% for post in page.posts limit: 1 %}
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {% if post.image %}<p><img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/mahnke/image/fetch/q_auto:best,f_auto/{% endif %}{{ site.media-url }}{{ post.image }}" width="536" alt="" /></p>{% endif %}
-      {{ post.excerpt | textilize }}
+      {{ post.excerpt | markdownify }}
       <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }}</p>
     {% endfor %}
     {% for post in page.posts limit: 3 offset: 1%}
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt | textilize }}
+      {{ post.excerpt | markdownify }}
       <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }}</p>
     {% endfor %}
     {% if page.posts.size > 10 %}
