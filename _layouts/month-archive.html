@@ -15,18 +15,20 @@ layout: default-empty
       <!-- latest story - big -->
       {% for post in page.posts limit: 1 %}
       <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {% if post.image %}<p><img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/mahnke/image/fetch/q_auto:best,f_auto/{% endif %}{% if post.image contains 'googleusercontent' %}{% else %}{{ site.media-url }}{% endif %}{{ post.image | escape }}" alt="" /></p>{% endif %}
+      {% if post.image %}<p><img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/mahnke/image/fetch/q_auto:best,f_auto/{% endif %}{{ site.media-url }}{{ post.image | escape }}" alt="" /></p>{% endif %}
       {{ post.excerpt | textilize }}
       <p class="post-link"><a href="{{ post.url }}">Continue reading &#8230;</a></p>
-      <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} | <a href="{{ site.baseurl }}/archives/{{ post.categories[0] | slugify }}">{{ post.categories[0] }}</a></p>
+      <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} |  {% for category in post.categories %}
+  <a href="/archives/{{ category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+{% endfor %}</p>
       {% endfor %}
       
   
       {% for post in page.posts limit: 2 offset: 1 %}
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
         {{ post.excerpt }}
-        <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {% for category in post.categories %}
-  <a href="/archives/{{ post.category | downcase | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+        <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} |  {% for category in post.categories %}
+  <a href="/archives/{{ category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
 {% endfor %}</p>
       {% endfor %}
   
@@ -35,8 +37,8 @@ layout: default-empty
         {% for post in page.posts offset: 3 %}
         <li>
           <a href="{{ post.url }}">{{ post.title }}</a> 
-          &mdash; {{ post.date | date: "%-d %B %Y" }} | {% for category in post.categories %}
-  <a href="/archives/{{ post.post.category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+          &mdash; {{ post.date | date: "%-d %B %Y" }} |  {% for category in post.categories %}
+  <a href="/archives/{{ category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
 {% endfor %}
         </li>
         {% endfor %}
