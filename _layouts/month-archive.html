@@ -26,7 +26,7 @@ layout: default-empty
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
         {{ post.excerpt }}
         <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {% for category in post.categories %}
-  <a href="/categories/{{ post.category | downcase | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+  <a href="/archives/{{ post.category | downcase | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
 {% endfor %}</p>
       {% endfor %}
   
@@ -36,7 +36,7 @@ layout: default-empty
         <li>
           <a href="{{ post.url }}">{{ post.title }}</a> 
           &mdash; {{ post.date | date: "%-d %B %Y" }} | {% for category in post.categories %}
-  <a href="/categories/{{ post.post.category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+  <a href="/archives/{{ post.post.category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
 {% endfor %}
         </li>
         {% endfor %}
