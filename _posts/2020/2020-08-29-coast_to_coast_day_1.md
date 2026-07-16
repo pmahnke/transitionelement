@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 1 - St Bees to Ennerdale Bridge"
 permalink: /archives/2020/08/2020-08-29-coast_to_coast_day_1.html
 commentfile: 2020-08-29-coast_to_coast_day_1
-categories: ["travel", "hiking"]
+category: ["travel", "hiking"]
 date: 2020-08-29 08:59:00
 image: "/assets/images/insta/IMG_20200829_084416.jpg"
 slideshow_images:

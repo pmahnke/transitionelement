@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 14 - Blakey Ridge to Littlebeck"
 permalink: /archives/2020/09/2020-09-11-coast_to_coast_day_14.html
 commentfile: 2020-09-11-coast_to_coast_day_14
-categories: ["travel", "hiking"]
+category: ["travel", "hiking"]
 date: 2020-09-11 03:53:00
 image: "/assets/images/insta/IMG_20200911_111040.jpg"
 slideshow_images:

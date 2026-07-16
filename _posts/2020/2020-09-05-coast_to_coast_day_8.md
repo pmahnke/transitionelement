@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 8 - Keld to Reeth"
 permalink: /archives/2020/09/2020-09-05-coast_to_coast_day_8.html
 commentfile: 2020-09-05-coast_to_coast_day_8
-categories: ["travel", "hiking"]
+category: ["travel", "hiking"]
 date: 2020-09-05 09:08:00
 image: "/assets/images/insta/118844293_961931904308968_2596691062613543012_n_17891784070627938.jpg"
 slideshow_images:

@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast -  Day 4 - Grisdale Tarn to Patterdale"
 permalink: /archives/2020/09/2020-09-01-coast_to_coast_day_4.html
 commentfile: 2020-09-01-coast_to_coast_day_4
-categories: ["travel", "hiking"]
+category: ["travel", "hiking"]
 date: 2020-09-01 05:51:00
 image: "/assets/images/insta/IMG_20200901_064149.jpg"
 slideshow_images:

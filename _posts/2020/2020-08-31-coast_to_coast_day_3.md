@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 3 - Haystacks to Grisedale Tarn"
 permalink: /archives/2020/08/2020-08-31-coast_to_coast_day_3.html
 commentfile: 2020-08-31-coast_to_coast_day_3
-categories: ["travel", "hiking"]
+category: ["travel", "hiking"]
 date: 2020-08-31 08:59:00
 image: "/assets/images/insta/IMG_20200831_090344.jpg"
 slideshow_images:

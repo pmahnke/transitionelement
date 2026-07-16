@@ -3,7 +3,7 @@ layout: post
 title: "Coast to Coast - Day 13 - Clay Bank Top to Blakey Ridge"
 permalink: /archives/2020/09/2020-09-10-coast_to_coast_day_13.html
 commentfile: 2020-09-10-coast_to_coast_day_13
-categories: ["travel", "hiking"]
+category: ["travel", "hiking"]
 date: 2020-09-10 03:53:00
 image: "/assets/images/insta/118860086_3922187511142727_4925961326760647930_n_17885263783692987.jpg"
 slideshow_images:
