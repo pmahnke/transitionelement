@@ -8,7 +8,6 @@ category: culture
 date: 2006-07-30 09:26:21
 ---
 
-\[ [US](http://www.amazon.com/gp/product/0349118485/102-1974407-8457737?redirect=true&v=glance&n=266239&s=books&v=glance) | [UK](http://www.amazon.co.uk/gp/product/0349118485/026-7137165-3530015?v=glance&n=266239&s=books&v=glance) \]
 
 #### The Ballad of Lee Cotton
 

@@ -8,7 +8,6 @@ category: culture
 date: 2008-04-29 15:08:58
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446699527) | [UK](http://www.amazon.co.uk/o/asin/0446699527) \]
 
 #### Lost Light (Harry Bosch)
 

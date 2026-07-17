@@ -8,7 +8,6 @@ category: culture
 date: 2005-08-30 17:51:45
 ---
 
-\[ [UK](http://www.amazon.co.uk/exec/obidos/ASIN/0713998067/qid=1126889658/sr=8-1/ref=sr_8_xs_ap_i1_xgl/026-7137165-3530015) | [US](http://www.amazon.com/exec/obidos/tg/detail/-/B00096RZWG/ref=pd_sim_1/103-3883285-7475016?%5Fencoding=UTF8&v=glance) \]
 
 **Freakonomics: A Rogue Economist Explores the Hidden Side of Everything**
 

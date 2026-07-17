@@ -8,7 +8,6 @@ category: culture
 date: 2009-12-16 21:48:38
 ---
 
-\[ [US](http://www.amazon.com/o/asin/059305427X) | [UK](http://www.amazon.co.uk/o/asin/059305427X) \]
 
 #### The Lost Symbol
 

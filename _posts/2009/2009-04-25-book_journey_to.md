@@ -8,7 +8,6 @@ category: culture
 date: 2009-04-25 21:05:17
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0714541397) | [UK](http://www.amazon.co.uk/o/asin/0714541397) \]
 
 #### Journey to the End of the Night
 

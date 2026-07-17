@@ -8,7 +8,6 @@ category: culture
 date: 2007-02-06 12:10:00
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0439139600) | [UK](http://www.amazon.co.uk/o/asin/0439139600) \]
 
 #### Harry Potter and the Goblet of Fire
 

@@ -8,7 +8,6 @@ category: culture
 date: 2010-05-15 15:20:53
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0141323558) | [UK](http://www.amazon.co.uk/o/asin/0141323558) \]
 
 #### The Dark is Rising
 

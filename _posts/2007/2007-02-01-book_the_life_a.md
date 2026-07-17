@@ -8,7 +8,6 @@ category: culture
 date: 2007-02-01 21:48:25
 ---
 
-\[ [US](http://www.amazon.com/o/asin/076791936X) | [UK](http://www.amazon.co.uk/o/asin/076791936X) \]
 
 #### The Life and Times of the Thunderbolt Kid: A Memoir
 

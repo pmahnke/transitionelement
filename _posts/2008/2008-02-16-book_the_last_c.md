@@ -8,7 +8,6 @@ category: culture
 date: 2008-02-16 21:39:28
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446619078) | [UK](http://www.amazon.co.uk/o/asin/0446619078) \]
 
 #### The Last Coyote (Harry Bosch)
 

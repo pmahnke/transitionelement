@@ -8,7 +8,6 @@ category: culture
 date: 2009-11-25 21:43:48
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0747596484) | [UK](http://www.amazon.co.uk/o/asin/0747596484) \]
 
 #### The Suspicions of Mr. Whicher or the Murder at Road Hill House
 

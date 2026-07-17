@@ -8,7 +8,6 @@ category: culture
 date: 2011-06-29 16:35:28
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1409118339) | [UK](http://www.amazon.co.uk/o/asin/1409118339) \]
 
 #### The Fifth Witness
 

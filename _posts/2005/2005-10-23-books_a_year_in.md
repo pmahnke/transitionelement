@@ -8,7 +8,6 @@ category: culture
 date: 2005-10-23 20:38:36
 ---
 
-\[ [US](http://www.amazon.com/exec/obidos/tg/detail/-/0679731148/qid=1130093685/sr=8-1/ref=pd_bbs_1/103-6338178-1604669?v=glance&s=books&n=507846) | [UK](http://www.amazon.co.uk/exec/obidos/tg/detail/-/0679731148/qid=1130093685/sr=8-1/ref=pd_bbs_1/202-8628342-5140651?v=glance&s=books&n=507846) \]
 
 **A Year in Provence**
 

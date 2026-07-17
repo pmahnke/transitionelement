@@ -8,7 +8,6 @@ category: culture
 date: 2006-06-04 18:37:28
 ---
 
-\[ [UK](http://www.amazon.co.uk/exec/obidos/ASIN/0099415178/sr=1-15/qid=1150133584/ref=sr_1_15/026-7137165-3530015?%5Fencoding=UTF8&s=books&v=glance) | [US](http://www.amazon.com/gp/product/0142004227/qid=1150133964/sr=1-9/ref=sr_1_9/104-6366348-2988752?s=books&v=glance&n=283155) \]
 
 #### Uniform Justice
 

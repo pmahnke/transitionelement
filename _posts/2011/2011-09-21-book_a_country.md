@@ -9,7 +9,6 @@ date: 2011-09-21 21:02:55
 excerpt: |
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0099529564) | [UK](http://www.amazon.co.uk/o/asin/0099529564) \]
 
 #### A Country Doctor's Notebook (Vintage Classics)
 

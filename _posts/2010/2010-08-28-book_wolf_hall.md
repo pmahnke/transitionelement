@@ -8,7 +8,6 @@ category: culture
 date: 2010-08-28 14:22:50
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0007230206) | [UK](http://www.amazon.co.uk/o/asin/0007230206) \]
 
 #### Wolf Hall
 

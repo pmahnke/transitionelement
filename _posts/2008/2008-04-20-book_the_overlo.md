@@ -8,7 +8,6 @@ category: culture
 date: 2008-04-20 21:08:50
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446401307) | [UK](http://www.amazon.co.uk/o/asin/0446401307) \]
 
 #### The Overlook (Harry Bosch)
 

@@ -8,7 +8,6 @@ category: culture
 date: 2008-11-23 21:52:38
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0515144347) | [UK](http://www.amazon.co.uk/o/asin/0515144347) \]
 
 #### The Faithful Spy
 

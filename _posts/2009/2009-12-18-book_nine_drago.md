@@ -8,7 +8,6 @@ category: culture
 date: 2009-12-18 21:51:56
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0752875876) | [UK](http://www.amazon.co.uk/o/asin/0752875876) \]
 
 #### Nine Dragons
 

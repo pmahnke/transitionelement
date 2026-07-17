@@ -8,7 +8,6 @@ category: culture
 date: 2006-05-18 13:01:47
 ---
 
-\[ [UK](http://www.amazon.co.uk/gp/product/0446524190/qid=1148472144/sr=2-1/ref=pd_bbs_b_2_1/202-1376646-9321463?s=books&v=glance&n=283155) | [US](http://www.amazon.com/gp/product/0446524190/qid=1148472144/sr=2-1/ref=pd_bbs_b_2_1/103-0948723-3228625?s=books&v=glance&n=283155])
 
 #### Gods in Alabama
 

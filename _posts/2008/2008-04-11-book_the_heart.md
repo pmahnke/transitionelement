@@ -8,7 +8,6 @@ category: culture
 date: 2008-04-11 21:21:00
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0099479338) | [UK](http://www.amazon.co.uk/o/asin/0099479338) \]
 
 #### The Heart of a Dog
 

@@ -8,7 +8,6 @@ category: culture
 date: 2005-08-16 17:16:40
 ---
 
-\[ [UK](http://www.amazon.co.uk/exec/obidos/ASIN/0713992867/qid=1126887273/sr=8-1/ref=pd_bbs_1/026-7137165-3530015) | [US](http://www.amazon.com/exec/obidos/tg/detail/-/0670033375/qid=1126887522/sr=1-1/ref=sr_1_1/103-3883285-7475016?v=glance&s=books) \]
 
 **Collapse : How Societies Choose to Fail or Survive**
 

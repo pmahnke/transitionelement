@@ -8,7 +8,6 @@ category: culture
 date: 2008-02-27 21:35:17
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0312941919) | [UK](http://www.amazon.co.uk/o/asin/0312941919) \]
 
 #### Trunk Music (Harry Bosch)
 

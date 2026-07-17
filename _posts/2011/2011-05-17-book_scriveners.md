@@ -8,7 +8,6 @@ category: culture
 date: 2011-05-17 08:57:47
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1407115219) | [UK](http://www.amazon.co.uk/o/asin/1407115219) \]
 
 #### Scrivener's Moon (Mortal Engines)
 

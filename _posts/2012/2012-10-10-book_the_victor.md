@@ -10,7 +10,6 @@ excerpt: |
   Very interesting and the parallels to our modern day internet are astounding.
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0753807033) | [UK](http://www.amazon.co.uk/o/asin/0753807033) \]
 
 #### The Victorian Internet
 

@@ -8,7 +8,6 @@ category: culture
 date: 2010-02-06 21:56:30
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0140621334) | [UK](http://www.amazon.co.uk/o/asin/0140621334) \]
 
 #### Three Men in a Boat
 

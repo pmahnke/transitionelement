@@ -8,7 +8,6 @@ category: culture
 date: 2010-07-30 15:43:14
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0330436082) | [UK](http://www.amazon.co.uk/o/asin/0330436082) \]
 
 #### Sovereign (Shardlake)
 

@@ -10,7 +10,6 @@ excerpt: |
   I can't recall my previous reviews, but this was everything I love and hate about Martin.  Love the characters and atmosphere, but he utterly fails to follow a plot, understand how to make people love a hero or underdog, resolve conflicts.  And, he kills off one of the last heroes left at the end... so, I guess I say... 'fuck you George' and I will NOT BE READING ANOTHER WORD FROM THIS MAN.
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0553801473) | [UK](http://www.amazon.co.uk/o/asin/0553801473) \]
 
 #### A Dance with Dragons (Song of Ice and Fire)
 

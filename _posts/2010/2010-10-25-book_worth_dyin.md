@@ -8,7 +8,6 @@ category: culture
 date: 2010-10-25 11:35:03
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0553825488) | [UK](http://www.amazon.co.uk/o/asin/0553825488) \]
 
 #### Worth Dying For
 

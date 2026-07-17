@@ -8,7 +8,6 @@ category: culture
 date: 2007-01-14 12:24:25
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1407102567) | [UK](http://www.amazon.co.uk/o/asin/1407102567) \]
 
 #### The Amber Spyglass (His Dark Materials)
 

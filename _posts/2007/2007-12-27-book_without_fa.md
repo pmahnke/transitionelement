@@ -8,7 +8,6 @@ category: culture
 date: 2007-12-27 22:23:27
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0515144312) | [UK](http://www.amazon.co.uk/o/asin/0515144312) \]
 
 #### Without Fail (Jack Reacher Novels)
 

@@ -8,11 +8,11 @@ category: on food & drink
 date: 2005-11-22 21:38:30
 ---
 
-**Red Admiral Ale**
+### Red Admiral Ale
 
 |                             |                                                               |
 | --------------------------- | ------------------------------------------------------------- |
-| Rating (out&nbsp;of&nbsp;5) | <strong>\*\*\*\*\*½</strong>                                  |
+| Rating (out&nbsp;of&nbsp;5) | 4 1/2                              |
 | Brewer                      | [Fox Brewery](http://www.foxbrewery.co.uk/)                   |
 | Region                      | East Anglia                                                   |
 | ABV                         | 4.2%                                                          |

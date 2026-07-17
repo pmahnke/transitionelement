@@ -8,7 +8,6 @@ category: culture
 date: 2008-01-24 21:52:16
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446612731) | [UK](http://www.amazon.co.uk/o/asin/0446612731) \]
 
 #### The Black Echo (Harry Bosch)
 

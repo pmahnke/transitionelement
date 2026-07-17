@@ -8,7 +8,6 @@ category: culture
 date: 2009-05-05 15:15:02
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1407102427) | [UK](http://www.amazon.co.uk/o/asin/1407102427) \]
 
 #### Fever Crumb (Mortal Engines Quartet Prequel)
 

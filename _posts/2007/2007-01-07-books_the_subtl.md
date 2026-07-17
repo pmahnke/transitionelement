@@ -8,7 +8,6 @@ category: culture
 date: 2007-01-07 12:19:19
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1407102559) | [UK](http://www.amazon.co.uk/o/asin/1407102559) \]
 
 #### The Subtle Knife (His Dark Materials)
 

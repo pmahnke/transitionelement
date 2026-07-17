@@ -8,7 +8,6 @@ category: culture
 date: 2008-01-21 22:07:33
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0553815865) | [UK](http://www.amazon.co.uk/o/asin/0553815865) \]
 
 #### One Shot
 

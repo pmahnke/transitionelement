@@ -8,7 +8,6 @@ category: culture
 date: 2009-09-16 16:34:49
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0552134635) | [UK](http://www.amazon.co.uk/o/asin/0552134635) \]
 
 #### Moving Pictures (A Discworld Novel)
 

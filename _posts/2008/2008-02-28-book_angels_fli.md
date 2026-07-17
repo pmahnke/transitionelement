@@ -8,7 +8,6 @@ category: culture
 date: 2008-02-28 21:31:24
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446607274) | [UK](http://www.amazon.co.uk/o/asin/0446607274) \]
 
 #### Angels Flight (Harry Bosch)
 

@@ -8,7 +8,6 @@ category: culture
 date: 2010-04-14 12:47:11
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1849162743) | [UK](http://www.amazon.co.uk/o/asin/1849162743) \]
 
 #### The Girl Who Kicked the Hornets' Nest
 

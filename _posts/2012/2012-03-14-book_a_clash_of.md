@@ -9,7 +9,6 @@ date: 2012-03-14 20:55:28
 excerpt: |
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0345535421) | [UK](http://www.amazon.co.uk/o/asin/0345535421) \]
 
 #### A Clash of Kings HBO Tie-In Edition
 

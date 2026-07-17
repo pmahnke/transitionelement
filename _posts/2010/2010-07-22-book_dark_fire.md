@@ -8,7 +8,6 @@ category: culture
 date: 2010-07-22 15:37:17
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0330450786) | [UK](http://www.amazon.co.uk/o/asin/0330450786) \]
 
 #### Dark Fire (Shardlake)
 

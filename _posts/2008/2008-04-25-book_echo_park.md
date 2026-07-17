@@ -8,7 +8,6 @@ category: culture
 date: 2008-04-25 21:03:42
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0752877348) | [UK](http://www.amazon.co.uk/o/asin/0752877348) \]
 
 #### Echo Park
 

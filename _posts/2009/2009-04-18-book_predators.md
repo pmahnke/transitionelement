@@ -8,7 +8,6 @@ category: culture
 date: 2009-04-18 21:51:01
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0439977347) | [UK](http://www.amazon.co.uk/o/asin/0439977347) \]
 
 #### Predator's Gold
 

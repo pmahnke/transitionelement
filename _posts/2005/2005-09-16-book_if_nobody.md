@@ -8,7 +8,6 @@ category: culture
 date: 2005-09-16 18:04:28
 ---
 
-\[ [UK](http://www.amazon.co.uk/exec/obidos/ASIN/0618344586/qid=1126889990/sr=2-1/ref=sr_2_3_1/026-7137165-3530015) | [US](http://www.amazon.com/exec/obidos/ASIN/0618344586/qid%3D1126889990/sr%3D2-1/ref%3Dsr%5F2%5F3%5F1/103-3883285-7475016) \]
 
 **If Nobody Speaks of Remarkable Things**
 

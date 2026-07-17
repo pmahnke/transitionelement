@@ -8,7 +8,6 @@ category: culture
 date: 2010-04-05 12:40:32
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0956003818) | [UK](http://www.amazon.co.uk/o/asin/0956003818) \]
 
 #### A Parrot in the Pepper Tree
 

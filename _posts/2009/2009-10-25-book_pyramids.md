@@ -8,7 +8,6 @@ category: culture
 date: 2009-10-25 21:35:30
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0061020656) | [UK](http://www.amazon.co.uk/o/asin/0061020656) \]
 
 #### Pyramids (Discworld Novels)
 

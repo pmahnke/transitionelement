@@ -10,7 +10,6 @@ excerpt: |
   Clearly starting to loose the _plot_ ... get it?  There is no arc... no plan, great characters that you can only kill off at their peak of power and interest.
 ---
 
-\[ [US](http://www.amazon.com/o/asin/055357342X) | [UK](http://www.amazon.co.uk/o/asin/055357342X) \]
 
 #### A Storm of Swords
 

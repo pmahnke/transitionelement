@@ -10,7 +10,6 @@ excerpt: |
   Great characters that have _nothing_ to do with the other books.  No plot movement in years... KEEP AWAY!
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0553582038) | [UK](http://www.amazon.co.uk/o/asin/0553582038) \]
 
 #### A Feast for Crows (Song of Ice and Fire)
 

@@ -12,7 +12,7 @@ date: 2006-01-12 15:30:10
 
 |                   |                                                           |
 | ----------------- | --------------------------------------------------------- |
-| Rating (out of 5) | \*\*\*\*                                                  |
+| Rating (out of 5) | 4                                                |
 | Brewer            | [Woodforde's Norfolk Ales](https://www.woodfordes.co.uk/) |
 | Purchased         | [realale.com](https://www.realale.com/)                   |
 | Region            | East Anglia                                               |

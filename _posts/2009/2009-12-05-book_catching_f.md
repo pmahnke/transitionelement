@@ -8,7 +8,6 @@ category: culture
 date: 2009-12-05 21:45:54
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1407109367) | [UK](http://www.amazon.co.uk/o/asin/1407109367) \]
 
 #### Catching Fire (Hunger Games, Book 2)
 

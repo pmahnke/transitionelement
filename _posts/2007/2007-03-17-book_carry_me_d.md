@@ -8,7 +8,6 @@ category: culture
 date: 2007-03-17 21:52:40
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1841958786) | [UK](http://www.amazon.co.uk/o/asin/076791936X) \]
 
 #### Carry Me Down
 

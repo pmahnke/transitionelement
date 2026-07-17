@@ -8,8 +8,6 @@ category: culture
 date: 2008-10-28 22:24:50
 ---
 
-\[ [US](http://www.amazon.com/Irresistible-Inheritance-Wilberforce-Novel-Vintages/dp/0297851594|) [UK](http://www.amazon.co.uk/Irresistible-Inheritance-Wilberforce-Novel-Vintages/dp/0297851594) \]
-
 #### The Irresistible Inheritance of Wilberforce: A Novel in Four Vintages
 
 _by Paul Torday_

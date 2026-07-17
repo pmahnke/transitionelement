@@ -8,7 +8,6 @@ category: culture
 date: 2009-06-15 16:02:40
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0307387143) | [UK](http://www.amazon.co.uk/o/asin/0307387143) \]
 
 #### Love in the Time of Cholera
 

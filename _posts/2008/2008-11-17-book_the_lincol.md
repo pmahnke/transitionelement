@@ -8,7 +8,6 @@ category: culture
 date: 2008-11-17 10:03:04
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446616451) | [UK](http://www.amazon.co.uk/o/asin/0446616451) \]
 
 #### The Lincoln Lawyer
 

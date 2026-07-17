@@ -8,7 +8,6 @@ category: culture
 date: 2011-01-04 11:30:07
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0752883305) | [UK](http://www.amazon.co.uk/o/asin/0752883305) \]
 
 #### The Passage
 

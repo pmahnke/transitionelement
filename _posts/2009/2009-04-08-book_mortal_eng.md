@@ -8,7 +8,6 @@ category: culture
 date: 2009-04-08 21:49:09
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0439979439) | [UK](http://www.amazon.co.uk/o/asin/0439979439) \]
 
 #### Mortal Engines
 

@@ -8,7 +8,6 @@ category: culture
 date: 2010-06-13 15:32:12
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0330450794) | [UK](http://www.amazon.co.uk/o/asin/0330450794) \]
 
 #### Dissolution (Shardlake)
 

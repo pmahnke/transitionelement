@@ -8,7 +8,6 @@ category: culture
 date: 2010-12-20 11:42:49
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0007230141) | [UK](http://www.amazon.co.uk/o/asin/0007230141) \]
 
 #### Leviathan
 

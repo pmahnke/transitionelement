@@ -8,7 +8,6 @@ category: culture
 date: 2008-04-16 21:13:57
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446694258) | [UK](http://www.amazon.co.uk/o/asin/0446694258) \]
 
 #### Void Moon
 

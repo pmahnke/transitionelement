@@ -8,7 +8,6 @@ category: culture
 date: 2009-01-24 22:13:53
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1841495425) | [UK](http://www.amazon.co.uk/o/asin/1841495425) \]
 
 #### When True Night Falls (Coldfire Trilogy)
 

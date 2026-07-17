@@ -8,7 +8,6 @@ category: culture
 date: 2010-06-23 15:25:05
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0140303626) | [UK](http://www.amazon.co.uk/o/asin/0140303626) \]
 
 #### Over Sea, Under Stone
 

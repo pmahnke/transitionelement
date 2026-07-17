@@ -8,7 +8,6 @@ category: culture
 date: 2006-05-14 12:52:33
 ---
 
-\[ [US](http://www.amazon.com/gp/product/0099279088/qid=1148471688/sr=1-7/ref=sr_1_7/103-0948723-3228625?s=books&v=glance&n=283155) | [UK](http://www.amazon.co.uk/exec/obidos/ASIN/0099279088/qid=1148471642/sr=2-1/ref=sr_2_3_1/202-1376646-9321463])
 
 #### Dublin
 

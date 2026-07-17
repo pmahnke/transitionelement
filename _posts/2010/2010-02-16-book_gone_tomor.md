@@ -8,7 +8,6 @@ category: culture
 date: 2010-02-16 08:35:19
 ---
 
-\[ [US](http://www.amazon.com/o/asin/059306402X) | [UK](http://www.amazon.co.uk/o/asin/059306402X) \]
 
 #### Gone Tomorrow
 

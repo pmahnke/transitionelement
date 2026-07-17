@@ -10,7 +10,6 @@ excerpt: |
   Loved this book... Angela read it and passed it over... when she does this, I know it is good.  It was funny, uplifting and interesting.  I don't know why I hadn't heard of it, but I recommend it.
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0812993292) | [UK](http://www.amazon.co.uk/o/asin/0812993292) \]
 
 #### The Unlikely Pilgrimage of Harold Fry
 

@@ -8,7 +8,6 @@ category: culture
 date: 2011-07-26 16:43:25
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1400031850) | [UK](http://www.amazon.co.uk/o/asin/1400031850) \]
 
 #### Chronicle of a Blood Merchant
 

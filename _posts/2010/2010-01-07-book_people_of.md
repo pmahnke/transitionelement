@@ -8,7 +8,6 @@ category: culture
 date: 2010-01-07 21:54:20
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0007177437) | [UK](http://www.amazon.co.uk/o/asin/0007177437) \]
 
 #### People of the Book
 

@@ -8,7 +8,6 @@ category: culture
 date: 2010-03-17 12:30:06
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1906694184) | [UK](http://www.amazon.co.uk/o/asin/1906694184) \]
 
 #### The Girl Who Played with Fire
 

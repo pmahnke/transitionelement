@@ -8,7 +8,6 @@ category: culture
 date: 2009-11-20 21:41:16
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0439023483) | [UK](http://www.amazon.co.uk/o/asin/0439023483) \]
 
 #### The Hunger Games
 

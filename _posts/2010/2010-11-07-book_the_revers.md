@@ -8,7 +8,6 @@ category: culture
 date: 2010-11-07 11:36:03
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1409118304) | [UK](http://www.amazon.co.uk/o/asin/1409118304) \]
 
 #### The Reversal
 

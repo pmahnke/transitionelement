@@ -8,7 +8,6 @@ category: culture
 date: 2009-01-10 22:06:55
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0747566763) | [UK](http://www.amazon.co.uk/o/asin/0747566763) \]
 
 #### Last Tango in Aberystwyth
 

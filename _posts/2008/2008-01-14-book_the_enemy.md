@@ -10,7 +10,6 @@ excerpt: |
   But why is Reacher in North Carolina, instead of Panama, where the action is?
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0385336675) | [UK](http://www.amazon.co.uk/o/asin/0385336675) \]
 
 #### The Enemy (Child, Lee)
 

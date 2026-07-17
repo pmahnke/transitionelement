@@ -8,7 +8,6 @@ category: culture
 date: 2008-08-14 13:33:00
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446699543) | [UK](http://www.amazon.co.uk/o/asin/0446699543) \]
 
 #### The Narrows (Harry Bosch)
 

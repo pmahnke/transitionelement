@@ -8,7 +8,6 @@ category: culture
 date: 2011-02-27 11:23:37
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0752227408) | [UK](http://www.amazon.co.uk/o/asin/0752227408) \]
 
 #### Shit My Dad Says
 

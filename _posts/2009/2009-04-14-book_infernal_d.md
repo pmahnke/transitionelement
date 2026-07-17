@@ -8,7 +8,6 @@ category: culture
 date: 2009-04-14 14:42:47
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0060826371) | [UK](http://www.amazon.co.uk/o/asin/0060826371) \]
 
 #### Infernal Devices
 

@@ -8,7 +8,6 @@ category: culture
 date: 2008-07-14 14:50:26
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0719564654) | [UK](http://www.amazon.co.uk/o/asin/0719564654) \]
 
 #### Supercrunchers
 

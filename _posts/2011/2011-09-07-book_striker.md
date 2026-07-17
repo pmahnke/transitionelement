@@ -9,7 +9,6 @@ date: 2011-09-07 15:20:25
 excerpt: |
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0233977929) | [UK](http://www.amazon.co.uk/o/asin/0233977929) \]
 
 #### Striker
 

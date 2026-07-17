@@ -8,7 +8,6 @@ category: culture
 date: 2009-07-15 16:06:49
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0552773972) | [UK](http://www.amazon.co.uk/o/asin/0552773972) \]
 
 #### Cathedral of the Sea
 

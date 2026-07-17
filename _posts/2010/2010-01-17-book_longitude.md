@@ -8,7 +8,6 @@ category: culture
 date: 2010-01-17 12:16:18
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0007214227) | [UK](http://www.amazon.co.uk/o/asin/0007214227) \]
 
 #### Longitude
 

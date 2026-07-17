@@ -9,7 +9,6 @@ date: 2012-03-08 20:58:29
 excerpt: |
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0553386794) | [UK](http://www.amazon.co.uk/o/asin/0553386794) \]
 
 #### A Game of Thrones HBO Tie-In Edition
 

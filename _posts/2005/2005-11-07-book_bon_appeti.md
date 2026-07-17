@@ -8,7 +8,6 @@ category: culture
 date: 2005-11-07 09:07:57
 ---
 
-\[ [US](http://www.amazon.com/exec/obidos/tg/detail/-/0375705619/qid=1131354683/sr=1-3/ref=sr_1_3/002-5853765-3622458?v=glance&s=books) | [UK](http://www.amazon.co.uk/exec/obidos/ASIN/075153269X/qid=1131354360/sr=8-1/ref=sr_8_xs_ap_i1_xgl/026-7137165-3530015) \]
 
 **Bon Appetit! : Travels Through France with Knife, Fork and Corkscrew**
 

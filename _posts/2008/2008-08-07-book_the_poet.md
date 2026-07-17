@@ -8,7 +8,6 @@ category: culture
 date: 2008-08-07 14:45:37
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446690457) | [UK](http://www.amazon.co.uk/o/asin/0446690457) \]
 
 #### The Poet
 

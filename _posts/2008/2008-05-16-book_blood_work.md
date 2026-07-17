@@ -8,7 +8,6 @@ category: culture
 date: 2008-05-16 15:03:35
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446690449) | [UK](http://www.amazon.co.uk/o/asin/0446690449) \]
 
 #### Blood Work
 

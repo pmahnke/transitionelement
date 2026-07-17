@@ -8,7 +8,6 @@ category: culture
 date: 2010-08-07 15:49:37
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0330447106) | [UK](http://www.amazon.co.uk/o/asin/0330447106) \]
 
 #### Revelation (Shardlake)
 

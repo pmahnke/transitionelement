@@ -8,7 +8,6 @@ category: culture
 date: 2011-09-01 16:44:24
 ---
 
-\[ [US](http://www.amazon.com/o/asin/009947932X) | [UK](http://www.amazon.co.uk/o/asin/009947932X) \]
 
 #### Black Snow
 

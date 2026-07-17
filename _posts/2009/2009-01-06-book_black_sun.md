@@ -8,7 +8,6 @@ category: culture
 date: 2009-01-06 09:12:39
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1841495417) | [UK](http://www.amazon.co.uk/o/asin/1841495417) \]
 
 #### Black Sun Rising (Coldfire Trilogy)
 

@@ -8,7 +8,6 @@ category: culture
 date: 2006-06-12 21:57:13
 ---
 
-\[ [UK](http://www.amazon.co.uk/exec/obidos/ASIN/0099469367/sr=1-6/qid=1150749557/ref=sr_1_6/026-4928692-8831613?%5Fencoding=UTF8&s=books&v=glance) | [US](http://www.amazon.com/gp/product/006074068X/sr=1-4/qid=1150749703/ref=sr_1_4/104-0014667-8280776?%5Fencoding=UTF8&s=books) \]
 
 #### Death at La Fenice
 

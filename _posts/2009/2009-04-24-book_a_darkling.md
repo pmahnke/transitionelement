@@ -8,7 +8,6 @@ category: culture
 date: 2009-04-24 14:50:52
 ---
 
-\[ [US](http://www.amazon.com/o/asin/006089055X) | [UK](http://www.amazon.co.uk/o/asin/006089055X) \]
 
 #### A Darkling Plain
 

@@ -10,7 +10,6 @@ excerpt: |
   My least favourite of the Bosch books. Connelly takes Bosch to Mexico and makes him more Jack Reacher than Harry Bosch -- it doesn't work.
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446613444) | [UK](http://www.amazon.co.uk/o/asin/0446613444) \]
 
 #### The Black Ice (Harry Bosch)
 

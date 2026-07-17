@@ -8,7 +8,6 @@ category: culture
 date: 2007-07-17 21:57:38
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0151012768) | [UK](http://www.amazon.co.uk/o/asin/0151012768) \]
 
 #### Salmon Fishing in the Yemen
 

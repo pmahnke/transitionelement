@@ -12,7 +12,7 @@ date: 2005-11-23 19:22:51
 
 |                             |                                                               |
 | --------------------------- | ------------------------------------------------------------- |
-| Rating (out&nbsp;of&nbsp;5) | <strong>\*\*\*\*\*½</strong>                                  |
+| Rating (out&nbsp;of&nbsp;5) | <strong>4 1/2</strong>                                  |
 | Brewer                      | [Itchen Vallue](http://www.itchenvalley.com/)                 |
 | Region                      | South England                                                 |
 | ABV                         | 4.8%                                                          |

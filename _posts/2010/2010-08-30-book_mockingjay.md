@@ -8,7 +8,6 @@ category: culture
 date: 2010-08-30 14:29:28
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1407109375) | [UK](http://www.amazon.co.uk/o/asin/1407109375) \]
 
 #### Mockingjay (part III of The Hunger Games Trilogy)
 

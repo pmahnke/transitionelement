@@ -8,7 +8,6 @@ category: culture
 date: 2008-08-26 13:28:40
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446699551) | [UK](http://www.amazon.co.uk/o/asin/0446699551) \]
 
 #### The Closers (Harry Bosch)
 

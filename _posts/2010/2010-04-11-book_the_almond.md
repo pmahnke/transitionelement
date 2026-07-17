@@ -8,7 +8,6 @@ category: culture
 date: 2010-04-11 12:45:01
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0956003826) | [UK](http://www.amazon.co.uk/o/asin/0956003826) \]
 
 #### The Almond Blossom Appreciation Society
 

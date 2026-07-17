@@ -8,7 +8,6 @@ category: culture
 date: 2010-03-23 12:34:01
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0752885847) | [UK](http://www.amazon.co.uk/o/asin/0752885847) \]
 
 #### This Is Where I Leave You
 

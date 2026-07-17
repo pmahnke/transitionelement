@@ -8,7 +8,6 @@ category: culture
 date: 2009-03-01 20:57:23
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1841495433) | [UK](http://www.amazon.co.uk/o/asin/1841495433) \]
 
 #### Crown of Shadows (Coldfire Trilogy)
 

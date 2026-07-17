@@ -10,7 +10,6 @@ excerpt: |
   Never forgive, never forget. That's Jack Reacher's standard operating procedure.
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0385336667) | [UK](http://www.amazon.co.uk/o/asin/0385336667) \]
 
 #### Persuader
 

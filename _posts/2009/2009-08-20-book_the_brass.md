@@ -8,7 +8,6 @@ category: culture
 date: 2009-08-20 16:21:02
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0752875833) | [UK](http://www.amazon.co.uk/o/asin/0752875833) \]
 
 #### The Brass Verdict
 

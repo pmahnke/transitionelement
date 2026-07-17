@@ -8,7 +8,6 @@ category: culture
 date: 2008-03-02 21:26:29
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0446667900) | [UK](http://www.amazon.co.uk/o/asin/0446667900) \]
 
 #### A Darkness More Than Night (Harry Bosch)
 

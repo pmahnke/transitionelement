@@ -8,7 +8,6 @@ category: culture
 date: 2008-01-24 21:58:48
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0553818104) | [UK](http://www.amazon.co.uk/o/asin/0553818104) \]
 
 #### Bad Luck and Trouble
 

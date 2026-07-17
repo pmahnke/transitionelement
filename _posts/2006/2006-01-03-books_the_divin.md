@@ -8,7 +8,6 @@ category: culture
 date: 2006-01-03 18:33:17
 ---
 
-\[ [UK](http://www.amazon.co.uk/exec/obidos/ASIN/0007139845/qid=1136572255/sr=8-1/ref=sr_8_xs_ap_i1_xgl/026-7137165-3530015) | [US](http://www.amazon.com/gp/product/0007139845/qid=1136572255/sr=8-1/ref=sr_8_xs_ap_i1_xgl/103-0759430-6653426?n=283155) \]
 
 #### The Diving-bell and the Butterfly
 

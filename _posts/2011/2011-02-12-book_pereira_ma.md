@@ -8,7 +8,6 @@ category: culture
 date: 2011-02-12 09:16:44
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1847679366) | [UK](http://www.amazon.co.uk/o/asin/1847679366) \]
 
 #### Pereira Maintains
 

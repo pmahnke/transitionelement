@@ -8,7 +8,6 @@ category: culture
 date: 2010-12-20 11:42:50
 ---
 
-\[ [US](http://www.amazon.com/o/asin/023074415X) | [UK](http://www.amazon.co.uk/o/asin/023074415X) \]
 
 #### Heartstone
 

@@ -8,7 +8,6 @@ category: culture
 date: 2008-11-03 13:15:20
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0593057031) | [UK](http://www.amazon.co.uk/o/asin/0593057031) \]
 
 #### Nothing to Lose
 

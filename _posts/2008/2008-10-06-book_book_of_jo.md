@@ -8,7 +8,6 @@ category: culture
 date: 2008-10-06 13:21:02
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0385338104) | [UK](http://www.amazon.co.uk/o/asin/0385338104) \]
 
 #### The Book of Joe
 

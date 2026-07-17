@@ -10,7 +10,6 @@ excerpt: |
   Well, you don't win the Pulitzer by mistake.  This book was pretty amazing.  There was a lot of Spanish (my wife claims most of it was filthy) and a lot of sci-fi references.  But it was great.
 ---
 
-\[ [US](http://www.amazon.com/o/asin/0571239730) | [UK](http://www.amazon.co.uk/o/asin/0571239730) \]
 
 #### The Brief Wondrous Life of Oscar Wao
 

@@ -8,7 +8,6 @@ category: culture
 date: 2010-03-07 12:25:30
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1847245455) | [UK](http://www.amazon.co.uk/o/asin/1847245455) \]
 
 #### The Girl with the Dragon Tattoo
 

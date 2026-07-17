@@ -8,7 +8,6 @@ category: culture
 date: 2006-12-13 21:39:36
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1841157015) | [UK](http://www.amazon.co.uk/o/asin/1841157015) \]
 
 #### Made in Italy
 

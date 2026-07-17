@@ -8,7 +8,6 @@ category: culture
 date: 2006-04-08 16:51:29
 ---
 
-\[ [UK](http://www.amazon.co.uk/exec/obidos/ASIN/009927907X/qid=1144511334/sr=1-8/ref=sr_1_3_8/026-1523877-5175653) | [US](http://www.amazon.com/gp/product/0345441788/sr=1-6/qid=1144511567/ref=sr_1_6/104-7074635-2406363?%5Fencoding=UTF8&s=books])
 
 #### The Forrest
 

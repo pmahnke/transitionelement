@@ -8,7 +8,6 @@ category: culture
 date: 2007-08-10 22:06:41
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1407104993) | [UK](http://www.amazon.co.uk/o/asin/1407104993) \]
 
 #### Ways to Live Forever
 

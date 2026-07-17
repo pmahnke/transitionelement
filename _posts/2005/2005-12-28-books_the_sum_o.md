@@ -8,7 +8,6 @@ category: culture
 date: 2005-12-28 16:13:20
 ---
 
-\[ [UK](http://www.amazon.co.uk/exec/obidos/ASIN/0006471161/qid=1136045724/sr=8-2/ref=pd_ka_2/203-2986609-7086316) | [US](http://www.amazon.com/gp/product/0425184226/qid=1136045680/sr=8-3/ref=pd_bbs_3/103-3758384-8667039?n=507846&s=books&v=glance) \]
 
 #### The Sum of All Fears
 

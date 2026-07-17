@@ -8,7 +8,6 @@ category: culture
 date: 2010-03-30 13:03:54
 ---
 
-\[ [US](http://www.amazon.com/o/asin/1407115170) | [UK](http://www.amazon.co.uk/o/asin/1407115170) \]
 
 #### A Web of Air (Mortal Engines)
 
