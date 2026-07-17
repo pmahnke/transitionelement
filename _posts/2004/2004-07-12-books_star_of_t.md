@@ -8,7 +8,6 @@ category: culture
 date: 2004-07-12 20:16:20
 ---
 
-\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0156029669/qid=1085418089/sr=8-1/ref=pd_ka_1/102-4545094-0940108?v=glance&s=books&n=507846" target="_blank">US</a> | <a href="https://media.transitionelement.com/assets/images/026-8152399-9132455" target="_blank">UK</a>\]
 
 **The Start of the Sea**
 
