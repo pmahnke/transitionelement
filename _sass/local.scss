@@ -393,3 +393,48 @@ input#img-11:checked ~ .nav-dots label#img-dot-11,
 input#img-12:checked ~ .nav-dots label#img-dot-12 {
 background: rgba(0, 0, 0, 0.8);
 }
+
+/* Mobile-only styles for the horizontal swipe menu */
+@media screen and (max-width: 768px) {
+  
+  .nav-links {
+    display: flex;
+    overflow-x: auto;                  /* Enables the horizontal scrolling */
+    -webkit-overflow-scrolling: touch; /* Forces smooth momentum scrolling on iOS */
+    white-space: nowrap;               /* Prevents the links from wrapping to a second line */
+    
+    /* Hide the ugly scrollbar across different browsers */
+    scrollbar-width: none;             /* Firefox */
+    -ms-overflow-style: none;          /* IE/Edge */
+    
+    /* Basic list resets (if you don't already have them) */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  /* Hide the scrollbar for Chrome, Safari, and iOS */
+  .nav-links::-webkit-scrollbar {
+    display: none;
+  }
+
+  .nav-links li {
+    /* Prevents the browser from squishing the links together */
+    flex: 0 0 auto;
+  }
+
+  .nav-link {
+    /* Ensures the tap target is large enough for fingers */
+    display: block;
+    padding: 12px 16px; 
+  }
+
+  .post-title {
+    margin-top: 0.25em;
+    font-size: 2em;
+  }
+
+  .p_meta p {
+    margin-bottom: 0.25em;
+  }
+}
