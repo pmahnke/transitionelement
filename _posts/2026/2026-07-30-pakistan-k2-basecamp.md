@@ -74,7 +74,7 @@ excerpt: |
   150 km in 12 days with 10,000 to 12,000 meters (32,000 to 39,000 feet) of total vertical change
 ---
 
-### 7 to 30 July 2026
+### 12 to 30 July 2026
 
 In July, I flew to Pakistan to join a group guided by [Spantik Expeditions Treks and Tours](https://www.spantikexpeditions.com/trekking/karakoram-range) to go to K2 Basecamp, the second highest mountain in the world (8,611 meters / 28,251 feet) and one of the most dangerous to climb. We were a group of eight trekkers, helped by a team of close to 20 others, guides, cooks, porters, muleteers who helped make it all possible. Not to mention two goats and several chickens that started the hike with us and mysteriously disappeared over the next 12 days! 
 
