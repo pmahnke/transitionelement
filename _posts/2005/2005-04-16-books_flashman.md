@@ -8,8 +8,6 @@ category: culture
 date: 2005-04-16 21:28:46
 ---
 
-\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0452261910/qid=1113674490" target="_blank">US</a> | <a href="[/assets/images/026-4300878-8787639](https://www.amazon.co.uk/exec/obidos/tg/detail/-/0452261910/qid=1113674490)" target="_blank">UK</a>\]
-
 #### Flashman and the Dragon
 
 _by George MacDonald Fraser_

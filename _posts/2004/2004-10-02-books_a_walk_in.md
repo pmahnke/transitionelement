@@ -8,8 +8,6 @@ category: culture
 date: 2004-10-02 09:58:22
 ---
 
-\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0767902521/qid=1096880258/sr=8-2/ref=pd_csp_2/104-9896320-9963126?v=glance&s=books&n=507846" target="_blank">US</a> | <a href="http://www.amazon.co.uk/exec/obidos/tg/detail/-/0767902521/qid=1096880258/sr=8-2/ref=pd_csp_2/202-8209596-2711845?v=glance&s=books&n=507846" target="_blank">UK</a>\]
-
 **A Walk in the Woods: Rediscovering America on the Appalachian Trail**
 
 _by Bill Bryson_

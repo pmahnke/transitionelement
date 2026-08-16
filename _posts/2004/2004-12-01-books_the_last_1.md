@@ -8,8 +8,6 @@ category: culture
 date: 2004-12-01 11:44:45
 ---
 
-\[<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0670891789/qid=1101724030/sr=1-1/ref=sr_1_1/104-3083193-1520735?v=glance&s=books" target="_blank">US</a> | <a href="http://www.amazon.co.uk/exec/obidos/tg/detail/-/0670891789/qid=1101724030/sr=1-1/ref=sr_1_1/026-3136268-1228467?v=glance&s=books" target="_blank">UK</a>\]
-
 **The Last Days of Haute Cuisine**
 
 _by Patric Kuh_
