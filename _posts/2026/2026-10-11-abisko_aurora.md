@@ -70,7 +70,7 @@ We flew to Kiruna, via Stockholm. Kiruna is a big mining city and we really only
 
 ### Our cabin
 
-We stayed, at the cute, [Abisko Mountain Lodge](https://abiskomountainlodge.se/) in one of their cabins.  Since we went for nearly a week, we wante to be able to cook some meals and have a bit more space than a simple hotel room. 
+We stayed, at the cute, [Abisko Mountain Lodge](https://abiskomountainlodge.se/) in one of their cabins.  Since we went for nearly a week, we wanted to be able to cook some meals and have a bit more space than a simple hotel room. 
 
 
 |                | Swedish Kronor | GB Pounds | US Dollars |
@@ -88,13 +88,13 @@ So, it isn't a lot of money, but we saved at least £450 by staying the cabin, m
 
 ### Aurora tours
 
-We went on two aurora tours through the Abisko Mountain Lodge. They were excellent. The first one was a pretty horrible Aurora display, but the tour was still good and taught us a lot about how the Aurora and the various forecasts work. Because of that we went out on our own two more nights with much better success.
+We went on two Aurora tours through the Abisko Mountain Lodge. They were excellent. The first one was a pretty horrible Aurora display, but the tour was still good and taught us a lot about how the Aurora and the various forecasts work. Because of that we went out on our own two more nights with much better success.
 
 The tours are also nice because the take you some beautiful places and setup a fire to keep warm, give you hot lingonberry juice, and cookies.
 
 ### Norway
 
-One clear day, we drove over to Narvik, Norway and, then drove the length of two fjords. It was very pretty and picturest. Narvik itself is pretty industrial. But it had nice shops and bakeries. It was a nice day trip. The trip iself was very intersting, over a pretty high pass with a lot of snow.
+One clear day, we drove over to Narvik, Norway and, then drove the length of two fjords. It was very pretty and picturest. Narvik itself is pretty industrial. But it had nice shops and bakeries. It was a nice day trip. The trip iself was very intersting; over a pretty high pass with a lot of snow.
 
 ### Hiking
 
@@ -102,7 +102,7 @@ We didn't do a lot of hiking, but we did check out the Abisko canyon (Abiskojokk
 
 ### Weather
 
-We arrived and it was around 9C (48F) and by the time we left, it was about 0C (32F).  We had a bit of rain and a bit of snow, but it didn't stick where were, just on the mountaintops. We brought nice warm down jackets, hats, gloves, scarfs. And underneath we wore a light fleece or jumper (sweater) and that seemed to work fine.
+We arrived and it was around 9C (48F) and by the time we left, it was about 0C (32F). We had a bit of rain and a bit of snow, but it didn't stick where we were, just on the mountaintops. We brought nice warm down jackets, hats, gloves, scarfs. And underneath we wore a light fleece or jumper (sweater) and that seemed to work fine.
 
 ### Abikso
 
