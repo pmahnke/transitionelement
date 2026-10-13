@@ -78,7 +78,7 @@ We stayed, at the cute, [Abisko Mountain Lodge](https://abiskomountainlodge.se/)
 | Hotel room day rate     | 2,830           | 213       | 283        |
 | Cabin day rate | 2,963           | 223       | 296        |
 | Groceries for the week     | 1,202           | 120       | 120        |
-| Dinner per night         | 2,000           | 90        | 200        |
+| Dinner for two per night         | 2,000           | 90        | 200        |
 |                |                |           |            |
 | Hotel total    | 28,980          | 2,174      | 2,898       |
 | Cabin total, including two dinners    | 22,980          | 1,724      | 2,298       |
