@@ -1,55 +1,55 @@
 {%- assign current_page = include.page -%}
-{%- assign images = current_page.slideshow_images -%}
+{%- assign media_items = current_page.slideshow_images -%}
 
-{%- if images and images.size > 0 -%}
-  {%- assign num_images = images.size -%}
+{%- if media_items and media_items.size > 0 -%}
+  {%- assign num_items = media_items.size -%}
+  {%- assign media_server = "https://media.transitionelement.com" -%}
   {%- assign cloudinary_cloud_name = site.cloudinary_cloud_name -%}
   {%- assign cloudinary_transformations = "q_auto:best,f_auto" -%}
-  
-  {%- comment -%} Define your new media server URL here, or put it in _config.yml as site.media_url {%- endcomment -%}
-  {%- assign media_server = "https://media.transitionelement.com" -%}
 
-  <ul class="slides">
-    {%- for image in images -%}
-      {%- assign current_index = forloop.index -%}
-      {%- assign prev_index = current_index | minus: 1 -%}
-      {%- assign next_index = current_index | plus: 1 -%}
+  <div class="carousel-wrapper">
+    <div class="carousel-track">
+      {%- for item in media_items -%}
+        {%- assign current_idx = forloop.index -%}
+        {%- assign prev_idx = current_idx | minus: 1 -%}
+        {%- assign next_idx = current_idx | plus: 1 -%}
 
-      {%- if forloop.first -%}{%- assign prev_index = num_images -%}{%- endif -%}
-      {%- if forloop.last -%}{%- assign next_index = 1 -%}{%- endif -%}
+        {%- if forloop.first -%}{%- assign prev_idx = num_items -%}{%- endif -%}
+        {%- if forloop.last -%}{%- assign next_idx = 1 -%}{%- endif -%}
 
-      {%- comment -%} 1. Build the absolute base URL using the new media server {%- endcomment -%}
-      {%- if image.url contains "/" and image.url | slice: 0 == "/" -%}
-        {%- assign base_image_src = media_server | append: image.url -%}
-      {%- else -%}
-        {%- assign base_image_src = image.url -%}
-      {%- endif -%}
+        {%- if item.url contains "/" and item.url | slice: 0 == "/" -%}
+          {%- assign base_src = media_server | append: item.url -%}
+        {%- else -%}
+          {%- assign base_src = item.url -%}
+        {%- endif -%}
 
-      {%- comment -%} 2. Apply Cloudinary if in production {%- endcomment -%}
-      {%- assign final_image_src = base_image_src -%}
-      {%- if jekyll.environment == "production" and cloudinary_cloud_name -%}
-        {%- assign final_image_src = "https://res.cloudinary.com/" | append: cloudinary_cloud_name | append: "/image/fetch/" | append: cloudinary_transformations | append: "/" | append: base_image_src -%}
-      {%- endif -%}
+        {%- assign final_src = base_src -%}
+        {%- if jekyll.environment == "production" and cloudinary_cloud_name -%}
+          {%- assign final_src = "https://res.cloudinary.com/" | append: cloudinary_cloud_name | append: "/image/fetch/" | append: cloudinary_transformations | append: "/" | append: base_src -%}
+        {%- endif -%}
 
-      <input type="radio" name="radio-btn" id="img-{{ current_index }}" {%- if forloop.first -%}checked="checked"{%- endif -%} />
-      <li class="slide-container">
-        <div class="slide">
-          {%- comment -%} Removed 'relative_url' filter since we are explicitly using absolute URLs now {%- endcomment -%}
-          <a href="{{ final_image_src }}">
-            <img src="{{ final_image_src }}" alt="{{ image.alt | default: 'Slideshow image' }}" />
-          </a>
+        <div class="carousel-slide" id="slide-{{ current_idx }}">
+          {%- if item.url contains ".mp4" or item.url contains ".webm" or item.type == "video" -%}
+            <video controls preload="metadata">
+              <source src="{{ base_src }}" type="video/mp4">
+              Your browser does not support video playback.
+            </video>
+          {%- else -%}
+            <a href="{{ final_src }}" class="slide-media-link" target="_blank" rel="noopener">
+              <img src="{{ final_src }}" alt="{{ item.alt | default: 'Slideshow image' }}" loading="lazy" />
+            </a>
+          {%- endif -%}
+
+          <a href="#slide-{{ prev_idx }}" class="carousel-control prev" aria-label="Previous slide">&#x2039;</a>
+          <a href="#slide-{{ next_idx }}" class="carousel-control next" aria-label="Next slide">&#x203a;</a>
         </div>
-        <div class="nav">
-          <label for="img-{{ prev_index }}" class="prev">&#x2039;</label>
-          <label for="img-{{ next_index }}" class="next">&#x203a;</label>
-        </div>
-      </li>
-    {%- endfor -%}
-    
-    <li class="nav-dots">
-      {%- for image in images -%}
-        <label for="img-{{ forloop.index }}" class="nav-dot" id="img-dot-{{ forloop.index }}"></label>
       {%- endfor -%}
-    </li>
-  </ul>
+    </div>
+
+    <nav class="carousel-dots">
+      {%- for item in media_items -%}
+        <a href="#slide-{{ forloop.index }}" class="carousel-dot" aria-label="Go to slide {{ forloop.index }}"></a>
+      {%- endfor -%}
+    </nav>
+  </div>
 {%- endif -%}
